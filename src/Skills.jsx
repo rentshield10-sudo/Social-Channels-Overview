@@ -1,6 +1,9 @@
 import React, {useState} from 'react';
 import {PLATFORMS, date, n} from './format.js';
 
+// The local dev server streams files from this PC; the hosted build plays the Drive copy.
+const LOCAL = import.meta.env.DEV;
+
 export default function Skills({skills, social}) {
   const [playing, setPlaying] = useState(null);
   if (!skills) return <p className="empty">No skill data yet. Run <code>npm run update</code>.</p>;
@@ -58,9 +61,11 @@ export default function Skills({skills, social}) {
                         <td className="num">{v.sizeMB} MB</td>
                         <td>{date(v.modified)}</td>
                         <td>
-                          <button className="play" onClick={() => setPlaying(v)}>
-                            ▶
-                          </button>
+                          {(LOCAL || v.driveId) && (
+                            <button className="play" onClick={() => setPlaying(v)}>
+                              ▶
+                            </button>
+                          )}
                         </td>
                       </tr>
                     ))}
@@ -77,7 +82,11 @@ export default function Skills({skills, social}) {
       {playing && (
         <div className="modal" onClick={() => setPlaying(null)}>
           <div className="player" onClick={(e) => e.stopPropagation()}>
-            <video src={`/media?path=${encodeURIComponent(playing.path)}`} controls autoPlay />
+            {LOCAL ? (
+              <video src={`/media?path=${encodeURIComponent(playing.path)}`} controls autoPlay />
+            ) : (
+              <iframe src={`https://drive.google.com/file/d/${playing.driveId}/preview`} allow="autoplay" allowFullScreen />
+            )}
             <div className="mono path">
               {playing.folder}\{playing.file}
             </div>

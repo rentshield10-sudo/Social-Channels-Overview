@@ -29,6 +29,14 @@ const frontmatter = (text) => {
   return {name: get('name'), description: get('description')};
 };
 
+// Drive copies for playback on the hosted site, keyed by upload name (Mei's final.mp4s are renamed mei-vidN.mp4).
+const driveFile = path.join(root, 'config/drive-videos.json');
+const drive = existsSync(driveFile) ? JSON.parse(readFileSync(driveFile, 'utf8')) : {};
+const driveName = (p) => {
+  const mei = p.match(/MEI\/VIDEOS\/(vid\d+)\//);
+  return mei ? `mei-${mei[1]}.mp4` : path.basename(p);
+};
+
 const skills = Object.entries(config.skills).map(([id, s]) => {
   const file = path.join(config.skillsDir, id, 'SKILL.md');
   const fm = existsSync(file) ? frontmatter(readFileSync(file, 'utf8')) : {};
@@ -36,7 +44,7 @@ const skills = Object.entries(config.skills).map(([id, s]) => {
     .flatMap(glob)
     .map((p) => {
       const st = statSync(p);
-      return {file: path.basename(p), folder: path.dirname(p).replaceAll('/', '\\'), path: p, sizeMB: +(st.size / 1e6).toFixed(1), modified: st.mtime.toISOString()};
+      return {file: path.basename(p), folder: path.dirname(p).replaceAll('/', '\\'), path: p, sizeMB: +(st.size / 1e6).toFixed(1), modified: st.mtime.toISOString(), driveId: drive[driveName(p)] ?? null};
     })
     .sort((a, b) => b.modified.localeCompare(a.modified));
   return {

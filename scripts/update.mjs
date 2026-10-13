@@ -14,3 +14,16 @@ for (const script of ['collect.mjs', 'scrape.mjs']) {
     log(`${script} FAILED ${e.message}\n${e.stdout ?? ''}`);
   }
 }
+
+// Push the fresh data so Vercel redeploys the hosted copy.
+try {
+  const git = (...args) => execFileSync('git', args, {cwd: root, encoding: 'utf8', windowsHide: true});
+  git('add', 'public/data', 'public/avatars');
+  if (git('status', '--porcelain', 'public').trim()) {
+    git('commit', '-m', 'Update stats');
+    git('push');
+    log('pushed to GitHub');
+  }
+} catch (e) {
+  log(`push FAILED ${e.message}`);
+}
