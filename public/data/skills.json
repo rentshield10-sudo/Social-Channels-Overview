@@ -1,0 +1,236 @@
+{
+  "generatedAt": "2026-10-13T17:04:32.101Z",
+  "skills": [
+    {
+      "id": "tiktok",
+      "installed": true,
+      "description": "Upload videos to TikTok, write a fresh per-video caption from the clip's own on-screen text, and schedule them at a fixed interval, driving Moe's already-logged-in Chrome. Sources can be a local folder or the Google Drive \"VIDEO CONTENTS\" folder. Use whenever the ask is to post/schedule videos to TikTok, to \"continue the schedule\" from a previous batch, or to check that Drive folder for new files.",
+      "accounts": [
+        {
+          "id": "tiktok-insanefindz",
+          "platform": "tiktok",
+          "name": "@insanefindz",
+          "url": "https://www.tiktok.com/@insanefindz"
+        }
+      ],
+      "note": "Posts existing videos (local folder or Drive VIDEO CONTENTS); generates none itself.",
+      "videos": []
+    },
+    {
+      "id": "mei",
+      "installed": true,
+      "description": "Use when the ask is to build, generate, download, or publish a Mei Mae Lux remedy video - \"start VID6\", \"run the Flow build\", \"download the clips\", \"post the reel\", \"upload to social media\". Covers the whole pipeline from a Google Drive VIDN folder through Google Flow generation to publishing on all five accounts - Facebook, Instagram, YouTube, Threads and X. Also use when picking up a half-finished video, when Moe names a Drive folder link for a Mei video, or when he hands over a finished final.mp4 that just needs posting.",
+      "accounts": [
+        {
+          "id": "facebook-granny-mei",
+          "platform": "facebook",
+          "name": "Granny Mei 72yrs Old",
+          "url": "https://www.facebook.com/profile.php?id=61594617621762"
+        },
+        {
+          "id": "instagram-almoventures",
+          "platform": "instagram",
+          "name": "@almoventures",
+          "url": "https://www.instagram.com/almoventures/"
+        },
+        {
+          "id": "youtube-granny-mei",
+          "platform": "youtube",
+          "name": "Granny-mei",
+          "url": "https://www.youtube.com/channel/UC1O2Pq3z2dX9wIbODd5TLXg"
+        },
+        {
+          "id": "threads-almoventures",
+          "platform": "threads",
+          "name": "@almoventures",
+          "url": "https://www.threads.com/@almoventures"
+        },
+        {
+          "id": "x-moventures999",
+          "platform": "x",
+          "name": "@moventures999",
+          "url": "https://x.com/moventures999"
+        }
+      ],
+      "note": null,
+      "videos": [
+        {
+          "file": "final.mp4",
+          "folder": "C:\\Users\\mocha\\Documents\\UGC\\MEI\\VIDEOS\\vid17",
+          "path": "C:/Users/mocha/Documents/UGC/MEI/VIDEOS/vid17/final.mp4",
+          "sizeMB": 65.6,
+          "modified": "2026-10-12T20:00:16.588Z"
+        },
+        {
+          "file": "final.mp4",
+          "folder": "C:\\Users\\mocha\\Documents\\UGC\\MEI\\VIDEOS\\vid16",
+          "path": "C:/Users/mocha/Documents/UGC/MEI/VIDEOS/vid16/final.mp4",
+          "sizeMB": 77.1,
+          "modified": "2026-10-09T22:20:20.393Z"
+        },
+        {
+          "file": "final.mp4",
+          "folder": "C:\\Users\\mocha\\Documents\\UGC\\MEI\\VIDEOS\\vid15",
+          "path": "C:/Users/mocha/Documents/UGC/MEI/VIDEOS/vid15/final.mp4",
+          "sizeMB": 99.5,
+          "modified": "2026-10-05T20:35:38.043Z"
+        },
+        {
+          "file": "final.mp4",
+          "folder": "C:\\Users\\mocha\\Documents\\UGC\\MEI\\VIDEOS\\vid14",
+          "path": "C:/Users/mocha/Documents/UGC/MEI/VIDEOS/vid14/final.mp4",
+          "sizeMB": 53.2,
+          "modified": "2026-09-23T22:02:33.744Z"
+        },
+        {
+          "file": "final.mp4",
+          "folder": "C:\\Users\\mocha\\Documents\\UGC\\MEI\\VIDEOS\\vid12",
+          "path": "C:/Users/mocha/Documents/UGC/MEI/VIDEOS/vid12/final.mp4",
+          "sizeMB": 77.7,
+          "modified": "2026-09-18T21:32:17.856Z"
+        },
+        {
+          "file": "final.mp4",
+          "folder": "C:\\Users\\mocha\\Documents\\UGC\\MEI\\VIDEOS\\vid11",
+          "path": "C:/Users/mocha/Documents/UGC/MEI/VIDEOS/vid11/final.mp4",
+          "sizeMB": 72.9,
+          "modified": "2026-09-17T22:02:03.911Z"
+        },
+        {
+          "file": "final.mp4",
+          "folder": "C:\\Users\\mocha\\Documents\\UGC\\MEI\\VIDEOS\\vid10",
+          "path": "C:/Users/mocha/Documents/UGC/MEI/VIDEOS/vid10/final.mp4",
+          "sizeMB": 67.3,
+          "modified": "2026-09-16T23:10:34.719Z"
+        },
+        {
+          "file": "final.mp4",
+          "folder": "C:\\Users\\mocha\\Documents\\UGC\\MEI\\VIDEOS\\vid9",
+          "path": "C:/Users/mocha/Documents/UGC/MEI/VIDEOS/vid9/final.mp4",
+          "sizeMB": 48.2,
+          "modified": "2026-09-15T18:15:10.447Z"
+        },
+        {
+          "file": "final.mp4",
+          "folder": "C:\\Users\\mocha\\Documents\\UGC\\MEI\\VIDEOS\\vid7",
+          "path": "C:/Users/mocha/Documents/UGC/MEI/VIDEOS/vid7/final.mp4",
+          "sizeMB": 58.7,
+          "modified": "2026-09-11T22:46:54.054Z"
+        },
+        {
+          "file": "final.mp4",
+          "folder": "C:\\Users\\mocha\\Documents\\UGC\\MEI\\VIDEOS\\vid6",
+          "path": "C:/Users/mocha/Documents/UGC/MEI/VIDEOS/vid6/final.mp4",
+          "sizeMB": 83.5,
+          "modified": "2026-09-10T22:01:01.861Z"
+        },
+        {
+          "file": "final.mp4",
+          "folder": "C:\\Users\\mocha\\Documents\\UGC\\MEI\\VIDEOS\\vid5",
+          "path": "C:/Users/mocha/Documents/UGC/MEI/VIDEOS/vid5/final.mp4",
+          "sizeMB": 96.7,
+          "modified": "2026-09-09T20:21:55.805Z"
+        }
+      ]
+    },
+    {
+      "id": "tiktokthis",
+      "installed": true,
+      "description": "Use when Moe asks for a \"This or That\" / pick-one / versus TikTok video, pastes a JSON playlist of matchups (video_config, intro, matchups with item_a/item_b and nano_banana_prompt, outro), says \"tiktokthis\", or wants another state/topic done like the New Jersey food video.",
+      "accounts": [
+        {
+          "id": "tiktok-allrizexmvm",
+          "platform": "tiktok",
+          "name": "@allrizexmvm (ashley)",
+          "url": "https://www.tiktok.com/@allrizexmvm"
+        },
+        {
+          "id": "tiktok-girlsteamwin",
+          "platform": "tiktok",
+          "name": "@25ontheway555 (GirlsTeamWin)",
+          "url": "https://www.tiktok.com/@25ontheway555"
+        }
+      ],
+      "note": null,
+      "videos": [
+        {
+          "file": "which-us-city-has-the-best-breakfast.mp4",
+          "folder": "C:\\Users\\mocha\\Documents\\UGC\\THIS-OR-THAT\\archive\\which-us-city-has-the-best-breakfast",
+          "path": "C:/Users/mocha/Documents/UGC/THIS-OR-THAT/archive/which-us-city-has-the-best-breakfast/which-us-city-has-the-best-breakfast.mp4",
+          "sizeMB": 32.1,
+          "modified": "2026-10-05T22:18:51.564Z"
+        },
+        {
+          "file": "which-us-city-has-the-best-breakfast.mp4",
+          "folder": "C:\\Users\\mocha\\Documents\\UGC\\THIS-OR-THAT\\out",
+          "path": "C:/Users/mocha/Documents/UGC/THIS-OR-THAT/out/which-us-city-has-the-best-breakfast.mp4",
+          "sizeMB": 32.1,
+          "modified": "2026-10-05T22:16:35.038Z"
+        },
+        {
+          "file": "which-us-city-has-the-best-bbq.mp4",
+          "folder": "C:\\Users\\mocha\\Documents\\UGC\\THIS-OR-THAT\\archive\\which-us-city-has-the-best-bbq",
+          "path": "C:/Users/mocha/Documents/UGC/THIS-OR-THAT/archive/which-us-city-has-the-best-bbq/which-us-city-has-the-best-bbq.mp4",
+          "sizeMB": 39,
+          "modified": "2026-10-05T21:52:08.395Z"
+        },
+        {
+          "file": "which-us-city-has-the-best-wings.mp4",
+          "folder": "C:\\Users\\mocha\\Documents\\UGC\\THIS-OR-THAT\\archive\\which-us-city-has-the-best-wings",
+          "path": "C:/Users/mocha/Documents/UGC/THIS-OR-THAT/archive/which-us-city-has-the-best-wings/which-us-city-has-the-best-wings.mp4",
+          "sizeMB": 33.5,
+          "modified": "2026-10-05T21:33:17.426Z"
+        },
+        {
+          "file": "us-cities-fries.mp4",
+          "folder": "C:\\Users\\mocha\\Documents\\UGC\\THIS-OR-THAT\\archive\\us-cities-fries",
+          "path": "C:/Users/mocha/Documents/UGC/THIS-OR-THAT/archive/us-cities-fries/us-cities-fries.mp4",
+          "sizeMB": 26.1,
+          "modified": "2026-10-04T22:09:10.773Z"
+        },
+        {
+          "file": "us-cities-hot-dogs.mp4",
+          "folder": "C:\\Users\\mocha\\Documents\\UGC\\THIS-OR-THAT\\archive\\us-cities-hot-dogs",
+          "path": "C:/Users/mocha/Documents/UGC/THIS-OR-THAT/archive/us-cities-hot-dogs/us-cities-hot-dogs.mp4",
+          "sizeMB": 21,
+          "modified": "2026-10-04T21:46:06.300Z"
+        },
+        {
+          "file": "us-cities-burgers.mp4",
+          "folder": "C:\\Users\\mocha\\Documents\\UGC\\THIS-OR-THAT\\archive\\us-cities-burgers",
+          "path": "C:/Users/mocha/Documents/UGC/THIS-OR-THAT/archive/us-cities-burgers/us-cities-burgers.mp4",
+          "sizeMB": 29.2,
+          "modified": "2026-10-04T20:00:08.874Z"
+        },
+        {
+          "file": "us-cities-foods.mp4",
+          "folder": "C:\\Users\\mocha\\Documents\\UGC\\THIS-OR-THAT\\archive\\us-cities-foods",
+          "path": "C:/Users/mocha/Documents/UGC/THIS-OR-THAT/archive/us-cities-foods/us-cities-foods.mp4",
+          "sizeMB": 24.6,
+          "modified": "2026-10-03T17:32:48.801Z"
+        },
+        {
+          "file": "us-city-milkshakes.mp4",
+          "folder": "C:\\Users\\mocha\\Documents\\UGC\\THIS-OR-THAT\\archive\\us-city-milkshakes",
+          "path": "C:/Users/mocha/Documents/UGC/THIS-OR-THAT/archive/us-city-milkshakes/us-city-milkshakes.mp4",
+          "sizeMB": 14.8,
+          "modified": "2026-10-02T19:50:32.671Z"
+        },
+        {
+          "file": "desserts.mp4",
+          "folder": "C:\\Users\\mocha\\Documents\\UGC\\THIS-OR-THAT\\archive\\desserts",
+          "path": "C:/Users/mocha/Documents/UGC/THIS-OR-THAT/archive/desserts/desserts.mp4",
+          "sizeMB": 15.9,
+          "modified": "2026-09-30T21:36:48.684Z"
+        },
+        {
+          "file": "new-jersey.mp4",
+          "folder": "C:\\Users\\mocha\\Documents\\UGC\\THIS-OR-THAT\\archive\\new-jersey",
+          "path": "C:/Users/mocha/Documents/UGC/THIS-OR-THAT/archive/new-jersey/new-jersey.mp4",
+          "sizeMB": 21.2,
+          "modified": "2026-09-30T20:52:21.969Z"
+        }
+      ]
+    }
+  ]
+}

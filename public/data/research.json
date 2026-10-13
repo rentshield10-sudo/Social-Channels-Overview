@@ -1,0 +1,6382 @@
+{
+  "generatedAt": "2026-10-13T17:04:32.105Z",
+  "pages": [
+    {
+      "file": "C:/Users/mocha/Documents/tiktok_choice_videos.html",
+      "modified": "2026-09-30T17:55:10.846Z",
+      "title": "TikTok Choice Videos",
+      "heading": "TikTok \"pick one / who wins / vs\" videos, last ~45 days",
+      "notes": [
+        "Scraped 2026-09-30 from TikTok search. Sorted by likes (TikTok search results show likes, not views). Follow-for-follow and \"teamwork\" posts were removed. Searches: \"like for comment for follow for vs\", \"who is better like or comment\", \"pick one follow if\", \"who would win comment your pick\", \"which one would you choose comment\", \"top liked who wins\", \"this or that like for comment for\", \"who is better vs 2026\"."
+      ],
+      "tables": [
+        {
+          "caption": "Scraped 2026-09-30 from TikTok search. Sorted by likes (TikTok search results show likes, not views). Follow-for-follow and \"teamwork\" posts were removed. Searches: \"like for comment for follow for vs\", \"who is better like or comment\", \"pick one follow if\", \"who would win comment your pick\", \"which one would you choose comment\", \"top liked who wins\", \"this or that like for comment for\", \"who is better vs 2026\".",
+          "columns": [
+            "#",
+            "Likes",
+            "Posted",
+            "Creator",
+            "Caption",
+            "Link"
+          ],
+          "rows": [
+            [
+              {
+                "text": "1",
+                "href": null
+              },
+              {
+                "text": "207.8K",
+                "href": null
+              },
+              {
+                "text": "8-27",
+                "href": null
+              },
+              {
+                "text": "James Charles",
+                "href": null
+              },
+              {
+                "text": "been on your fyp’s for 10+ years now 😭 @Brent Rivera",
+                "href": null
+              },
+              {
+                "text": "open",
+                "href": "https://www.tiktok.com/@jamescharles/video/7678823064448126222"
+              }
+            ],
+            [
+              {
+                "text": "2",
+                "href": null
+              },
+              {
+                "text": "110.6K",
+                "href": null
+              },
+              {
+                "text": "3d ago",
+                "href": null
+              },
+              {
+                "text": "Series Top5",
+                "href": null
+              },
+              {
+                "text": "Top liked: Ranking The Best Main Character Moments",
+                "href": null
+              },
+              {
+                "text": "open",
+                "href": "https://www.tiktok.com/@seriestop53/video/7689916888817634574"
+              }
+            ],
+            [
+              {
+                "text": "3",
+                "href": null
+              },
+              {
+                "text": "38.3K",
+                "href": null
+              },
+              {
+                "text": "8-19",
+                "href": null
+              },
+              {
+                "text": "holiday countdown 🎃🎄",
+                "href": null
+              },
+              {
+                "text": "Top liked what did you pick? #thisorthat",
+                "href": null
+              },
+              {
+                "text": "open",
+                "href": "https://www.tiktok.com/@hllwentime/video/7675590018605255967"
+              }
+            ],
+            [
+              {
+                "text": "4",
+                "href": null
+              },
+              {
+                "text": "29.1K",
+                "href": null
+              },
+              {
+                "text": "9-21",
+                "href": null
+              },
+              {
+                "text": "Warpedreality99",
+                "href": null
+              },
+              {
+                "text": "You can choose ONE fast food bunker… but it’s the ONLY food you can eat for a year",
+                "href": null
+              },
+              {
+                "text": "open",
+                "href": "https://www.tiktok.com/@warpedreality99/video/7688007999054499085"
+              }
+            ],
+            [
+              {
+                "text": "5",
+                "href": null
+              },
+              {
+                "text": "10.2K",
+                "href": null
+              },
+              {
+                "text": "9-8",
+                "href": null
+              },
+              {
+                "text": "Khantrast Fan",
+                "href": null
+              },
+              {
+                "text": "Which song was better? 2025 or 2026? 👀",
+                "href": null
+              },
+              {
+                "text": "open",
+                "href": "https://www.tiktok.com/@khantrasttt/video/7683194223541177631"
+              }
+            ],
+            [
+              {
+                "text": "6",
+                "href": null
+              },
+              {
+                "text": "8,308",
+                "href": null
+              },
+              {
+                "text": "9-19",
+                "href": null
+              },
+              {
+                "text": "Fiscoos elevated music opinion",
+                "href": null
+              },
+              {
+                "text": "2026 VS 2024 AMP Freshman Cypher?!",
+                "href": null
+              },
+              {
+                "text": "open",
+                "href": "https://www.tiktok.com/@fiscooemo/video/7687452315934002446"
+              }
+            ],
+            [
+              {
+                "text": "7",
+                "href": null
+              },
+              {
+                "text": "7,056",
+                "href": null
+              },
+              {
+                "text": "9-18",
+                "href": null
+              },
+              {
+                "text": "GOAL's FanZone",
+                "href": null
+              },
+              {
+                "text": "2016 vs 2026 PFA Team of the Year... which team is better, now or then? 🤔",
+                "href": null
+              },
+              {
+                "text": "open",
+                "href": "https://www.tiktok.com/@goalfanzone/video/7686825680805350678"
+              }
+            ],
+            [
+              {
+                "text": "8",
+                "href": null
+              },
+              {
+                "text": "2,938",
+                "href": null
+              },
+              {
+                "text": "9-2",
+                "href": null
+              },
+              {
+                "text": "Kind Not Blind",
+                "href": null
+              },
+              {
+                "text": "If you could swap lives with any celebrity or public figure for one week, who?",
+                "href": null
+              },
+              {
+                "text": "open",
+                "href": "https://www.tiktok.com/@kindnotblind/video/7681021044949404959"
+              }
+            ],
+            [
+              {
+                "text": "9",
+                "href": null
+              },
+              {
+                "text": "2,358",
+                "href": null
+              },
+              {
+                "text": "2d ago",
+                "href": null
+              },
+              {
+                "text": "fighting.ballz",
+                "href": null
+              },
+              {
+                "text": "(hashtags only: UK / Germany / USA)",
+                "href": null
+              },
+              {
+                "text": "open",
+                "href": "https://www.tiktok.com/@fighting.ballz/video/7690340161665715488"
+              }
+            ],
+            [
+              {
+                "text": "10",
+                "href": null
+              },
+              {
+                "text": "1,414",
+                "href": null
+              },
+              {
+                "text": "2d ago",
+                "href": null
+              },
+              {
+                "text": "Warpedreality99",
+                "href": null
+              },
+              {
+                "text": "Choose your dream fort escape 🏕️ Which one are you picking: 1, 2, 3 or 4? 👀",
+                "href": null
+              },
+              {
+                "text": "open",
+                "href": "https://www.tiktok.com/@warpedreality99/video/7690509624608296205"
+              }
+            ],
+            [
+              {
+                "text": "11",
+                "href": null
+              },
+              {
+                "text": "820",
+                "href": null
+              },
+              {
+                "text": "4d ago",
+                "href": null
+              },
+              {
+                "text": "Raised Country",
+                "href": null
+              },
+              {
+                "text": "Pick one ☝️💕 and follow me for more",
+                "href": null
+              },
+              {
+                "text": "open",
+                "href": "https://www.tiktok.com/@raised.country1/video/7689862628620930334"
+              }
+            ],
+            [
+              {
+                "text": "12",
+                "href": null
+              },
+              {
+                "text": "669",
+                "href": null
+              },
+              {
+                "text": "9-13",
+                "href": null
+              },
+              {
+                "text": "Warpedreality99",
+                "href": null
+              },
+              {
+                "text": "If the apocalypse happened tomorrow… which bunker would you choose? ☢️",
+                "href": null
+              },
+              {
+                "text": "open",
+                "href": "https://www.tiktok.com/@warpedreality99/video/7685128062404463885"
+              }
+            ],
+            [
+              {
+                "text": "13",
+                "href": null
+              },
+              {
+                "text": "625",
+                "href": null
+              },
+              {
+                "text": "9-6",
+                "href": null
+              },
+              {
+                "text": "شاهین Edit",
+                "href": null
+              },
+              {
+                "text": "Ranking the Most-Liked Moment, Likes Countdown: Who Wins?",
+                "href": null
+              },
+              {
+                "text": "open",
+                "href": "https://www.tiktok.com/@sz121947/video/7682507714626473247"
+              }
+            ],
+            [
+              {
+                "text": "14",
+                "href": null
+              },
+              {
+                "text": "525",
+                "href": null
+              },
+              {
+                "text": "9-5",
+                "href": null
+              },
+              {
+                "text": "Kayla | Girl Mom",
+                "href": null
+              },
+              {
+                "text": "Do you think it’s obvious or is there a subtle underdog?",
+                "href": null
+              },
+              {
+                "text": "open",
+                "href": "https://www.tiktok.com/@thekaylasimpson/video/7682259392049253646"
+              }
+            ],
+            [
+              {
+                "text": "15",
+                "href": null
+              },
+              {
+                "text": "384",
+                "href": null
+              },
+              {
+                "text": "9-2",
+                "href": null
+              },
+              {
+                "text": "Beyond Pixels Labs",
+                "href": null
+              },
+              {
+                "text": "Which dream bedroom would you choose? 🦦 otters, 🐼 red pandas, 🦈 sharks?",
+                "href": null
+              },
+              {
+                "text": "open",
+                "href": "https://www.tiktok.com/@beyondpixels.labs/video/7681013115928071438"
+              }
+            ],
+            [
+              {
+                "text": "16",
+                "href": null
+              },
+              {
+                "text": "329",
+                "href": null
+              },
+              {
+                "text": "9-18",
+                "href": null
+              },
+              {
+                "text": "Warpedreality99",
+                "href": null
+              },
+              {
+                "text": "The apocalypse has started… you’re locked underground for 1 YEAR",
+                "href": null
+              },
+              {
+                "text": "open",
+                "href": "https://www.tiktok.com/@warpedreality99/video/7687003770529549581"
+              }
+            ],
+            [
+              {
+                "text": "17",
+                "href": null
+              },
+              {
+                "text": "220",
+                "href": null
+              },
+              {
+                "text": "9-18",
+                "href": null
+              },
+              {
+                "text": "Warpedreality99",
+                "href": null
+              },
+              {
+                "text": "Locked inside ONE snack bunker for an entire year",
+                "href": null
+              },
+              {
+                "text": "open",
+                "href": "https://www.tiktok.com/@warpedreality99/video/7686887027740052750"
+              }
+            ],
+            [
+              {
+                "text": "18",
+                "href": null
+              },
+              {
+                "text": "202",
+                "href": null
+              },
+              {
+                "text": "6d ago",
+                "href": null
+              },
+              {
+                "text": "Heather@Hayselton Hobbies",
+                "href": null
+              },
+              {
+                "text": "Help me choose! 🤔 Which embroidered Kindle pouch design?",
+                "href": null
+              },
+              {
+                "text": "open",
+                "href": "https://www.tiktok.com/@heathermb5/video/7688864409434819871"
+              }
+            ],
+            [
+              {
+                "text": "19",
+                "href": null
+              },
+              {
+                "text": "173",
+                "href": null
+              },
+              {
+                "text": "9-11",
+                "href": null
+              },
+              {
+                "text": "gavin.talks.ball",
+                "href": null
+              },
+              {
+                "text": "Who would you rather have between these two players in 2026? 🤔",
+                "href": null
+              },
+              {
+                "text": "open",
+                "href": "https://www.tiktok.com/@gavin.talks.ball/video/7684367736385867021"
+              }
+            ],
+            [
+              {
+                "text": "20",
+                "href": null
+              },
+              {
+                "text": "92",
+                "href": null
+              },
+              {
+                "text": "2d ago",
+                "href": null
+              },
+              {
+                "text": "Anthony Mastrandrea",
+                "href": null
+              },
+              {
+                "text": "Comment below which color you would choose?",
+                "href": null
+              },
+              {
+                "text": "open",
+                "href": "https://www.tiktok.com/@mast_motors/video/7690608563252710687"
+              }
+            ],
+            [
+              {
+                "text": "21",
+                "href": null
+              },
+              {
+                "text": "81",
+                "href": null
+              },
+              {
+                "text": "3d ago",
+                "href": null
+              },
+              {
+                "text": "Warpedreality99",
+                "href": null
+              },
+              {
+                "text": "You’re stuck here for 1 YEAR… you can only choose ONE can",
+                "href": null
+              },
+              {
+                "text": "open",
+                "href": "https://www.tiktok.com/@warpedreality99/video/7689926218623372557"
+              }
+            ],
+            [
+              {
+                "text": "22",
+                "href": null
+              },
+              {
+                "text": "73",
+                "href": null
+              },
+              {
+                "text": "9-3",
+                "href": null
+              },
+              {
+                "text": "Art ASMR",
+                "href": null
+              },
+              {
+                "text": "Comment Your Favourite Player | Who Wins 🔥",
+                "href": null
+              },
+              {
+                "text": "open",
+                "href": "https://www.tiktok.com/@artasmr699/video/7681418833592110358"
+              }
+            ],
+            [
+              {
+                "text": "23",
+                "href": null
+              },
+              {
+                "text": "40",
+                "href": null
+              },
+              {
+                "text": "5d ago",
+                "href": null
+              },
+              {
+                "text": "0nes_Reverence",
+                "href": null
+              },
+              {
+                "text": "This is an easy answer for me 🤷‍♂️ (DC vs Marvel)",
+                "href": null
+              },
+              {
+                "text": "open",
+                "href": "https://www.tiktok.com/@0nes_reverence/video/7689183279970372895"
+              }
+            ],
+            [
+              {
+                "text": "24",
+                "href": null
+              },
+              {
+                "text": "33",
+                "href": null
+              },
+              {
+                "text": "1w ago",
+                "href": null
+              },
+              {
+                "text": "jacob.garcia25",
+                "href": null
+              },
+              {
+                "text": "(no caption)",
+                "href": null
+              },
+              {
+                "text": "open",
+                "href": "https://www.tiktok.com/@jacob.garcia25/video/7688600850150788365"
+              }
+            ],
+            [
+              {
+                "text": "25",
+                "href": null
+              },
+              {
+                "text": "27",
+                "href": null
+              },
+              {
+                "text": "6d ago",
+                "href": null
+              },
+              {
+                "text": "seattledarkside",
+                "href": null
+              },
+              {
+                "text": "Who wins and what is the score? Comment your pick!",
+                "href": null
+              },
+              {
+                "text": "open",
+                "href": "https://www.tiktok.com/@seattledarkside/video/7689130397862546701"
+              }
+            ],
+            [
+              {
+                "text": "26",
+                "href": null
+              },
+              {
+                "text": "26",
+                "href": null
+              },
+              {
+                "text": "9-5",
+                "href": null
+              },
+              {
+                "text": "TiffToes",
+                "href": null
+              },
+              {
+                "text": "Vote in the comments who you think will win",
+                "href": null
+              },
+              {
+                "text": "open",
+                "href": "https://www.tiktok.com/@tiffanyshoulders/video/7682256183717006622"
+              }
+            ],
+            [
+              {
+                "text": "27",
+                "href": null
+              },
+              {
+                "text": "26",
+                "href": null
+              },
+              {
+                "text": "8-16",
+                "href": null
+              },
+              {
+                "text": "Amazing Facts",
+                "href": null
+              },
+              {
+                "text": "choose one and comment down",
+                "href": null
+              },
+              {
+                "text": "open",
+                "href": "https://www.tiktok.com/@amazing_facts990/video/7674654017745653014"
+              }
+            ],
+            [
+              {
+                "text": "28",
+                "href": null
+              },
+              {
+                "text": "25",
+                "href": null
+              },
+              {
+                "text": "1d ago",
+                "href": null
+              },
+              {
+                "text": "Art ASMR",
+                "href": null
+              },
+              {
+                "text": "Comment Your Favourite Player | Who Wins 🔥",
+                "href": null
+              },
+              {
+                "text": "open",
+                "href": "https://www.tiktok.com/@artasmr699/video/7690715453479456022"
+              }
+            ],
+            [
+              {
+                "text": "29",
+                "href": null
+              },
+              {
+                "text": "24",
+                "href": null
+              },
+              {
+                "text": "8-29",
+                "href": null
+              },
+              {
+                "text": "SayHasAPoint",
+                "href": null
+              },
+              {
+                "text": "Who wins? I’m letting the comments pick this one",
+                "href": null
+              },
+              {
+                "text": "open",
+                "href": "https://www.tiktok.com/@sayhasapoint/video/7679568329299741982"
+              }
+            ],
+            [
+              {
+                "text": "30",
+                "href": null
+              },
+              {
+                "text": "23",
+                "href": null
+              },
+              {
+                "text": "9-7",
+                "href": null
+              },
+              {
+                "text": "baseball.casual",
+                "href": null
+              },
+              {
+                "text": "American League vs National League. Which league is actually better in 2026?",
+                "href": null
+              },
+              {
+                "text": "open",
+                "href": "https://www.tiktok.com/@baseball.casual/video/7682770400245337357"
+              }
+            ],
+            [
+              {
+                "text": "31",
+                "href": null
+              },
+              {
+                "text": "23",
+                "href": null
+              },
+              {
+                "text": "1h ago",
+                "href": null
+              },
+              {
+                "text": "Mr Cristiano",
+                "href": null
+              },
+              {
+                "text": "Messi vs Ronaldo, who is the best player?",
+                "href": null
+              },
+              {
+                "text": "open",
+                "href": "https://www.tiktok.com/@mrtean3/video/7691359041263652118"
+              }
+            ],
+            [
+              {
+                "text": "32",
+                "href": null
+              },
+              {
+                "text": "18",
+                "href": null
+              },
+              {
+                "text": "3d ago",
+                "href": null
+              },
+              {
+                "text": "Dave",
+                "href": null
+              },
+              {
+                "text": "Georgia vs Oklahoma RIGHT NOW 🔥 Dawgs or Sooners?",
+                "href": null
+              },
+              {
+                "text": "open",
+                "href": "https://www.tiktok.com/@dave13994/video/7689936010976693517"
+              }
+            ],
+            [
+              {
+                "text": "33",
+                "href": null
+              },
+              {
+                "text": "17",
+                "href": null
+              },
+              {
+                "text": "4d ago",
+                "href": null
+              },
+              {
+                "text": "leyla",
+                "href": null
+              },
+              {
+                "text": "Your thoughts in the comments please.",
+                "href": null
+              },
+              {
+                "text": "open",
+                "href": "https://www.tiktok.com/@lejla.zahi/video/7689649411315600670"
+              }
+            ],
+            [
+              {
+                "text": "34",
+                "href": null
+              },
+              {
+                "text": "14",
+                "href": null
+              },
+              {
+                "text": "9-17",
+                "href": null
+              },
+              {
+                "text": "margaritaz1252",
+                "href": null
+              },
+              {
+                "text": "Let me see them!! Most liked wins!!",
+                "href": null
+              },
+              {
+                "text": "open",
+                "href": "https://www.tiktok.com/@margaritaz1252/video/7686572368134720782"
+              }
+            ],
+            [
+              {
+                "text": "35",
+                "href": null
+              },
+              {
+                "text": "12",
+                "href": null
+              },
+              {
+                "text": "1w ago",
+                "href": null
+              },
+              {
+                "text": "Dreampicks123",
+                "href": null
+              },
+              {
+                "text": "You get to pick ONE dream kitchen… which one are you choosing? 🤩",
+                "href": null
+              },
+              {
+                "text": "open",
+                "href": "https://www.tiktok.com/@dreampicks_123/video/7688703356537294110"
+              }
+            ],
+            [
+              {
+                "text": "36",
+                "href": null
+              },
+              {
+                "text": "9",
+                "href": null
+              },
+              {
+                "text": "9-6",
+                "href": null
+              },
+              {
+                "text": "Adam Chan",
+                "href": null
+              },
+              {
+                "text": "Comment who you think will win! (golf)",
+                "href": null
+              },
+              {
+                "text": "open",
+                "href": "https://www.tiktok.com/@adamstired/video/7682587748842179847"
+              }
+            ],
+            [
+              {
+                "text": "37",
+                "href": null
+              },
+              {
+                "text": "9",
+                "href": null
+              },
+              {
+                "text": "1d ago",
+                "href": null
+              },
+              {
+                "text": "Ertoy Movie clips",
+                "href": null
+              },
+              {
+                "text": "Which Cool Skill Would You Choose Forever? 😎",
+                "href": null
+              },
+              {
+                "text": "open",
+                "href": "https://www.tiktok.com/@ertoy.movie.clips/video/7690983705392778510"
+              }
+            ],
+            [
+              {
+                "text": "38",
+                "href": null
+              },
+              {
+                "text": "4",
+                "href": null
+              },
+              {
+                "text": "9-13",
+                "href": null
+              },
+              {
+                "text": "Bear",
+                "href": null
+              },
+              {
+                "text": "You guys get to pick who wins, put in the comments",
+                "href": null
+              },
+              {
+                "text": "open",
+                "href": "https://www.tiktok.com/@bear78657/video/7685200188947827982"
+              }
+            ],
+            [
+              {
+                "text": "39",
+                "href": null
+              },
+              {
+                "text": "4",
+                "href": null
+              },
+              {
+                "text": "4d ago",
+                "href": null
+              },
+              {
+                "text": "Terra Burroughs",
+                "href": null
+              },
+              {
+                "text": "Which ones did you guys choose? comment down below!",
+                "href": null
+              },
+              {
+                "text": "open",
+                "href": "https://www.tiktok.com/@terrachance/video/7689642604379573534"
+              }
+            ],
+            [
+              {
+                "text": "40",
+                "href": null
+              },
+              {
+                "text": "4",
+                "href": null
+              },
+              {
+                "text": "1d ago",
+                "href": null
+              },
+              {
+                "text": "Taothaotrung",
+                "href": null
+              },
+              {
+                "text": "MLS NEXT vs ECNL… Who’s Better!?",
+                "href": null
+              },
+              {
+                "text": "open",
+                "href": "https://www.tiktok.com/@levandotki07/video/7690994374351588622"
+              }
+            ],
+            [
+              {
+                "text": "41",
+                "href": null
+              },
+              {
+                "text": "3",
+                "href": null
+              },
+              {
+                "text": "1d ago",
+                "href": null
+              },
+              {
+                "text": "RenRo2001",
+                "href": null
+              },
+              {
+                "text": "The WINLESS WATCH is real after Week 3 😬",
+                "href": null
+              },
+              {
+                "text": "open",
+                "href": "https://www.tiktok.com/@renro2001/video/7690994076589559054"
+              }
+            ],
+            [
+              {
+                "text": "42",
+                "href": null
+              },
+              {
+                "text": "2",
+                "href": null
+              },
+              {
+                "text": "5h ago",
+                "href": null
+              },
+              {
+                "text": "the.jae.bird",
+                "href": null
+              },
+              {
+                "text": "Another question to get you all “soul searchy.”",
+                "href": null
+              },
+              {
+                "text": "open",
+                "href": "https://www.tiktok.com/@the.jae.bird/video/7691307312220261646"
+              }
+            ],
+            [
+              {
+                "text": "43",
+                "href": null
+              },
+              {
+                "text": "2",
+                "href": null
+              },
+              {
+                "text": "2h ago",
+                "href": null
+              },
+              {
+                "text": "user69603411409",
+                "href": null
+              },
+              {
+                "text": "Which One You Will Choose? Answer In Comments 👉",
+                "href": null
+              },
+              {
+                "text": "open",
+                "href": "https://www.tiktok.com/@amerikax2/video/7691354320217885985"
+              }
+            ],
+            [
+              {
+                "text": "44",
+                "href": null
+              },
+              {
+                "text": "1",
+                "href": null
+              },
+              {
+                "text": "1d ago",
+                "href": null
+              },
+              {
+                "text": "official fruit island",
+                "href": null
+              },
+              {
+                "text": "love vs money, which one are you choosing? 🤔 write your answers in the comments",
+                "href": null
+              },
+              {
+                "text": "open",
+                "href": "https://www.tiktok.com/@official.fruit.is/video/7690832297813232929"
+              }
+            ],
+            [
+              {
+                "text": "45",
+                "href": null
+              },
+              {
+                "text": "1",
+                "href": null
+              },
+              {
+                "text": "1w ago",
+                "href": null
+              },
+              {
+                "text": "userthezei514326",
+                "href": null
+              },
+              {
+                "text": "Haaland vs Mbappé: Who Is the Better Player in 2026?",
+                "href": null
+              },
+              {
+                "text": "open",
+                "href": "https://www.tiktok.com/@userthezei514326/video/7688574319240252686"
+              }
+            ],
+            [
+              {
+                "text": "46",
+                "href": null
+              },
+              {
+                "text": "0",
+                "href": null
+              },
+              {
+                "text": "1h ago",
+                "href": null
+              },
+              {
+                "text": "Kusch Fairly",
+                "href": null
+              },
+              {
+                "text": "Bella Poarch and Leah Halton are in a fierce competition…",
+                "href": null
+              },
+              {
+                "text": "open",
+                "href": "https://www.tiktok.com/@kusch.fairly/video/7691359715749547277"
+              }
+            ]
+          ]
+        }
+      ]
+    },
+    {
+      "file": "C:/Users/mocha/Documents/tiktok_food_choice.html",
+      "modified": "2026-09-30T19:07:25.290Z",
+      "title": "TikTok Food Choice",
+      "heading": "TikTok: food \"pick one\" videos from small accounts (scraped 2026-09-30)",
+      "notes": [
+        "191 videos checked from 5 searches (\"which food would you choose\", \"pick one food comment\", \"you can only eat one for the rest of your life\", \"this or that food edition\", \"which dessert/snack are you picking\"). Filter: under 50K followers, posted in the last 45 days, 10K+ views. \"x followers\" = views divided by followers."
+      ],
+      "tables": [
+        {
+          "caption": "191 videos checked from 5 searches (\"which food would you choose\", \"pick one food comment\", \"you can only eat one for the rest of your life\", \"this or that food edition\", \"which dessert/snack are you picking\"). Filter: under 50K followers, posted in the last 45 days, 10K+ views. \"x followers\" = views divided by followers.",
+          "columns": [
+            "#",
+            "Creator",
+            "Followers",
+            "Views",
+            "x followers",
+            "Likes",
+            "Comments",
+            "Posted",
+            "Caption",
+            "Link"
+          ],
+          "rows": [
+            [
+              {
+                "text": "1",
+                "href": null
+              },
+              {
+                "text": "@foodclash8",
+                "href": null
+              },
+              {
+                "text": "908",
+                "href": null
+              },
+              {
+                "text": "640K",
+                "href": null
+              },
+              {
+                "text": "705x",
+                "href": null
+              },
+              {
+                "text": "18K",
+                "href": null
+              },
+              {
+                "text": "116",
+                "href": null
+              },
+              {
+                "text": "10d ago",
+                "href": null
+              },
+              {
+                "text": "This or that: build your own Raising Cane's | Chick-fil-A",
+                "href": null
+              },
+              {
+                "text": "open",
+                "href": "https://www.tiktok.com/@foodclash8/video/7687732604497366285"
+              }
+            ],
+            [
+              {
+                "text": "2",
+                "href": null
+              },
+              {
+                "text": "@chooseone1x",
+                "href": null
+              },
+              {
+                "text": "487",
+                "href": null
+              },
+              {
+                "text": "179K",
+                "href": null
+              },
+              {
+                "text": "367x",
+                "href": null
+              },
+              {
+                "text": "12K",
+                "href": null
+              },
+              {
+                "text": "33",
+                "href": null
+              },
+              {
+                "text": "8d ago",
+                "href": null
+              },
+              {
+                "text": "This or That: build ur own snack box 😋",
+                "href": null
+              },
+              {
+                "text": "open",
+                "href": "https://www.tiktok.com/@chooseone1x/video/7688382068786613536"
+              }
+            ],
+            [
+              {
+                "text": "3",
+                "href": null
+              },
+              {
+                "text": "@rathergame43",
+                "href": null
+              },
+              {
+                "text": "1.4K",
+                "href": null
+              },
+              {
+                "text": "405K",
+                "href": null
+              },
+              {
+                "text": "280x",
+                "href": null
+              },
+              {
+                "text": "20K",
+                "href": null
+              },
+              {
+                "text": "170",
+                "href": null
+              },
+              {
+                "text": "32d ago",
+                "href": null
+              },
+              {
+                "text": "This or that: build your own McDonald's",
+                "href": null
+              },
+              {
+                "text": "open",
+                "href": "https://www.tiktok.com/@rathergame43/video/7679526275236531478"
+              }
+            ],
+            [
+              {
+                "text": "4",
+                "href": null
+              },
+              {
+                "text": "@choice.one15",
+                "href": null
+              },
+              {
+                "text": "20K",
+                "href": null
+              },
+              {
+                "text": "2.2M",
+                "href": null
+              },
+              {
+                "text": "111x",
+                "href": null
+              },
+              {
+                "text": "123K",
+                "href": null
+              },
+              {
+                "text": "1.8K",
+                "href": null
+              },
+              {
+                "text": "7d ago",
+                "href": null
+              },
+              {
+                "text": "This or That \"Hot vs Cold\"",
+                "href": null
+              },
+              {
+                "text": "open",
+                "href": "https://www.tiktok.com/@choice.one15/video/7688735199802314006"
+              }
+            ],
+            [
+              {
+                "text": "5",
+                "href": null
+              },
+              {
+                "text": "@us.thisorthat",
+                "href": null
+              },
+              {
+                "text": "4.8K",
+                "href": null
+              },
+              {
+                "text": "522K",
+                "href": null
+              },
+              {
+                "text": "108x",
+                "href": null
+              },
+              {
+                "text": "19K",
+                "href": null
+              },
+              {
+                "text": "320",
+                "href": null
+              },
+              {
+                "text": "41d ago",
+                "href": null
+              },
+              {
+                "text": "(no caption, this or that)",
+                "href": null
+              },
+              {
+                "text": "open",
+                "href": "https://www.tiktok.com/@us.thisorthat/video/7676252203090316557"
+              }
+            ],
+            [
+              {
+                "text": "6",
+                "href": null
+              },
+              {
+                "text": "@pickfast3",
+                "href": null
+              },
+              {
+                "text": "9.8K",
+                "href": null
+              },
+              {
+                "text": "525K",
+                "href": null
+              },
+              {
+                "text": "53x",
+                "href": null
+              },
+              {
+                "text": "33K",
+                "href": null
+              },
+              {
+                "text": "118",
+                "href": null
+              },
+              {
+                "text": "16d ago",
+                "href": null
+              },
+              {
+                "text": "This or That: spicy edition?",
+                "href": null
+              },
+              {
+                "text": "open",
+                "href": "https://www.tiktok.com/@pickfast3/video/7685425389077875982"
+              }
+            ],
+            [
+              {
+                "text": "7",
+                "href": null
+              },
+              {
+                "text": "@warpedreality99",
+                "href": null
+              },
+              {
+                "text": "11K",
+                "href": null
+              },
+              {
+                "text": "489K",
+                "href": null
+              },
+              {
+                "text": "44x",
+                "href": null
+              },
+              {
+                "text": "29K",
+                "href": null
+              },
+              {
+                "text": "1.0K",
+                "href": null
+              },
+              {
+                "text": "9d ago",
+                "href": null
+              },
+              {
+                "text": "You can choose ONE fast food bunker… but it’s the ONLY food you can eat for a year",
+                "href": null
+              },
+              {
+                "text": "open",
+                "href": "https://www.tiktok.com/@warpedreality99/video/7688007999054499085"
+              }
+            ],
+            [
+              {
+                "text": "8",
+                "href": null
+              },
+              {
+                "text": "@choicebattle1",
+                "href": null
+              },
+              {
+                "text": "12K",
+                "href": null
+              },
+              {
+                "text": "508K",
+                "href": null
+              },
+              {
+                "text": "43x",
+                "href": null
+              },
+              {
+                "text": "20K",
+                "href": null
+              },
+              {
+                "text": "1.0K",
+                "href": null
+              },
+              {
+                "text": "4d ago",
+                "href": null
+              },
+              {
+                "text": "You Can Only Choose ONE 🔵🟠 Fast Food Edition 😻",
+                "href": null
+              },
+              {
+                "text": "open",
+                "href": "https://www.tiktok.com/@choicebattle1/video/7689772889326751008"
+              }
+            ],
+            [
+              {
+                "text": "9",
+                "href": null
+              },
+              {
+                "text": "@pickfast3",
+                "href": null
+              },
+              {
+                "text": "9.8K",
+                "href": null
+              },
+              {
+                "text": "388K",
+                "href": null
+              },
+              {
+                "text": "40x",
+                "href": null
+              },
+              {
+                "text": "20K",
+                "href": null
+              },
+              {
+                "text": "80",
+                "href": null
+              },
+              {
+                "text": "19d ago",
+                "href": null
+              },
+              {
+                "text": "THIS OR THAT: Build Your Dream Dessert Box?",
+                "href": null
+              },
+              {
+                "text": "open",
+                "href": "https://www.tiktok.com/@pickfast3/video/7684309821000092941"
+              }
+            ],
+            [
+              {
+                "text": "10",
+                "href": null
+              },
+              {
+                "text": "@thehardchoicett",
+                "href": null
+              },
+              {
+                "text": "16K",
+                "href": null
+              },
+              {
+                "text": "494K",
+                "href": null
+              },
+              {
+                "text": "30x",
+                "href": null
+              },
+              {
+                "text": "23K",
+                "href": null
+              },
+              {
+                "text": "1.1K",
+                "href": null
+              },
+              {
+                "text": "2d ago",
+                "href": null
+              },
+              {
+                "text": "This or That: Fast Food Edition!",
+                "href": null
+              },
+              {
+                "text": "open",
+                "href": "https://www.tiktok.com/@thehardchoicett/video/7690601436031225110"
+              }
+            ],
+            [
+              {
+                "text": "11",
+                "href": null
+              },
+              {
+                "text": "@voteyourchoice1",
+                "href": null
+              },
+              {
+                "text": "18K",
+                "href": null
+              },
+              {
+                "text": "525K",
+                "href": null
+              },
+              {
+                "text": "29x",
+                "href": null
+              },
+              {
+                "text": "38K",
+                "href": null
+              },
+              {
+                "text": "137",
+                "href": null
+              },
+              {
+                "text": "40d ago",
+                "href": null
+              },
+              {
+                "text": "This or that: build your own Wedding Dessert Table",
+                "href": null
+              },
+              {
+                "text": "open",
+                "href": "https://www.tiktok.com/@voteyourchoice1/video/7676550080748358925"
+              }
+            ],
+            [
+              {
+                "text": "12",
+                "href": null
+              },
+              {
+                "text": "@glass_breakin_asmr",
+                "href": null
+              },
+              {
+                "text": "35K",
+                "href": null
+              },
+              {
+                "text": "614K",
+                "href": null
+              },
+              {
+                "text": "18x",
+                "href": null
+              },
+              {
+                "text": "39K",
+                "href": null
+              },
+              {
+                "text": "271",
+                "href": null
+              },
+              {
+                "text": "44d ago",
+                "href": null
+              },
+              {
+                "text": "This or that: build your own Pizza party Box 🎁",
+                "href": null
+              },
+              {
+                "text": "open",
+                "href": "https://www.tiktok.com/@glass_breakin_asmr/video/7675154353941957919"
+              }
+            ],
+            [
+              {
+                "text": "13",
+                "href": null
+              },
+              {
+                "text": "@choice.one15",
+                "href": null
+              },
+              {
+                "text": "20K",
+                "href": null
+              },
+              {
+                "text": "326K",
+                "href": null
+              },
+              {
+                "text": "16x",
+                "href": null
+              },
+              {
+                "text": "18K",
+                "href": null
+              },
+              {
+                "text": "181",
+                "href": null
+              },
+              {
+                "text": "6d ago",
+                "href": null
+              },
+              {
+                "text": "This or That \"Creamy vs Cheesy\"",
+                "href": null
+              },
+              {
+                "text": "open",
+                "href": "https://www.tiktok.com/@choice.one15/video/7688996789998898454"
+              }
+            ],
+            [
+              {
+                "text": "14",
+                "href": null
+              },
+              {
+                "text": "@choice_one_1",
+                "href": null
+              },
+              {
+                "text": "11K",
+                "href": null
+              },
+              {
+                "text": "117K",
+                "href": null
+              },
+              {
+                "text": "11x",
+                "href": null
+              },
+              {
+                "text": "3.5K",
+                "href": null
+              },
+              {
+                "text": "105",
+                "href": null
+              },
+              {
+                "text": "27d ago",
+                "href": null
+              },
+              {
+                "text": "This or That \"Jelly vs Crispy\"",
+                "href": null
+              },
+              {
+                "text": "open",
+                "href": "https://www.tiktok.com/@choice_one_1/video/7681415570054515990"
+              }
+            ],
+            [
+              {
+                "text": "15",
+                "href": null
+              },
+              {
+                "text": "@warpedreality99",
+                "href": null
+              },
+              {
+                "text": "11K",
+                "href": null
+              },
+              {
+                "text": "108K",
+                "href": null
+              },
+              {
+                "text": "10x",
+                "href": null
+              },
+              {
+                "text": "4.7K",
+                "href": null
+              },
+              {
+                "text": "226",
+                "href": null
+              },
+              {
+                "text": "1d ago",
+                "href": null
+              },
+              {
+                "text": "You’re hiding in a fallout bunker when you find 6 survival food tablets…",
+                "href": null
+              },
+              {
+                "text": "open",
+                "href": "https://www.tiktok.com/@warpedreality99/video/7690977715247222029"
+              }
+            ],
+            [
+              {
+                "text": "16",
+                "href": null
+              },
+              {
+                "text": "@davidcue03",
+                "href": null
+              },
+              {
+                "text": "9.3K",
+                "href": null
+              },
+              {
+                "text": "86K",
+                "href": null
+              },
+              {
+                "text": "9x",
+                "href": null
+              },
+              {
+                "text": "3.5K",
+                "href": null
+              },
+              {
+                "text": "2.2K",
+                "href": null
+              },
+              {
+                "text": "43d ago",
+                "href": null
+              },
+              {
+                "text": "(greenscreen: only eat one for the rest of your life)",
+                "href": null
+              },
+              {
+                "text": "open",
+                "href": "https://www.tiktok.com/@davidcue03/video/7675580212117015830"
+              }
+            ],
+            [
+              {
+                "text": "17",
+                "href": null
+              },
+              {
+                "text": "@pickfast3",
+                "href": null
+              },
+              {
+                "text": "9.8K",
+                "href": null
+              },
+              {
+                "text": "88K",
+                "href": null
+              },
+              {
+                "text": "9x",
+                "href": null
+              },
+              {
+                "text": "3.4K",
+                "href": null
+              },
+              {
+                "text": "163",
+                "href": null
+              },
+              {
+                "text": "2d ago",
+                "href": null
+              },
+              {
+                "text": "This or That! Build your dream fast-food platter?",
+                "href": null
+              },
+              {
+                "text": "open",
+                "href": "https://www.tiktok.com/@pickfast3/video/7690619787482778894"
+              }
+            ],
+            [
+              {
+                "text": "18",
+                "href": null
+              },
+              {
+                "text": "@choicebattle1",
+                "href": null
+              },
+              {
+                "text": "12K",
+                "href": null
+              },
+              {
+                "text": "40K",
+                "href": null
+              },
+              {
+                "text": "3x",
+                "href": null
+              },
+              {
+                "text": "1.5K",
+                "href": null
+              },
+              {
+                "text": "87",
+                "href": null
+              },
+              {
+                "text": "today",
+                "href": null
+              },
+              {
+                "text": "You Can Only Choose ONE 🔵🟠 Fast Food Edition 😻",
+                "href": null
+              },
+              {
+                "text": "open",
+                "href": "https://www.tiktok.com/@choicebattle1/video/7691253512595885345"
+              }
+            ],
+            [
+              {
+                "text": "19",
+                "href": null
+              },
+              {
+                "text": "@decisionarena0",
+                "href": null
+              },
+              {
+                "text": "6.0K",
+                "href": null
+              },
+              {
+                "text": "17K",
+                "href": null
+              },
+              {
+                "text": "3x",
+                "href": null
+              },
+              {
+                "text": "552",
+                "href": null
+              },
+              {
+                "text": "7",
+                "href": null
+              },
+              {
+                "text": "5d ago",
+                "href": null
+              },
+              {
+                "text": "(no caption, food choice)",
+                "href": null
+              },
+              {
+                "text": "open",
+                "href": "https://www.tiktok.com/@decisionarena0/video/7689459855337295118"
+              }
+            ],
+            [
+              {
+                "text": "20",
+                "href": null
+              },
+              {
+                "text": "@decisionarena0",
+                "href": null
+              },
+              {
+                "text": "6.0K",
+                "href": null
+              },
+              {
+                "text": "16K",
+                "href": null
+              },
+              {
+                "text": "3x",
+                "href": null
+              },
+              {
+                "text": "464",
+                "href": null
+              },
+              {
+                "text": "6",
+                "href": null
+              },
+              {
+                "text": "13d ago",
+                "href": null
+              },
+              {
+                "text": "(no caption, food choice)",
+                "href": null
+              },
+              {
+                "text": "open",
+                "href": "https://www.tiktok.com/@decisionarena0/video/7686488969738980621"
+              }
+            ],
+            [
+              {
+                "text": "21",
+                "href": null
+              },
+              {
+                "text": "@warpedreality99",
+                "href": null
+              },
+              {
+                "text": "11K",
+                "href": null
+              },
+              {
+                "text": "16K",
+                "href": null
+              },
+              {
+                "text": "1x",
+                "href": null
+              },
+              {
+                "text": "305",
+                "href": null
+              },
+              {
+                "text": "29",
+                "href": null
+              },
+              {
+                "text": "5d ago",
+                "href": null
+              },
+              {
+                "text": "You’re stuck in this bunker for 1 YEAR… and can only pick ONE MRE 😳",
+                "href": null
+              },
+              {
+                "text": "open",
+                "href": "https://www.tiktok.com/@warpedreality99/video/7689586006365916430"
+              }
+            ]
+          ]
+        }
+      ]
+    },
+    {
+      "file": "C:/Users/mocha/Documents/tiktok_ai_and_drama.html",
+      "modified": "2026-09-30T18:45:56.723Z",
+      "title": "TikTok AI and Drama",
+      "heading": "TikTok: AI videos and drama series from small accounts (scraped 2026-09-30)",
+      "notes": [
+        "255 videos checked from 7 searches (\"ai video\", \"ai story part 1\", \"ai animation aivideo\", \"drama series part 1\", \"skit series part 2\", \"minidrama episode 1\", \"storytime skit part 1 plot twist\"). Filter: under 50K followers, posted in the last 30 days, 20K+ views. \"x followers\" = views divided by followers; higher means TikTok pushed it further past the creator's own audience."
+      ],
+      "tables": [
+        {
+          "caption": "1. AI videos (standalone, not a series)",
+          "columns": [
+            "#",
+            "Creator",
+            "Followers",
+            "Views",
+            "x followers",
+            "Likes",
+            "Comments",
+            "Posted",
+            "Caption",
+            "Link"
+          ],
+          "rows": [
+            [
+              {
+                "text": "1",
+                "href": null
+              },
+              {
+                "text": "@themorphmethod",
+                "href": null
+              },
+              {
+                "text": "149",
+                "href": null
+              },
+              {
+                "text": "180K",
+                "href": null
+              },
+              {
+                "text": "1206x",
+                "href": null
+              },
+              {
+                "text": "2.2K",
+                "href": null
+              },
+              {
+                "text": "25",
+                "href": null
+              },
+              {
+                "text": "2d ago",
+                "href": null
+              },
+              {
+                "text": "Jean Phil — the AI influencer who broke the internet in 72 hours.",
+                "href": null
+              },
+              {
+                "text": "open",
+                "href": "https://www.tiktok.com/@themorphmethod/video/7690593106575609121"
+              }
+            ],
+            [
+              {
+                "text": "2",
+                "href": null
+              },
+              {
+                "text": "@ai.friut.stories",
+                "href": null
+              },
+              {
+                "text": "730",
+                "href": null
+              },
+              {
+                "text": "330K",
+                "href": null
+              },
+              {
+                "text": "453x",
+                "href": null
+              },
+              {
+                "text": "15K",
+                "href": null
+              },
+              {
+                "text": "228",
+                "href": null
+              },
+              {
+                "text": "7d ago",
+                "href": null
+              },
+              {
+                "text": "(no caption, AI fruit story)",
+                "href": null
+              },
+              {
+                "text": "open",
+                "href": "https://www.tiktok.com/@ai.friut.stories/video/7688725195904912670"
+              }
+            ],
+            [
+              {
+                "text": "3",
+                "href": null
+              },
+              {
+                "text": "@fruit.ai959",
+                "href": null
+              },
+              {
+                "text": "2.3K",
+                "href": null
+              },
+              {
+                "text": "829K",
+                "href": null
+              },
+              {
+                "text": "360x",
+                "href": null
+              },
+              {
+                "text": "60K",
+                "href": null
+              },
+              {
+                "text": "297",
+                "href": null
+              },
+              {
+                "text": "5d ago",
+                "href": null
+              },
+              {
+                "text": "(no caption, AI fruit)",
+                "href": null
+              },
+              {
+                "text": "open",
+                "href": "https://www.tiktok.com/@fruit.ai959/video/7689479332011511070"
+              }
+            ],
+            [
+              {
+                "text": "4",
+                "href": null
+              },
+              {
+                "text": "@friut.heart",
+                "href": null
+              },
+              {
+                "text": "1.2K",
+                "href": null
+              },
+              {
+                "text": "228K",
+                "href": null
+              },
+              {
+                "text": "194x",
+                "href": null
+              },
+              {
+                "text": "17K",
+                "href": null
+              },
+              {
+                "text": "285",
+                "href": null
+              },
+              {
+                "text": "5d ago",
+                "href": null
+              },
+              {
+                "text": "(no caption, AI fruit)",
+                "href": null
+              },
+              {
+                "text": "open",
+                "href": "https://www.tiktok.com/@friut.heart/video/7689467901023128846"
+              }
+            ],
+            [
+              {
+                "text": "5",
+                "href": null
+              },
+              {
+                "text": "@fruit.ai959",
+                "href": null
+              },
+              {
+                "text": "2.3K",
+                "href": null
+              },
+              {
+                "text": "217K",
+                "href": null
+              },
+              {
+                "text": "95x",
+                "href": null
+              },
+              {
+                "text": "8.9K",
+                "href": null
+              },
+              {
+                "text": "56",
+                "href": null
+              },
+              {
+                "text": "5d ago",
+                "href": null
+              },
+              {
+                "text": "(no caption, AI fruit)",
+                "href": null
+              },
+              {
+                "text": "open",
+                "href": "https://www.tiktok.com/@fruit.ai959/video/7689478874933005599"
+              }
+            ],
+            [
+              {
+                "text": "6",
+                "href": null
+              },
+              {
+                "text": "@jessca_2006",
+                "href": null
+              },
+              {
+                "text": "928",
+                "href": null
+              },
+              {
+                "text": "81K",
+                "href": null
+              },
+              {
+                "text": "87x",
+                "href": null
+              },
+              {
+                "text": "469",
+                "href": null
+              },
+              {
+                "text": "19",
+                "href": null
+              },
+              {
+                "text": "6d ago",
+                "href": null
+              },
+              {
+                "text": "Generate any AI video without limit… (ad for an AI app)",
+                "href": null
+              },
+              {
+                "text": "open",
+                "href": "https://www.tiktok.com/@jessca_2006/video/7689009304682122526"
+              }
+            ],
+            [
+              {
+                "text": "7",
+                "href": null
+              },
+              {
+                "text": "@bigbakdiskk28",
+                "href": null
+              },
+              {
+                "text": "8.9K",
+                "href": null
+              },
+              {
+                "text": "296K",
+                "href": null
+              },
+              {
+                "text": "33x",
+                "href": null
+              },
+              {
+                "text": "22K",
+                "href": null
+              },
+              {
+                "text": "637",
+                "href": null
+              },
+              {
+                "text": "11d ago",
+                "href": null
+              },
+              {
+                "text": "make me cool animation and music (AI prompt as caption)",
+                "href": null
+              },
+              {
+                "text": "open",
+                "href": "https://www.tiktok.com/@bigbakdiskk28/video/7687375608246013215"
+              }
+            ],
+            [
+              {
+                "text": "8",
+                "href": null
+              },
+              {
+                "text": "@kidfriendlyailearning",
+                "href": null
+              },
+              {
+                "text": "10K",
+                "href": null
+              },
+              {
+                "text": "93K",
+                "href": null
+              },
+              {
+                "text": "9x",
+                "href": null
+              },
+              {
+                "text": "2.7K",
+                "href": null
+              },
+              {
+                "text": "82",
+                "href": null
+              },
+              {
+                "text": "14d ago",
+                "href": null
+              },
+              {
+                "text": "(no caption, kids AI)",
+                "href": null
+              },
+              {
+                "text": "open",
+                "href": "https://www.tiktok.com/@kidfriendlyailearning/video/7686377059714747662"
+              }
+            ],
+            [
+              {
+                "text": "9",
+                "href": null
+              },
+              {
+                "text": "@zeni.ai1",
+                "href": null
+              },
+              {
+                "text": "44K",
+                "href": null
+              },
+              {
+                "text": "409K",
+                "href": null
+              },
+              {
+                "text": "9x",
+                "href": null
+              },
+              {
+                "text": "16K",
+                "href": null
+              },
+              {
+                "text": "67",
+                "href": null
+              },
+              {
+                "text": "2d ago",
+                "href": null
+              },
+              {
+                "text": "Brocoli tried to escape",
+                "href": null
+              },
+              {
+                "text": "open",
+                "href": "https://www.tiktok.com/@zeni.ai1/video/7690620540716879126"
+              }
+            ],
+            [
+              {
+                "text": "10",
+                "href": null
+              },
+              {
+                "text": "@rizwanali07133",
+                "href": null
+              },
+              {
+                "text": "5.3K",
+                "href": null
+              },
+              {
+                "text": "38K",
+                "href": null
+              },
+              {
+                "text": "7x",
+                "href": null
+              },
+              {
+                "text": "298",
+                "href": null
+              },
+              {
+                "text": "13",
+                "href": null
+              },
+              {
+                "text": "20d ago",
+                "href": null
+              },
+              {
+                "text": "grandma funny ai",
+                "href": null
+              },
+              {
+                "text": "open",
+                "href": "https://www.tiktok.com/@rizwanali07133/video/7683933773423054110"
+              }
+            ],
+            [
+              {
+                "text": "11",
+                "href": null
+              },
+              {
+                "text": "@friut.stories",
+                "href": null
+              },
+              {
+                "text": "5.4K",
+                "href": null
+              },
+              {
+                "text": "37K",
+                "href": null
+              },
+              {
+                "text": "7x",
+                "href": null
+              },
+              {
+                "text": "708",
+                "href": null
+              },
+              {
+                "text": "21",
+                "href": null
+              },
+              {
+                "text": "11d ago",
+                "href": null
+              },
+              {
+                "text": "(no caption, AI fruit)",
+                "href": null
+              },
+              {
+                "text": "open",
+                "href": "https://www.tiktok.com/@friut.stories/video/7687250882110508319"
+              }
+            ]
+          ]
+        },
+        {
+          "caption": "2. Drama series (Part 1 / Episode 1 style). \"AI\" column marks AI-made dramas",
+          "columns": [
+            "#",
+            "Creator",
+            "Followers",
+            "Views",
+            "x followers",
+            "Likes",
+            "Comments",
+            "Posted",
+            "AI",
+            "Caption",
+            "Link"
+          ],
+          "rows": [
+            [
+              {
+                "text": "1",
+                "href": null
+              },
+              {
+                "text": "@pixeltales.ai_",
+                "href": null
+              },
+              {
+                "text": "674",
+                "href": null
+              },
+              {
+                "text": "626K",
+                "href": null
+              },
+              {
+                "text": "929x",
+                "href": null
+              },
+              {
+                "text": "16K",
+                "href": null
+              },
+              {
+                "text": "58",
+                "href": null
+              },
+              {
+                "text": "11d ago",
+                "href": null
+              },
+              {
+                "text": "AI",
+                "href": null
+              },
+              {
+                "text": "Part 1",
+                "href": null
+              },
+              {
+                "text": "open",
+                "href": "https://www.tiktok.com/@pixeltales.ai_/video/7687342503963462926"
+              }
+            ],
+            [
+              {
+                "text": "2",
+                "href": null
+              },
+              {
+                "text": "@trendingworld571",
+                "href": null
+              },
+              {
+                "text": "227",
+                "href": null
+              },
+              {
+                "text": "131K",
+                "href": null
+              },
+              {
+                "text": "577x",
+                "href": null
+              },
+              {
+                "text": "3.0K",
+                "href": null
+              },
+              {
+                "text": "9",
+                "href": null
+              },
+              {
+                "text": "3d ago",
+                "href": null
+              },
+              {
+                "text": "AI",
+                "href": null
+              },
+              {
+                "text": "Part-1 | Ai fruit story 🍇🍑",
+                "href": null
+              },
+              {
+                "text": "open",
+                "href": "https://www.tiktok.com/@trendingworld571/video/7690190041380949269"
+              }
+            ],
+            [
+              {
+                "text": "3",
+                "href": null
+              },
+              {
+                "text": "@ebistalkpodcast",
+                "href": null
+              },
+              {
+                "text": "1.6K",
+                "href": null
+              },
+              {
+                "text": "272K",
+                "href": null
+              },
+              {
+                "text": "168x",
+                "href": null
+              },
+              {
+                "text": "1.5K",
+                "href": null
+              },
+              {
+                "text": "17",
+                "href": null
+              },
+              {
+                "text": "24d ago",
+                "href": null
+              },
+              {
+                "text": "",
+                "href": null
+              },
+              {
+                "text": "(Episode 1-20) After my Divorce I became the Mafia Don Wife",
+                "href": null
+              },
+              {
+                "text": "open",
+                "href": "https://www.tiktok.com/@ebistalkpodcast/video/7682576878623821078"
+              }
+            ],
+            [
+              {
+                "text": "4",
+                "href": null
+              },
+              {
+                "text": "@fruits__tory",
+                "href": null
+              },
+              {
+                "text": "46K",
+                "href": null
+              },
+              {
+                "text": "7.2M",
+                "href": null
+              },
+              {
+                "text": "157x",
+                "href": null
+              },
+              {
+                "text": "418K",
+                "href": null
+              },
+              {
+                "text": "641",
+                "href": null
+              },
+              {
+                "text": "5d ago",
+                "href": null
+              },
+              {
+                "text": "AI",
+                "href": null
+              },
+              {
+                "text": "(no caption, AI fruit story)",
+                "href": null
+              },
+              {
+                "text": "open",
+                "href": "https://www.tiktok.com/@fruits__tory/video/7689576023461023007"
+              }
+            ],
+            [
+              {
+                "text": "5",
+                "href": null
+              },
+              {
+                "text": "@sorarenders",
+                "href": null
+              },
+              {
+                "text": "195",
+                "href": null
+              },
+              {
+                "text": "22K",
+                "href": null
+              },
+              {
+                "text": "112x",
+                "href": null
+              },
+              {
+                "text": "123",
+                "href": null
+              },
+              {
+                "text": "1",
+                "href": null
+              },
+              {
+                "text": "12d ago",
+                "href": null
+              },
+              {
+                "text": "AI",
+                "href": null
+              },
+              {
+                "text": "EP 1 Full: The $1,000 Kiss",
+                "href": null
+              },
+              {
+                "text": "open",
+                "href": "https://www.tiktok.com/@sorarenders/video/7687066050055163167"
+              }
+            ],
+            [
+              {
+                "text": "6",
+                "href": null
+              },
+              {
+                "text": "@aifreeseries",
+                "href": null
+              },
+              {
+                "text": "3.4K",
+                "href": null
+              },
+              {
+                "text": "354K",
+                "href": null
+              },
+              {
+                "text": "103x",
+                "href": null
+              },
+              {
+                "text": "8.9K",
+                "href": null
+              },
+              {
+                "text": "69",
+                "href": null
+              },
+              {
+                "text": "20d ago",
+                "href": null
+              },
+              {
+                "text": "AI",
+                "href": null
+              },
+              {
+                "text": "Part 2 | The Mafia Don Hired Me as His Wife 💬 Follow for More Parts",
+                "href": null
+              },
+              {
+                "text": "open",
+                "href": "https://www.tiktok.com/@aifreeseries/video/7683858938625903893"
+              }
+            ],
+            [
+              {
+                "text": "7",
+                "href": null
+              },
+              {
+                "text": "@abigailstory3",
+                "href": null
+              },
+              {
+                "text": "739",
+                "href": null
+              },
+              {
+                "text": "63K",
+                "href": null
+              },
+              {
+                "text": "86x",
+                "href": null
+              },
+              {
+                "text": "7.5K",
+                "href": null
+              },
+              {
+                "text": "39",
+                "href": null
+              },
+              {
+                "text": "9d ago",
+                "href": null
+              },
+              {
+                "text": "AI",
+                "href": null
+              },
+              {
+                "text": "Part 1 “THE SISTER WHO RAISED HER SON”",
+                "href": null
+              },
+              {
+                "text": "open",
+                "href": "https://www.tiktok.com/@abigailstory3/video/7687993114761448726"
+              }
+            ],
+            [
+              {
+                "text": "8",
+                "href": null
+              },
+              {
+                "text": "@elora.xi",
+                "href": null
+              },
+              {
+                "text": "48K",
+                "href": null
+              },
+              {
+                "text": "3.7M",
+                "href": null
+              },
+              {
+                "text": "78x",
+                "href": null
+              },
+              {
+                "text": "302K",
+                "href": null
+              },
+              {
+                "text": "1.6K",
+                "href": null
+              },
+              {
+                "text": "24d ago",
+                "href": null
+              },
+              {
+                "text": "AI",
+                "href": null
+              },
+              {
+                "text": "PART 1:",
+                "href": null
+              },
+              {
+                "text": "open",
+                "href": "https://www.tiktok.com/@elora.xi/video/7682492612628073761"
+              }
+            ],
+            [
+              {
+                "text": "9",
+                "href": null
+              },
+              {
+                "text": "@episode_rush",
+                "href": null
+              },
+              {
+                "text": "5.5K",
+                "href": null
+              },
+              {
+                "text": "415K",
+                "href": null
+              },
+              {
+                "text": "75x",
+                "href": null
+              },
+              {
+                "text": "3.7K",
+                "href": null
+              },
+              {
+                "text": "153",
+                "href": null
+              },
+              {
+                "text": "26d ago",
+                "href": null
+              },
+              {
+                "text": "AI",
+                "href": null
+              },
+              {
+                "text": "The Mafia Boss is My Ex I Left 7 Years Ago 🥹",
+                "href": null
+              },
+              {
+                "text": "open",
+                "href": "https://www.tiktok.com/@episode_rush/video/7681709569176882439"
+              }
+            ],
+            [
+              {
+                "text": "10",
+                "href": null
+              },
+              {
+                "text": "@dramakook",
+                "href": null
+              },
+              {
+                "text": "1.4K",
+                "href": null
+              },
+              {
+                "text": "97K",
+                "href": null
+              },
+              {
+                "text": "69x",
+                "href": null
+              },
+              {
+                "text": "3.1K",
+                "href": null
+              },
+              {
+                "text": "26",
+                "href": null
+              },
+              {
+                "text": "10d ago",
+                "href": null
+              },
+              {
+                "text": "AI",
+                "href": null
+              },
+              {
+                "text": "PART 1 | My Mafia Replacement Date 🖤 AI drama",
+                "href": null
+              },
+              {
+                "text": "open",
+                "href": "https://www.tiktok.com/@dramakook/video/7687660592441724181"
+              }
+            ],
+            [
+              {
+                "text": "11",
+                "href": null
+              },
+              {
+                "text": "@elen_weon",
+                "href": null
+              },
+              {
+                "text": "1.2K",
+                "href": null
+              },
+              {
+                "text": "78K",
+                "href": null
+              },
+              {
+                "text": "65x",
+                "href": null
+              },
+              {
+                "text": "727",
+                "href": null
+              },
+              {
+                "text": "6",
+                "href": null
+              },
+              {
+                "text": "11d ago",
+                "href": null
+              },
+              {
+                "text": "AI",
+                "href": null
+              },
+              {
+                "text": "Blaze of Us. Part 1. Episode 1-6.",
+                "href": null
+              },
+              {
+                "text": "open",
+                "href": "https://www.tiktok.com/@elen_weon/video/7687248718680182036"
+              }
+            ],
+            [
+              {
+                "text": "12",
+                "href": null
+              },
+              {
+                "text": "@spongecuuh0",
+                "href": null
+              },
+              {
+                "text": "15K",
+                "href": null
+              },
+              {
+                "text": "970K",
+                "href": null
+              },
+              {
+                "text": "65x",
+                "href": null
+              },
+              {
+                "text": "67K",
+                "href": null
+              },
+              {
+                "text": "463",
+                "href": null
+              },
+              {
+                "text": "2d ago",
+                "href": null
+              },
+              {
+                "text": "AI",
+                "href": null
+              },
+              {
+                "text": "Part 1 / (AI SpongeBob story)",
+                "href": null
+              },
+              {
+                "text": "open",
+                "href": "https://www.tiktok.com/@spongecuuh0/video/7690641937400925453"
+              }
+            ],
+            [
+              {
+                "text": "13",
+                "href": null
+              },
+              {
+                "text": "@aidramaseriesss",
+                "href": null
+              },
+              {
+                "text": "1.3K",
+                "href": null
+              },
+              {
+                "text": "80K",
+                "href": null
+              },
+              {
+                "text": "61x",
+                "href": null
+              },
+              {
+                "text": "972",
+                "href": null
+              },
+              {
+                "text": "10",
+                "href": null
+              },
+              {
+                "text": "12d ago",
+                "href": null
+              },
+              {
+                "text": "AI",
+                "href": null
+              },
+              {
+                "text": "Part 1-5 || The Mafia Heir's Revenge Baby",
+                "href": null
+              },
+              {
+                "text": "open",
+                "href": "https://www.tiktok.com/@aidramaseriesss/video/7687030411452517653"
+              }
+            ],
+            [
+              {
+                "text": "14",
+                "href": null
+              },
+              {
+                "text": "@nhor26263",
+                "href": null
+              },
+              {
+                "text": "2.1K",
+                "href": null
+              },
+              {
+                "text": "116K",
+                "href": null
+              },
+              {
+                "text": "54x",
+                "href": null
+              },
+              {
+                "text": "2.9K",
+                "href": null
+              },
+              {
+                "text": "29",
+                "href": null
+              },
+              {
+                "text": "20d ago",
+                "href": null
+              },
+              {
+                "text": "",
+                "href": null
+              },
+              {
+                "text": "Part 1",
+                "href": null
+              },
+              {
+                "text": "open",
+                "href": "https://www.tiktok.com/@nhor26263/video/7684157509367581973"
+              }
+            ],
+            [
+              {
+                "text": "15",
+                "href": null
+              },
+              {
+                "text": "@kyoistwizt3d",
+                "href": null
+              },
+              {
+                "text": "1.3K",
+                "href": null
+              },
+              {
+                "text": "57K",
+                "href": null
+              },
+              {
+                "text": "45x",
+                "href": null
+              },
+              {
+                "text": "2.5K",
+                "href": null
+              },
+              {
+                "text": "130",
+                "href": null
+              },
+              {
+                "text": "30d ago",
+                "href": null
+              },
+              {
+                "text": "",
+                "href": null
+              },
+              {
+                "text": "The beginning of a story filled with secrets, emotions, and unexpected twists",
+                "href": null
+              },
+              {
+                "text": "open",
+                "href": "https://www.tiktok.com/@kyoistwizt3d/video/7679395517930966293"
+              }
+            ],
+            [
+              {
+                "text": "16",
+                "href": null
+              },
+              {
+                "text": "@promiss_angel",
+                "href": null
+              },
+              {
+                "text": "905",
+                "href": null
+              },
+              {
+                "text": "40K",
+                "href": null
+              },
+              {
+                "text": "44x",
+                "href": null
+              },
+              {
+                "text": "2.0K",
+                "href": null
+              },
+              {
+                "text": "87",
+                "href": null
+              },
+              {
+                "text": "3d ago",
+                "href": null
+              },
+              {
+                "text": "",
+                "href": null
+              },
+              {
+                "text": "My best friend married my sister… but years later I found out the truth",
+                "href": null
+              },
+              {
+                "text": "open",
+                "href": "https://www.tiktok.com/@promiss_angel/video/7690290111849827615"
+              }
+            ],
+            [
+              {
+                "text": "17",
+                "href": null
+              },
+              {
+                "text": "@lastepisodena",
+                "href": null
+              },
+              {
+                "text": "730",
+                "href": null
+              },
+              {
+                "text": "28K",
+                "href": null
+              },
+              {
+                "text": "38x",
+                "href": null
+              },
+              {
+                "text": "153",
+                "href": null
+              },
+              {
+                "text": "5",
+                "href": null
+              },
+              {
+                "text": "23d ago",
+                "href": null
+              },
+              {
+                "text": "AI",
+                "href": null
+              },
+              {
+                "text": "All 50 episodes are up. Start from Episode 1",
+                "href": null
+              },
+              {
+                "text": "open",
+                "href": "https://www.tiktok.com/@lastepisodena/video/7682683935670684946"
+              }
+            ],
+            [
+              {
+                "text": "18",
+                "href": null
+              },
+              {
+                "text": "@zaatoons",
+                "href": null
+              },
+              {
+                "text": "32K",
+                "href": null
+              },
+              {
+                "text": "1.0M",
+                "href": null
+              },
+              {
+                "text": "32x",
+                "href": null
+              },
+              {
+                "text": "85K",
+                "href": null
+              },
+              {
+                "text": "262",
+                "href": null
+              },
+              {
+                "text": "8d ago",
+                "href": null
+              },
+              {
+                "text": "AI",
+                "href": null
+              },
+              {
+                "text": "Part 1 |",
+                "href": null
+              },
+              {
+                "text": "open",
+                "href": "https://www.tiktok.com/@zaatoons/video/7688226195879595286"
+              }
+            ],
+            [
+              {
+                "text": "19",
+                "href": null
+              },
+              {
+                "text": "@lattecinnamqn",
+                "href": null
+              },
+              {
+                "text": "3.6K",
+                "href": null
+              },
+              {
+                "text": "112K",
+                "href": null
+              },
+              {
+                "text": "31x",
+                "href": null
+              },
+              {
+                "text": "2.8K",
+                "href": null
+              },
+              {
+                "text": "50",
+                "href": null
+              },
+              {
+                "text": "14d ago",
+                "href": null
+              },
+              {
+                "text": "AI",
+                "href": null
+              },
+              {
+                "text": "After my crush didn’t want me, I bought love",
+                "href": null
+              },
+              {
+                "text": "open",
+                "href": "https://www.tiktok.com/@lattecinnamqn/video/7686105163647552786"
+              }
+            ],
+            [
+              {
+                "text": "20",
+                "href": null
+              },
+              {
+                "text": "@adekanmbi_tinuola",
+                "href": null
+              },
+              {
+                "text": "50K",
+                "href": null
+              },
+              {
+                "text": "1.5M",
+                "href": null
+              },
+              {
+                "text": "30x",
+                "href": null
+              },
+              {
+                "text": "244K",
+                "href": null
+              },
+              {
+                "text": "1.9K",
+                "href": null
+              },
+              {
+                "text": "4d ago",
+                "href": null
+              },
+              {
+                "text": "AI",
+                "href": null
+              },
+              {
+                "text": "The Daughter She Stole. Part 1",
+                "href": null
+              },
+              {
+                "text": "open",
+                "href": "https://www.tiktok.com/@adekanmbi_tinuola/video/7689889126123965714"
+              }
+            ],
+            [
+              {
+                "text": "21",
+                "href": null
+              },
+              {
+                "text": "@justletmeusewhatever",
+                "href": null
+              },
+              {
+                "text": "3.2K",
+                "href": null
+              },
+              {
+                "text": "85K",
+                "href": null
+              },
+              {
+                "text": "27x",
+                "href": null
+              },
+              {
+                "text": "1.2K",
+                "href": null
+              },
+              {
+                "text": "13",
+                "href": null
+              },
+              {
+                "text": "8d ago",
+                "href": null
+              },
+              {
+                "text": "AI",
+                "href": null
+              },
+              {
+                "text": "The Pushover I Bullied was the School’s Top Dog. Part 1",
+                "href": null
+              },
+              {
+                "text": "open",
+                "href": "https://www.tiktok.com/@justletmeusewhatever/video/7688525666844708114"
+              }
+            ],
+            [
+              {
+                "text": "22",
+                "href": null
+              },
+              {
+                "text": "@bernadettebadua",
+                "href": null
+              },
+              {
+                "text": "6.4K",
+                "href": null
+              },
+              {
+                "text": "161K",
+                "href": null
+              },
+              {
+                "text": "25x",
+                "href": null
+              },
+              {
+                "text": "1.1K",
+                "href": null
+              },
+              {
+                "text": "11",
+                "href": null
+              },
+              {
+                "text": "22d ago",
+                "href": null
+              },
+              {
+                "text": "AI",
+                "href": null
+              },
+              {
+                "text": "Enemies Living the Same Roof Part 1",
+                "href": null
+              },
+              {
+                "text": "open",
+                "href": "https://www.tiktok.com/@bernadettebadua/video/7683182500784524564"
+              }
+            ],
+            [
+              {
+                "text": "23",
+                "href": null
+              },
+              {
+                "text": "@dramareels214",
+                "href": null
+              },
+              {
+                "text": "879",
+                "href": null
+              },
+              {
+                "text": "20K",
+                "href": null
+              },
+              {
+                "text": "23x",
+                "href": null
+              },
+              {
+                "text": "123",
+                "href": null
+              },
+              {
+                "text": "0",
+                "href": null
+              },
+              {
+                "text": "23d ago",
+                "href": null
+              },
+              {
+                "text": "AI",
+                "href": null
+              },
+              {
+                "text": "Prat 2",
+                "href": null
+              },
+              {
+                "text": "open",
+                "href": "https://www.tiktok.com/@dramareels214/video/7683030518081785101"
+              }
+            ],
+            [
+              {
+                "text": "24",
+                "href": null
+              },
+              {
+                "text": "@drama.vault25",
+                "href": null
+              },
+              {
+                "text": "3.9K",
+                "href": null
+              },
+              {
+                "text": "82K",
+                "href": null
+              },
+              {
+                "text": "21x",
+                "href": null
+              },
+              {
+                "text": "782",
+                "href": null
+              },
+              {
+                "text": "8",
+                "href": null
+              },
+              {
+                "text": "3d ago",
+                "href": null
+              },
+              {
+                "text": "AI",
+                "href": null
+              },
+              {
+                "text": "PART 1 | Oops! My Online Ex Is The Mafia Don",
+                "href": null
+              },
+              {
+                "text": "open",
+                "href": "https://www.tiktok.com/@drama.vault25/video/7690136006988762389"
+              }
+            ],
+            [
+              {
+                "text": "25",
+                "href": null
+              },
+              {
+                "text": "@nyx.lare",
+                "href": null
+              },
+              {
+                "text": "7.6K",
+                "href": null
+              },
+              {
+                "text": "153K",
+                "href": null
+              },
+              {
+                "text": "20x",
+                "href": null
+              },
+              {
+                "text": "5.6K",
+                "href": null
+              },
+              {
+                "text": "29",
+                "href": null
+              },
+              {
+                "text": "10d ago",
+                "href": null
+              },
+              {
+                "text": "AI",
+                "href": null
+              },
+              {
+                "text": "My AI Boyfriend Is a Mafia Boss - Full Short Drama [PART 1]",
+                "href": null
+              },
+              {
+                "text": "open",
+                "href": "https://www.tiktok.com/@nyx.lare/video/7687607186108730641"
+              }
+            ],
+            [
+              {
+                "text": "26",
+                "href": null
+              },
+              {
+                "text": "@metry436",
+                "href": null
+              },
+              {
+                "text": "32K",
+                "href": null
+              },
+              {
+                "text": "588K",
+                "href": null
+              },
+              {
+                "text": "18x",
+                "href": null
+              },
+              {
+                "text": "136K",
+                "href": null
+              },
+              {
+                "text": "30K",
+                "href": null
+              },
+              {
+                "text": "21d ago",
+                "href": null
+              },
+              {
+                "text": "AI",
+                "href": null
+              },
+              {
+                "text": "Always cherish whatever you have (ai story video part 1)",
+                "href": null
+              },
+              {
+                "text": "open",
+                "href": "https://www.tiktok.com/@metry436/video/7683697759022615830"
+              }
+            ],
+            [
+              {
+                "text": "27",
+                "href": null
+              },
+              {
+                "text": "@elora.xi",
+                "href": null
+              },
+              {
+                "text": "48K",
+                "href": null
+              },
+              {
+                "text": "784K",
+                "href": null
+              },
+              {
+                "text": "16x",
+                "href": null
+              },
+              {
+                "text": "38K",
+                "href": null
+              },
+              {
+                "text": "127",
+                "href": null
+              },
+              {
+                "text": "14d ago",
+                "href": null
+              },
+              {
+                "text": "AI",
+                "href": null
+              },
+              {
+                "text": "Part 1:",
+                "href": null
+              },
+              {
+                "text": "open",
+                "href": "https://www.tiktok.com/@elora.xi/video/7686148229242604833"
+              }
+            ],
+            [
+              {
+                "text": "28",
+                "href": null
+              },
+              {
+                "text": "@nana_stories81",
+                "href": null
+              },
+              {
+                "text": "33K",
+                "href": null
+              },
+              {
+                "text": "488K",
+                "href": null
+              },
+              {
+                "text": "15x",
+                "href": null
+              },
+              {
+                "text": "65K",
+                "href": null
+              },
+              {
+                "text": "323",
+                "href": null
+              },
+              {
+                "text": "18d ago",
+                "href": null
+              },
+              {
+                "text": "AI",
+                "href": null
+              },
+              {
+                "text": "PART 1: Secrets",
+                "href": null
+              },
+              {
+                "text": "open",
+                "href": "https://www.tiktok.com/@nana_stories81/video/7684759312681454870"
+              }
+            ],
+            [
+              {
+                "text": "29",
+                "href": null
+              },
+              {
+                "text": "@.nannols",
+                "href": null
+              },
+              {
+                "text": "1.9K",
+                "href": null
+              },
+              {
+                "text": "21K",
+                "href": null
+              },
+              {
+                "text": "11x",
+                "href": null
+              },
+              {
+                "text": "530",
+                "href": null
+              },
+              {
+                "text": "13",
+                "href": null
+              },
+              {
+                "text": "24d ago",
+                "href": null
+              },
+              {
+                "text": "AI",
+                "href": null
+              },
+              {
+                "text": "part 1 what is she planning to do with her daughters",
+                "href": null
+              },
+              {
+                "text": "open",
+                "href": "https://www.tiktok.com/@.nannols/video/7682586142650273054"
+              }
+            ],
+            [
+              {
+                "text": "30",
+                "href": null
+              },
+              {
+                "text": "@aifruchaecl",
+                "href": null
+              },
+              {
+                "text": "10.0K",
+                "href": null
+              },
+              {
+                "text": "109K",
+                "href": null
+              },
+              {
+                "text": "11x",
+                "href": null
+              },
+              {
+                "text": "5.6K",
+                "href": null
+              },
+              {
+                "text": "74",
+                "href": null
+              },
+              {
+                "text": "14d ago",
+                "href": null
+              },
+              {
+                "text": "AI",
+                "href": null
+              },
+              {
+                "text": "Part 1 🥹💯",
+                "href": null
+              },
+              {
+                "text": "open",
+                "href": "https://www.tiktok.com/@aifruchaecl/video/7686374373237869855"
+              }
+            ],
+            [
+              {
+                "text": "31",
+                "href": null
+              },
+              {
+                "text": "@elora.xi",
+                "href": null
+              },
+              {
+                "text": "48K",
+                "href": null
+              },
+              {
+                "text": "354K",
+                "href": null
+              },
+              {
+                "text": "7x",
+                "href": null
+              },
+              {
+                "text": "18K",
+                "href": null
+              },
+              {
+                "text": "88",
+                "href": null
+              },
+              {
+                "text": "1d ago",
+                "href": null
+              },
+              {
+                "text": "AI",
+                "href": null
+              },
+              {
+                "text": "PART 1:",
+                "href": null
+              },
+              {
+                "text": "open",
+                "href": "https://www.tiktok.com/@elora.xi/video/7691041613962857760"
+              }
+            ]
+          ]
+        }
+      ]
+    },
+    {
+      "file": "C:/Users/mocha/Documents/tiktok_small_accounts.html",
+      "modified": "2026-09-30T18:16:18.726Z",
+      "title": "TikTok Small Accounts",
+      "heading": "TikTok: small accounts getting pushed (scraped 2026-09-30)",
+      "notes": [
+        "415 videos checked from Explore (All, Comedy, Sports, Relationship, Daily Life, Beauty Care) and 17 searches. \"x followers\" = views divided by followers: how far past its own audience the video was pushed. Higher = the algorithm is recommending it."
+      ],
+      "tables": [
+        {
+          "caption": "A. Audience-choice CTA videos (\"which one are you / pick one / who wins / comment your answer\"), last 60 days",
+          "columns": [
+            "#",
+            "Creator",
+            "Followers",
+            "Views",
+            "x followers",
+            "Likes",
+            "Comments",
+            "Posted",
+            "Caption",
+            "Link"
+          ],
+          "rows": [
+            [
+              {
+                "text": "1",
+                "href": null
+              },
+              {
+                "text": "@mandohq",
+                "href": null
+              },
+              {
+                "text": "16K",
+                "href": null
+              },
+              {
+                "text": "2.2M",
+                "href": null
+              },
+              {
+                "text": "136x",
+                "href": null
+              },
+              {
+                "text": "112K",
+                "href": null
+              },
+              {
+                "text": "1.9K",
+                "href": null
+              },
+              {
+                "text": "28d ago",
+                "href": null
+              },
+              {
+                "text": "Which nose type do you have? 👃👀",
+                "href": null
+              },
+              {
+                "text": "open",
+                "href": "https://www.tiktok.com/@mandohq/video/7681065948685552910"
+              }
+            ],
+            [
+              {
+                "text": "2",
+                "href": null
+              },
+              {
+                "text": "@glizzy..gobbles",
+                "href": null
+              },
+              {
+                "text": "25",
+                "href": null
+              },
+              {
+                "text": "12K",
+                "href": null
+              },
+              {
+                "text": "119x",
+                "href": null
+              },
+              {
+                "text": "384",
+                "href": null
+              },
+              {
+                "text": "8",
+                "href": null
+              },
+              {
+                "text": "4d ago",
+                "href": null
+              },
+              {
+                "text": "Which fidget board is better?",
+                "href": null
+              },
+              {
+                "text": "open",
+                "href": "https://www.tiktok.com/@glizzy..gobbles/video/7689997421979503902"
+              }
+            ],
+            [
+              {
+                "text": "3",
+                "href": null
+              },
+              {
+                "text": "@warpedreality99",
+                "href": null
+              },
+              {
+                "text": "11K",
+                "href": null
+              },
+              {
+                "text": "489K",
+                "href": null
+              },
+              {
+                "text": "44x",
+                "href": null
+              },
+              {
+                "text": "29K",
+                "href": null
+              },
+              {
+                "text": "1.0K",
+                "href": null
+              },
+              {
+                "text": "9d ago",
+                "href": null
+              },
+              {
+                "text": "You can choose ONE fast food bunker… but it’s the ONLY food you can eat for a year",
+                "href": null
+              },
+              {
+                "text": "open",
+                "href": "https://www.tiktok.com/@warpedreality99/video/7688007999054499085"
+              }
+            ],
+            [
+              {
+                "text": "4",
+                "href": null
+              },
+              {
+                "text": "@glowupgirl078",
+                "href": null
+              },
+              {
+                "text": "4.5K",
+                "href": null
+              },
+              {
+                "text": "157K",
+                "href": null
+              },
+              {
+                "text": "35x",
+                "href": null
+              },
+              {
+                "text": "3.3K",
+                "href": null
+              },
+              {
+                "text": "307",
+                "href": null
+              },
+              {
+                "text": "45d ago",
+                "href": null
+              },
+              {
+                "text": "Comment your eyes and rareness 👀",
+                "href": null
+              },
+              {
+                "text": "open",
+                "href": "https://www.tiktok.com/@glowupgirl078/video/7674514527362338055"
+              }
+            ],
+            [
+              {
+                "text": "5",
+                "href": null
+              },
+              {
+                "text": "@sz121947",
+                "href": null
+              },
+              {
+                "text": "1.2K",
+                "href": null
+              },
+              {
+                "text": "17K",
+                "href": null
+              },
+              {
+                "text": "15x",
+                "href": null
+              },
+              {
+                "text": "625",
+                "href": null
+              },
+              {
+                "text": "71",
+                "href": null
+              },
+              {
+                "text": "24d ago",
+                "href": null
+              },
+              {
+                "text": "Ranking the Most-Liked Moment, Likes Countdown: Who Wins?",
+                "href": null
+              },
+              {
+                "text": "open",
+                "href": "https://www.tiktok.com/@sz121947/video/7682507714626473247"
+              }
+            ],
+            [
+              {
+                "text": "6",
+                "href": null
+              },
+              {
+                "text": "@sayhasapoint",
+                "href": null
+              },
+              {
+                "text": "23",
+                "href": null
+              },
+              {
+                "text": "1.1K",
+                "href": null
+              },
+              {
+                "text": "11x",
+                "href": null
+              },
+              {
+                "text": "24",
+                "href": null
+              },
+              {
+                "text": "61",
+                "href": null
+              },
+              {
+                "text": "32d ago",
+                "href": null
+              },
+              {
+                "text": "Who wins? I’m letting the comments pick this one",
+                "href": null
+              },
+              {
+                "text": "open",
+                "href": "https://www.tiktok.com/@sayhasapoint/video/7679568329299741982"
+              }
+            ],
+            [
+              {
+                "text": "7",
+                "href": null
+              },
+              {
+                "text": "@2mnyqsunanswerddd",
+                "href": null
+              },
+              {
+                "text": "445",
+                "href": null
+              },
+              {
+                "text": "2.5K",
+                "href": null
+              },
+              {
+                "text": "6x",
+                "href": null
+              },
+              {
+                "text": "245",
+                "href": null
+              },
+              {
+                "text": "52",
+                "href": null
+              },
+              {
+                "text": "16d ago",
+                "href": null
+              },
+              {
+                "text": "which one are you picking 🫶 follow 4 more 🫶",
+                "href": null
+              },
+              {
+                "text": "open",
+                "href": "https://www.tiktok.com/@2mnyqsunanswerddd/video/7685589990125964558"
+              }
+            ],
+            [
+              {
+                "text": "8",
+                "href": null
+              },
+              {
+                "text": "@hey_itscoachk",
+                "href": null
+              },
+              {
+                "text": "1.7K",
+                "href": null
+              },
+              {
+                "text": "9.1K",
+                "href": null
+              },
+              {
+                "text": "5x",
+                "href": null
+              },
+              {
+                "text": "91",
+                "href": null
+              },
+              {
+                "text": "26",
+                "href": null
+              },
+              {
+                "text": "4d ago",
+                "href": null
+              },
+              {
+                "text": "Can you spot which one is better and WHY? 👀",
+                "href": null
+              },
+              {
+                "text": "open",
+                "href": "https://www.tiktok.com/@hey_itscoachk/video/7690012141721537805"
+              }
+            ],
+            [
+              {
+                "text": "9",
+                "href": null
+              },
+              {
+                "text": "@amina.1525",
+                "href": null
+              },
+              {
+                "text": "500",
+                "href": null
+              },
+              {
+                "text": "2.2K",
+                "href": null
+              },
+              {
+                "text": "4x",
+                "href": null
+              },
+              {
+                "text": "151",
+                "href": null
+              },
+              {
+                "text": "13",
+                "href": null
+              },
+              {
+                "text": "31d ago",
+                "href": null
+              },
+              {
+                "text": "which one you like comment below",
+                "href": null
+              },
+              {
+                "text": "open",
+                "href": "https://www.tiktok.com/@amina.1525/video/7679745004851531015"
+              }
+            ],
+            [
+              {
+                "text": "10",
+                "href": null
+              },
+              {
+                "text": "@vibeaesthetic03",
+                "href": null
+              },
+              {
+                "text": "19K",
+                "href": null
+              },
+              {
+                "text": "80K",
+                "href": null
+              },
+              {
+                "text": "4x",
+                "href": null
+              },
+              {
+                "text": "12K",
+                "href": null
+              },
+              {
+                "text": "247",
+                "href": null
+              },
+              {
+                "text": "7d ago",
+                "href": null
+              },
+              {
+                "text": "Which bed are you choosing?",
+                "href": null
+              },
+              {
+                "text": "open",
+                "href": "https://www.tiktok.com/@vibeaesthetic03/video/7688915886324927757"
+              }
+            ],
+            [
+              {
+                "text": "11",
+                "href": null
+              },
+              {
+                "text": "@amazing_facts990",
+                "href": null
+              },
+              {
+                "text": "364",
+                "href": null
+              },
+              {
+                "text": "1.1K",
+                "href": null
+              },
+              {
+                "text": "3x",
+                "href": null
+              },
+              {
+                "text": "26",
+                "href": null
+              },
+              {
+                "text": "0",
+                "href": null
+              },
+              {
+                "text": "45d ago",
+                "href": null
+              },
+              {
+                "text": "choose one and comment down",
+                "href": null
+              },
+              {
+                "text": "open",
+                "href": "https://www.tiktok.com/@amazing_facts990/video/7674654017745653014"
+              }
+            ],
+            [
+              {
+                "text": "12",
+                "href": null
+              },
+              {
+                "text": "@asthetic_jenn",
+                "href": null
+              },
+              {
+                "text": "11K",
+                "href": null
+              },
+              {
+                "text": "29K",
+                "href": null
+              },
+              {
+                "text": "3x",
+                "href": null
+              },
+              {
+                "text": "645",
+                "href": null
+              },
+              {
+                "text": "179",
+                "href": null
+              },
+              {
+                "text": "54d ago",
+                "href": null
+              },
+              {
+                "text": "which one is yours 👀🖤💐",
+                "href": null
+              },
+              {
+                "text": "open",
+                "href": "https://www.tiktok.com/@asthetic_jenn/video/7671305545139113219"
+              }
+            ],
+            [
+              {
+                "text": "13",
+                "href": null
+              },
+              {
+                "text": "@warpedreality99",
+                "href": null
+              },
+              {
+                "text": "11K",
+                "href": null
+              },
+              {
+                "text": "26K",
+                "href": null
+              },
+              {
+                "text": "2x",
+                "href": null
+              },
+              {
+                "text": "1.4K",
+                "href": null
+              },
+              {
+                "text": "72",
+                "href": null
+              },
+              {
+                "text": "2d ago",
+                "href": null
+              },
+              {
+                "text": "Choose your dream fort escape 🏕️ Which one are you picking: 1, 2, 3 or 4?",
+                "href": null
+              },
+              {
+                "text": "open",
+                "href": "https://www.tiktok.com/@warpedreality99/video/7690509624608296205"
+              }
+            ],
+            [
+              {
+                "text": "14",
+                "href": null
+              },
+              {
+                "text": "@thekaylasimpson",
+                "href": null
+              },
+              {
+                "text": "10K",
+                "href": null
+              },
+              {
+                "text": "19K",
+                "href": null
+              },
+              {
+                "text": "2x",
+                "href": null
+              },
+              {
+                "text": "525",
+                "href": null
+              },
+              {
+                "text": "144",
+                "href": null
+              },
+              {
+                "text": "25d ago",
+                "href": null
+              },
+              {
+                "text": "Do you think it’s obvious or is there a subtle underdog?",
+                "href": null
+              },
+              {
+                "text": "open",
+                "href": "https://www.tiktok.com/@thekaylasimpson/video/7682259392049253646"
+              }
+            ],
+            [
+              {
+                "text": "15",
+                "href": null
+              },
+              {
+                "text": "@beyondpixels.labs",
+                "href": null
+              },
+              {
+                "text": "4.7K",
+                "href": null
+              },
+              {
+                "text": "8.8K",
+                "href": null
+              },
+              {
+                "text": "2x",
+                "href": null
+              },
+              {
+                "text": "384",
+                "href": null
+              },
+              {
+                "text": "45",
+                "href": null
+              },
+              {
+                "text": "28d ago",
+                "href": null
+              },
+              {
+                "text": "Which dream bedroom would you choose? 🦦 otters, 🐼 red pandas, 🦈 sharks?",
+                "href": null
+              },
+              {
+                "text": "open",
+                "href": "https://www.tiktok.com/@beyondpixels.labs/video/7681013115928071438"
+              }
+            ],
+            [
+              {
+                "text": "16",
+                "href": null
+              },
+              {
+                "text": "@kindnotblind",
+                "href": null
+              },
+              {
+                "text": "17K",
+                "href": null
+              },
+              {
+                "text": "28K",
+                "href": null
+              },
+              {
+                "text": "2x",
+                "href": null
+              },
+              {
+                "text": "2.9K",
+                "href": null
+              },
+              {
+                "text": "182",
+                "href": null
+              },
+              {
+                "text": "28d ago",
+                "href": null
+              },
+              {
+                "text": "If you could swap lives with any celebrity for one week, who?",
+                "href": null
+              },
+              {
+                "text": "open",
+                "href": "https://www.tiktok.com/@kindnotblind/video/7681021044949404959"
+              }
+            ],
+            [
+              {
+                "text": "17",
+                "href": null
+              },
+              {
+                "text": "@raised.country1",
+                "href": null
+              },
+              {
+                "text": "4.9K",
+                "href": null
+              },
+              {
+                "text": "7.7K",
+                "href": null
+              },
+              {
+                "text": "2x",
+                "href": null
+              },
+              {
+                "text": "821",
+                "href": null
+              },
+              {
+                "text": "68",
+                "href": null
+              },
+              {
+                "text": "4d ago",
+                "href": null
+              },
+              {
+                "text": "Pick one ☝️💕 and follow me for more",
+                "href": null
+              },
+              {
+                "text": "open",
+                "href": "https://www.tiktok.com/@raised.country1/video/7689862628620930334"
+              }
+            ],
+            [
+              {
+                "text": "18",
+                "href": null
+              },
+              {
+                "text": "@warpedreality99",
+                "href": null
+              },
+              {
+                "text": "11K",
+                "href": null
+              },
+              {
+                "text": "13K",
+                "href": null
+              },
+              {
+                "text": "1x",
+                "href": null
+              },
+              {
+                "text": "671",
+                "href": null
+              },
+              {
+                "text": "52",
+                "href": null
+              },
+              {
+                "text": "17d ago",
+                "href": null
+              },
+              {
+                "text": "If the apocalypse happened tomorrow… which bunker would you choose? ☢️",
+                "href": null
+              },
+              {
+                "text": "open",
+                "href": "https://www.tiktok.com/@warpedreality99/video/7685128062404463885"
+              }
+            ],
+            [
+              {
+                "text": "19",
+                "href": null
+              },
+              {
+                "text": "@official.kyng.jefe.hats",
+                "href": null
+              },
+              {
+                "text": "13K",
+                "href": null
+              },
+              {
+                "text": "10K",
+                "href": null
+              },
+              {
+                "text": "1x",
+                "href": null
+              },
+              {
+                "text": "51",
+                "href": null
+              },
+              {
+                "text": "9",
+                "href": null
+              },
+              {
+                "text": "15d ago",
+                "href": null
+              },
+              {
+                "text": "Which one do you like more? Comment below which colorway is better",
+                "href": null
+              },
+              {
+                "text": "open",
+                "href": "https://www.tiktok.com/@official.kyng.jefe.hats/video/7685843205446847758"
+              }
+            ],
+            [
+              {
+                "text": "20",
+                "href": null
+              },
+              {
+                "text": "@seattledarkside",
+                "href": null
+              },
+              {
+                "text": "2.7K",
+                "href": null
+              },
+              {
+                "text": "1.4K",
+                "href": null
+              },
+              {
+                "text": "1x",
+                "href": null
+              },
+              {
+                "text": "27",
+                "href": null
+              },
+              {
+                "text": "38",
+                "href": null
+              },
+              {
+                "text": "6d ago",
+                "href": null
+              },
+              {
+                "text": "Who wins and what is the score? Comment your pick!",
+                "href": null
+              },
+              {
+                "text": "open",
+                "href": "https://www.tiktok.com/@seattledarkside/video/7689130397862546701"
+              }
+            ],
+            [
+              {
+                "text": "21",
+                "href": null
+              },
+              {
+                "text": "@artasmr699",
+                "href": null
+              },
+              {
+                "text": "13K",
+                "href": null
+              },
+              {
+                "text": "6.3K",
+                "href": null
+              },
+              {
+                "text": "0x",
+                "href": null
+              },
+              {
+                "text": "73",
+                "href": null
+              },
+              {
+                "text": "1",
+                "href": null
+              },
+              {
+                "text": "27d ago",
+                "href": null
+              },
+              {
+                "text": "Comment Your Favourite Player | Who Wins 🔥",
+                "href": null
+              },
+              {
+                "text": "open",
+                "href": "https://www.tiktok.com/@artasmr699/video/7681418833592110358"
+              }
+            ],
+            [
+              {
+                "text": "22",
+                "href": null
+              },
+              {
+                "text": "@gavin.talks.ball",
+                "href": null
+              },
+              {
+                "text": "11K",
+                "href": null
+              },
+              {
+                "text": "3.6K",
+                "href": null
+              },
+              {
+                "text": "0x",
+                "href": null
+              },
+              {
+                "text": "173",
+                "href": null
+              },
+              {
+                "text": "2",
+                "href": null
+              },
+              {
+                "text": "19d ago",
+                "href": null
+              },
+              {
+                "text": "Who would you rather have between these two players in 2026? 🤔",
+                "href": null
+              },
+              {
+                "text": "open",
+                "href": "https://www.tiktok.com/@gavin.talks.ball/video/7684367736385867021"
+              }
+            ]
+          ]
+        },
+        {
+          "caption": "B. Viral videos, any niche, accounts under 20K followers, posted in last 30 days, 300K+ views",
+          "columns": [
+            "#",
+            "Creator",
+            "Followers",
+            "Views",
+            "x followers",
+            "Likes",
+            "Comments",
+            "Posted",
+            "Caption",
+            "Link"
+          ],
+          "rows": [
+            [
+              {
+                "text": "1",
+                "href": null
+              },
+              {
+                "text": "@spencer.barbosa",
+                "href": null
+              },
+              {
+                "text": "0",
+                "href": null
+              },
+              {
+                "text": "1.1M",
+                "href": null
+              },
+              {
+                "text": "11000x",
+                "href": null
+              },
+              {
+                "text": "167K",
+                "href": null
+              },
+              {
+                "text": "275",
+                "href": null
+              },
+              {
+                "text": "12d ago",
+                "href": null
+              },
+              {
+                "text": "the heavens opened up for this day 🌅 (follower count shows 0, may be hidden)",
+                "href": null
+              },
+              {
+                "text": "open",
+                "href": "https://www.tiktok.com/@spencer.barbosa/video/7686971839221959956"
+              }
+            ],
+            [
+              {
+                "text": "2",
+                "href": null
+              },
+              {
+                "text": "@meetpanda921",
+                "href": null
+              },
+              {
+                "text": "539",
+                "href": null
+              },
+              {
+                "text": "4.3M",
+                "href": null
+              },
+              {
+                "text": "7978x",
+                "href": null
+              },
+              {
+                "text": "349K",
+                "href": null
+              },
+              {
+                "text": "3.0K",
+                "href": null
+              },
+              {
+                "text": "21d ago",
+                "href": null
+              },
+              {
+                "text": "The metro drives itself… but someone is getting paid to sit there",
+                "href": null
+              },
+              {
+                "text": "open",
+                "href": "https://www.tiktok.com/@meetpanda921/video/7683466265591057685"
+              }
+            ],
+            [
+              {
+                "text": "3",
+                "href": null
+              },
+              {
+                "text": "@whois.briana2",
+                "href": null
+              },
+              {
+                "text": "662",
+                "href": null
+              },
+              {
+                "text": "2.4M",
+                "href": null
+              },
+              {
+                "text": "3625x",
+                "href": null
+              },
+              {
+                "text": "374K",
+                "href": null
+              },
+              {
+                "text": "1.5K",
+                "href": null
+              },
+              {
+                "text": "11d ago",
+                "href": null
+              },
+              {
+                "text": "(no caption)",
+                "href": null
+              },
+              {
+                "text": "open",
+                "href": "https://www.tiktok.com/@whois.briana2/video/7687226711036972308"
+              }
+            ],
+            [
+              {
+                "text": "4",
+                "href": null
+              },
+              {
+                "text": "@pwrd.by.rimac",
+                "href": null
+              },
+              {
+                "text": "2.4K",
+                "href": null
+              },
+              {
+                "text": "8.2M",
+                "href": null
+              },
+              {
+                "text": "3390x",
+                "href": null
+              },
+              {
+                "text": "285K",
+                "href": null
+              },
+              {
+                "text": "869",
+                "href": null
+              },
+              {
+                "text": "27d ago",
+                "href": null
+              },
+              {
+                "text": "Never again",
+                "href": null
+              },
+              {
+                "text": "open",
+                "href": "https://www.tiktok.com/@pwrd.by.rimac/video/7681375308880121108"
+              }
+            ],
+            [
+              {
+                "text": "5",
+                "href": null
+              },
+              {
+                "text": "@vero4ka___07",
+                "href": null
+              },
+              {
+                "text": "3.2K",
+                "href": null
+              },
+              {
+                "text": "10.5M",
+                "href": null
+              },
+              {
+                "text": "3331x",
+                "href": null
+              },
+              {
+                "text": "1.1M",
+                "href": null
+              },
+              {
+                "text": "7.9K",
+                "href": null
+              },
+              {
+                "text": "26d ago",
+                "href": null
+              },
+              {
+                "text": "(no caption)",
+                "href": null
+              },
+              {
+                "text": "open",
+                "href": "https://www.tiktok.com/@vero4ka___07/video/7681725894259444993"
+              }
+            ],
+            [
+              {
+                "text": "6",
+                "href": null
+              },
+              {
+                "text": "@emblemapainter",
+                "href": null
+              },
+              {
+                "text": "3.4K",
+                "href": null
+              },
+              {
+                "text": "9.5M",
+                "href": null
+              },
+              {
+                "text": "2789x",
+                "href": null
+              },
+              {
+                "text": "573K",
+                "href": null
+              },
+              {
+                "text": "2.7K",
+                "href": null
+              },
+              {
+                "text": "27d ago",
+                "href": null
+              },
+              {
+                "text": "(no caption)",
+                "href": null
+              },
+              {
+                "text": "open",
+                "href": "https://www.tiktok.com/@emblemapainter/video/7681417569122782472"
+              }
+            ],
+            [
+              {
+                "text": "7",
+                "href": null
+              },
+              {
+                "text": "@kornienko_hairstylist",
+                "href": null
+              },
+              {
+                "text": "350",
+                "href": null
+              },
+              {
+                "text": "968K",
+                "href": null
+              },
+              {
+                "text": "2766x",
+                "href": null
+              },
+              {
+                "text": "43K",
+                "href": null
+              },
+              {
+                "text": "237",
+                "href": null
+              },
+              {
+                "text": "23d ago",
+                "href": null
+              },
+              {
+                "text": "(no caption, hairstylist)",
+                "href": null
+              },
+              {
+                "text": "open",
+                "href": "https://www.tiktok.com/@kornienko_hairstylist/video/7682699193944689938"
+              }
+            ],
+            [
+              {
+                "text": "8",
+                "href": null
+              },
+              {
+                "text": "@3.chutiye",
+                "href": null
+              },
+              {
+                "text": "959",
+                "href": null
+              },
+              {
+                "text": "1.6M",
+                "href": null
+              },
+              {
+                "text": "1668x",
+                "href": null
+              },
+              {
+                "text": "43K",
+                "href": null
+              },
+              {
+                "text": "564",
+                "href": null
+              },
+              {
+                "text": "24d ago",
+                "href": null
+              },
+              {
+                "text": "Pakistani wedding ❌ chori ✅ 🤣",
+                "href": null
+              },
+              {
+                "text": "open",
+                "href": "https://www.tiktok.com/@3.chutiye/video/7682501329809444117"
+              }
+            ],
+            [
+              {
+                "text": "9",
+                "href": null
+              },
+              {
+                "text": "@erikarubi16",
+                "href": null
+              },
+              {
+                "text": "2.1K",
+                "href": null
+              },
+              {
+                "text": "2.5M",
+                "href": null
+              },
+              {
+                "text": "1188x",
+                "href": null
+              },
+              {
+                "text": "458K",
+                "href": null
+              },
+              {
+                "text": "382",
+                "href": null
+              },
+              {
+                "text": "30d ago",
+                "href": null
+              },
+              {
+                "text": "Se acerca mi época favorita del año 🎄",
+                "href": null
+              },
+              {
+                "text": "open",
+                "href": "https://www.tiktok.com/@erikarubi16/video/7680405873339993351"
+              }
+            ],
+            [
+              {
+                "text": "10",
+                "href": null
+              },
+              {
+                "text": "@.wanted.man",
+                "href": null
+              },
+              {
+                "text": "9.4K",
+                "href": null
+              },
+              {
+                "text": "7.9M",
+                "href": null
+              },
+              {
+                "text": "838x",
+                "href": null
+              },
+              {
+                "text": "1.6M",
+                "href": null
+              },
+              {
+                "text": "9.8K",
+                "href": null
+              },
+              {
+                "text": "14d ago",
+                "href": null
+              },
+              {
+                "text": "(no caption)",
+                "href": null
+              },
+              {
+                "text": "open",
+                "href": "https://www.tiktok.com/@.wanted.man/video/7686144900307389704"
+              }
+            ],
+            [
+              {
+                "text": "11",
+                "href": null
+              },
+              {
+                "text": "@nivaurbanoid",
+                "href": null
+              },
+              {
+                "text": "4.3K",
+                "href": null
+              },
+              {
+                "text": "2.6M",
+                "href": null
+              },
+              {
+                "text": "601x",
+                "href": null
+              },
+              {
+                "text": "356K",
+                "href": null
+              },
+              {
+                "text": "674",
+                "href": null
+              },
+              {
+                "text": "15d ago",
+                "href": null
+              },
+              {
+                "text": "(no caption, comedy)",
+                "href": null
+              },
+              {
+                "text": "open",
+                "href": "https://www.tiktok.com/@nivaurbanoid/video/7685706346334965009"
+              }
+            ],
+            [
+              {
+                "text": "12",
+                "href": null
+              },
+              {
+                "text": "@h.valdez0",
+                "href": null
+              },
+              {
+                "text": "6.0K",
+                "href": null
+              },
+              {
+                "text": "2.9M",
+                "href": null
+              },
+              {
+                "text": "483x",
+                "href": null
+              },
+              {
+                "text": "213K",
+                "href": null
+              },
+              {
+                "text": "0",
+                "href": null
+              },
+              {
+                "text": "22d ago",
+                "href": null
+              },
+              {
+                "text": "Por alguna extraña razón sentir un chin de peso sobre la cabeza me ayuda…",
+                "href": null
+              },
+              {
+                "text": "open",
+                "href": "https://www.tiktok.com/@h.valdez0/video/7683265332500270354"
+              }
+            ],
+            [
+              {
+                "text": "13",
+                "href": null
+              },
+              {
+                "text": "@happyhome1211",
+                "href": null
+              },
+              {
+                "text": "787",
+                "href": null
+              },
+              {
+                "text": "378K",
+                "href": null
+              },
+              {
+                "text": "480x",
+                "href": null
+              },
+              {
+                "text": "1.8K",
+                "href": null
+              },
+              {
+                "text": "10",
+                "href": null
+              },
+              {
+                "text": "10d ago",
+                "href": null
+              },
+              {
+                "text": "(Thai) wave double-row hanger holds so much",
+                "href": null
+              },
+              {
+                "text": "open",
+                "href": "https://www.tiktok.com/@happyhome1211/video/7687498281634565397"
+              }
+            ],
+            [
+              {
+                "text": "14",
+                "href": null
+              },
+              {
+                "text": "@nububaaa",
+                "href": null
+              },
+              {
+                "text": "4.4K",
+                "href": null
+              },
+              {
+                "text": "2.1M",
+                "href": null
+              },
+              {
+                "text": "475x",
+                "href": null
+              },
+              {
+                "text": "102K",
+                "href": null
+              },
+              {
+                "text": "379",
+                "href": null
+              },
+              {
+                "text": "24d ago",
+                "href": null
+              },
+              {
+                "text": "вот такие вот дела 🥹😂",
+                "href": null
+              },
+              {
+                "text": "open",
+                "href": "https://www.tiktok.com/@nububaaa/video/7682411217826123028"
+              }
+            ],
+            [
+              {
+                "text": "15",
+                "href": null
+              },
+              {
+                "text": "@a1inochkaa111",
+                "href": null
+              },
+              {
+                "text": "4.9K",
+                "href": null
+              },
+              {
+                "text": "2.1M",
+                "href": null
+              },
+              {
+                "text": "430x",
+                "href": null
+              },
+              {
+                "text": "242K",
+                "href": null
+              },
+              {
+                "text": "513",
+                "href": null
+              },
+              {
+                "text": "28d ago",
+                "href": null
+              },
+              {
+                "text": "@grishachamp",
+                "href": null
+              },
+              {
+                "text": "open",
+                "href": "https://www.tiktok.com/@a1inochkaa111/video/7680918027487038740"
+              }
+            ],
+            [
+              {
+                "text": "16",
+                "href": null
+              },
+              {
+                "text": "@huntelar5",
+                "href": null
+              },
+              {
+                "text": "1.8K",
+                "href": null
+              },
+              {
+                "text": "756K",
+                "href": null
+              },
+              {
+                "text": "424x",
+                "href": null
+              },
+              {
+                "text": "50K",
+                "href": null
+              },
+              {
+                "text": "2",
+                "href": null
+              },
+              {
+                "text": "18d ago",
+                "href": null
+              },
+              {
+                "text": "todo quedo en el pasado",
+                "href": null
+              },
+              {
+                "text": "open",
+                "href": "https://www.tiktok.com/@huntelar5/video/7684685105985506578"
+              }
+            ],
+            [
+              {
+                "text": "17",
+                "href": null
+              },
+              {
+                "text": "@7599its",
+                "href": null
+              },
+              {
+                "text": "13K",
+                "href": null
+              },
+              {
+                "text": "5.1M",
+                "href": null
+              },
+              {
+                "text": "383x",
+                "href": null
+              },
+              {
+                "text": "204K",
+                "href": null
+              },
+              {
+                "text": "5.9K",
+                "href": null
+              },
+              {
+                "text": "13d ago",
+                "href": null
+              },
+              {
+                "text": "(no caption)",
+                "href": null
+              },
+              {
+                "text": "open",
+                "href": "https://www.tiktok.com/@7599its/video/7686388073080392980"
+              }
+            ],
+            [
+              {
+                "text": "18",
+                "href": null
+              },
+              {
+                "text": "@antoninamar_",
+                "href": null
+              },
+              {
+                "text": "4.3K",
+                "href": null
+              },
+              {
+                "text": "1.5M",
+                "href": null
+              },
+              {
+                "text": "347x",
+                "href": null
+              },
+              {
+                "text": "272K",
+                "href": null
+              },
+              {
+                "text": "243",
+                "href": null
+              },
+              {
+                "text": "17d ago",
+                "href": null
+              },
+              {
+                "text": "🤍",
+                "href": null
+              },
+              {
+                "text": "open",
+                "href": "https://www.tiktok.com/@antoninamar_/video/7685106922969763079"
+              }
+            ],
+            [
+              {
+                "text": "19",
+                "href": null
+              },
+              {
+                "text": "@lucy.perz74",
+                "href": null
+              },
+              {
+                "text": "4.6K",
+                "href": null
+              },
+              {
+                "text": "1.4M",
+                "href": null
+              },
+              {
+                "text": "302x",
+                "href": null
+              },
+              {
+                "text": "103K",
+                "href": null
+              },
+              {
+                "text": "258",
+                "href": null
+              },
+              {
+                "text": "17d ago",
+                "href": null
+              },
+              {
+                "text": "La Paz y Tranquilidad que tiene 🥺♥️",
+                "href": null
+              },
+              {
+                "text": "open",
+                "href": "https://www.tiktok.com/@lucy.perz74/video/7685037227352640776"
+              }
+            ],
+            [
+              {
+                "text": "20",
+                "href": null
+              },
+              {
+                "text": "@nabilaaysr",
+                "href": null
+              },
+              {
+                "text": "13K",
+                "href": null
+              },
+              {
+                "text": "3.4M",
+                "href": null
+              },
+              {
+                "text": "254x",
+                "href": null
+              },
+              {
+                "text": "181K",
+                "href": null
+              },
+              {
+                "text": "199",
+                "href": null
+              },
+              {
+                "text": "24d ago",
+                "href": null
+              },
+              {
+                "text": "Shade nya putih bgt (beauty)",
+                "href": null
+              },
+              {
+                "text": "open",
+                "href": "https://www.tiktok.com/@nabilaaysr/video/7682463139660582164"
+              }
+            ],
+            [
+              {
+                "text": "21",
+                "href": null
+              },
+              {
+                "text": "@nastasia.noise",
+                "href": null
+              },
+              {
+                "text": "2.2K",
+                "href": null
+              },
+              {
+                "text": "514K",
+                "href": null
+              },
+              {
+                "text": "238x",
+                "href": null
+              },
+              {
+                "text": "20K",
+                "href": null
+              },
+              {
+                "text": "204",
+                "href": null
+              },
+              {
+                "text": "25d ago",
+                "href": null
+              },
+              {
+                "text": "(no caption)",
+                "href": null
+              },
+              {
+                "text": "open",
+                "href": "https://www.tiktok.com/@nastasia.noise/video/7682282826036808980"
+              }
+            ],
+            [
+              {
+                "text": "22",
+                "href": null
+              },
+              {
+                "text": "@quiro222z",
+                "href": null
+              },
+              {
+                "text": "5.7K",
+                "href": null
+              },
+              {
+                "text": "1.2M",
+                "href": null
+              },
+              {
+                "text": "211x",
+                "href": null
+              },
+              {
+                "text": "29K",
+                "href": null
+              },
+              {
+                "text": "567",
+                "href": null
+              },
+              {
+                "text": "13d ago",
+                "href": null
+              },
+              {
+                "text": "Jh empezó a comer carne",
+                "href": null
+              },
+              {
+                "text": "open",
+                "href": "https://www.tiktok.com/@quiro222z/video/7686545962159934740"
+              }
+            ],
+            [
+              {
+                "text": "23",
+                "href": null
+              },
+              {
+                "text": "@seriestop53",
+                "href": null
+              },
+              {
+                "text": "7.2K",
+                "href": null
+              },
+              {
+                "text": "1.5M",
+                "href": null
+              },
+              {
+                "text": "208x",
+                "href": null
+              },
+              {
+                "text": "111K",
+                "href": null
+              },
+              {
+                "text": "2.0K",
+                "href": null
+              },
+              {
+                "text": "4d ago",
+                "href": null
+              },
+              {
+                "text": "Ranking The Best Main Character Moments",
+                "href": null
+              },
+              {
+                "text": "open",
+                "href": "https://www.tiktok.com/@seriestop53/video/7689916888817634574"
+              }
+            ],
+            [
+              {
+                "text": "24",
+                "href": null
+              },
+              {
+                "text": "@oscarwillismma",
+                "href": null
+              },
+              {
+                "text": "5.3K",
+                "href": null
+              },
+              {
+                "text": "1.1M",
+                "href": null
+              },
+              {
+                "text": "207x",
+                "href": null
+              },
+              {
+                "text": "106K",
+                "href": null
+              },
+              {
+                "text": "1.5K",
+                "href": null
+              },
+              {
+                "text": "13d ago",
+                "href": null
+              },
+              {
+                "text": "Joshua Van laughs off Pantoja's mean mugging",
+                "href": null
+              },
+              {
+                "text": "open",
+                "href": "https://www.tiktok.com/@oscarwillismma/video/7686622223964114183"
+              }
+            ],
+            [
+              {
+                "text": "25",
+                "href": null
+              },
+              {
+                "text": "@perseo.ink111",
+                "href": null
+              },
+              {
+                "text": "12K",
+                "href": null
+              },
+              {
+                "text": "2.4M",
+                "href": null
+              },
+              {
+                "text": "202x",
+                "href": null
+              },
+              {
+                "text": "294K",
+                "href": null
+              },
+              {
+                "text": "715",
+                "href": null
+              },
+              {
+                "text": "18d ago",
+                "href": null
+              },
+              {
+                "text": "JAJAJAJAJAJA",
+                "href": null
+              },
+              {
+                "text": "open",
+                "href": "https://www.tiktok.com/@perseo.ink111/video/7684656472562634005"
+              }
+            ],
+            [
+              {
+                "text": "26",
+                "href": null
+              },
+              {
+                "text": "@gtkingkong",
+                "href": null
+              },
+              {
+                "text": "2.5K",
+                "href": null
+              },
+              {
+                "text": "470K",
+                "href": null
+              },
+              {
+                "text": "188x",
+                "href": null
+              },
+              {
+                "text": "8.3K",
+                "href": null
+              },
+              {
+                "text": "478",
+                "href": null
+              },
+              {
+                "text": "27d ago",
+                "href": null
+              },
+              {
+                "text": "(no caption)",
+                "href": null
+              },
+              {
+                "text": "open",
+                "href": "https://www.tiktok.com/@gtkingkong/video/7681537731666758930"
+              }
+            ],
+            [
+              {
+                "text": "27",
+                "href": null
+              },
+              {
+                "text": "@andrissemcie",
+                "href": null
+              },
+              {
+                "text": "6.4K",
+                "href": null
+              },
+              {
+                "text": "1.1M",
+                "href": null
+              },
+              {
+                "text": "172x",
+                "href": null
+              },
+              {
+                "text": "59K",
+                "href": null
+              },
+              {
+                "text": "708",
+                "href": null
+              },
+              {
+                "text": "26d ago",
+                "href": null
+              },
+              {
+                "text": "New mom survival mode.",
+                "href": null
+              },
+              {
+                "text": "open",
+                "href": "https://www.tiktok.com/@andrissemcie/video/7681835027709168903"
+              }
+            ],
+            [
+              {
+                "text": "28",
+                "href": null
+              },
+              {
+                "text": "@mandohq",
+                "href": null
+              },
+              {
+                "text": "16K",
+                "href": null
+              },
+              {
+                "text": "2.2M",
+                "href": null
+              },
+              {
+                "text": "136x",
+                "href": null
+              },
+              {
+                "text": "112K",
+                "href": null
+              },
+              {
+                "text": "1.9K",
+                "href": null
+              },
+              {
+                "text": "28d ago",
+                "href": null
+              },
+              {
+                "text": "Which nose type do you have? 👃👀",
+                "href": null
+              },
+              {
+                "text": "open",
+                "href": "https://www.tiktok.com/@mandohq/video/7681065948685552910"
+              }
+            ],
+            [
+              {
+                "text": "29",
+                "href": null
+              },
+              {
+                "text": "@meladze_p",
+                "href": null
+              },
+              {
+                "text": "12K",
+                "href": null
+              },
+              {
+                "text": "1.4M",
+                "href": null
+              },
+              {
+                "text": "114x",
+                "href": null
+              },
+              {
+                "text": "468K",
+                "href": null
+              },
+              {
+                "text": "735",
+                "href": null
+              },
+              {
+                "text": "19d ago",
+                "href": null
+              },
+              {
+                "text": "(no caption)",
+                "href": null
+              },
+              {
+                "text": "open",
+                "href": "https://www.tiktok.com/@meladze_p/video/7684392677428694293"
+              }
+            ],
+            [
+              {
+                "text": "30",
+                "href": null
+              },
+              {
+                "text": "@globalforginghub",
+                "href": null
+              },
+              {
+                "text": "9.7K",
+                "href": null
+              },
+              {
+                "text": "596K",
+                "href": null
+              },
+              {
+                "text": "62x",
+                "href": null
+              },
+              {
+                "text": "12K",
+                "href": null
+              },
+              {
+                "text": "222",
+                "href": null
+              },
+              {
+                "text": "16d ago",
+                "href": null
+              },
+              {
+                "text": "Inside the forging factory",
+                "href": null
+              },
+              {
+                "text": "open",
+                "href": "https://www.tiktok.com/@globalforginghub/video/7685423694620970260"
+              }
+            ],
+            [
+              {
+                "text": "31",
+                "href": null
+              },
+              {
+                "text": "@user5852530661905",
+                "href": null
+              },
+              {
+                "text": "13K",
+                "href": null
+              },
+              {
+                "text": "698K",
+                "href": null
+              },
+              {
+                "text": "55x",
+                "href": null
+              },
+              {
+                "text": "19K",
+                "href": null
+              },
+              {
+                "text": "493",
+                "href": null
+              },
+              {
+                "text": "7d ago",
+                "href": null
+              },
+              {
+                "text": "(no caption)",
+                "href": null
+              },
+              {
+                "text": "open",
+                "href": "https://www.tiktok.com/@user5852530661905/video/7688906740905151762"
+              }
+            ],
+            [
+              {
+                "text": "32",
+                "href": null
+              },
+              {
+                "text": "@warpedreality99",
+                "href": null
+              },
+              {
+                "text": "11K",
+                "href": null
+              },
+              {
+                "text": "489K",
+                "href": null
+              },
+              {
+                "text": "44x",
+                "href": null
+              },
+              {
+                "text": "29K",
+                "href": null
+              },
+              {
+                "text": "1.0K",
+                "href": null
+              },
+              {
+                "text": "9d ago",
+                "href": null
+              },
+              {
+                "text": "You can choose ONE fast food bunker… which bunker are you choosing?",
+                "href": null
+              },
+              {
+                "text": "open",
+                "href": "https://www.tiktok.com/@warpedreality99/video/7688007999054499085"
+              }
+            ]
+          ]
+        }
+      ]
+    }
+  ]
+}

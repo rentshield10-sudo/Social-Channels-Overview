@@ -1,0 +1,86 @@
+{
+  "chromePath": "C:/Program Files/Google/Chrome/Application/chrome.exe",
+  "skillsDir": "C:/Users/mocha/.claude/skills",
+  "researchFiles": [
+    "C:/Users/mocha/Documents/tiktok_choice_videos.html",
+    "C:/Users/mocha/Documents/tiktok_food_choice.html",
+    "C:/Users/mocha/Documents/tiktok_ai_and_drama.html",
+    "C:/Users/mocha/Documents/tiktok_small_accounts.html"
+  ],
+  "accounts": {
+    "tiktok-insanefindz": {
+      "platform": "tiktok",
+      "name": "@insanefindz",
+      "url": "https://www.tiktok.com/@insanefindz"
+    },
+    "facebook-granny-mei": {
+      "platform": "facebook",
+      "name": "Granny Mei 72yrs Old",
+      "url": "https://www.facebook.com/profile.php?id=61594617621762"
+    },
+    "instagram-almoventures": {
+      "platform": "instagram",
+      "name": "@almoventures",
+      "url": "https://www.instagram.com/almoventures/"
+    },
+    "youtube-granny-mei": {
+      "platform": "youtube",
+      "name": "Granny-mei",
+      "url": "https://www.youtube.com/channel/UC1O2Pq3z2dX9wIbODd5TLXg"
+    },
+    "tiktok-girlsteamwin": {
+      "platform": "tiktok",
+      "name": "@25ontheway555 (GirlsTeamWin)",
+      "url": "https://www.tiktok.com/@25ontheway555"
+    },
+    "tiktok-allrizexmvm": {
+      "platform": "tiktok",
+      "name": "@allrizexmvm (ashley)",
+      "url": "https://www.tiktok.com/@allrizexmvm"
+    },
+    "threads-almoventures": {
+      "platform": "threads",
+      "name": "@almoventures",
+      "url": "https://www.threads.com/@almoventures"
+    },
+    "x-moventures999": {
+      "platform": "x",
+      "name": "@moventures999",
+      "url": "https://x.com/moventures999"
+    }
+  },
+  "skills": {
+    "tiktok": {
+      "social": true,
+      "accounts": [
+        "tiktok-insanefindz"
+      ],
+      "videoGlobs": [],
+      "note": "Posts existing videos (local folder or Drive VIDEO CONTENTS); generates none itself."
+    },
+    "mei": {
+      "social": true,
+      "accounts": [
+        "facebook-granny-mei",
+        "instagram-almoventures",
+        "youtube-granny-mei",
+        "threads-almoventures",
+        "x-moventures999"
+      ],
+      "videoGlobs": [
+        "C:/Users/mocha/Documents/UGC/MEI/VIDEOS/*/final*.mp4"
+      ]
+    },
+    "tiktokthis": {
+      "social": true,
+      "accounts": [
+        "tiktok-allrizexmvm",
+        "tiktok-girlsteamwin"
+      ],
+      "videoGlobs": [
+        "C:/Users/mocha/Documents/UGC/THIS-OR-THAT/out/*.mp4",
+        "C:/Users/mocha/Documents/UGC/THIS-OR-THAT/archive/*/*.mp4"
+      ]
+    }
+  }
+}

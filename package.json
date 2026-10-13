@@ -1,0 +1,24 @@
+{
+  "name": "social-mission-control",
+  "version": "1.0.0",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview",
+    "collect": "node scripts/collect.mjs",
+    "scrape": "node scripts/scrape.mjs",
+    "update": "node scripts/update.mjs",
+    "login": "node scripts/login.mjs"
+  },
+  "dependencies": {
+    "puppeteer-core": "^24.43.1",
+    "react": "^19.3.0",
+    "react-dom": "^19.3.0"
+  },
+  "devDependencies": {
+    "@vitejs/plugin-react": "^6.1.1",
+    "vite": "^8.3.1"
+  },
+  "type": "module",
+  "private": true
+}
