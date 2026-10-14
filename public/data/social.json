@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-14T09:05:39.647Z",
+  "updatedAt": "2026-10-14T10:05:35.070Z",
   "accounts": {
     "tiktok-insanefindz": {
       "platform": "tiktok",
@@ -604,12 +604,12 @@
           "url": "https://www.tiktok.com/@insanefindz/video/7683638288455863566"
         }
       ],
-      "avatar": "/avatars/tiktok-insanefindz.jpg?v=1791968675103",
+      "avatar": "/avatars/tiktok-insanefindz.jpg?v=1791972274186",
       "totalViews": 109286,
       "ok": true,
       "error": null,
-      "scrapedAt": "2026-10-14T09:04:14.479Z",
-      "lastSuccessAt": "2026-10-14T09:04:14.479Z"
+      "scrapedAt": "2026-10-14T10:04:14.583Z",
+      "lastSuccessAt": "2026-10-14T10:04:14.583Z"
     },
     "facebook-granny-mei": {
       "platform": "facebook",
@@ -631,7 +631,7 @@
         {
           "id": "29394005366866743",
           "title": null,
-          "views": 833,
+          "views": 834,
           "likes": null,
           "comments": null,
           "postedAt": null,
@@ -693,12 +693,12 @@
         }
       ],
       "needsLogin": false,
-      "avatar": "/avatars/facebook-granny-mei.jpg?v=1791968683779",
-      "totalViews": 2265,
+      "avatar": "/avatars/facebook-granny-mei.jpg?v=1791972282457",
+      "totalViews": 2266,
       "ok": true,
       "error": null,
-      "scrapedAt": "2026-10-14T09:04:35.258Z",
-      "lastSuccessAt": "2026-10-14T09:04:35.258Z"
+      "scrapedAt": "2026-10-14T10:04:34.359Z",
+      "lastSuccessAt": "2026-10-14T10:04:34.359Z"
     },
     "instagram-almoventures": {
       "platform": "instagram",
@@ -764,12 +764,12 @@
         }
       ],
       "needsLogin": false,
-      "avatar": "/avatars/instagram-almoventures.jpg?v=1791968689449",
+      "avatar": "/avatars/instagram-almoventures.jpg?v=1791972288193",
       "totalViews": 715,
       "ok": true,
       "error": null,
-      "scrapedAt": "2026-10-14T09:04:43.978Z",
-      "lastSuccessAt": "2026-10-14T09:04:43.978Z"
+      "scrapedAt": "2026-10-14T10:04:42.592Z",
+      "lastSuccessAt": "2026-10-14T10:04:42.592Z"
     },
     "youtube-granny-mei": {
       "platform": "youtube",
@@ -834,12 +834,12 @@
           "url": "https://www.youtube.com/shorts/AHMiVO3AGKs"
         }
       ],
-      "avatar": "/avatars/youtube-granny-mei.jpg?v=1791968690059",
+      "avatar": "/avatars/youtube-granny-mei.jpg?v=1791972288874",
       "totalViews": 2545,
       "ok": true,
       "error": null,
-      "scrapedAt": "2026-10-14T09:04:49.644Z",
-      "lastSuccessAt": "2026-10-14T09:04:49.644Z"
+      "scrapedAt": "2026-10-14T10:04:48.375Z",
+      "lastSuccessAt": "2026-10-14T10:04:48.375Z"
     },
     "tiktok-girlsteamwin": {
       "platform": "tiktok",
@@ -940,12 +940,12 @@
           "url": "https://www.tiktok.com/@25ontheway555/video/7692153175914106125"
         }
       ],
-      "avatar": "/avatars/tiktok-girlsteamwin.jpg?v=1791968709545",
+      "avatar": "/avatars/tiktok-girlsteamwin.jpg?v=1791972306715",
       "totalViews": 3194,
       "ok": true,
       "error": null,
-      "scrapedAt": "2026-10-14T09:04:50.197Z",
-      "lastSuccessAt": "2026-10-14T09:04:50.197Z"
+      "scrapedAt": "2026-10-14T10:04:48.997Z",
+      "lastSuccessAt": "2026-10-14T10:04:48.997Z"
     },
     "tiktok-allrizexmvm": {
       "platform": "tiktok",
@@ -967,7 +967,7 @@
         {
           "id": "7695498603405626637",
           "title": "We are losing girls... Team Boys is pulling ahead. Follow to help Team Girls win! #teamgirls #girlsvsboys #teamboys #fyp #viral ",
-          "views": 487,
+          "views": 488,
           "likes": 20,
           "comments": 1,
           "postedAt": "2026-10-11T19:45:19.000Z",
@@ -983,12 +983,12 @@
           "url": "https://www.tiktok.com/@allrizexmvm/video/7694780357010263310"
         }
       ],
-      "avatar": "/avatars/tiktok-allrizexmvm.jpg?v=1791968725247",
-      "totalViews": 1441,
+      "avatar": "/avatars/tiktok-allrizexmvm.jpg?v=1791972323066",
+      "totalViews": 1442,
       "ok": true,
       "error": null,
-      "scrapedAt": "2026-10-14T09:05:09.662Z",
-      "lastSuccessAt": "2026-10-14T09:05:09.662Z"
+      "scrapedAt": "2026-10-14T10:05:06.820Z",
+      "lastSuccessAt": "2026-10-14T10:05:06.820Z"
     },
     "threads-almoventures": {
       "platform": "threads",
@@ -1017,12 +1017,12 @@
           "url": "https://www.threads.com/@almoventures/post/DeTi3DlDkEE"
         }
       ],
-      "avatar": "/avatars/threads-almoventures.jpg?v=1791968728595",
+      "avatar": "/avatars/threads-almoventures.jpg?v=1791972326401",
       "totalViews": null,
       "ok": true,
       "error": null,
-      "scrapedAt": "2026-10-14T09:05:25.367Z",
-      "lastSuccessAt": "2026-10-14T09:05:25.367Z"
+      "scrapedAt": "2026-10-14T10:05:23.194Z",
+      "lastSuccessAt": "2026-10-14T10:05:23.194Z"
     },
     "x-moventures999": {
       "platform": "x",
@@ -1051,12 +1051,12 @@
           "url": "https://x.com/moventures999/status/2108822973377335460"
         }
       ],
-      "avatar": "/avatars/x-moventures999.jpg?v=1791968738459",
+      "avatar": "/avatars/x-moventures999.jpg?v=1791972333881",
       "totalViews": 5,
       "ok": true,
       "error": null,
-      "scrapedAt": "2026-10-14T09:05:28.849Z",
-      "lastSuccessAt": "2026-10-14T09:05:28.849Z"
+      "scrapedAt": "2026-10-14T10:05:26.613Z",
+      "lastSuccessAt": "2026-10-14T10:05:26.613Z"
     }
   }
 }
