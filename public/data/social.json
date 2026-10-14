@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-14T21:06:09.328Z",
+  "updatedAt": "2026-10-14T22:06:12.853Z",
   "accounts": {
     "tiktok-insanefindz": {
       "platform": "tiktok",
@@ -381,7 +381,7 @@
         {
           "id": "7686273427455347982",
           "title": "Ranking vet visits gone wrong and number 5 was the wrong pin for sure #dogs #dogsoftiktok #vetvisit #funnydogs #dogsbelike",
-          "views": 1937,
+          "views": 1941,
           "likes": 30,
           "comments": 0,
           "postedAt": "2026-09-17T11:10:00.000Z",
@@ -390,7 +390,7 @@
         {
           "id": "7686272744090111246",
           "title": "Dogs who interrupt zoom meetings and number 5 brought his ball at the worst moment #dogs #dogsoftiktok #funnydogs #doglife #dogsbelike",
-          "views": 522,
+          "views": 523,
           "likes": 40,
           "comments": 1,
           "postedAt": "2026-09-17T08:10:00.000Z",
@@ -604,12 +604,12 @@
           "url": "https://www.tiktok.com/@insanefindz/video/7683638288455863566"
         }
       ],
-      "avatar": "/avatars/tiktok-insanefindz.jpg?v=1792011890153",
-      "totalViews": 109323,
+      "avatar": "/avatars/tiktok-insanefindz.jpg?v=1792015489971",
+      "totalViews": 109328,
       "ok": true,
       "error": null,
-      "scrapedAt": "2026-10-14T21:04:24.012Z",
-      "lastSuccessAt": "2026-10-14T21:04:24.012Z"
+      "scrapedAt": "2026-10-14T22:04:22.604Z",
+      "lastSuccessAt": "2026-10-14T22:04:22.604Z"
     },
     "facebook-granny-mei": {
       "platform": "facebook",
@@ -619,6 +619,15 @@
       "likes": null,
       "posts": null,
       "videos": [
+        {
+          "id": "1077417621593171",
+          "title": null,
+          "views": 8,
+          "likes": null,
+          "comments": null,
+          "postedAt": null,
+          "url": "https://www.facebook.com/reel/1077417621593171/"
+        },
         {
           "id": "1295837789307703",
           "title": null,
@@ -693,12 +702,12 @@
         }
       ],
       "needsLogin": false,
-      "avatar": "/avatars/facebook-granny-mei.jpg?v=1792011900355",
-      "totalViews": 2274,
+      "avatar": "/avatars/facebook-granny-mei.jpg?v=1792015503473",
+      "totalViews": 2282,
       "ok": true,
       "error": null,
-      "scrapedAt": "2026-10-14T21:04:50.514Z",
-      "lastSuccessAt": "2026-10-14T21:04:50.514Z"
+      "scrapedAt": "2026-10-14T22:04:50.404Z",
+      "lastSuccessAt": "2026-10-14T22:04:50.404Z"
     },
     "instagram-almoventures": {
       "platform": "instagram",
@@ -706,8 +715,17 @@
       "url": "https://www.instagram.com/almoventures/",
       "followers": 1,
       "likes": null,
-      "posts": 6,
+      "posts": 7,
       "videos": [
+        {
+          "id": "DefXUSfCg2E",
+          "title": null,
+          "views": 0,
+          "likes": null,
+          "comments": null,
+          "postedAt": null,
+          "url": "https://www.instagram.com/reel/DefXUSfCg2E/"
+        },
         {
           "id": "DeaFNGGiAe_",
           "title": null,
@@ -764,21 +782,30 @@
         }
       ],
       "needsLogin": false,
-      "avatar": "/avatars/instagram-almoventures.jpg?v=1792011907361",
+      "avatar": "/avatars/instagram-almoventures.jpg?v=1792015511467",
       "totalViews": 717,
       "ok": true,
       "error": null,
-      "scrapedAt": "2026-10-14T21:05:00.627Z",
-      "lastSuccessAt": "2026-10-14T21:05:00.627Z"
+      "scrapedAt": "2026-10-14T22:05:03.832Z",
+      "lastSuccessAt": "2026-10-14T22:05:03.832Z"
     },
     "youtube-granny-mei": {
       "platform": "youtube",
       "name": "Granny-mei",
       "url": "https://www.youtube.com/channel/UC1O2Pq3z2dX9wIbODd5TLXg",
-      "followers": 30,
+      "followers": 31,
       "likes": null,
-      "posts": 6,
+      "posts": 7,
       "videos": [
+        {
+          "id": "jmGisFn5Cv0",
+          "title": "Granny Mei's Banana Lemon Cinnamon Smoothie for a Healthy Morning",
+          "views": 7,
+          "likes": null,
+          "comments": null,
+          "postedAt": null,
+          "url": "https://www.youtube.com/shorts/jmGisFn5Cv0"
+        },
         {
           "id": "m8h3IzmcnWM",
           "title": "Granny Mei's Turmeric Boiled Eggs for puffiness, energy and glowing skin",
@@ -834,12 +861,12 @@
           "url": "https://www.youtube.com/shorts/AHMiVO3AGKs"
         }
       ],
-      "avatar": "/avatars/youtube-granny-mei.jpg?v=1792011908108",
-      "totalViews": 2746,
+      "avatar": "/avatars/youtube-granny-mei.jpg?v=1792015512888",
+      "totalViews": 2753,
       "ok": true,
       "error": null,
-      "scrapedAt": "2026-10-14T21:05:07.557Z",
-      "lastSuccessAt": "2026-10-14T21:05:07.557Z"
+      "scrapedAt": "2026-10-14T22:05:11.668Z",
+      "lastSuccessAt": "2026-10-14T22:05:11.668Z"
     },
     "tiktok-girlsteamwin": {
       "platform": "tiktok",
@@ -940,19 +967,19 @@
           "url": "https://www.tiktok.com/@25ontheway555/video/7692153175914106125"
         }
       ],
-      "avatar": "/avatars/tiktok-girlsteamwin.jpg?v=1792011928670",
+      "avatar": "/avatars/tiktok-girlsteamwin.jpg?v=1792015537105",
       "totalViews": 3194,
       "ok": true,
       "error": null,
-      "scrapedAt": "2026-10-14T21:05:08.349Z",
-      "lastSuccessAt": "2026-10-14T21:05:08.349Z"
+      "scrapedAt": "2026-10-14T22:05:13.330Z",
+      "lastSuccessAt": "2026-10-14T22:05:13.330Z"
     },
     "tiktok-allrizexmvm": {
       "platform": "tiktok",
       "name": "@allrizexmvm (ashley)",
       "url": "https://www.tiktok.com/@allrizexmvm",
-      "followers": 49,
-      "likes": 75,
+      "followers": 51,
+      "likes": 76,
       "posts": 3,
       "videos": [
         {
@@ -967,8 +994,8 @@
         {
           "id": "7695498603405626637",
           "title": "We are losing girls... Team Boys is pulling ahead. Follow to help Team Girls win! #teamgirls #girlsvsboys #teamboys #fyp #viral ",
-          "views": 501,
-          "likes": 20,
+          "views": 542,
+          "likes": 21,
           "comments": 1,
           "postedAt": "2026-10-11T19:45:19.000Z",
           "url": "https://www.tiktok.com/@allrizexmvm/video/7695498603405626637"
@@ -983,12 +1010,12 @@
           "url": "https://www.tiktok.com/@allrizexmvm/video/7694780357010263310"
         }
       ],
-      "avatar": "/avatars/tiktok-allrizexmvm.jpg?v=1792011947585",
-      "totalViews": 1475,
+      "avatar": "/avatars/tiktok-allrizexmvm.jpg?v=1792015555921",
+      "totalViews": 1516,
       "ok": true,
       "error": null,
-      "scrapedAt": "2026-10-14T21:05:28.886Z",
-      "lastSuccessAt": "2026-10-14T21:05:28.886Z"
+      "scrapedAt": "2026-10-14T22:05:37.341Z",
+      "lastSuccessAt": "2026-10-14T22:05:37.341Z"
     },
     "threads-almoventures": {
       "platform": "threads",
@@ -996,8 +1023,17 @@
       "url": "https://www.threads.com/@almoventures",
       "followers": 0,
       "likes": null,
-      "posts": 2,
+      "posts": 3,
       "videos": [
+        {
+          "id": "DefX6JYiV4S",
+          "title": "🍌🍋 Banana + Lemon + Cinnamon Smoothie",
+          "views": null,
+          "likes": null,
+          "comments": null,
+          "postedAt": null,
+          "url": "https://www.threads.com/@almoventures/post/DefX6JYiV4S"
+        },
         {
           "id": "DeaFolgjoCK",
           "title": "Turmeric on Boiled Eggs Every Morning? Here's Why 👀🥚 Sliced boiled eggs + a sprinkle of turmeric + a squeeze of lemon ",
@@ -1017,12 +1053,12 @@
           "url": "https://www.threads.com/@almoventures/post/DeTi3DlDkEE"
         }
       ],
-      "avatar": "/avatars/threads-almoventures.jpg?v=1792011952225",
+      "avatar": "/avatars/threads-almoventures.jpg?v=1792015560335",
       "totalViews": null,
       "ok": true,
       "error": null,
-      "scrapedAt": "2026-10-14T21:05:47.807Z",
-      "lastSuccessAt": "2026-10-14T21:05:47.807Z"
+      "scrapedAt": "2026-10-14T22:05:56.144Z",
+      "lastSuccessAt": "2026-10-14T22:05:56.144Z"
     },
     "x-moventures999": {
       "platform": "x",
@@ -1032,6 +1068,15 @@
       "likes": null,
       "posts": null,
       "videos": [
+        {
+          "id": "2110487442146967660",
+          "title": "🍌🍋 Banana + Lemon + Cinnamon Smoothie One fresh banana, a teaspoon of cinnamon, juice from half a lemon and a glass of",
+          "views": 1,
+          "likes": null,
+          "comments": null,
+          "postedAt": "2026-10-14T21:46:31.825Z",
+          "url": "https://x.com/moventures999/status/2110487442146967660"
+        },
         {
           "id": "2109743049593221607",
           "title": "Turmeric on boiled eggs every morning? 👀🥚 Sliced eggs + turmeric + lemon + olive oil + black pepper, on an empty stoma",
@@ -1051,12 +1096,12 @@
           "url": "https://x.com/moventures999/status/2108822973377335460"
         }
       ],
-      "avatar": "/avatars/x-moventures999.jpg?v=1792011967636",
-      "totalViews": 5,
+      "avatar": "/avatars/x-moventures999.jpg?v=1792015571654",
+      "totalViews": 6,
       "ok": true,
       "error": null,
-      "scrapedAt": "2026-10-14T21:05:52.431Z",
-      "lastSuccessAt": "2026-10-14T21:05:52.431Z"
+      "scrapedAt": "2026-10-14T22:06:00.606Z",
+      "lastSuccessAt": "2026-10-14T22:06:00.606Z"
     }
   }
 }
