@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-14T15:05:39.420Z",
+  "updatedAt": "2026-10-14T16:05:39.945Z",
   "accounts": {
     "tiktok-insanefindz": {
       "platform": "tiktok",
@@ -48,7 +48,7 @@
         {
           "id": "7691071792005254413",
           "title": "Ranking my dogs car rides and number 3 was simply too much energy #dogs #dogsoftiktok #husky #funnydogs #dogsbelike",
-          "views": 827,
+          "views": 829,
           "likes": 134,
           "comments": 0,
           "postedAt": "2026-09-30T05:10:00.000Z",
@@ -111,7 +111,7 @@
         {
           "id": "7690721028065987854",
           "title": "Ranking police dogs trying to stay professional and number 6 lost it completely #dogs #dogsoftiktok #policedog #k9 #funnydogs",
-          "views": 344,
+          "views": 345,
           "likes": 27,
           "comments": 0,
           "postedAt": "2026-09-28T23:10:00.000Z",
@@ -120,7 +120,7 @@
         {
           "id": "7689604866171309326",
           "title": "Mom versus dad and my dog picked his side at number 5 without hesitating #dogs #dogsoftiktok #chihuahua #funnydogs #dogsbelike",
-          "views": 673,
+          "views": 674,
           "likes": 94,
           "comments": 0,
           "postedAt": "2026-09-26T11:10:00.000Z",
@@ -381,7 +381,7 @@
         {
           "id": "7686273427455347982",
           "title": "Ranking vet visits gone wrong and number 5 was the wrong pin for sure #dogs #dogsoftiktok #vetvisit #funnydogs #dogsbelike",
-          "views": 1928,
+          "views": 1931,
           "likes": 30,
           "comments": 0,
           "postedAt": "2026-09-17T11:10:00.000Z",
@@ -390,7 +390,7 @@
         {
           "id": "7686272744090111246",
           "title": "Dogs who interrupt zoom meetings and number 5 brought his ball at the worst moment #dogs #dogsoftiktok #funnydogs #doglife #dogsbelike",
-          "views": 518,
+          "views": 519,
           "likes": 40,
           "comments": 1,
           "postedAt": "2026-09-17T08:10:00.000Z",
@@ -604,12 +604,12 @@
           "url": "https://www.tiktok.com/@insanefindz/video/7683638288455863566"
         }
       ],
-      "avatar": "/avatars/tiktok-insanefindz.jpg?v=1791990278689",
-      "totalViews": 109299,
+      "avatar": "/avatars/tiktok-insanefindz.jpg?v=1791993881254",
+      "totalViews": 109307,
       "ok": true,
       "error": null,
-      "scrapedAt": "2026-10-14T15:04:18.427Z",
-      "lastSuccessAt": "2026-10-14T15:04:18.427Z"
+      "scrapedAt": "2026-10-14T16:04:21.625Z",
+      "lastSuccessAt": "2026-10-14T16:04:21.625Z"
     },
     "facebook-granny-mei": {
       "platform": "facebook",
@@ -631,7 +631,7 @@
         {
           "id": "29394005366866743",
           "title": null,
-          "views": 834,
+          "views": 838,
           "likes": null,
           "comments": null,
           "postedAt": null,
@@ -693,12 +693,12 @@
         }
       ],
       "needsLogin": false,
-      "avatar": "/avatars/facebook-granny-mei.jpg?v=1791990286430",
-      "totalViews": 2266,
+      "avatar": "/avatars/facebook-granny-mei.jpg?v=1791993889758",
+      "totalViews": 2270,
       "ok": true,
       "error": null,
-      "scrapedAt": "2026-10-14T15:04:38.868Z",
-      "lastSuccessAt": "2026-10-14T15:04:38.868Z"
+      "scrapedAt": "2026-10-14T16:04:41.428Z",
+      "lastSuccessAt": "2026-10-14T16:04:41.428Z"
     },
     "instagram-almoventures": {
       "platform": "instagram",
@@ -764,12 +764,12 @@
         }
       ],
       "needsLogin": false,
-      "avatar": "/avatars/instagram-almoventures.jpg?v=1791990292816",
+      "avatar": "/avatars/instagram-almoventures.jpg?v=1791993894662",
       "totalViews": 717,
       "ok": true,
       "error": null,
-      "scrapedAt": "2026-10-14T15:04:46.567Z",
-      "lastSuccessAt": "2026-10-14T15:04:46.567Z"
+      "scrapedAt": "2026-10-14T16:04:49.905Z",
+      "lastSuccessAt": "2026-10-14T16:04:49.905Z"
     },
     "youtube-granny-mei": {
       "platform": "youtube",
@@ -782,7 +782,7 @@
         {
           "id": "m8h3IzmcnWM",
           "title": "Granny Mei's Turmeric Boiled Eggs for puffiness, energy and glowing skin",
-          "views": 1700,
+          "views": 1800,
           "likes": null,
           "comments": null,
           "postedAt": null,
@@ -834,12 +834,12 @@
           "url": "https://www.youtube.com/shorts/AHMiVO3AGKs"
         }
       ],
-      "avatar": "/avatars/youtube-granny-mei.jpg?v=1791990293680",
-      "totalViews": 2645,
+      "avatar": "/avatars/youtube-granny-mei.jpg?v=1791993895346",
+      "totalViews": 2745,
       "ok": true,
       "error": null,
-      "scrapedAt": "2026-10-14T15:04:52.986Z",
-      "lastSuccessAt": "2026-10-14T15:04:52.986Z"
+      "scrapedAt": "2026-10-14T16:04:54.847Z",
+      "lastSuccessAt": "2026-10-14T16:04:54.847Z"
     },
     "tiktok-girlsteamwin": {
       "platform": "tiktok",
@@ -940,12 +940,12 @@
           "url": "https://www.tiktok.com/@25ontheway555/video/7692153175914106125"
         }
       ],
-      "avatar": "/avatars/tiktok-girlsteamwin.jpg?v=1791990311570",
+      "avatar": "/avatars/tiktok-girlsteamwin.jpg?v=1791993913232",
       "totalViews": 3194,
       "ok": true,
       "error": null,
-      "scrapedAt": "2026-10-14T15:04:53.786Z",
-      "lastSuccessAt": "2026-10-14T15:04:53.786Z"
+      "scrapedAt": "2026-10-14T16:04:55.483Z",
+      "lastSuccessAt": "2026-10-14T16:04:55.483Z"
     },
     "tiktok-allrizexmvm": {
       "platform": "tiktok",
@@ -976,19 +976,19 @@
         {
           "id": "7694780357010263310",
           "title": "They say nobody cares about handmade craftsmanship anymore… 💔🦈 I spent hours turning leather into this shark pencil holder, cutting, shaping, and stitching every detail by hand. Just a small creator chasing a dream of reaching 10K followers. ❤️ If you believe handmade art still deserves appreciation, your support means everything. 🙏 Would you put this shark on your desk? 🦈✏️ #LeatherCraft #LeatherWorking #Handmade #SatisfyingVideos #SmallCreator ",
-          "views": 555,
+          "views": 557,
           "likes": 40,
           "comments": 0,
           "postedAt": "2026-10-09T21:18:04.000Z",
           "url": "https://www.tiktok.com/@allrizexmvm/video/7694780357010263310"
         }
       ],
-      "avatar": "/avatars/tiktok-allrizexmvm.jpg?v=1791990328008",
-      "totalViews": 1451,
+      "avatar": "/avatars/tiktok-allrizexmvm.jpg?v=1791993929423",
+      "totalViews": 1453,
       "ok": true,
       "error": null,
-      "scrapedAt": "2026-10-14T15:05:11.722Z",
-      "lastSuccessAt": "2026-10-14T15:05:11.722Z"
+      "scrapedAt": "2026-10-14T16:05:13.371Z",
+      "lastSuccessAt": "2026-10-14T16:05:13.371Z"
     },
     "threads-almoventures": {
       "platform": "threads",
@@ -1017,12 +1017,12 @@
           "url": "https://www.threads.com/@almoventures/post/DeTi3DlDkEE"
         }
       ],
-      "avatar": "/avatars/threads-almoventures.jpg?v=1791990331267",
+      "avatar": "/avatars/threads-almoventures.jpg?v=1791993932793",
       "totalViews": null,
       "ok": true,
       "error": null,
-      "scrapedAt": "2026-10-14T15:05:28.168Z",
-      "lastSuccessAt": "2026-10-14T15:05:28.168Z"
+      "scrapedAt": "2026-10-14T16:05:29.583Z",
+      "lastSuccessAt": "2026-10-14T16:05:29.583Z"
     },
     "x-moventures999": {
       "platform": "x",
@@ -1051,12 +1051,12 @@
           "url": "https://x.com/moventures999/status/2108822973377335460"
         }
       ],
-      "avatar": "/avatars/x-moventures999.jpg?v=1791990338562",
+      "avatar": "/avatars/x-moventures999.jpg?v=1791993939129",
       "totalViews": 5,
       "ok": true,
       "error": null,
-      "scrapedAt": "2026-10-14T15:05:31.457Z",
-      "lastSuccessAt": "2026-10-14T15:05:31.457Z"
+      "scrapedAt": "2026-10-14T16:05:33.008Z",
+      "lastSuccessAt": "2026-10-14T16:05:33.008Z"
     }
   }
 }
