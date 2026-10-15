@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-15T22:06:59.488Z",
+  "updatedAt": "2026-10-15T23:05:42.763Z",
   "accounts": {
     "tiktok-insanefindz": {
       "platform": "tiktok",
@@ -129,7 +129,7 @@
         {
           "id": "7689604017504226573",
           "title": "My dog has a different personality for each parent and number 5 was clearly not you #dogs #dogsoftiktok #funnydogs #dogmom #dogsbelike",
-          "views": 580,
+          "views": 581,
           "likes": 69,
           "comments": 0,
           "postedAt": "2026-09-26T08:10:00.000Z",
@@ -604,12 +604,12 @@
           "url": "https://www.tiktok.com/@insanefindz/video/7683638288455863566"
         }
       ],
-      "avatar": "/avatars/tiktok-insanefindz.jpg?v=1792101888844",
-      "totalViews": 109393,
+      "avatar": "/avatars/tiktok-insanefindz.jpg?v=1792105481258",
+      "totalViews": 109394,
       "ok": true,
       "error": null,
-      "scrapedAt": "2026-10-15T22:04:21.963Z",
-      "lastSuccessAt": "2026-10-15T22:04:21.963Z"
+      "scrapedAt": "2026-10-15T23:04:19.905Z",
+      "lastSuccessAt": "2026-10-15T23:04:19.905Z"
     },
     "facebook-granny-mei": {
       "platform": "facebook",
@@ -619,6 +619,15 @@
       "likes": null,
       "posts": null,
       "videos": [
+        {
+          "id": "1592389962622029",
+          "title": null,
+          "views": 208,
+          "likes": null,
+          "comments": null,
+          "postedAt": null,
+          "url": "https://www.facebook.com/reel/1592389962622029/"
+        },
         {
           "id": "1077417621593171",
           "title": null,
@@ -631,7 +640,7 @@
         {
           "id": "1295837789307703",
           "title": null,
-          "views": 257,
+          "views": 259,
           "likes": null,
           "comments": null,
           "postedAt": null,
@@ -640,7 +649,7 @@
         {
           "id": "29394005366866743",
           "title": null,
-          "views": 848,
+          "views": 850,
           "likes": null,
           "comments": null,
           "postedAt": null,
@@ -702,12 +711,12 @@
         }
       ],
       "needsLogin": false,
-      "avatar": "/avatars/facebook-granny-mei.jpg?v=1792101899767",
-      "totalViews": 2502,
+      "avatar": "/avatars/facebook-granny-mei.jpg?v=1792105489947",
+      "totalViews": 2714,
       "ok": true,
       "error": null,
-      "scrapedAt": "2026-10-15T22:04:49.467Z",
-      "lastSuccessAt": "2026-10-15T22:04:49.467Z"
+      "scrapedAt": "2026-10-15T23:04:41.435Z",
+      "lastSuccessAt": "2026-10-15T23:04:41.435Z"
     },
     "instagram-almoventures": {
       "platform": "instagram",
@@ -715,28 +724,110 @@
       "url": "https://www.instagram.com/almoventures/",
       "followers": 1,
       "likes": null,
-      "posts": 7,
-      "videos": [],
+      "posts": 8,
+      "videos": [
+        {
+          "id": "DeiAU_Oi2sA",
+          "title": null,
+          "views": 8,
+          "likes": null,
+          "comments": null,
+          "postedAt": null,
+          "url": "https://www.instagram.com/reel/DeiAU_Oi2sA/"
+        },
+        {
+          "id": "DefXUSfCg2E",
+          "title": null,
+          "views": 119,
+          "likes": null,
+          "comments": null,
+          "postedAt": null,
+          "url": "https://www.instagram.com/reel/DefXUSfCg2E/"
+        },
+        {
+          "id": "DeaFNGGiAe_",
+          "title": null,
+          "views": 109,
+          "likes": null,
+          "comments": null,
+          "postedAt": null,
+          "url": "https://www.instagram.com/reel/DeaFNGGiAe_/"
+        },
+        {
+          "id": "DeSlpaoCM17",
+          "title": null,
+          "views": 126,
+          "likes": null,
+          "comments": null,
+          "postedAt": null,
+          "url": "https://www.instagram.com/reel/DeSlpaoCM17/"
+        },
+        {
+          "id": "DeIGOiJCqbh",
+          "title": null,
+          "views": 130,
+          "likes": null,
+          "comments": null,
+          "postedAt": null,
+          "url": "https://www.instagram.com/reel/DeIGOiJCqbh/"
+        },
+        {
+          "id": "DdpWy-aiwqQ",
+          "title": null,
+          "views": 70,
+          "likes": null,
+          "comments": null,
+          "postedAt": null,
+          "url": "https://www.instagram.com/reel/DdpWy-aiwqQ/"
+        },
+        {
+          "id": "DdcdS-TCFWr",
+          "title": null,
+          "views": 155,
+          "likes": null,
+          "comments": null,
+          "postedAt": null,
+          "url": "https://www.instagram.com/reel/DdcdS-TCFWr/"
+        },
+        {
+          "id": "DdZ6a2yC6EE",
+          "title": null,
+          "views": 127,
+          "likes": null,
+          "comments": null,
+          "postedAt": null,
+          "url": "https://www.instagram.com/reel/DdZ6a2yC6EE/"
+        }
+      ],
       "needsLogin": false,
-      "avatar": "/avatars/instagram-almoventures.jpg?v=1792101908642",
-      "totalViews": null,
+      "avatar": "/avatars/instagram-almoventures.jpg?v=1792105495312",
+      "totalViews": 844,
       "ok": true,
       "error": null,
-      "scrapedAt": "2026-10-15T22:05:00.778Z",
-      "lastSuccessAt": "2026-10-15T22:05:00.778Z"
+      "scrapedAt": "2026-10-15T23:04:50.094Z",
+      "lastSuccessAt": "2026-10-15T23:04:50.094Z"
     },
     "youtube-granny-mei": {
       "platform": "youtube",
       "name": "Granny-mei",
       "url": "https://www.youtube.com/channel/UC1O2Pq3z2dX9wIbODd5TLXg",
-      "followers": 41,
+      "followers": 42,
       "likes": null,
-      "posts": 7,
+      "posts": 8,
       "videos": [
+        {
+          "id": "IpWq_zm9MDs",
+          "title": "Granny Mei's 5 Simple Food Checks You Can Try at Home",
+          "views": 56,
+          "likes": null,
+          "comments": null,
+          "postedAt": null,
+          "url": "https://www.youtube.com/shorts/IpWq_zm9MDs"
+        },
         {
           "id": "jmGisFn5Cv0",
           "title": "Granny Mei's Banana Lemon Cinnamon Smoothie for a Healthy Morning",
-          "views": 997,
+          "views": 1000,
           "likes": null,
           "comments": null,
           "postedAt": null,
@@ -797,12 +888,12 @@
           "url": "https://www.youtube.com/shorts/AHMiVO3AGKs"
         }
       ],
-      "avatar": "/avatars/youtube-granny-mei.jpg?v=1792101911672",
-      "totalViews": 3968,
+      "avatar": "/avatars/youtube-granny-mei.jpg?v=1792105495901",
+      "totalViews": 4027,
       "ok": true,
       "error": null,
-      "scrapedAt": "2026-10-15T22:05:09.876Z",
-      "lastSuccessAt": "2026-10-15T22:05:09.876Z"
+      "scrapedAt": "2026-10-15T23:04:55.500Z",
+      "lastSuccessAt": "2026-10-15T23:04:55.500Z"
     },
     "tiktok-girlsteamwin": {
       "platform": "tiktok",
@@ -903,26 +994,35 @@
           "url": "https://www.tiktok.com/@25ontheway555/video/7692153175914106125"
         }
       ],
-      "avatar": "/avatars/tiktok-girlsteamwin.jpg?v=1792101944069",
+      "avatar": "/avatars/tiktok-girlsteamwin.jpg?v=1792105514098",
       "totalViews": 3195,
       "ok": true,
       "error": null,
-      "scrapedAt": "2026-10-15T22:05:12.865Z",
-      "lastSuccessAt": "2026-10-15T22:05:12.865Z"
+      "scrapedAt": "2026-10-15T23:04:56.012Z",
+      "lastSuccessAt": "2026-10-15T23:04:56.012Z"
     },
     "tiktok-allrizexmvm": {
       "platform": "tiktok",
       "name": "@allrizexmvm (ashley)",
       "url": "https://www.tiktok.com/@allrizexmvm",
-      "followers": 54,
-      "likes": 82,
-      "posts": 3,
+      "followers": 60,
+      "likes": 94,
+      "posts": 4,
       "videos": [
+        {
+          "id": "7697026236002012429",
+          "title": "Team Girls needs backup NOW... so grandma stepped in Are you Team Girls or Team Boys? Drop it below #teamgirls #teamboys #girlsvsboys #grandma #fyp",
+          "views": 320,
+          "likes": 8,
+          "comments": 0,
+          "postedAt": "2026-10-15T22:33:02.000Z",
+          "url": "https://www.tiktok.com/@allrizexmvm/video/7697026236002012429"
+        },
         {
           "id": "7696264878431980814",
           "title": "We are losing girls... Team Boys is pulling ahead. Follow to help Team Girls win! #teamgirls #girlsvsboys #teamboys #fyp #viral ",
-          "views": 418,
-          "likes": 15,
+          "views": 425,
+          "likes": 18,
           "comments": 5,
           "postedAt": "2026-10-13T21:18:35.000Z",
           "url": "https://www.tiktok.com/@allrizexmvm/video/7696264878431980814"
@@ -930,8 +1030,8 @@
         {
           "id": "7695498603405626637",
           "title": "We are losing girls... Team Boys is pulling ahead. Follow to help Team Girls win! #teamgirls #girlsvsboys #teamboys #fyp #viral ",
-          "views": 630,
-          "likes": 24,
+          "views": 654,
+          "likes": 25,
           "comments": 1,
           "postedAt": "2026-10-11T19:45:19.000Z",
           "url": "https://www.tiktok.com/@allrizexmvm/video/7695498603405626637"
@@ -939,19 +1039,19 @@
         {
           "id": "7694780357010263310",
           "title": "They say nobody cares about handmade craftsmanship anymore… 💔🦈 I spent hours turning leather into this shark pencil holder, cutting, shaping, and stitching every detail by hand. Just a small creator chasing a dream of reaching 10K followers. ❤️ If you believe handmade art still deserves appreciation, your support means everything. 🙏 Would you put this shark on your desk? 🦈✏️ #LeatherCraft #LeatherWorking #Handmade #SatisfyingVideos #SmallCreator ",
-          "views": 591,
+          "views": 597,
           "likes": 43,
           "comments": 0,
           "postedAt": "2026-10-09T21:18:04.000Z",
           "url": "https://www.tiktok.com/@allrizexmvm/video/7694780357010263310"
         }
       ],
-      "avatar": "/avatars/tiktok-allrizexmvm.jpg?v=1792101981113",
-      "totalViews": 1639,
+      "avatar": "/avatars/tiktok-allrizexmvm.jpg?v=1792105532221",
+      "totalViews": 1996,
       "ok": true,
       "error": null,
-      "scrapedAt": "2026-10-15T22:05:45.470Z",
-      "lastSuccessAt": "2026-10-15T22:05:45.470Z"
+      "scrapedAt": "2026-10-15T23:05:14.242Z",
+      "lastSuccessAt": "2026-10-15T23:05:14.242Z"
     },
     "threads-almoventures": {
       "platform": "threads",
@@ -959,8 +1059,17 @@
       "url": "https://www.threads.com/@almoventures",
       "followers": 0,
       "likes": null,
-      "posts": 3,
+      "posts": 4,
       "videos": [
+        {
+          "id": "DeiBDW0ju3o",
+          "title": "🧂🥔☕ 5 simple food checks you can try at home",
+          "views": null,
+          "likes": null,
+          "comments": null,
+          "postedAt": null,
+          "url": "https://www.threads.com/@almoventures/post/DeiBDW0ju3o"
+        },
         {
           "id": "DefX6JYiV4S",
           "title": "🍌🍋 Banana + Lemon + Cinnamon Smoothie",
@@ -978,14 +1087,23 @@
           "comments": null,
           "postedAt": null,
           "url": "https://www.threads.com/@almoventures/post/DeaFolgjoCK"
+        },
+        {
+          "id": "DeTi3DlDkEE",
+          "title": "Puffy ankles or deep sock marks? Don't ignore this 👀",
+          "views": null,
+          "likes": null,
+          "comments": null,
+          "postedAt": null,
+          "url": "https://www.threads.com/@almoventures/post/DeTi3DlDkEE"
         }
       ],
-      "avatar": "/avatars/threads-almoventures.jpg?v=1792101999969",
+      "avatar": "/avatars/threads-almoventures.jpg?v=1792105535863",
       "totalViews": null,
       "ok": true,
       "error": null,
-      "scrapedAt": "2026-10-15T22:06:22.466Z",
-      "lastSuccessAt": "2026-10-15T22:06:22.466Z"
+      "scrapedAt": "2026-10-15T23:05:32.363Z",
+      "lastSuccessAt": "2026-10-15T23:05:32.363Z"
     },
     "x-moventures999": {
       "platform": "x",
@@ -995,6 +1113,15 @@
       "likes": null,
       "posts": null,
       "videos": [
+        {
+          "id": "2110859059075453421",
+          "title": "🧂🥔☕ 5 simple food checks you can try at home How pepper, potatoes, turmeric, coffee and cinnamon look or behave can hi",
+          "views": 1,
+          "likes": null,
+          "comments": null,
+          "postedAt": "2026-10-15T22:23:12.205Z",
+          "url": "https://x.com/moventures999/status/2110859059075453421"
+        },
         {
           "id": "2110487442146967660",
           "title": "🍌🍋 Banana + Lemon + Cinnamon Smoothie One fresh banana, a teaspoon of cinnamon, juice from half a lemon and a glass of",
@@ -1023,12 +1150,12 @@
           "url": "https://x.com/moventures999/status/2108822973377335460"
         }
       ],
-      "avatar": "/avatars/x-moventures999.jpg?v=1792102017799",
-      "totalViews": 6,
+      "avatar": "/avatars/x-moventures999.jpg?v=1792105541822",
+      "totalViews": 7,
       "ok": true,
       "error": null,
-      "scrapedAt": "2026-10-15T22:06:40.915Z",
-      "lastSuccessAt": "2026-10-15T22:06:40.915Z"
+      "scrapedAt": "2026-10-15T23:05:36.012Z",
+      "lastSuccessAt": "2026-10-15T23:05:36.012Z"
     }
   }
 }
