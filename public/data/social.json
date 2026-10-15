@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-15T19:05:37.657Z",
+  "updatedAt": "2026-10-15T20:05:37.697Z",
   "accounts": {
     "tiktok-insanefindz": {
       "platform": "tiktok",
@@ -93,7 +93,7 @@
         {
           "id": "7690723396786654478",
           "title": "Ranking how dramatic my dog can get and number 3 was pure fake drama #dogs #dogsoftiktok #funnydogs #puppy #dogsbelike",
-          "views": 294,
+          "views": 295,
           "likes": 42,
           "comments": 0,
           "postedAt": "2026-09-29T05:10:00.000Z",
@@ -381,7 +381,7 @@
         {
           "id": "7686273427455347982",
           "title": "Ranking vet visits gone wrong and number 5 was the wrong pin for sure #dogs #dogsoftiktok #vetvisit #funnydogs #dogsbelike",
-          "views": 1961,
+          "views": 1963,
           "likes": 30,
           "comments": 0,
           "postedAt": "2026-09-17T11:10:00.000Z",
@@ -390,7 +390,7 @@
         {
           "id": "7686272744090111246",
           "title": "Dogs who interrupt zoom meetings and number 5 brought his ball at the worst moment #dogs #dogsoftiktok #funnydogs #doglife #dogsbelike",
-          "views": 539,
+          "views": 540,
           "likes": 42,
           "comments": 1,
           "postedAt": "2026-09-17T08:10:00.000Z",
@@ -444,7 +444,7 @@
         {
           "id": "7685890545234791693",
           "title": "Ranking police dogs at the vet and number 6 was not ready to be brave yet #dogs #dogsoftiktok #policedog #k9 #ranking #funnydogs",
-          "views": 292,
+          "views": 293,
           "likes": 24,
           "comments": 0,
           "postedAt": "2026-09-15T23:10:00.000Z",
@@ -534,7 +534,7 @@
         {
           "id": "7684045441704447245",
           "title": "I think I found THE spot and now my dog will not let me stop scratching it #dogs #dogsoftiktok #doglover #dogsbelike #ranking",
-          "views": 572,
+          "views": 573,
           "likes": 91,
           "comments": 0,
           "postedAt": "2026-09-11T14:10:00.000Z",
@@ -604,12 +604,12 @@
           "url": "https://www.tiktok.com/@insanefindz/video/7683638288455863566"
         }
       ],
-      "avatar": "/avatars/tiktok-insanefindz.jpg?v=1792091076466",
-      "totalViews": 109381,
+      "avatar": "/avatars/tiktok-insanefindz.jpg?v=1792094678419",
+      "totalViews": 109387,
       "ok": true,
       "error": null,
-      "scrapedAt": "2026-10-15T19:04:17.301Z",
-      "lastSuccessAt": "2026-10-15T19:04:17.301Z"
+      "scrapedAt": "2026-10-15T20:04:18.590Z",
+      "lastSuccessAt": "2026-10-15T20:04:18.590Z"
     },
     "facebook-granny-mei": {
       "platform": "facebook",
@@ -631,7 +631,7 @@
         {
           "id": "1295837789307703",
           "title": null,
-          "views": 256,
+          "views": 257,
           "likes": null,
           "comments": null,
           "postedAt": null,
@@ -702,12 +702,12 @@
         }
       ],
       "needsLogin": false,
-      "avatar": "/avatars/facebook-granny-mei.jpg?v=1792091085868",
-      "totalViews": 2501,
+      "avatar": "/avatars/facebook-granny-mei.jpg?v=1792094686725",
+      "totalViews": 2502,
       "ok": true,
       "error": null,
-      "scrapedAt": "2026-10-15T19:04:36.737Z",
-      "lastSuccessAt": "2026-10-15T19:04:36.737Z"
+      "scrapedAt": "2026-10-15T20:04:38.621Z",
+      "lastSuccessAt": "2026-10-15T20:04:38.621Z"
     },
     "instagram-almoventures": {
       "platform": "instagram",
@@ -782,12 +782,12 @@
         }
       ],
       "needsLogin": false,
-      "avatar": "/avatars/instagram-almoventures.jpg?v=1792091091674",
+      "avatar": "/avatars/instagram-almoventures.jpg?v=1792094691770",
       "totalViews": 836,
       "ok": true,
       "error": null,
-      "scrapedAt": "2026-10-15T19:04:46.019Z",
-      "lastSuccessAt": "2026-10-15T19:04:46.019Z"
+      "scrapedAt": "2026-10-15T20:04:47.273Z",
+      "lastSuccessAt": "2026-10-15T20:04:47.273Z"
     },
     "youtube-granny-mei": {
       "platform": "youtube",
@@ -800,7 +800,7 @@
         {
           "id": "jmGisFn5Cv0",
           "title": "Granny Mei's Banana Lemon Cinnamon Smoothie for a Healthy Morning",
-          "views": 869,
+          "views": 929,
           "likes": null,
           "comments": null,
           "postedAt": null,
@@ -861,12 +861,12 @@
           "url": "https://www.youtube.com/shorts/AHMiVO3AGKs"
         }
       ],
-      "avatar": "/avatars/youtube-granny-mei.jpg?v=1792091092418",
-      "totalViews": 3840,
+      "avatar": "/avatars/youtube-granny-mei.jpg?v=1792094692387",
+      "totalViews": 3900,
       "ok": true,
       "error": null,
-      "scrapedAt": "2026-10-15T19:04:51.842Z",
-      "lastSuccessAt": "2026-10-15T19:04:51.842Z"
+      "scrapedAt": "2026-10-15T20:04:51.938Z",
+      "lastSuccessAt": "2026-10-15T20:04:51.938Z"
     },
     "tiktok-girlsteamwin": {
       "platform": "tiktok",
@@ -967,12 +967,12 @@
           "url": "https://www.tiktok.com/@25ontheway555/video/7692153175914106125"
         }
       ],
-      "avatar": "/avatars/tiktok-girlsteamwin.jpg?v=1792091110625",
+      "avatar": "/avatars/tiktok-girlsteamwin.jpg?v=1792094710376",
       "totalViews": 3195,
       "ok": true,
       "error": null,
-      "scrapedAt": "2026-10-15T19:04:52.573Z",
-      "lastSuccessAt": "2026-10-15T19:04:52.573Z"
+      "scrapedAt": "2026-10-15T20:04:52.507Z",
+      "lastSuccessAt": "2026-10-15T20:04:52.507Z"
     },
     "tiktok-allrizexmvm": {
       "platform": "tiktok",
@@ -1003,19 +1003,19 @@
         {
           "id": "7694780357010263310",
           "title": "They say nobody cares about handmade craftsmanship anymore… 💔🦈 I spent hours turning leather into this shark pencil holder, cutting, shaping, and stitching every detail by hand. Just a small creator chasing a dream of reaching 10K followers. ❤️ If you believe handmade art still deserves appreciation, your support means everything. 🙏 Would you put this shark on your desk? 🦈✏️ #LeatherCraft #LeatherWorking #Handmade #SatisfyingVideos #SmallCreator ",
-          "views": 586,
+          "views": 587,
           "likes": 43,
           "comments": 0,
           "postedAt": "2026-10-09T21:18:04.000Z",
           "url": "https://www.tiktok.com/@allrizexmvm/video/7694780357010263310"
         }
       ],
-      "avatar": "/avatars/tiktok-allrizexmvm.jpg?v=1792091128049",
-      "totalViews": 1594,
+      "avatar": "/avatars/tiktok-allrizexmvm.jpg?v=1792094727062",
+      "totalViews": 1595,
       "ok": true,
       "error": null,
-      "scrapedAt": "2026-10-15T19:05:10.745Z",
-      "lastSuccessAt": "2026-10-15T19:05:10.745Z"
+      "scrapedAt": "2026-10-15T20:05:10.508Z",
+      "lastSuccessAt": "2026-10-15T20:05:10.508Z"
     },
     "threads-almoventures": {
       "platform": "threads",
@@ -1053,12 +1053,12 @@
           "url": "https://www.threads.com/@almoventures/post/DeTi3DlDkEE"
         }
       ],
-      "avatar": "/avatars/threads-almoventures.jpg?v=1792091131256",
+      "avatar": "/avatars/threads-almoventures.jpg?v=1792094730936",
       "totalViews": null,
       "ok": true,
       "error": null,
-      "scrapedAt": "2026-10-15T19:05:28.180Z",
-      "lastSuccessAt": "2026-10-15T19:05:28.180Z"
+      "scrapedAt": "2026-10-15T20:05:27.521Z",
+      "lastSuccessAt": "2026-10-15T20:05:27.521Z"
     },
     "x-moventures999": {
       "platform": "x",
@@ -1096,12 +1096,12 @@
           "url": "https://x.com/moventures999/status/2108822973377335460"
         }
       ],
-      "avatar": "/avatars/x-moventures999.jpg?v=1792091136822",
+      "avatar": "/avatars/x-moventures999.jpg?v=1792094736924",
       "totalViews": 6,
       "ok": true,
       "error": null,
-      "scrapedAt": "2026-10-15T19:05:31.425Z",
-      "lastSuccessAt": "2026-10-15T19:05:31.425Z"
+      "scrapedAt": "2026-10-15T20:05:31.102Z",
+      "lastSuccessAt": "2026-10-15T20:05:31.102Z"
     }
   }
 }
