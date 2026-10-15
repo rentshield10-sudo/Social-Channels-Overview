@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-15T06:05:40.071Z",
+  "updatedAt": "2026-10-15T07:05:35.063Z",
   "accounts": {
     "tiktok-insanefindz": {
       "platform": "tiktok",
@@ -381,7 +381,7 @@
         {
           "id": "7686273427455347982",
           "title": "Ranking vet visits gone wrong and number 5 was the wrong pin for sure #dogs #dogsoftiktok #vetvisit #funnydogs #dogsbelike",
-          "views": 1951,
+          "views": 1952,
           "likes": 30,
           "comments": 0,
           "postedAt": "2026-09-17T11:10:00.000Z",
@@ -489,7 +489,7 @@
         {
           "id": "7685523402114878734",
           "title": "Ranking my dogs apologies and number 5 was the least convincing sorry I have ever seen #dogs #dogsoftiktok #pug #guiltydog #ranking",
-          "views": 307,
+          "views": 308,
           "likes": 40,
           "comments": 0,
           "postedAt": "2026-09-15T02:10:00.000Z",
@@ -604,12 +604,12 @@
           "url": "https://www.tiktok.com/@insanefindz/video/7683638288455863566"
         }
       ],
-      "avatar": "/avatars/tiktok-insanefindz.jpg?v=1792044276159",
-      "totalViews": 109350,
+      "avatar": "/avatars/tiktok-insanefindz.jpg?v=1792047874041",
+      "totalViews": 109352,
       "ok": true,
       "error": null,
-      "scrapedAt": "2026-10-15T06:04:17.081Z",
-      "lastSuccessAt": "2026-10-15T06:04:17.081Z"
+      "scrapedAt": "2026-10-15T07:04:15.147Z",
+      "lastSuccessAt": "2026-10-15T07:04:15.147Z"
     },
     "facebook-granny-mei": {
       "platform": "facebook",
@@ -622,7 +622,7 @@
         {
           "id": "1077417621593171",
           "title": null,
-          "views": 199,
+          "views": 202,
           "likes": null,
           "comments": null,
           "postedAt": null,
@@ -702,12 +702,12 @@
         }
       ],
       "needsLogin": false,
-      "avatar": "/avatars/facebook-granny-mei.jpg?v=1792044285048",
-      "totalViews": 2480,
+      "avatar": "/avatars/facebook-granny-mei.jpg?v=1792047881843",
+      "totalViews": 2483,
       "ok": true,
       "error": null,
-      "scrapedAt": "2026-10-15T06:04:36.316Z",
-      "lastSuccessAt": "2026-10-15T06:04:36.316Z"
+      "scrapedAt": "2026-10-15T07:04:34.189Z",
+      "lastSuccessAt": "2026-10-15T07:04:34.189Z"
     },
     "instagram-almoventures": {
       "platform": "instagram",
@@ -782,12 +782,12 @@
         }
       ],
       "needsLogin": false,
-      "avatar": "/avatars/instagram-almoventures.jpg?v=1792044291633",
+      "avatar": "/avatars/instagram-almoventures.jpg?v=1792047889228",
       "totalViews": 835,
       "ok": true,
       "error": null,
-      "scrapedAt": "2026-10-15T06:04:45.589Z",
-      "lastSuccessAt": "2026-10-15T06:04:45.589Z"
+      "scrapedAt": "2026-10-15T07:04:42.335Z",
+      "lastSuccessAt": "2026-10-15T07:04:42.335Z"
     },
     "youtube-granny-mei": {
       "platform": "youtube",
@@ -800,7 +800,7 @@
         {
           "id": "jmGisFn5Cv0",
           "title": "Granny Mei's Banana Lemon Cinnamon Smoothie for a Healthy Morning",
-          "views": 301,
+          "views": 351,
           "likes": null,
           "comments": null,
           "postedAt": null,
@@ -827,7 +827,7 @@
         {
           "id": "MgXPzyIXiLE",
           "title": "Chia, Cinnamon & Almond Milk Drink to Stay Fuller Longer",
-          "views": 196,
+          "views": 202,
           "likes": null,
           "comments": null,
           "postedAt": null,
@@ -836,7 +836,7 @@
         {
           "id": "X-QK6ECw8rg",
           "title": "Granny Mei's Fennel, Coriander, Cumin & Ginger Tea for Bloating",
-          "views": 136,
+          "views": 139,
           "likes": null,
           "comments": null,
           "postedAt": null,
@@ -854,19 +854,19 @@
         {
           "id": "AHMiVO3AGKs",
           "title": "Granny Mei's After-Meal Fennel & Ginger Tea for a Heavy Stomach",
-          "views": 125,
+          "views": 126,
           "likes": null,
           "comments": null,
           "postedAt": null,
           "url": "https://www.youtube.com/shorts/AHMiVO3AGKs"
         }
       ],
-      "avatar": "/avatars/youtube-granny-mei.jpg?v=1792044292834",
-      "totalViews": 3151,
+      "avatar": "/avatars/youtube-granny-mei.jpg?v=1792047890048",
+      "totalViews": 3211,
       "ok": true,
       "error": null,
-      "scrapedAt": "2026-10-15T06:04:52.221Z",
-      "lastSuccessAt": "2026-10-15T06:04:52.221Z"
+      "scrapedAt": "2026-10-15T07:04:49.626Z",
+      "lastSuccessAt": "2026-10-15T07:04:49.626Z"
     },
     "tiktok-girlsteamwin": {
       "platform": "tiktok",
@@ -967,12 +967,12 @@
           "url": "https://www.tiktok.com/@25ontheway555/video/7692153175914106125"
         }
       ],
-      "avatar": "/avatars/tiktok-girlsteamwin.jpg?v=1792044310259",
+      "avatar": "/avatars/tiktok-girlsteamwin.jpg?v=1792047908289",
       "totalViews": 3195,
       "ok": true,
       "error": null,
-      "scrapedAt": "2026-10-15T06:04:53.401Z",
-      "lastSuccessAt": "2026-10-15T06:04:53.401Z"
+      "scrapedAt": "2026-10-15T07:04:50.385Z",
+      "lastSuccessAt": "2026-10-15T07:04:50.385Z"
     },
     "tiktok-allrizexmvm": {
       "platform": "tiktok",
@@ -1003,19 +1003,19 @@
         {
           "id": "7694780357010263310",
           "title": "They say nobody cares about handmade craftsmanship anymore… 💔🦈 I spent hours turning leather into this shark pencil holder, cutting, shaping, and stitching every detail by hand. Just a small creator chasing a dream of reaching 10K followers. ❤️ If you believe handmade art still deserves appreciation, your support means everything. 🙏 Would you put this shark on your desk? 🦈✏️ #LeatherCraft #LeatherWorking #Handmade #SatisfyingVideos #SmallCreator ",
-          "views": 579,
+          "views": 580,
           "likes": 42,
           "comments": 0,
           "postedAt": "2026-10-09T21:18:04.000Z",
           "url": "https://www.tiktok.com/@allrizexmvm/video/7694780357010263310"
         }
       ],
-      "avatar": "/avatars/tiktok-allrizexmvm.jpg?v=1792044326765",
-      "totalViews": 1585,
+      "avatar": "/avatars/tiktok-allrizexmvm.jpg?v=1792047924955",
+      "totalViews": 1586,
       "ok": true,
       "error": null,
-      "scrapedAt": "2026-10-15T06:05:10.552Z",
-      "lastSuccessAt": "2026-10-15T06:05:10.552Z"
+      "scrapedAt": "2026-10-15T07:05:08.618Z",
+      "lastSuccessAt": "2026-10-15T07:05:08.618Z"
     },
     "threads-almoventures": {
       "platform": "threads",
@@ -1053,12 +1053,12 @@
           "url": "https://www.threads.com/@almoventures/post/DeTi3DlDkEE"
         }
       ],
-      "avatar": "/avatars/threads-almoventures.jpg?v=1792044330367",
+      "avatar": "/avatars/threads-almoventures.jpg?v=1792047928264",
       "totalViews": null,
       "ok": true,
       "error": null,
-      "scrapedAt": "2026-10-15T06:05:27.048Z",
-      "lastSuccessAt": "2026-10-15T06:05:27.048Z"
+      "scrapedAt": "2026-10-15T07:05:25.280Z",
+      "lastSuccessAt": "2026-10-15T07:05:25.280Z"
     },
     "x-moventures999": {
       "platform": "x",
@@ -1096,12 +1096,12 @@
           "url": "https://x.com/moventures999/status/2108822973377335460"
         }
       ],
-      "avatar": "/avatars/x-moventures999.jpg?v=1792044339142",
+      "avatar": "/avatars/x-moventures999.jpg?v=1792047934069",
       "totalViews": 6,
       "ok": true,
       "error": null,
-      "scrapedAt": "2026-10-15T06:05:30.775Z",
-      "lastSuccessAt": "2026-10-15T06:05:30.775Z"
+      "scrapedAt": "2026-10-15T07:05:28.658Z",
+      "lastSuccessAt": "2026-10-15T07:05:28.658Z"
     }
   }
 }
