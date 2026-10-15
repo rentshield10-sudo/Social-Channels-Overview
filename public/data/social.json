@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-15T18:06:02.322Z",
+  "updatedAt": "2026-10-15T19:05:37.657Z",
   "accounts": {
     "tiktok-insanefindz": {
       "platform": "tiktok",
@@ -381,7 +381,7 @@
         {
           "id": "7686273427455347982",
           "title": "Ranking vet visits gone wrong and number 5 was the wrong pin for sure #dogs #dogsoftiktok #vetvisit #funnydogs #dogsbelike",
-          "views": 1959,
+          "views": 1961,
           "likes": 30,
           "comments": 0,
           "postedAt": "2026-09-17T11:10:00.000Z",
@@ -390,7 +390,7 @@
         {
           "id": "7686272744090111246",
           "title": "Dogs who interrupt zoom meetings and number 5 brought his ball at the worst moment #dogs #dogsoftiktok #funnydogs #doglife #dogsbelike",
-          "views": 538,
+          "views": 539,
           "likes": 42,
           "comments": 1,
           "postedAt": "2026-09-17T08:10:00.000Z",
@@ -604,12 +604,12 @@
           "url": "https://www.tiktok.com/@insanefindz/video/7683638288455863566"
         }
       ],
-      "avatar": "/avatars/tiktok-insanefindz.jpg?v=1792087483247",
-      "totalViews": 109378,
+      "avatar": "/avatars/tiktok-insanefindz.jpg?v=1792091076466",
+      "totalViews": 109381,
       "ok": true,
       "error": null,
-      "scrapedAt": "2026-10-15T18:04:20.182Z",
-      "lastSuccessAt": "2026-10-15T18:04:20.182Z"
+      "scrapedAt": "2026-10-15T19:04:17.301Z",
+      "lastSuccessAt": "2026-10-15T19:04:17.301Z"
     },
     "facebook-granny-mei": {
       "platform": "facebook",
@@ -631,7 +631,7 @@
         {
           "id": "1295837789307703",
           "title": null,
-          "views": 255,
+          "views": 256,
           "likes": null,
           "comments": null,
           "postedAt": null,
@@ -702,12 +702,12 @@
         }
       ],
       "needsLogin": false,
-      "avatar": "/avatars/facebook-granny-mei.jpg?v=1792087492211",
-      "totalViews": 2500,
+      "avatar": "/avatars/facebook-granny-mei.jpg?v=1792091085868",
+      "totalViews": 2501,
       "ok": true,
       "error": null,
-      "scrapedAt": "2026-10-15T18:04:43.616Z",
-      "lastSuccessAt": "2026-10-15T18:04:43.616Z"
+      "scrapedAt": "2026-10-15T19:04:36.737Z",
+      "lastSuccessAt": "2026-10-15T19:04:36.737Z"
     },
     "instagram-almoventures": {
       "platform": "instagram",
@@ -782,25 +782,25 @@
         }
       ],
       "needsLogin": false,
-      "avatar": "/avatars/instagram-almoventures.jpg?v=1792087501873",
+      "avatar": "/avatars/instagram-almoventures.jpg?v=1792091091674",
       "totalViews": 836,
       "ok": true,
       "error": null,
-      "scrapedAt": "2026-10-15T18:04:52.895Z",
-      "lastSuccessAt": "2026-10-15T18:04:52.895Z"
+      "scrapedAt": "2026-10-15T19:04:46.019Z",
+      "lastSuccessAt": "2026-10-15T19:04:46.019Z"
     },
     "youtube-granny-mei": {
       "platform": "youtube",
       "name": "Granny-mei",
       "url": "https://www.youtube.com/channel/UC1O2Pq3z2dX9wIbODd5TLXg",
-      "followers": 38,
+      "followers": 39,
       "likes": null,
       "posts": 7,
       "videos": [
         {
           "id": "jmGisFn5Cv0",
           "title": "Granny Mei's Banana Lemon Cinnamon Smoothie for a Healthy Morning",
-          "views": 712,
+          "views": 869,
           "likes": null,
           "comments": null,
           "postedAt": null,
@@ -861,12 +861,12 @@
           "url": "https://www.youtube.com/shorts/AHMiVO3AGKs"
         }
       ],
-      "avatar": "/avatars/youtube-granny-mei.jpg?v=1792087503050",
-      "totalViews": 3683,
+      "avatar": "/avatars/youtube-granny-mei.jpg?v=1792091092418",
+      "totalViews": 3840,
       "ok": true,
       "error": null,
-      "scrapedAt": "2026-10-15T18:05:02.436Z",
-      "lastSuccessAt": "2026-10-15T18:05:02.436Z"
+      "scrapedAt": "2026-10-15T19:04:51.842Z",
+      "lastSuccessAt": "2026-10-15T19:04:51.842Z"
     },
     "tiktok-girlsteamwin": {
       "platform": "tiktok",
@@ -967,12 +967,12 @@
           "url": "https://www.tiktok.com/@25ontheway555/video/7692153175914106125"
         }
       ],
-      "avatar": "/avatars/tiktok-girlsteamwin.jpg?v=1792087528363",
+      "avatar": "/avatars/tiktok-girlsteamwin.jpg?v=1792091110625",
       "totalViews": 3195,
       "ok": true,
       "error": null,
-      "scrapedAt": "2026-10-15T18:05:03.565Z",
-      "lastSuccessAt": "2026-10-15T18:05:03.565Z"
+      "scrapedAt": "2026-10-15T19:04:52.573Z",
+      "lastSuccessAt": "2026-10-15T19:04:52.573Z"
     },
     "tiktok-allrizexmvm": {
       "platform": "tiktok",
@@ -1010,12 +1010,12 @@
           "url": "https://www.tiktok.com/@allrizexmvm/video/7694780357010263310"
         }
       ],
-      "avatar": "/avatars/tiktok-allrizexmvm.jpg?v=1792087547110",
+      "avatar": "/avatars/tiktok-allrizexmvm.jpg?v=1792091128049",
       "totalViews": 1594,
       "ok": true,
       "error": null,
-      "scrapedAt": "2026-10-15T18:05:28.915Z",
-      "lastSuccessAt": "2026-10-15T18:05:28.915Z"
+      "scrapedAt": "2026-10-15T19:05:10.745Z",
+      "lastSuccessAt": "2026-10-15T19:05:10.745Z"
     },
     "threads-almoventures": {
       "platform": "threads",
@@ -1053,12 +1053,12 @@
           "url": "https://www.threads.com/@almoventures/post/DeTi3DlDkEE"
         }
       ],
-      "avatar": "/avatars/threads-almoventures.jpg?v=1792087551062",
+      "avatar": "/avatars/threads-almoventures.jpg?v=1792091131256",
       "totalViews": null,
       "ok": true,
       "error": null,
-      "scrapedAt": "2026-10-15T18:05:47.601Z",
-      "lastSuccessAt": "2026-10-15T18:05:47.601Z"
+      "scrapedAt": "2026-10-15T19:05:28.180Z",
+      "lastSuccessAt": "2026-10-15T19:05:28.180Z"
     },
     "x-moventures999": {
       "platform": "x",
@@ -1096,12 +1096,12 @@
           "url": "https://x.com/moventures999/status/2108822973377335460"
         }
       ],
-      "avatar": "/avatars/x-moventures999.jpg?v=1792087561098",
+      "avatar": "/avatars/x-moventures999.jpg?v=1792091136822",
       "totalViews": 6,
       "ok": true,
       "error": null,
-      "scrapedAt": "2026-10-15T18:05:51.543Z",
-      "lastSuccessAt": "2026-10-15T18:05:51.543Z"
+      "scrapedAt": "2026-10-15T19:05:31.425Z",
+      "lastSuccessAt": "2026-10-15T19:05:31.425Z"
     }
   }
 }
