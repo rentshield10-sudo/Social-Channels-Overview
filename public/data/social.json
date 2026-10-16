@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-16T05:05:40.438Z",
+  "updatedAt": "2026-10-16T06:05:36.246Z",
   "accounts": {
     "tiktok-insanefindz": {
       "platform": "tiktok",
@@ -381,7 +381,7 @@
         {
           "id": "7686273427455347982",
           "title": "Ranking vet visits gone wrong and number 5 was the wrong pin for sure #dogs #dogsoftiktok #vetvisit #funnydogs #dogsbelike",
-          "views": 1972,
+          "views": 1975,
           "likes": 30,
           "comments": 0,
           "postedAt": "2026-09-17T11:10:00.000Z",
@@ -390,7 +390,7 @@
         {
           "id": "7686272744090111246",
           "title": "Dogs who interrupt zoom meetings and number 5 brought his ball at the worst moment #dogs #dogsoftiktok #funnydogs #doglife #dogsbelike",
-          "views": 549,
+          "views": 551,
           "likes": 42,
           "comments": 1,
           "postedAt": "2026-09-17T08:10:00.000Z",
@@ -498,7 +498,7 @@
         {
           "id": "7684418374494965005",
           "title": "When your parents say time to get out of the pool and the slomo on number 4 got me #dogs #dogsoftiktok #goldenretriever #funnydogs",
-          "views": 478,
+          "views": 479,
           "likes": 63,
           "comments": 0,
           "postedAt": "2026-09-12T11:10:00.000Z",
@@ -604,12 +604,12 @@
           "url": "https://www.tiktok.com/@insanefindz/video/7683638288455863566"
         }
       ],
-      "avatar": "/avatars/tiktok-insanefindz.jpg?v=1792127081879",
-      "totalViews": 109413,
+      "avatar": "/avatars/tiktok-insanefindz.jpg?v=1792130677062",
+      "totalViews": 109419,
       "ok": true,
       "error": null,
-      "scrapedAt": "2026-10-16T05:04:22.836Z",
-      "lastSuccessAt": "2026-10-16T05:04:22.836Z"
+      "scrapedAt": "2026-10-16T06:04:17.630Z",
+      "lastSuccessAt": "2026-10-16T06:04:17.630Z"
     },
     "facebook-granny-mei": {
       "platform": "facebook",
@@ -622,7 +622,7 @@
         {
           "id": "1592389962622029",
           "title": null,
-          "views": 407,
+          "views": 420,
           "likes": null,
           "comments": null,
           "postedAt": null,
@@ -711,12 +711,12 @@
         }
       ],
       "needsLogin": false,
-      "avatar": "/avatars/facebook-granny-mei.jpg?v=1792127090312",
-      "totalViews": 2923,
+      "avatar": "/avatars/facebook-granny-mei.jpg?v=1792130685130",
+      "totalViews": 2936,
       "ok": true,
       "error": null,
-      "scrapedAt": "2026-10-16T05:04:42.100Z",
-      "lastSuccessAt": "2026-10-16T05:04:42.100Z"
+      "scrapedAt": "2026-10-16T06:04:37.197Z",
+      "lastSuccessAt": "2026-10-16T06:04:37.197Z"
     },
     "instagram-almoventures": {
       "platform": "instagram",
@@ -729,7 +729,7 @@
         {
           "id": "DeiAU_Oi2sA",
           "title": null,
-          "views": 33,
+          "views": 38,
           "likes": null,
           "comments": null,
           "postedAt": null,
@@ -800,25 +800,25 @@
         }
       ],
       "needsLogin": false,
-      "avatar": "/avatars/instagram-almoventures.jpg?v=1792127094946",
-      "totalViews": 869,
+      "avatar": "/avatars/instagram-almoventures.jpg?v=1792130690400",
+      "totalViews": 874,
       "ok": true,
       "error": null,
-      "scrapedAt": "2026-10-16T05:04:50.478Z",
-      "lastSuccessAt": "2026-10-16T05:04:50.478Z"
+      "scrapedAt": "2026-10-16T06:04:45.336Z",
+      "lastSuccessAt": "2026-10-16T06:04:45.336Z"
     },
     "youtube-granny-mei": {
       "platform": "youtube",
       "name": "Granny-mei",
       "url": "https://www.youtube.com/channel/UC1O2Pq3z2dX9wIbODd5TLXg",
-      "followers": 53,
+      "followers": 52,
       "likes": null,
       "posts": 8,
       "videos": [
         {
           "id": "IpWq_zm9MDs",
           "title": "Granny Mei's 5 Simple Food Checks You Can Try at Home",
-          "views": 801,
+          "views": 1100,
           "likes": null,
           "comments": null,
           "postedAt": null,
@@ -845,7 +845,7 @@
         {
           "id": "SCc0wfdQkGI",
           "title": "Puffy Ankles or Deep Sock Marks? Don't Ignore This",
-          "views": 477,
+          "views": 484,
           "likes": null,
           "comments": null,
           "postedAt": null,
@@ -863,7 +863,7 @@
         {
           "id": "X-QK6ECw8rg",
           "title": "Granny Mei's Fennel, Coriander, Cumin & Ginger Tea for Bloating",
-          "views": 145,
+          "views": 148,
           "likes": null,
           "comments": null,
           "postedAt": null,
@@ -881,19 +881,19 @@
         {
           "id": "AHMiVO3AGKs",
           "title": "Granny Mei's After-Meal Fennel & Ginger Tea for a Heavy Stomach",
-          "views": 130,
+          "views": 134,
           "likes": null,
           "comments": null,
           "postedAt": null,
           "url": "https://www.youtube.com/shorts/AHMiVO3AGKs"
         }
       ],
-      "avatar": "/avatars/youtube-granny-mei.jpg?v=1792123490626",
-      "totalViews": 5103,
-      "ok": false,
-      "error": "no ytInitialData (HTTP 200)",
-      "scrapedAt": "2026-10-16T05:04:55.099Z",
-      "lastSuccessAt": "2026-10-16T04:04:50.206Z"
+      "avatar": "/avatars/youtube-granny-mei.jpg?v=1792130690872",
+      "totalViews": 5416,
+      "ok": true,
+      "error": null,
+      "scrapedAt": "2026-10-16T06:04:50.533Z",
+      "lastSuccessAt": "2026-10-16T06:04:50.533Z"
     },
     "tiktok-girlsteamwin": {
       "platform": "tiktok",
@@ -994,19 +994,19 @@
           "url": "https://www.tiktok.com/@25ontheway555/video/7692153175914106125"
         }
       ],
-      "avatar": "/avatars/tiktok-girlsteamwin.jpg?v=1792127112365",
+      "avatar": "/avatars/tiktok-girlsteamwin.jpg?v=1792130709089",
       "totalViews": 3195,
       "ok": true,
       "error": null,
-      "scrapedAt": "2026-10-16T05:04:55.465Z",
-      "lastSuccessAt": "2026-10-16T05:04:55.465Z"
+      "scrapedAt": "2026-10-16T06:04:50.996Z",
+      "lastSuccessAt": "2026-10-16T06:04:50.996Z"
     },
     "tiktok-allrizexmvm": {
       "platform": "tiktok",
       "name": "@allrizexmvm (ashley)",
       "url": "https://www.tiktok.com/@allrizexmvm",
       "followers": 65,
-      "likes": 102,
+      "likes": 103,
       "posts": 4,
       "videos": [
         {
@@ -1039,19 +1039,19 @@
         {
           "id": "7694780357010263310",
           "title": "They say nobody cares about handmade craftsmanship anymore… 💔🦈 I spent hours turning leather into this shark pencil holder, cutting, shaping, and stitching every detail by hand. Just a small creator chasing a dream of reaching 10K followers. ❤️ If you believe handmade art still deserves appreciation, your support means everything. 🙏 Would you put this shark on your desk? 🦈✏️ #LeatherCraft #LeatherWorking #Handmade #SatisfyingVideos #SmallCreator ",
-          "views": 688,
-          "likes": 47,
+          "views": 693,
+          "likes": 48,
           "comments": 0,
           "postedAt": "2026-10-09T21:18:04.000Z",
           "url": "https://www.tiktok.com/@allrizexmvm/video/7694780357010263310"
         }
       ],
-      "avatar": "/avatars/tiktok-allrizexmvm.jpg?v=1792127128675",
-      "totalViews": 2147,
+      "avatar": "/avatars/tiktok-allrizexmvm.jpg?v=1792130725359",
+      "totalViews": 2152,
       "ok": true,
       "error": null,
-      "scrapedAt": "2026-10-16T05:05:12.484Z",
-      "lastSuccessAt": "2026-10-16T05:05:12.484Z"
+      "scrapedAt": "2026-10-16T06:05:09.199Z",
+      "lastSuccessAt": "2026-10-16T06:05:09.199Z"
     },
     "threads-almoventures": {
       "platform": "threads",
@@ -1098,12 +1098,12 @@
           "url": "https://www.threads.com/@almoventures/post/DeTi3DlDkEE"
         }
       ],
-      "avatar": "/avatars/threads-almoventures.jpg?v=1792127131960",
+      "avatar": "/avatars/threads-almoventures.jpg?v=1792130728574",
       "totalViews": null,
       "ok": true,
       "error": null,
-      "scrapedAt": "2026-10-16T05:05:28.803Z",
-      "lastSuccessAt": "2026-10-16T05:05:28.803Z"
+      "scrapedAt": "2026-10-16T06:05:25.470Z",
+      "lastSuccessAt": "2026-10-16T06:05:25.470Z"
     },
     "x-moventures999": {
       "platform": "x",
@@ -1150,12 +1150,12 @@
           "url": "https://x.com/moventures999/status/2108822973377335460"
         }
       ],
-      "avatar": "/avatars/x-moventures999.jpg?v=1792127139638",
+      "avatar": "/avatars/x-moventures999.jpg?v=1792130735459",
       "totalViews": 7,
       "ok": true,
       "error": null,
-      "scrapedAt": "2026-10-16T05:05:32.138Z",
-      "lastSuccessAt": "2026-10-16T05:05:32.138Z"
+      "scrapedAt": "2026-10-16T06:05:28.722Z",
+      "lastSuccessAt": "2026-10-16T06:05:28.722Z"
     }
   }
 }
