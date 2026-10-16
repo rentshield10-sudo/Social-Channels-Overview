@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-16T08:05:36.758Z",
+  "updatedAt": "2026-10-16T09:06:09.089Z",
   "accounts": {
     "tiktok-insanefindz": {
       "platform": "tiktok",
@@ -604,12 +604,12 @@
           "url": "https://www.tiktok.com/@insanefindz/video/7683638288455863566"
         }
       ],
-      "avatar": "/avatars/tiktok-insanefindz.jpg?v=1792137876593",
+      "avatar": "/avatars/tiktok-insanefindz.jpg?v=1792141490954",
       "totalViews": 109422,
       "ok": true,
       "error": null,
-      "scrapedAt": "2026-10-16T08:04:17.583Z",
-      "lastSuccessAt": "2026-10-16T08:04:17.583Z"
+      "scrapedAt": "2026-10-16T09:04:26.050Z",
+      "lastSuccessAt": "2026-10-16T09:04:26.050Z"
     },
     "facebook-granny-mei": {
       "platform": "facebook",
@@ -622,7 +622,7 @@
         {
           "id": "1592389962622029",
           "title": null,
-          "views": 474,
+          "views": 484,
           "likes": null,
           "comments": null,
           "postedAt": null,
@@ -711,12 +711,12 @@
         }
       ],
       "needsLogin": false,
-      "avatar": "/avatars/facebook-granny-mei.jpg?v=1792137884981",
-      "totalViews": 2990,
+      "avatar": "/avatars/facebook-granny-mei.jpg?v=1792141502034",
+      "totalViews": 3000,
       "ok": true,
       "error": null,
-      "scrapedAt": "2026-10-16T08:04:36.772Z",
-      "lastSuccessAt": "2026-10-16T08:04:36.772Z"
+      "scrapedAt": "2026-10-16T09:04:51.247Z",
+      "lastSuccessAt": "2026-10-16T09:04:51.247Z"
     },
     "instagram-almoventures": {
       "platform": "instagram",
@@ -729,7 +729,7 @@
         {
           "id": "DeiAU_Oi2sA",
           "title": null,
-          "views": 41,
+          "views": 45,
           "likes": null,
           "comments": null,
           "postedAt": null,
@@ -800,12 +800,12 @@
         }
       ],
       "needsLogin": false,
-      "avatar": "/avatars/instagram-almoventures.jpg?v=1792137889372",
-      "totalViews": 877,
+      "avatar": "/avatars/instagram-almoventures.jpg?v=1792141510131",
+      "totalViews": 881,
       "ok": true,
       "error": null,
-      "scrapedAt": "2026-10-16T08:04:45.098Z",
-      "lastSuccessAt": "2026-10-16T08:04:45.098Z"
+      "scrapedAt": "2026-10-16T09:05:02.271Z",
+      "lastSuccessAt": "2026-10-16T09:05:02.271Z"
     },
     "youtube-granny-mei": {
       "platform": "youtube",
@@ -881,19 +881,19 @@
         {
           "id": "AHMiVO3AGKs",
           "title": "Granny Mei's After-Meal Fennel & Ginger Tea for a Heavy Stomach",
-          "views": 134,
+          "views": 137,
           "likes": null,
           "comments": null,
           "postedAt": null,
           "url": "https://www.youtube.com/shorts/AHMiVO3AGKs"
         }
       ],
-      "avatar": "/avatars/youtube-granny-mei.jpg?v=1792137890025",
-      "totalViews": 5426,
+      "avatar": "/avatars/youtube-granny-mei.jpg?v=1792141511071",
+      "totalViews": 5429,
       "ok": true,
       "error": null,
-      "scrapedAt": "2026-10-16T08:04:49.545Z",
-      "lastSuccessAt": "2026-10-16T08:04:49.545Z"
+      "scrapedAt": "2026-10-16T09:05:10.416Z",
+      "lastSuccessAt": "2026-10-16T09:05:10.416Z"
     },
     "tiktok-girlsteamwin": {
       "platform": "tiktok",
@@ -994,12 +994,12 @@
           "url": "https://www.tiktok.com/@25ontheway555/video/7692153175914106125"
         }
       ],
-      "avatar": "/avatars/tiktok-girlsteamwin.jpg?v=1792137908143",
+      "avatar": "/avatars/tiktok-girlsteamwin.jpg?v=1792141532537",
       "totalViews": 3195,
       "ok": true,
       "error": null,
-      "scrapedAt": "2026-10-16T08:04:50.151Z",
-      "lastSuccessAt": "2026-10-16T08:04:50.151Z"
+      "scrapedAt": "2026-10-16T09:05:11.548Z",
+      "lastSuccessAt": "2026-10-16T09:05:11.548Z"
     },
     "tiktok-allrizexmvm": {
       "platform": "tiktok",
@@ -1046,12 +1046,12 @@
           "url": "https://www.tiktok.com/@allrizexmvm/video/7694780357010263310"
         }
       ],
-      "avatar": "/avatars/tiktok-allrizexmvm.jpg?v=1792137926126",
+      "avatar": "/avatars/tiktok-allrizexmvm.jpg?v=1792141553527",
       "totalViews": 2152,
       "ok": true,
       "error": null,
-      "scrapedAt": "2026-10-16T08:05:08.269Z",
-      "lastSuccessAt": "2026-10-16T08:05:08.269Z"
+      "scrapedAt": "2026-10-16T09:05:32.863Z",
+      "lastSuccessAt": "2026-10-16T09:05:32.863Z"
     },
     "threads-almoventures": {
       "platform": "threads",
@@ -1098,12 +1098,12 @@
           "url": "https://www.threads.com/@almoventures/post/DeTi3DlDkEE"
         }
       ],
-      "avatar": "/avatars/threads-almoventures.jpg?v=1792137929757",
+      "avatar": "/avatars/threads-almoventures.jpg?v=1792141558314",
       "totalViews": null,
       "ok": true,
       "error": null,
-      "scrapedAt": "2026-10-16T08:05:26.264Z",
-      "lastSuccessAt": "2026-10-16T08:05:26.264Z"
+      "scrapedAt": "2026-10-16T09:05:53.791Z",
+      "lastSuccessAt": "2026-10-16T09:05:53.791Z"
     },
     "x-moventures999": {
       "platform": "x",
@@ -1150,12 +1150,12 @@
           "url": "https://x.com/moventures999/status/2108822973377335460"
         }
       ],
-      "avatar": "/avatars/x-moventures999.jpg?v=1792137936023",
+      "avatar": "/avatars/x-moventures999.jpg?v=1792141567643",
       "totalViews": 7,
       "ok": true,
       "error": null,
-      "scrapedAt": "2026-10-16T08:05:29.935Z",
-      "lastSuccessAt": "2026-10-16T08:05:29.935Z"
+      "scrapedAt": "2026-10-16T09:05:58.723Z",
+      "lastSuccessAt": "2026-10-16T09:05:58.723Z"
     }
   }
 }
