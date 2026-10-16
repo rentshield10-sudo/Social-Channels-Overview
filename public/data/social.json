@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-16T12:07:47.125Z",
+  "updatedAt": "2026-10-16T13:05:46.156Z",
   "accounts": {
     "tiktok-insanefindz": {
       "platform": "tiktok",
@@ -381,7 +381,7 @@
         {
           "id": "7686273427455347982",
           "title": "Ranking vet visits gone wrong and number 5 was the wrong pin for sure #dogs #dogsoftiktok #vetvisit #funnydogs #dogsbelike",
-          "views": 1977,
+          "views": 1978,
           "likes": 30,
           "comments": 0,
           "postedAt": "2026-09-17T11:10:00.000Z",
@@ -604,12 +604,12 @@
           "url": "https://www.tiktok.com/@insanefindz/video/7683638288455863566"
         }
       ],
-      "avatar": "/avatars/tiktok-insanefindz.jpg?v=1792152292769",
-      "totalViews": 109428,
+      "avatar": "/avatars/tiktok-insanefindz.jpg?v=1792155881998",
+      "totalViews": 109429,
       "ok": true,
       "error": null,
-      "scrapedAt": "2026-10-16T12:04:25.430Z",
-      "lastSuccessAt": "2026-10-16T12:04:25.430Z"
+      "scrapedAt": "2026-10-16T13:04:18.849Z",
+      "lastSuccessAt": "2026-10-16T13:04:18.849Z"
     },
     "facebook-granny-mei": {
       "platform": "facebook",
@@ -622,7 +622,7 @@
         {
           "id": "1592389962622029",
           "title": null,
-          "views": 491,
+          "views": 492,
           "likes": null,
           "comments": null,
           "postedAt": null,
@@ -711,12 +711,12 @@
         }
       ],
       "needsLogin": false,
-      "avatar": "/avatars/facebook-granny-mei.jpg?v=1792152307342",
-      "totalViews": 3010,
+      "avatar": "/avatars/facebook-granny-mei.jpg?v=1792155890741",
+      "totalViews": 3011,
       "ok": true,
       "error": null,
-      "scrapedAt": "2026-10-16T12:04:53.405Z",
-      "lastSuccessAt": "2026-10-16T12:04:53.405Z"
+      "scrapedAt": "2026-10-16T13:04:42.239Z",
+      "lastSuccessAt": "2026-10-16T13:04:42.239Z"
     },
     "instagram-almoventures": {
       "platform": "instagram",
@@ -725,14 +725,87 @@
       "followers": 1,
       "likes": null,
       "posts": 8,
-      "videos": [],
+      "videos": [
+        {
+          "id": "DeiAU_Oi2sA",
+          "title": null,
+          "views": 53,
+          "likes": null,
+          "comments": null,
+          "postedAt": null,
+          "url": "https://www.instagram.com/reel/DeiAU_Oi2sA/"
+        },
+        {
+          "id": "DefXUSfCg2E",
+          "title": null,
+          "views": 119,
+          "likes": null,
+          "comments": null,
+          "postedAt": null,
+          "url": "https://www.instagram.com/reel/DefXUSfCg2E/"
+        },
+        {
+          "id": "DeaFNGGiAe_",
+          "title": null,
+          "views": 109,
+          "likes": null,
+          "comments": null,
+          "postedAt": null,
+          "url": "https://www.instagram.com/reel/DeaFNGGiAe_/"
+        },
+        {
+          "id": "DeSlpaoCM17",
+          "title": null,
+          "views": 126,
+          "likes": null,
+          "comments": null,
+          "postedAt": null,
+          "url": "https://www.instagram.com/reel/DeSlpaoCM17/"
+        },
+        {
+          "id": "DeIGOiJCqbh",
+          "title": null,
+          "views": 130,
+          "likes": null,
+          "comments": null,
+          "postedAt": null,
+          "url": "https://www.instagram.com/reel/DeIGOiJCqbh/"
+        },
+        {
+          "id": "DdpWy-aiwqQ",
+          "title": null,
+          "views": 70,
+          "likes": null,
+          "comments": null,
+          "postedAt": null,
+          "url": "https://www.instagram.com/reel/DdpWy-aiwqQ/"
+        },
+        {
+          "id": "DdcdS-TCFWr",
+          "title": null,
+          "views": 155,
+          "likes": null,
+          "comments": null,
+          "postedAt": null,
+          "url": "https://www.instagram.com/reel/DdcdS-TCFWr/"
+        },
+        {
+          "id": "DdZ6a2yC6EE",
+          "title": null,
+          "views": 127,
+          "likes": null,
+          "comments": null,
+          "postedAt": null,
+          "url": "https://www.instagram.com/reel/DdZ6a2yC6EE/"
+        }
+      ],
       "needsLogin": false,
-      "avatar": "/avatars/instagram-almoventures.jpg?v=1792152350665",
-      "totalViews": null,
+      "avatar": "/avatars/instagram-almoventures.jpg?v=1792155896875",
+      "totalViews": 889,
       "ok": true,
       "error": null,
-      "scrapedAt": "2026-10-16T12:05:13.919Z",
-      "lastSuccessAt": "2026-10-16T12:05:13.919Z"
+      "scrapedAt": "2026-10-16T13:04:50.909Z",
+      "lastSuccessAt": "2026-10-16T13:04:50.909Z"
     },
     "youtube-granny-mei": {
       "platform": "youtube",
@@ -815,12 +888,12 @@
           "url": "https://www.youtube.com/shorts/AHMiVO3AGKs"
         }
       ],
-      "avatar": "/avatars/youtube-granny-mei.jpg?v=1792152355975",
+      "avatar": "/avatars/youtube-granny-mei.jpg?v=1792155897595",
       "totalViews": 5529,
       "ok": true,
       "error": null,
-      "scrapedAt": "2026-10-16T12:05:52.988Z",
-      "lastSuccessAt": "2026-10-16T12:05:52.988Z"
+      "scrapedAt": "2026-10-16T13:04:57.039Z",
+      "lastSuccessAt": "2026-10-16T13:04:57.039Z"
     },
     "tiktok-girlsteamwin": {
       "platform": "tiktok",
@@ -921,12 +994,12 @@
           "url": "https://www.tiktok.com/@25ontheway555/video/7692153175914106125"
         }
       ],
-      "avatar": "/avatars/tiktok-girlsteamwin.jpg?v=1792152422480",
+      "avatar": "/avatars/tiktok-girlsteamwin.jpg?v=1792155916340",
       "totalViews": 3195,
       "ok": true,
       "error": null,
-      "scrapedAt": "2026-10-16T12:05:58.110Z",
-      "lastSuccessAt": "2026-10-16T12:05:58.110Z"
+      "scrapedAt": "2026-10-16T13:04:57.785Z",
+      "lastSuccessAt": "2026-10-16T13:04:57.785Z"
     },
     "tiktok-allrizexmvm": {
       "platform": "tiktok",
@@ -973,12 +1046,12 @@
           "url": "https://www.tiktok.com/@allrizexmvm/video/7694780357010263310"
         }
       ],
-      "avatar": "/avatars/tiktok-allrizexmvm.jpg?v=1792152450470",
+      "avatar": "/avatars/tiktok-allrizexmvm.jpg?v=1792155932778",
       "totalViews": 2152,
       "ok": true,
       "error": null,
-      "scrapedAt": "2026-10-16T12:07:03.204Z",
-      "lastSuccessAt": "2026-10-16T12:07:03.204Z"
+      "scrapedAt": "2026-10-16T13:05:16.473Z",
+      "lastSuccessAt": "2026-10-16T13:05:16.473Z"
     },
     "threads-almoventures": {
       "platform": "threads",
@@ -1005,14 +1078,32 @@
           "comments": null,
           "postedAt": null,
           "url": "https://www.threads.com/@almoventures/post/DefX6JYiV4S"
+        },
+        {
+          "id": "DeaFolgjoCK",
+          "title": "Turmeric on Boiled Eggs Every Morning? Here's Why 👀🥚 Sliced boiled eggs + a sprinkle of turmeric + a squeeze of lemon ",
+          "views": null,
+          "likes": null,
+          "comments": null,
+          "postedAt": null,
+          "url": "https://www.threads.com/@almoventures/post/DeaFolgjoCK"
+        },
+        {
+          "id": "DeTi3DlDkEE",
+          "title": "Puffy ankles or deep sock marks? Don't ignore this 👀",
+          "views": null,
+          "likes": null,
+          "comments": null,
+          "postedAt": null,
+          "url": "https://www.threads.com/@almoventures/post/DeTi3DlDkEE"
         }
       ],
-      "avatar": "/avatars/threads-almoventures.jpg?v=1792152455199",
+      "avatar": "/avatars/threads-almoventures.jpg?v=1792155936786",
       "totalViews": null,
       "ok": true,
       "error": null,
-      "scrapedAt": "2026-10-16T12:07:30.715Z",
-      "lastSuccessAt": "2026-10-16T12:07:30.715Z"
+      "scrapedAt": "2026-10-16T13:05:32.972Z",
+      "lastSuccessAt": "2026-10-16T13:05:32.972Z"
     },
     "x-moventures999": {
       "platform": "x",
@@ -1059,12 +1150,12 @@
           "url": "https://x.com/moventures999/status/2108822973377335460"
         }
       ],
-      "avatar": "/avatars/x-moventures999.jpg?v=1792152465485",
+      "avatar": "/avatars/x-moventures999.jpg?v=1792155945338",
       "totalViews": 7,
       "ok": true,
       "error": null,
-      "scrapedAt": "2026-10-16T12:07:35.886Z",
-      "lastSuccessAt": "2026-10-16T12:07:35.886Z"
+      "scrapedAt": "2026-10-16T13:05:36.933Z",
+      "lastSuccessAt": "2026-10-16T13:05:36.933Z"
     }
   }
 }
