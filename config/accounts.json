@@ -81,6 +81,35 @@
         "C:/Users/mocha/Documents/UGC/THIS-OR-THAT/out/*.mp4",
         "C:/Users/mocha/Documents/UGC/THIS-OR-THAT/archive/*/*.mp4"
       ]
+    },
+    "marta": {
+      "social": true,
+      "accounts": [],
+      "videoGlobs": [
+        "C:/Users/mocha/Documents/LONGFORM/MARTA/*/final.mp4",
+        "C:/Users/mocha/Documents/LONGFORM/MARTA/*/preview.mp4"
+      ],
+      "note": "YouTube channel blackpepperstory: 2D cut-out horror, 3 short stories per full video. Channel warming up, posting from ~next week (link pending)."
+    },
+    "chubbypinkwhale": {
+      "social": true,
+      "accounts": [],
+      "videoGlobs": [
+        "C:/Users/mocha/Documents/LONGFORM/ChubbyPinkWhale/*/final*.mp4"
+      ],
+      "note": "YouTube channel ChubbyPinkWhale: \"How rich is X?\" net-worth documentaries (link pending)."
+    },
+    "ronald": {
+      "social": false,
+      "accounts": [],
+      "videoGlobs": [],
+      "note": "Creates new long-form channels and holds the shared pipeline. Channels: blackpepperstory (horror), lost1out (celebrity death compilations, coming), ChubbyPinkWhale."
+    },
+    "alice": {
+      "social": false,
+      "accounts": [],
+      "videoGlobs": [],
+      "note": "Thumbnails for every channel (blackpepperstory, lost1out, ChubbyPinkWhale): competitor research, 2-3 options per video, monitors public views and asks before replacing a thumbnail."
     }
   }
 }

@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-16T21:04:18.384Z",
+  "generatedAt": "2026-10-16T21:46:44.145Z",
   "skills": [
     {
       "id": "tiktok",
@@ -269,6 +269,104 @@
           "driveId": "1Gf_H8Unkvfeoq14nHE1LHvhx8Tc7rac9"
         }
       ]
+    },
+    {
+      "id": "marta",
+      "installed": true,
+      "description": "Use when making flat 2D cut-out (\"paper puppet\") animation by code for any channel — character/background asset sets from Nano Banana Pro, rigging parts (arm swings, darting pupils, mouth swaps, bob-walk), building scenes, or the dashboard's 2D Animation page.",
+      "accounts": [],
+      "note": "YouTube channel blackpepperstory: 2D cut-out horror, 3 short stories per full video. Channel warming up, posting from ~next week (link pending).",
+      "videos": [
+        {
+          "file": "final.mp4",
+          "folder": "C:\\Users\\mocha\\Documents\\LONGFORM\\MARTA\\pilot-03",
+          "path": "C:/Users/mocha/Documents/LONGFORM/MARTA/pilot-03/final.mp4",
+          "sizeMB": 918.5,
+          "modified": "2026-10-16T20:46:08.349Z",
+          "driveId": null
+        },
+        {
+          "file": "preview.mp4",
+          "folder": "C:\\Users\\mocha\\Documents\\LONGFORM\\MARTA\\pilot-03",
+          "path": "C:/Users/mocha/Documents/LONGFORM/MARTA/pilot-03/preview.mp4",
+          "sizeMB": 4.8,
+          "modified": "2026-10-16T20:02:01.627Z",
+          "driveId": null
+        },
+        {
+          "file": "final.mp4",
+          "folder": "C:\\Users\\mocha\\Documents\\LONGFORM\\MARTA\\pilot-02",
+          "path": "C:/Users/mocha/Documents/LONGFORM/MARTA/pilot-02/final.mp4",
+          "sizeMB": 1557.2,
+          "modified": "2026-10-16T10:49:06.837Z",
+          "driveId": null
+        },
+        {
+          "file": "preview.mp4",
+          "folder": "C:\\Users\\mocha\\Documents\\LONGFORM\\MARTA\\pilot-01",
+          "path": "C:/Users/mocha/Documents/LONGFORM/MARTA/pilot-01/preview.mp4",
+          "sizeMB": 6.1,
+          "modified": "2026-10-15T16:13:15.266Z",
+          "driveId": null
+        },
+        {
+          "file": "final.mp4",
+          "folder": "C:\\Users\\mocha\\Documents\\LONGFORM\\MARTA\\pilot-01",
+          "path": "C:/Users/mocha/Documents/LONGFORM/MARTA/pilot-01/final.mp4",
+          "sizeMB": 1378.1,
+          "modified": "2026-10-15T15:17:28.155Z",
+          "driveId": null
+        }
+      ]
+    },
+    {
+      "id": "chubbypinkwhale",
+      "installed": true,
+      "description": "Use when Moe asks for a ChubbyPinkWhale video, a \"How rich is X?\" celebrity net-worth documentary (\"do Kevin Hart next\"), or wants to continue, fix or re-render The Rock or another ChubbyPinkWhale video.",
+      "accounts": [],
+      "note": "YouTube channel ChubbyPinkWhale: \"How rich is X?\" net-worth documentaries (link pending).",
+      "videos": [
+        {
+          "file": "final-360p.mp4",
+          "folder": "C:\\Users\\mocha\\Documents\\LONGFORM\\ChubbyPinkWhale\\the-rock-v2",
+          "path": "C:/Users/mocha/Documents/LONGFORM/ChubbyPinkWhale/the-rock-v2/final-360p.mp4",
+          "sizeMB": 14.4,
+          "modified": "2026-10-13T16:33:45.331Z",
+          "driveId": null
+        },
+        {
+          "file": "final.mp4",
+          "folder": "C:\\Users\\mocha\\Documents\\LONGFORM\\ChubbyPinkWhale\\the-rock-v2",
+          "path": "C:/Users/mocha/Documents/LONGFORM/ChubbyPinkWhale/the-rock-v2/final.mp4",
+          "sizeMB": 1416.9,
+          "modified": "2026-10-13T14:20:11.694Z",
+          "driveId": null
+        },
+        {
+          "file": "final.mp4",
+          "folder": "C:\\Users\\mocha\\Documents\\LONGFORM\\ChubbyPinkWhale\\the-rock",
+          "path": "C:/Users/mocha/Documents/LONGFORM/ChubbyPinkWhale/the-rock/final.mp4",
+          "sizeMB": 910.3,
+          "modified": "2026-10-12T22:31:07.430Z",
+          "driveId": null
+        }
+      ]
+    },
+    {
+      "id": "ronald",
+      "installed": true,
+      "description": "Use when Moe wants to start a new long-form YouTube channel or documentary series, says \"ronald\" or \"new channel\", wants a channel skill created, or asks how the shared long-form pipeline works (script, Kokoro voice, Commons photos, HyperFrames chapters, 4K render, ACE-Step music). Also use when a channel skill (e.g. chubbypinkwhale) says to follow ronald's core pipeline.",
+      "accounts": [],
+      "note": "Creates new long-form channels and holds the shared pipeline. Channels: blackpepperstory (horror), lost1out (celebrity death compilations, coming), ChubbyPinkWhale.",
+      "videos": []
+    },
+    {
+      "id": "alice",
+      "installed": true,
+      "description": "Use when making, choosing, researching or replacing a YouTube thumbnail for any of Moe's channels (blackpepperstory, lost1out, ChubbyPinkWhale, or a new one), or when checking how live videos are doing and whether a thumbnail should be swapped.",
+      "accounts": [],
+      "note": "Thumbnails for every channel (blackpepperstory, lost1out, ChubbyPinkWhale): competitor research, 2-3 options per video, monitors public views and asks before replacing a thumbnail.",
+      "videos": []
     }
   ]
 }
