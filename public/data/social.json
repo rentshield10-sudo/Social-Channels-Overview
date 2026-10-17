@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-17T11:05:46.802Z",
+  "updatedAt": "2026-10-17T12:05:43.644Z",
   "accounts": {
     "tiktok-insanefindz": {
       "platform": "tiktok",
@@ -372,7 +372,7 @@
         {
           "id": "7686274063056112910",
           "title": "Ranking the ways my dog comforts me and number 5 putting his paw in my hand healed something #dogs #dogsoftiktok #goldenretriever #doglover #doglife",
-          "views": 546,
+          "views": 548,
           "likes": 66,
           "comments": 1,
           "postedAt": "2026-09-17T14:10:00.000Z",
@@ -381,7 +381,7 @@
         {
           "id": "7686273427455347982",
           "title": "Ranking vet visits gone wrong and number 5 was the wrong pin for sure #dogs #dogsoftiktok #vetvisit #funnydogs #dogsbelike",
-          "views": 2026,
+          "views": 2028,
           "likes": 30,
           "comments": 0,
           "postedAt": "2026-09-17T11:10:00.000Z",
@@ -604,12 +604,12 @@
           "url": "https://www.tiktok.com/@insanefindz/video/7683638288455863566"
         }
       ],
-      "avatar": "/avatars/tiktok-insanefindz.jpg?v=1792235080523",
-      "totalViews": 109613,
+      "avatar": "/avatars/tiktok-insanefindz.jpg?v=1792238679625",
+      "totalViews": 109617,
       "ok": true,
       "error": null,
-      "scrapedAt": "2026-10-17T11:04:19.012Z",
-      "lastSuccessAt": "2026-10-17T11:04:19.012Z"
+      "scrapedAt": "2026-10-17T12:04:18.993Z",
+      "lastSuccessAt": "2026-10-17T12:04:18.993Z"
     },
     "facebook-granny-mei": {
       "platform": "facebook",
@@ -711,12 +711,12 @@
         }
       ],
       "needsLogin": false,
-      "avatar": "/avatars/facebook-granny-mei.jpg?v=1792235089962",
+      "avatar": "/avatars/facebook-granny-mei.jpg?v=1792238689010",
       "totalViews": 3532,
       "ok": true,
       "error": null,
-      "scrapedAt": "2026-10-17T11:04:40.816Z",
-      "lastSuccessAt": "2026-10-17T11:04:40.816Z"
+      "scrapedAt": "2026-10-17T12:04:39.824Z",
+      "lastSuccessAt": "2026-10-17T12:04:39.824Z"
     },
     "instagram-almoventures": {
       "platform": "instagram",
@@ -800,12 +800,12 @@
         }
       ],
       "needsLogin": false,
-      "avatar": "/avatars/instagram-almoventures.jpg?v=1792235096288",
+      "avatar": "/avatars/instagram-almoventures.jpg?v=1792238694553",
       "totalViews": 903,
       "ok": true,
       "error": null,
-      "scrapedAt": "2026-10-17T11:04:50.182Z",
-      "lastSuccessAt": "2026-10-17T11:04:50.182Z"
+      "scrapedAt": "2026-10-17T12:04:49.204Z",
+      "lastSuccessAt": "2026-10-17T12:04:49.204Z"
     },
     "youtube-granny-mei": {
       "platform": "youtube",
@@ -872,7 +872,7 @@
         {
           "id": "T785UI3VgH8",
           "title": "Granny Mei's Chamomile, Apple & Cinnamon Evening Tea to Wind Down",
-          "views": 41,
+          "views": 42,
           "likes": null,
           "comments": null,
           "postedAt": null,
@@ -888,12 +888,12 @@
           "url": "https://www.youtube.com/shorts/AHMiVO3AGKs"
         }
       ],
-      "avatar": "/avatars/youtube-granny-mei.jpg?v=1792235097094",
-      "totalViews": 5637,
+      "avatar": "/avatars/youtube-granny-mei.jpg?v=1792238695267",
+      "totalViews": 5638,
       "ok": true,
       "error": null,
-      "scrapedAt": "2026-10-17T11:04:56.497Z",
-      "lastSuccessAt": "2026-10-17T11:04:56.497Z"
+      "scrapedAt": "2026-10-17T12:04:54.746Z",
+      "lastSuccessAt": "2026-10-17T12:04:54.746Z"
     },
     "tiktok-girlsteamwin": {
       "platform": "tiktok",
@@ -994,12 +994,12 @@
           "url": "https://www.tiktok.com/@25ontheway555/video/7692153175914106125"
         }
       ],
-      "avatar": "/avatars/tiktok-girlsteamwin.jpg?v=1792235116383",
+      "avatar": "/avatars/tiktok-girlsteamwin.jpg?v=1792238714330",
       "totalViews": 3196,
       "ok": true,
       "error": null,
-      "scrapedAt": "2026-10-17T11:04:57.357Z",
-      "lastSuccessAt": "2026-10-17T11:04:57.357Z"
+      "scrapedAt": "2026-10-17T12:04:55.482Z",
+      "lastSuccessAt": "2026-10-17T12:04:55.482Z"
     },
     "tiktok-allrizexmvm": {
       "platform": "tiktok",
@@ -1046,12 +1046,12 @@
           "url": "https://www.tiktok.com/@allrizexmvm/video/7694780357010263310"
         }
       ],
-      "avatar": "/avatars/tiktok-allrizexmvm.jpg?v=1792235133913",
+      "avatar": "/avatars/tiktok-allrizexmvm.jpg?v=1792238732370",
       "totalViews": 2177,
       "ok": true,
       "error": null,
-      "scrapedAt": "2026-10-17T11:05:16.562Z",
-      "lastSuccessAt": "2026-10-17T11:05:16.562Z"
+      "scrapedAt": "2026-10-17T12:05:14.523Z",
+      "lastSuccessAt": "2026-10-17T12:05:14.523Z"
     },
     "threads-almoventures": {
       "platform": "threads",
@@ -1098,12 +1098,12 @@
           "url": "https://www.threads.com/@almoventures/post/DeTi3DlDkEE"
         }
       ],
-      "avatar": "/avatars/threads-almoventures.jpg?v=1792235138333",
+      "avatar": "/avatars/threads-almoventures.jpg?v=1792238736549",
       "totalViews": null,
       "ok": true,
       "error": null,
-      "scrapedAt": "2026-10-17T11:05:34.098Z",
-      "lastSuccessAt": "2026-10-17T11:05:34.098Z"
+      "scrapedAt": "2026-10-17T12:05:32.579Z",
+      "lastSuccessAt": "2026-10-17T12:05:32.579Z"
     },
     "x-moventures999": {
       "platform": "x",
@@ -1150,12 +1150,12 @@
           "url": "https://x.com/moventures999/status/2108822973377335460"
         }
       ],
-      "avatar": "/avatars/x-moventures999.jpg?v=1792235145753",
+      "avatar": "/avatars/x-moventures999.jpg?v=1792238742721",
       "totalViews": 7,
       "ok": true,
       "error": null,
-      "scrapedAt": "2026-10-17T11:05:38.522Z",
-      "lastSuccessAt": "2026-10-17T11:05:38.522Z"
+      "scrapedAt": "2026-10-17T12:05:36.700Z",
+      "lastSuccessAt": "2026-10-17T12:05:36.700Z"
     }
   }
 }
