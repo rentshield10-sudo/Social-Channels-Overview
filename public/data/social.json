@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-17T22:06:53.345Z",
+  "updatedAt": "2026-10-17T23:06:31.530Z",
   "accounts": {
     "tiktok-insanefindz": {
       "platform": "tiktok",
@@ -165,7 +165,7 @@
         {
           "id": "7689219551195663630",
           "title": "My dog woke me up at 3 AM and number 6 was the roughest wake up of them all #dogs #dogsoftiktok #funnydogs #doglife #dogreactions",
-          "views": 350,
+          "views": 351,
           "likes": 37,
           "comments": 0,
           "postedAt": "2026-09-25T08:10:00.000Z",
@@ -354,7 +354,7 @@
         {
           "id": "7686643680001805582",
           "title": "Ranking my dogs stair moments and number 5 turned it into a full ball slide #dogs #dogsoftiktok #funnydogs #dogsbelike #ranking",
-          "views": 304,
+          "views": 305,
           "likes": 16,
           "comments": 0,
           "postedAt": "2026-09-18T05:10:00.000Z",
@@ -381,7 +381,7 @@
         {
           "id": "7686273427455347982",
           "title": "Ranking vet visits gone wrong and number 5 was the wrong pin for sure #dogs #dogsoftiktok #vetvisit #funnydogs #dogsbelike",
-          "views": 2067,
+          "views": 2069,
           "likes": 30,
           "comments": 0,
           "postedAt": "2026-09-17T11:10:00.000Z",
@@ -604,12 +604,12 @@
           "url": "https://www.tiktok.com/@insanefindz/video/7683638288455863566"
         }
       ],
-      "avatar": "/avatars/tiktok-insanefindz.jpg?v=1792274711334",
-      "totalViews": 109672,
+      "avatar": "/avatars/tiktok-insanefindz.jpg?v=1792278303080",
+      "totalViews": 109676,
       "ok": true,
       "error": null,
-      "scrapedAt": "2026-10-17T22:04:29.852Z",
-      "lastSuccessAt": "2026-10-17T22:04:29.852Z"
+      "scrapedAt": "2026-10-17T23:04:30.244Z",
+      "lastSuccessAt": "2026-10-17T23:04:30.244Z"
     },
     "facebook-granny-mei": {
       "platform": "facebook",
@@ -618,105 +618,14 @@
       "followers": 13,
       "likes": null,
       "posts": null,
-      "videos": [
-        {
-          "id": "28787922367559626",
-          "title": null,
-          "views": 291,
-          "likes": null,
-          "comments": null,
-          "postedAt": null,
-          "url": "https://www.facebook.com/reel/28787922367559626/"
-        },
-        {
-          "id": "1592389962622029",
-          "title": null,
-          "views": 1000,
-          "likes": null,
-          "comments": null,
-          "postedAt": null,
-          "url": "https://www.facebook.com/reel/1592389962622029/"
-        },
-        {
-          "id": "1077417621593171",
-          "title": null,
-          "views": 210,
-          "likes": null,
-          "comments": null,
-          "postedAt": null,
-          "url": "https://www.facebook.com/reel/1077417621593171/"
-        },
-        {
-          "id": "1295837789307703",
-          "title": null,
-          "views": 269,
-          "likes": null,
-          "comments": null,
-          "postedAt": null,
-          "url": "https://www.facebook.com/reel/1295837789307703/"
-        },
-        {
-          "id": "29394005366866743",
-          "title": null,
-          "views": 864,
-          "likes": null,
-          "comments": null,
-          "postedAt": null,
-          "url": "https://www.facebook.com/reel/29394005366866743/"
-        },
-        {
-          "id": "1115581677635947",
-          "title": null,
-          "views": 271,
-          "likes": null,
-          "comments": null,
-          "postedAt": null,
-          "url": "https://www.facebook.com/reel/1115581677635947/"
-        },
-        {
-          "id": "1076674435211812",
-          "title": null,
-          "views": 147,
-          "likes": null,
-          "comments": null,
-          "postedAt": null,
-          "url": "https://www.facebook.com/reel/1076674435211812/"
-        },
-        {
-          "id": "1433890571972450",
-          "title": null,
-          "views": 327,
-          "likes": null,
-          "comments": null,
-          "postedAt": null,
-          "url": "https://www.facebook.com/reel/1433890571972450/"
-        },
-        {
-          "id": "1405523777604178",
-          "title": null,
-          "views": 208,
-          "likes": null,
-          "comments": null,
-          "postedAt": null,
-          "url": "https://www.facebook.com/reel/1405523777604178/"
-        },
-        {
-          "id": "38379606531654238",
-          "title": null,
-          "views": 254,
-          "likes": null,
-          "comments": null,
-          "postedAt": null,
-          "url": "https://www.facebook.com/reel/38379606531654238/"
-        }
-      ],
+      "videos": [],
       "needsLogin": false,
-      "avatar": "/avatars/facebook-granny-mei.jpg?v=1792274725169",
-      "totalViews": 3841,
+      "avatar": "/avatars/facebook-granny-mei.jpg?v=1792278314608",
+      "totalViews": null,
       "ok": true,
       "error": null,
-      "scrapedAt": "2026-10-17T22:05:11.747Z",
-      "lastSuccessAt": "2026-10-17T22:05:11.747Z"
+      "scrapedAt": "2026-10-17T23:05:03.706Z",
+      "lastSuccessAt": "2026-10-17T23:05:03.706Z"
     },
     "instagram-almoventures": {
       "platform": "instagram",
@@ -725,109 +634,27 @@
       "followers": 1,
       "likes": null,
       "posts": 9,
-      "videos": [
-        {
-          "id": "Dem1iXSCtrL",
-          "title": null,
-          "views": 127,
-          "likes": null,
-          "comments": null,
-          "postedAt": null,
-          "url": "https://www.instagram.com/reel/Dem1iXSCtrL/"
-        },
-        {
-          "id": "DeiAU_Oi2sA",
-          "title": null,
-          "views": 67,
-          "likes": null,
-          "comments": null,
-          "postedAt": null,
-          "url": "https://www.instagram.com/reel/DeiAU_Oi2sA/"
-        },
-        {
-          "id": "DefXUSfCg2E",
-          "title": null,
-          "views": 119,
-          "likes": null,
-          "comments": null,
-          "postedAt": null,
-          "url": "https://www.instagram.com/reel/DefXUSfCg2E/"
-        },
-        {
-          "id": "DeaFNGGiAe_",
-          "title": null,
-          "views": 109,
-          "likes": null,
-          "comments": null,
-          "postedAt": null,
-          "url": "https://www.instagram.com/reel/DeaFNGGiAe_/"
-        },
-        {
-          "id": "DeSlpaoCM17",
-          "title": null,
-          "views": 126,
-          "likes": null,
-          "comments": null,
-          "postedAt": null,
-          "url": "https://www.instagram.com/reel/DeSlpaoCM17/"
-        },
-        {
-          "id": "DeIGOiJCqbh",
-          "title": null,
-          "views": 130,
-          "likes": null,
-          "comments": null,
-          "postedAt": null,
-          "url": "https://www.instagram.com/reel/DeIGOiJCqbh/"
-        },
-        {
-          "id": "DdpWy-aiwqQ",
-          "title": null,
-          "views": 70,
-          "likes": null,
-          "comments": null,
-          "postedAt": null,
-          "url": "https://www.instagram.com/reel/DdpWy-aiwqQ/"
-        },
-        {
-          "id": "DdcdS-TCFWr",
-          "title": null,
-          "views": 155,
-          "likes": null,
-          "comments": null,
-          "postedAt": null,
-          "url": "https://www.instagram.com/reel/DdcdS-TCFWr/"
-        },
-        {
-          "id": "DdZ6a2yC6EE",
-          "title": null,
-          "views": 127,
-          "likes": null,
-          "comments": null,
-          "postedAt": null,
-          "url": "https://www.instagram.com/reel/DdZ6a2yC6EE/"
-        }
-      ],
+      "videos": [],
       "needsLogin": false,
-      "avatar": "/avatars/instagram-almoventures.jpg?v=1792274734033",
-      "totalViews": 1030,
+      "avatar": "/avatars/instagram-almoventures.jpg?v=1792278322240",
+      "totalViews": null,
       "ok": true,
       "error": null,
-      "scrapedAt": "2026-10-17T22:05:26.211Z",
-      "lastSuccessAt": "2026-10-17T22:05:26.211Z"
+      "scrapedAt": "2026-10-17T23:05:15.648Z",
+      "lastSuccessAt": "2026-10-17T23:05:15.648Z"
     },
     "youtube-granny-mei": {
       "platform": "youtube",
       "name": "Granny-mei",
       "url": "https://www.youtube.com/channel/UC1O2Pq3z2dX9wIbODd5TLXg",
-      "followers": 71,
+      "followers": 72,
       "likes": null,
       "posts": 9,
       "videos": [
         {
           "id": "D-S-38QNhEk",
           "title": "Granny Mei's Blueberry Lime Cinnamon Smoothie for a Happy Gut",
-          "views": 626,
+          "views": 796,
           "likes": null,
           "comments": null,
           "postedAt": null,
@@ -881,7 +708,7 @@
         {
           "id": "X-QK6ECw8rg",
           "title": "Granny Mei's Fennel, Coriander, Cumin & Ginger Tea for Bloating",
-          "views": 151,
+          "views": 152,
           "likes": null,
           "comments": null,
           "postedAt": null,
@@ -890,7 +717,7 @@
         {
           "id": "T785UI3VgH8",
           "title": "Granny Mei's Chamomile, Apple & Cinnamon Evening Tea to Wind Down",
-          "views": 42,
+          "views": 44,
           "likes": null,
           "comments": null,
           "postedAt": null,
@@ -906,12 +733,12 @@
           "url": "https://www.youtube.com/shorts/AHMiVO3AGKs"
         }
       ],
-      "avatar": "/avatars/youtube-granny-mei.jpg?v=1792274735520",
-      "totalViews": 6373,
+      "avatar": "/avatars/youtube-granny-mei.jpg?v=1792278323824",
+      "totalViews": 6546,
       "ok": true,
       "error": null,
-      "scrapedAt": "2026-10-17T22:05:34.780Z",
-      "lastSuccessAt": "2026-10-17T22:05:34.780Z"
+      "scrapedAt": "2026-10-17T23:05:22.789Z",
+      "lastSuccessAt": "2026-10-17T23:05:22.789Z"
     },
     "tiktok-girlsteamwin": {
       "platform": "tiktok",
@@ -1012,19 +839,19 @@
           "url": "https://www.tiktok.com/@25ontheway555/video/7692153175914106125"
         }
       ],
-      "avatar": "/avatars/tiktok-girlsteamwin.jpg?v=1792274763235",
+      "avatar": "/avatars/tiktok-girlsteamwin.jpg?v=1792278346811",
       "totalViews": 3196,
       "ok": true,
       "error": null,
-      "scrapedAt": "2026-10-17T22:05:36.245Z",
-      "lastSuccessAt": "2026-10-17T22:05:36.245Z"
+      "scrapedAt": "2026-10-17T23:05:24.562Z",
+      "lastSuccessAt": "2026-10-17T23:05:24.562Z"
     },
     "tiktok-allrizexmvm": {
       "platform": "tiktok",
       "name": "@allrizexmvm (ashley)",
       "url": "https://www.tiktok.com/@allrizexmvm",
-      "followers": 68,
-      "likes": 105,
+      "followers": 69,
+      "likes": 106,
       "posts": 4,
       "videos": [
         {
@@ -1048,8 +875,8 @@
         {
           "id": "7695498603405626637",
           "title": "We are losing girls... Team Boys is pulling ahead. Follow to help Team Girls win! #teamgirls #girlsvsboys #teamboys #fyp #viral ",
-          "views": 692,
-          "likes": 26,
+          "views": 693,
+          "likes": 27,
           "comments": 1,
           "postedAt": "2026-10-11T19:45:19.000Z",
           "url": "https://www.tiktok.com/@allrizexmvm/video/7695498603405626637"
@@ -1064,12 +891,12 @@
           "url": "https://www.tiktok.com/@allrizexmvm/video/7694780357010263310"
         }
       ],
-      "avatar": "/avatars/tiktok-allrizexmvm.jpg?v=1792274787469",
-      "totalViews": 2197,
+      "avatar": "/avatars/tiktok-allrizexmvm.jpg?v=1792278367265",
+      "totalViews": 2198,
       "ok": true,
       "error": null,
-      "scrapedAt": "2026-10-17T22:06:05.021Z",
-      "lastSuccessAt": "2026-10-17T22:06:05.021Z"
+      "scrapedAt": "2026-10-17T23:05:47.187Z",
+      "lastSuccessAt": "2026-10-17T23:05:47.187Z"
     },
     "threads-almoventures": {
       "platform": "threads",
@@ -1116,12 +943,12 @@
           "url": "https://www.threads.com/@almoventures/post/DeaFolgjoCK"
         }
       ],
-      "avatar": "/avatars/threads-almoventures.jpg?v=1792274794764",
+      "avatar": "/avatars/threads-almoventures.jpg?v=1792278373000",
       "totalViews": null,
       "ok": true,
       "error": null,
-      "scrapedAt": "2026-10-17T22:06:29.000Z",
-      "lastSuccessAt": "2026-10-17T22:06:29.000Z"
+      "scrapedAt": "2026-10-17T23:06:07.633Z",
+      "lastSuccessAt": "2026-10-17T23:06:07.633Z"
     },
     "x-moventures999": {
       "platform": "x",
@@ -1177,12 +1004,12 @@
           "url": "https://x.com/moventures999/status/2108822973377335460"
         }
       ],
-      "avatar": "/avatars/x-moventures999.jpg?v=1792274806448",
+      "avatar": "/avatars/x-moventures999.jpg?v=1792278385201",
       "totalViews": 8,
       "ok": true,
       "error": null,
-      "scrapedAt": "2026-10-17T22:06:35.904Z",
-      "lastSuccessAt": "2026-10-17T22:06:35.904Z"
+      "scrapedAt": "2026-10-17T23:06:13.278Z",
+      "lastSuccessAt": "2026-10-17T23:06:13.278Z"
     }
   }
 }
