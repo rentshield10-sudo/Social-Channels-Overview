@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-17T13:05:43.209Z",
+  "updatedAt": "2026-10-17T14:05:45.137Z",
   "accounts": {
     "tiktok-insanefindz": {
       "platform": "tiktok",
@@ -336,7 +336,7 @@
         {
           "id": "7686644931343109389",
           "title": "Pappa dog meeting his pups for the first time and number 6 had him asking what are those #dogs #dogsoftiktok #puppies #dogdad #doglife",
-          "views": 440,
+          "views": 441,
           "likes": 60,
           "comments": 1,
           "postedAt": "2026-09-18T11:10:00.000Z",
@@ -381,7 +381,7 @@
         {
           "id": "7686273427455347982",
           "title": "Ranking vet visits gone wrong and number 5 was the wrong pin for sure #dogs #dogsoftiktok #vetvisit #funnydogs #dogsbelike",
-          "views": 2034,
+          "views": 2037,
           "likes": 30,
           "comments": 0,
           "postedAt": "2026-09-17T11:10:00.000Z",
@@ -604,12 +604,12 @@
           "url": "https://www.tiktok.com/@insanefindz/video/7683638288455863566"
         }
       ],
-      "avatar": "/avatars/tiktok-insanefindz.jpg?v=1792242279844",
-      "totalViews": 109623,
+      "avatar": "/avatars/tiktok-insanefindz.jpg?v=1792245879831",
+      "totalViews": 109627,
       "ok": true,
       "error": null,
-      "scrapedAt": "2026-10-17T13:04:19.432Z",
-      "lastSuccessAt": "2026-10-17T13:04:19.432Z"
+      "scrapedAt": "2026-10-17T14:04:18.804Z",
+      "lastSuccessAt": "2026-10-17T14:04:18.804Z"
     },
     "facebook-granny-mei": {
       "platform": "facebook",
@@ -658,7 +658,7 @@
         {
           "id": "1115581677635947",
           "title": null,
-          "views": 268,
+          "views": 269,
           "likes": null,
           "comments": null,
           "postedAt": null,
@@ -711,12 +711,12 @@
         }
       ],
       "needsLogin": false,
-      "avatar": "/avatars/facebook-granny-mei.jpg?v=1792242289222",
-      "totalViews": 3532,
+      "avatar": "/avatars/facebook-granny-mei.jpg?v=1792245889162",
+      "totalViews": 3533,
       "ok": true,
       "error": null,
-      "scrapedAt": "2026-10-17T13:04:40.095Z",
-      "lastSuccessAt": "2026-10-17T13:04:40.095Z"
+      "scrapedAt": "2026-10-17T14:04:40.250Z",
+      "lastSuccessAt": "2026-10-17T14:04:40.250Z"
     },
     "instagram-almoventures": {
       "platform": "instagram",
@@ -800,12 +800,12 @@
         }
       ],
       "needsLogin": false,
-      "avatar": "/avatars/instagram-almoventures.jpg?v=1792242294510",
+      "avatar": "/avatars/instagram-almoventures.jpg?v=1792245894359",
       "totalViews": 903,
       "ok": true,
       "error": null,
-      "scrapedAt": "2026-10-17T13:04:49.370Z",
-      "lastSuccessAt": "2026-10-17T13:04:49.370Z"
+      "scrapedAt": "2026-10-17T14:04:49.663Z",
+      "lastSuccessAt": "2026-10-17T14:04:49.663Z"
     },
     "youtube-granny-mei": {
       "platform": "youtube",
@@ -854,7 +854,7 @@
         {
           "id": "MgXPzyIXiLE",
           "title": "Chia, Cinnamon & Almond Milk Drink to Stay Fuller Longer",
-          "views": 222,
+          "views": 224,
           "likes": null,
           "comments": null,
           "postedAt": null,
@@ -888,12 +888,12 @@
           "url": "https://www.youtube.com/shorts/AHMiVO3AGKs"
         }
       ],
-      "avatar": "/avatars/youtube-granny-mei.jpg?v=1792242295392",
-      "totalViews": 5641,
+      "avatar": "/avatars/youtube-granny-mei.jpg?v=1792245895604",
+      "totalViews": 5643,
       "ok": true,
       "error": null,
-      "scrapedAt": "2026-10-17T13:04:55.015Z",
-      "lastSuccessAt": "2026-10-17T13:04:55.015Z"
+      "scrapedAt": "2026-10-17T14:04:54.970Z",
+      "lastSuccessAt": "2026-10-17T14:04:54.970Z"
     },
     "tiktok-girlsteamwin": {
       "platform": "tiktok",
@@ -994,12 +994,12 @@
           "url": "https://www.tiktok.com/@25ontheway555/video/7692153175914106125"
         }
       ],
-      "avatar": "/avatars/tiktok-girlsteamwin.jpg?v=1792242313606",
+      "avatar": "/avatars/tiktok-girlsteamwin.jpg?v=1792245914468",
       "totalViews": 3196,
       "ok": true,
       "error": null,
-      "scrapedAt": "2026-10-17T13:04:55.574Z",
-      "lastSuccessAt": "2026-10-17T13:04:55.574Z"
+      "scrapedAt": "2026-10-17T14:04:55.979Z",
+      "lastSuccessAt": "2026-10-17T14:04:55.979Z"
     },
     "tiktok-allrizexmvm": {
       "platform": "tiktok",
@@ -1046,12 +1046,12 @@
           "url": "https://www.tiktok.com/@allrizexmvm/video/7694780357010263310"
         }
       ],
-      "avatar": "/avatars/tiktok-allrizexmvm.jpg?v=1792242330530",
+      "avatar": "/avatars/tiktok-allrizexmvm.jpg?v=1792245931824",
       "totalViews": 2177,
       "ok": true,
       "error": null,
-      "scrapedAt": "2026-10-17T13:05:13.771Z",
-      "lastSuccessAt": "2026-10-17T13:05:13.771Z"
+      "scrapedAt": "2026-10-17T14:05:15.040Z",
+      "lastSuccessAt": "2026-10-17T14:05:15.040Z"
     },
     "threads-almoventures": {
       "platform": "threads",
@@ -1098,12 +1098,12 @@
           "url": "https://www.threads.com/@almoventures/post/DeTi3DlDkEE"
         }
       ],
-      "avatar": "/avatars/threads-almoventures.jpg?v=1792242335291",
+      "avatar": "/avatars/threads-almoventures.jpg?v=1792245936486",
       "totalViews": null,
       "ok": true,
       "error": null,
-      "scrapedAt": "2026-10-17T13:05:31.039Z",
-      "lastSuccessAt": "2026-10-17T13:05:31.039Z"
+      "scrapedAt": "2026-10-17T14:05:32.213Z",
+      "lastSuccessAt": "2026-10-17T14:05:32.213Z"
     },
     "x-moventures999": {
       "platform": "x",
@@ -1150,12 +1150,12 @@
           "url": "https://x.com/moventures999/status/2108822973377335460"
         }
       ],
-      "avatar": "/avatars/x-moventures999.jpg?v=1792242342284",
+      "avatar": "/avatars/x-moventures999.jpg?v=1792245944122",
       "totalViews": 7,
       "ok": true,
       "error": null,
-      "scrapedAt": "2026-10-17T13:05:35.497Z",
-      "lastSuccessAt": "2026-10-17T13:05:35.497Z"
+      "scrapedAt": "2026-10-17T14:05:36.990Z",
+      "lastSuccessAt": "2026-10-17T14:05:36.990Z"
     }
   }
 }
