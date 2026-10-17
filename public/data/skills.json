@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-17T19:04:36.751Z",
+  "generatedAt": "2026-10-17T20:04:22.981Z",
   "skills": [
     {
       "id": "tiktok",
@@ -54,6 +54,14 @@
       ],
       "note": null,
       "videos": [
+        {
+          "file": "final.mp4",
+          "folder": "C:\\Users\\mocha\\Documents\\UGC\\MEI\\VIDEOS\\vid20",
+          "path": "C:/Users/mocha/Documents/UGC/MEI/VIDEOS/vid20/final.mp4",
+          "sizeMB": 73.1,
+          "modified": "2026-10-17T19:07:23.427Z",
+          "driveId": null
+        },
         {
           "file": "final.mp4",
           "folder": "C:\\Users\\mocha\\Documents\\UGC\\MEI\\VIDEOS\\vid19",
