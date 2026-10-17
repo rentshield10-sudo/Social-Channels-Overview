@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-17T18:06:10.124Z",
+  "updatedAt": "2026-10-17T19:12:04.879Z",
   "accounts": {
     "tiktok-insanefindz": {
       "platform": "tiktok",
@@ -381,7 +381,7 @@
         {
           "id": "7686273427455347982",
           "title": "Ranking vet visits gone wrong and number 5 was the wrong pin for sure #dogs #dogsoftiktok #vetvisit #funnydogs #dogsbelike",
-          "views": 2054,
+          "views": 2056,
           "likes": 30,
           "comments": 0,
           "postedAt": "2026-09-17T11:10:00.000Z",
@@ -390,7 +390,7 @@
         {
           "id": "7686272744090111246",
           "title": "Dogs who interrupt zoom meetings and number 5 brought his ball at the worst moment #dogs #dogsoftiktok #funnydogs #doglife #dogsbelike",
-          "views": 572,
+          "views": 573,
           "likes": 43,
           "comments": 1,
           "postedAt": "2026-09-17T08:10:00.000Z",
@@ -604,12 +604,12 @@
           "url": "https://www.tiktok.com/@insanefindz/video/7683638288455863566"
         }
       ],
-      "avatar": "/avatars/tiktok-insanefindz.jpg?v=1792260293964",
-      "totalViews": 109653,
+      "avatar": "/avatars/tiktok-insanefindz.jpg?v=1792263966282",
+      "totalViews": 109656,
       "ok": true,
       "error": null,
-      "scrapedAt": "2026-10-17T18:04:25.284Z",
-      "lastSuccessAt": "2026-10-17T18:04:25.284Z"
+      "scrapedAt": "2026-10-17T19:05:06.143Z",
+      "lastSuccessAt": "2026-10-17T19:05:06.143Z"
     },
     "facebook-granny-mei": {
       "platform": "facebook",
@@ -711,12 +711,12 @@
         }
       ],
       "needsLogin": false,
-      "avatar": "/avatars/facebook-granny-mei.jpg?v=1792260305789",
+      "avatar": "/avatars/facebook-granny-mei.jpg?v=1792263996489",
       "totalViews": 3535,
       "ok": true,
       "error": null,
-      "scrapedAt": "2026-10-17T18:04:54.876Z",
-      "lastSuccessAt": "2026-10-17T18:04:54.876Z"
+      "scrapedAt": "2026-10-17T19:06:09.747Z",
+      "lastSuccessAt": "2026-10-17T19:06:09.747Z"
     },
     "instagram-almoventures": {
       "platform": "instagram",
@@ -800,12 +800,12 @@
         }
       ],
       "needsLogin": false,
-      "avatar": "/avatars/instagram-almoventures.jpg?v=1792260312012",
+      "avatar": "/avatars/instagram-almoventures.jpg?v=1792264011884",
       "totalViews": 903,
       "ok": true,
       "error": null,
-      "scrapedAt": "2026-10-17T18:05:06.099Z",
-      "lastSuccessAt": "2026-10-17T18:05:06.099Z"
+      "scrapedAt": "2026-10-17T19:06:40.136Z",
+      "lastSuccessAt": "2026-10-17T19:06:40.136Z"
     },
     "youtube-granny-mei": {
       "platform": "youtube",
@@ -888,12 +888,12 @@
           "url": "https://www.youtube.com/shorts/AHMiVO3AGKs"
         }
       ],
-      "avatar": "/avatars/youtube-granny-mei.jpg?v=1792260313089",
+      "avatar": "/avatars/youtube-granny-mei.jpg?v=1792264016038",
       "totalViews": 5744,
       "ok": true,
       "error": null,
-      "scrapedAt": "2026-10-17T18:05:12.343Z",
-      "lastSuccessAt": "2026-10-17T18:05:12.343Z"
+      "scrapedAt": "2026-10-17T19:06:54.187Z",
+      "lastSuccessAt": "2026-10-17T19:06:54.187Z"
     },
     "tiktok-girlsteamwin": {
       "platform": "tiktok",
@@ -994,12 +994,12 @@
           "url": "https://www.tiktok.com/@25ontheway555/video/7692153175914106125"
         }
       ],
-      "avatar": "/avatars/tiktok-girlsteamwin.jpg?v=1792260334266",
+      "avatar": "/avatars/tiktok-girlsteamwin.jpg?v=1792264082741",
       "totalViews": 3196,
       "ok": true,
       "error": null,
-      "scrapedAt": "2026-10-17T18:05:13.409Z",
-      "lastSuccessAt": "2026-10-17T18:05:13.409Z"
+      "scrapedAt": "2026-10-17T19:06:56.768Z",
+      "lastSuccessAt": "2026-10-17T19:06:56.768Z"
     },
     "tiktok-allrizexmvm": {
       "platform": "tiktok",
@@ -1048,9 +1048,9 @@
       ],
       "avatar": "/avatars/tiktok-allrizexmvm.jpg?v=1792260354561",
       "totalViews": 2184,
-      "ok": true,
-      "error": null,
-      "scrapedAt": "2026-10-17T18:05:34.561Z",
+      "ok": false,
+      "error": "Navigation timeout of 90000 ms exceeded",
+      "scrapedAt": "2026-10-17T19:08:04.576Z",
       "lastSuccessAt": "2026-10-17T18:05:34.561Z"
     },
     "threads-almoventures": {
@@ -1078,32 +1078,14 @@
           "comments": null,
           "postedAt": null,
           "url": "https://www.threads.com/@almoventures/post/DefX6JYiV4S"
-        },
-        {
-          "id": "DeaFolgjoCK",
-          "title": "Turmeric on Boiled Eggs Every Morning? Here's Why 👀🥚 Sliced boiled eggs + a sprinkle of turmeric + a squeeze of lemon ",
-          "views": null,
-          "likes": null,
-          "comments": null,
-          "postedAt": null,
-          "url": "https://www.threads.com/@almoventures/post/DeaFolgjoCK"
-        },
-        {
-          "id": "DeTi3DlDkEE",
-          "title": "Puffy ankles or deep sock marks? Don't ignore this 👀",
-          "views": null,
-          "likes": null,
-          "comments": null,
-          "postedAt": null,
-          "url": "https://www.threads.com/@almoventures/post/DeTi3DlDkEE"
         }
       ],
-      "avatar": "/avatars/threads-almoventures.jpg?v=1792260359190",
+      "avatar": "/avatars/threads-almoventures.jpg?v=1792264212679",
       "totalViews": null,
       "ok": true,
       "error": null,
-      "scrapedAt": "2026-10-17T18:05:54.770Z",
-      "lastSuccessAt": "2026-10-17T18:05:54.770Z"
+      "scrapedAt": "2026-10-17T19:09:57.593Z",
+      "lastSuccessAt": "2026-10-17T19:09:57.593Z"
     },
     "x-moventures999": {
       "platform": "x",
@@ -1150,12 +1132,12 @@
           "url": "https://x.com/moventures999/status/2108822973377335460"
         }
       ],
-      "avatar": "/avatars/x-moventures999.jpg?v=1792260368753",
+      "avatar": "/avatars/x-moventures999.jpg?v=1792264242787",
       "totalViews": 7,
       "ok": true,
       "error": null,
-      "scrapedAt": "2026-10-17T18:05:59.440Z",
-      "lastSuccessAt": "2026-10-17T18:05:59.440Z"
+      "scrapedAt": "2026-10-17T19:10:13.996Z",
+      "lastSuccessAt": "2026-10-17T19:10:13.996Z"
     }
   }
 }
