@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-18T22:05:49.255Z",
+  "updatedAt": "2026-10-18T23:06:13.522Z",
   "accounts": {
     "tiktok-insanefindz": {
       "platform": "tiktok",
@@ -156,7 +156,7 @@
         {
           "id": "7689601027732950285",
           "title": "My bulldog had something to tell me and number 6 was just a potato with legs #dogs #dogsoftiktok #bulldog #funnydogs #dogsbelike",
-          "views": 492,
+          "views": 493,
           "likes": 94,
           "comments": 0,
           "postedAt": "2026-09-25T23:10:00.000Z",
@@ -381,7 +381,7 @@
         {
           "id": "7686273427455347982",
           "title": "Ranking vet visits gone wrong and number 5 was the wrong pin for sure #dogs #dogsoftiktok #vetvisit #funnydogs #dogsbelike",
-          "views": 2096,
+          "views": 2097,
           "likes": 30,
           "comments": 0,
           "postedAt": "2026-09-17T11:10:00.000Z",
@@ -489,7 +489,7 @@
         {
           "id": "7685523402114878734",
           "title": "Ranking my dogs apologies and number 5 was the least convincing sorry I have ever seen #dogs #dogsoftiktok #pug #guiltydog #ranking",
-          "views": 312,
+          "views": 313,
           "likes": 41,
           "comments": 0,
           "postedAt": "2026-09-15T02:10:00.000Z",
@@ -604,12 +604,12 @@
           "url": "https://www.tiktok.com/@insanefindz/video/7683638288455863566"
         }
       ],
-      "avatar": "/avatars/tiktok-insanefindz.jpg?v=1792361083118",
-      "totalViews": 109743,
+      "avatar": "/avatars/tiktok-insanefindz.jpg?v=1792364697608",
+      "totalViews": 109746,
       "ok": true,
       "error": null,
-      "scrapedAt": "2026-10-18T22:04:20.877Z",
-      "lastSuccessAt": "2026-10-18T22:04:20.877Z"
+      "scrapedAt": "2026-10-18T23:04:22.834Z",
+      "lastSuccessAt": "2026-10-18T23:04:22.834Z"
     },
     "facebook-granny-mei": {
       "platform": "facebook",
@@ -711,12 +711,12 @@
         }
       ],
       "needsLogin": false,
-      "avatar": "/avatars/facebook-granny-mei.jpg?v=1792361091481",
+      "avatar": "/avatars/facebook-granny-mei.jpg?v=1792364709526",
       "totalViews": 4039,
       "ok": true,
       "error": null,
-      "scrapedAt": "2026-10-18T22:04:43.342Z",
-      "lastSuccessAt": "2026-10-18T22:04:43.342Z"
+      "scrapedAt": "2026-10-18T23:04:58.127Z",
+      "lastSuccessAt": "2026-10-18T23:04:58.127Z"
     },
     "instagram-almoventures": {
       "platform": "instagram",
@@ -809,12 +809,12 @@
         }
       ],
       "needsLogin": false,
-      "avatar": "/avatars/instagram-almoventures.jpg?v=1792361097272",
+      "avatar": "/avatars/instagram-almoventures.jpg?v=1792364716766",
       "totalViews": 1033,
       "ok": true,
       "error": null,
-      "scrapedAt": "2026-10-18T22:04:52.058Z",
-      "lastSuccessAt": "2026-10-18T22:04:52.058Z"
+      "scrapedAt": "2026-10-18T23:05:10.196Z",
+      "lastSuccessAt": "2026-10-18T23:05:10.196Z"
     },
     "youtube-granny-mei": {
       "platform": "youtube",
@@ -836,7 +836,7 @@
         {
           "id": "IpWq_zm9MDs",
           "title": "Granny Mei's 5 Simple Food Checks You Can Try at Home",
-          "views": 1300,
+          "views": 1400,
           "likes": null,
           "comments": null,
           "postedAt": null,
@@ -881,7 +881,7 @@
         {
           "id": "X-QK6ECw8rg",
           "title": "Granny Mei's Fennel, Coriander, Cumin & Ginger Tea for Bloating",
-          "views": 157,
+          "views": 159,
           "likes": null,
           "comments": null,
           "postedAt": null,
@@ -890,7 +890,7 @@
         {
           "id": "T785UI3VgH8",
           "title": "Granny Mei's Chamomile, Apple & Cinnamon Evening Tea to Wind Down",
-          "views": 46,
+          "views": 49,
           "likes": null,
           "comments": null,
           "postedAt": null,
@@ -906,12 +906,12 @@
           "url": "https://www.youtube.com/shorts/AHMiVO3AGKs"
         }
       ],
-      "avatar": "/avatars/youtube-granny-mei.jpg?v=1792361098278",
-      "totalViews": 7372,
+      "avatar": "/avatars/youtube-granny-mei.jpg?v=1792364717500",
+      "totalViews": 7477,
       "ok": true,
       "error": null,
-      "scrapedAt": "2026-10-18T22:04:57.818Z",
-      "lastSuccessAt": "2026-10-18T22:04:57.818Z"
+      "scrapedAt": "2026-10-18T23:05:16.990Z",
+      "lastSuccessAt": "2026-10-18T23:05:16.990Z"
     },
     "tiktok-girlsteamwin": {
       "platform": "tiktok",
@@ -1012,12 +1012,12 @@
           "url": "https://www.tiktok.com/@25ontheway555/video/7692153175914106125"
         }
       ],
-      "avatar": "/avatars/tiktok-girlsteamwin.jpg?v=1792361118836",
+      "avatar": "/avatars/tiktok-girlsteamwin.jpg?v=1792364738182",
       "totalViews": 3196,
       "ok": true,
       "error": null,
-      "scrapedAt": "2026-10-18T22:04:58.740Z",
-      "lastSuccessAt": "2026-10-18T22:04:58.740Z"
+      "scrapedAt": "2026-10-18T23:05:17.987Z",
+      "lastSuccessAt": "2026-10-18T23:05:17.987Z"
     },
     "tiktok-allrizexmvm": {
       "platform": "tiktok",
@@ -1030,7 +1030,7 @@
         {
           "id": "7697802009658805517",
           "title": "Girls we are losing... so the sisters came to win it back Team Girls or Team Boys? Pick your side below #teamgirls #teamboys #girlsvsboys #dance #fyp",
-          "views": 331,
+          "views": 332,
           "likes": 19,
           "comments": 5,
           "postedAt": "2026-10-18T00:43:33.000Z",
@@ -1039,7 +1039,7 @@
         {
           "id": "7697026236002012429",
           "title": "Team Girls needs backup NOW... so grandma stepped in Are you Team Girls or Team Boys? Drop it below #teamgirls #teamboys #girlsvsboys #grandma #fyp",
-          "views": 384,
+          "views": 385,
           "likes": 16,
           "comments": 2,
           "postedAt": "2026-10-15T22:33:02.000Z",
@@ -1066,19 +1066,19 @@
         {
           "id": "7694780357010263310",
           "title": "They say nobody cares about handmade craftsmanship anymore… 💔🦈 I spent hours turning leather into this shark pencil holder, cutting, shaping, and stitching every detail by hand. Just a small creator chasing a dream of reaching 10K followers. ❤️ If you believe handmade art still deserves appreciation, your support means everything. 🙏 Would you put this shark on your desk? 🦈✏️ #LeatherCraft #LeatherWorking #Handmade #SatisfyingVideos #SmallCreator ",
-          "views": 713,
+          "views": 714,
           "likes": 49,
           "comments": 0,
           "postedAt": "2026-10-09T21:18:04.000Z",
           "url": "https://www.tiktok.com/@allrizexmvm/video/7694780357010263310"
         }
       ],
-      "avatar": "/avatars/tiktok-allrizexmvm.jpg?v=1792361137203",
-      "totalViews": 2604,
+      "avatar": "/avatars/tiktok-allrizexmvm.jpg?v=1792364756353",
+      "totalViews": 2607,
       "ok": true,
       "error": null,
-      "scrapedAt": "2026-10-18T22:05:19.403Z",
-      "lastSuccessAt": "2026-10-18T22:05:19.403Z"
+      "scrapedAt": "2026-10-18T23:05:38.487Z",
+      "lastSuccessAt": "2026-10-18T23:05:38.487Z"
     },
     "threads-almoventures": {
       "platform": "threads",
@@ -1125,12 +1125,12 @@
           "url": "https://www.threads.com/@almoventures/post/DeaFolgjoCK"
         }
       ],
-      "avatar": "/avatars/threads-almoventures.jpg?v=1792361140536",
+      "avatar": "/avatars/threads-almoventures.jpg?v=1792364760712",
       "totalViews": null,
       "ok": true,
       "error": null,
-      "scrapedAt": "2026-10-18T22:05:37.545Z",
-      "lastSuccessAt": "2026-10-18T22:05:37.545Z"
+      "scrapedAt": "2026-10-18T23:05:56.947Z",
+      "lastSuccessAt": "2026-10-18T23:05:56.947Z"
     },
     "x-moventures999": {
       "platform": "x",
@@ -1186,12 +1186,12 @@
           "url": "https://x.com/moventures999/status/2108822973377335460"
         }
       ],
-      "avatar": "/avatars/x-moventures999.jpg?v=1792361148190",
+      "avatar": "/avatars/x-moventures999.jpg?v=1792364772254",
       "totalViews": 8,
       "ok": true,
       "error": null,
-      "scrapedAt": "2026-10-18T22:05:40.910Z",
-      "lastSuccessAt": "2026-10-18T22:05:40.910Z"
+      "scrapedAt": "2026-10-18T23:06:01.198Z",
+      "lastSuccessAt": "2026-10-18T23:06:01.198Z"
     }
   }
 }
