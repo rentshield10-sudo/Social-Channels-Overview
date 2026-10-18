@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-18T15:05:48.340Z",
+  "updatedAt": "2026-10-18T16:06:39.199Z",
   "accounts": {
     "tiktok-insanefindz": {
       "platform": "tiktok",
@@ -381,7 +381,7 @@
         {
           "id": "7686273427455347982",
           "title": "Ranking vet visits gone wrong and number 5 was the wrong pin for sure #dogs #dogsoftiktok #vetvisit #funnydogs #dogsbelike",
-          "views": 2083,
+          "views": 2085,
           "likes": 30,
           "comments": 0,
           "postedAt": "2026-09-17T11:10:00.000Z",
@@ -390,7 +390,7 @@
         {
           "id": "7686272744090111246",
           "title": "Dogs who interrupt zoom meetings and number 5 brought his ball at the worst moment #dogs #dogsoftiktok #funnydogs #doglife #dogsbelike",
-          "views": 587,
+          "views": 589,
           "likes": 43,
           "comments": 1,
           "postedAt": "2026-09-17T08:10:00.000Z",
@@ -489,7 +489,7 @@
         {
           "id": "7685523402114878734",
           "title": "Ranking my dogs apologies and number 5 was the least convincing sorry I have ever seen #dogs #dogsoftiktok #pug #guiltydog #ranking",
-          "views": 311,
+          "views": 312,
           "likes": 41,
           "comments": 0,
           "postedAt": "2026-09-15T02:10:00.000Z",
@@ -604,12 +604,12 @@
           "url": "https://www.tiktok.com/@insanefindz/video/7683638288455863566"
         }
       ],
-      "avatar": "/avatars/tiktok-insanefindz.jpg?v=1792335879507",
-      "totalViews": 109718,
+      "avatar": "/avatars/tiktok-insanefindz.jpg?v=1792339505277",
+      "totalViews": 109723,
       "ok": true,
       "error": null,
-      "scrapedAt": "2026-10-18T15:04:17.600Z",
-      "lastSuccessAt": "2026-10-18T15:04:17.600Z"
+      "scrapedAt": "2026-10-18T16:04:36.466Z",
+      "lastSuccessAt": "2026-10-18T16:04:36.466Z"
     },
     "facebook-granny-mei": {
       "platform": "facebook",
@@ -622,7 +622,7 @@
         {
           "id": "28787922367559626",
           "title": null,
-          "views": 474,
+          "views": 476,
           "likes": null,
           "comments": null,
           "postedAt": null,
@@ -640,7 +640,7 @@
         {
           "id": "1077417621593171",
           "title": null,
-          "views": 211,
+          "views": 212,
           "likes": null,
           "comments": null,
           "postedAt": null,
@@ -711,12 +711,12 @@
         }
       ],
       "needsLogin": false,
-      "avatar": "/avatars/facebook-granny-mei.jpg?v=1792335889769",
-      "totalViews": 4029,
+      "avatar": "/avatars/facebook-granny-mei.jpg?v=1792339519761",
+      "totalViews": 4032,
       "ok": true,
       "error": null,
-      "scrapedAt": "2026-10-18T15:04:40.079Z",
-      "lastSuccessAt": "2026-10-18T15:04:40.079Z"
+      "scrapedAt": "2026-10-18T16:05:06.388Z",
+      "lastSuccessAt": "2026-10-18T16:05:06.388Z"
     },
     "instagram-almoventures": {
       "platform": "instagram",
@@ -809,18 +809,18 @@
         }
       ],
       "needsLogin": false,
-      "avatar": "/avatars/instagram-almoventures.jpg?v=1792335894704",
+      "avatar": "/avatars/instagram-almoventures.jpg?v=1792339527954",
       "totalViews": 1032,
       "ok": true,
       "error": null,
-      "scrapedAt": "2026-10-18T15:04:50.423Z",
-      "lastSuccessAt": "2026-10-18T15:04:50.423Z"
+      "scrapedAt": "2026-10-18T16:05:20.782Z",
+      "lastSuccessAt": "2026-10-18T16:05:20.782Z"
     },
     "youtube-granny-mei": {
       "platform": "youtube",
       "name": "Granny-mei",
       "url": "https://www.youtube.com/channel/UC1O2Pq3z2dX9wIbODd5TLXg",
-      "followers": 86,
+      "followers": 87,
       "likes": null,
       "posts": 9,
       "videos": [
@@ -836,7 +836,7 @@
         {
           "id": "IpWq_zm9MDs",
           "title": "Granny Mei's 5 Simple Food Checks You Can Try at Home",
-          "views": 1200,
+          "views": 1300,
           "likes": null,
           "comments": null,
           "postedAt": null,
@@ -906,12 +906,12 @@
           "url": "https://www.youtube.com/shorts/AHMiVO3AGKs"
         }
       ],
-      "avatar": "/avatars/youtube-granny-mei.jpg?v=1792335895450",
-      "totalViews": 7254,
+      "avatar": "/avatars/youtube-granny-mei.jpg?v=1792339529542",
+      "totalViews": 7354,
       "ok": true,
       "error": null,
-      "scrapedAt": "2026-10-18T15:04:55.061Z",
-      "lastSuccessAt": "2026-10-18T15:04:55.061Z"
+      "scrapedAt": "2026-10-18T16:05:28.819Z",
+      "lastSuccessAt": "2026-10-18T16:05:28.819Z"
     },
     "tiktok-girlsteamwin": {
       "platform": "tiktok",
@@ -1012,12 +1012,12 @@
           "url": "https://www.tiktok.com/@25ontheway555/video/7692153175914106125"
         }
       ],
-      "avatar": "/avatars/tiktok-girlsteamwin.jpg?v=1792335914532",
+      "avatar": "/avatars/tiktok-girlsteamwin.jpg?v=1792339555667",
       "totalViews": 3196,
       "ok": true,
       "error": null,
-      "scrapedAt": "2026-10-18T15:04:55.805Z",
-      "lastSuccessAt": "2026-10-18T15:04:55.805Z"
+      "scrapedAt": "2026-10-18T16:05:30.191Z",
+      "lastSuccessAt": "2026-10-18T16:05:30.191Z"
     },
     "tiktok-allrizexmvm": {
       "platform": "tiktok",
@@ -1030,7 +1030,7 @@
         {
           "id": "7697802009658805517",
           "title": "Girls we are losing... so the sisters came to win it back Team Girls or Team Boys? Pick your side below #teamgirls #teamboys #girlsvsboys #dance #fyp",
-          "views": 310,
+          "views": 315,
           "likes": 16,
           "comments": 4,
           "postedAt": "2026-10-18T00:43:33.000Z",
@@ -1073,12 +1073,12 @@
           "url": "https://www.tiktok.com/@allrizexmvm/video/7694780357010263310"
         }
       ],
-      "avatar": "/avatars/tiktok-allrizexmvm.jpg?v=1792335933551",
-      "totalViews": 2564,
+      "avatar": "/avatars/tiktok-allrizexmvm.jpg?v=1792339577749",
+      "totalViews": 2569,
       "ok": true,
       "error": null,
-      "scrapedAt": "2026-10-18T15:05:15.108Z",
-      "lastSuccessAt": "2026-10-18T15:05:15.108Z"
+      "scrapedAt": "2026-10-18T16:05:56.486Z",
+      "lastSuccessAt": "2026-10-18T16:05:56.486Z"
     },
     "threads-almoventures": {
       "platform": "threads",
@@ -1125,12 +1125,12 @@
           "url": "https://www.threads.com/@almoventures/post/DeaFolgjoCK"
         }
       ],
-      "avatar": "/avatars/threads-almoventures.jpg?v=1792335937229",
+      "avatar": "/avatars/threads-almoventures.jpg?v=1792339582790",
       "totalViews": null,
       "ok": true,
       "error": null,
-      "scrapedAt": "2026-10-18T15:05:34.118Z",
-      "lastSuccessAt": "2026-10-18T15:05:34.118Z"
+      "scrapedAt": "2026-10-18T16:06:18.479Z",
+      "lastSuccessAt": "2026-10-18T16:06:18.479Z"
     },
     "x-moventures999": {
       "platform": "x",
@@ -1186,12 +1186,12 @@
           "url": "https://x.com/moventures999/status/2108822973377335460"
         }
       ],
-      "avatar": "/avatars/x-moventures999.jpg?v=1792335947245",
+      "avatar": "/avatars/x-moventures999.jpg?v=1792339596570",
       "totalViews": 8,
       "ok": true,
       "error": null,
-      "scrapedAt": "2026-10-18T15:05:37.590Z",
-      "lastSuccessAt": "2026-10-18T15:05:37.590Z"
+      "scrapedAt": "2026-10-18T16:06:23.856Z",
+      "lastSuccessAt": "2026-10-18T16:06:23.856Z"
     }
   }
 }
