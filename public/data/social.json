@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-18T10:05:52.038Z",
+  "updatedAt": "2026-10-18T11:05:56.105Z",
   "accounts": {
     "tiktok-insanefindz": {
       "platform": "tiktok",
@@ -210,7 +210,7 @@
         {
           "id": "7688864198847171853",
           "title": "Ranking who chases me down the stairs and number 6 came flying after me #dogs #dogsoftiktok #funnydogs #doglover #dogsbelike",
-          "views": 292,
+          "views": 293,
           "likes": 37,
           "comments": 0,
           "postedAt": "2026-09-24T08:10:00.000Z",
@@ -336,7 +336,7 @@
         {
           "id": "7686644931343109389",
           "title": "Pappa dog meeting his pups for the first time and number 6 had him asking what are those #dogs #dogsoftiktok #puppies #dogdad #doglife",
-          "views": 449,
+          "views": 451,
           "likes": 60,
           "comments": 1,
           "postedAt": "2026-09-18T11:10:00.000Z",
@@ -381,7 +381,7 @@
         {
           "id": "7686273427455347982",
           "title": "Ranking vet visits gone wrong and number 5 was the wrong pin for sure #dogs #dogsoftiktok #vetvisit #funnydogs #dogsbelike",
-          "views": 2080,
+          "views": 2081,
           "likes": 30,
           "comments": 0,
           "postedAt": "2026-09-17T11:10:00.000Z",
@@ -604,12 +604,12 @@
           "url": "https://www.tiktok.com/@insanefindz/video/7683638288455863566"
         }
       ],
-      "avatar": "/avatars/tiktok-insanefindz.jpg?v=1792317882383",
-      "totalViews": 109706,
+      "avatar": "/avatars/tiktok-insanefindz.jpg?v=1792321484522",
+      "totalViews": 109710,
       "ok": true,
       "error": null,
-      "scrapedAt": "2026-10-18T10:04:18.674Z",
-      "lastSuccessAt": "2026-10-18T10:04:18.674Z"
+      "scrapedAt": "2026-10-18T11:04:20.033Z",
+      "lastSuccessAt": "2026-10-18T11:04:20.033Z"
     },
     "facebook-granny-mei": {
       "platform": "facebook",
@@ -649,7 +649,7 @@
         {
           "id": "1295837789307703",
           "title": null,
-          "views": 269,
+          "views": 271,
           "likes": null,
           "comments": null,
           "postedAt": null,
@@ -711,12 +711,12 @@
         }
       ],
       "needsLogin": false,
-      "avatar": "/avatars/facebook-granny-mei.jpg?v=1792317892323",
-      "totalViews": 4011,
+      "avatar": "/avatars/facebook-granny-mei.jpg?v=1792321494706",
+      "totalViews": 4013,
       "ok": true,
       "error": null,
-      "scrapedAt": "2026-10-18T10:04:43.077Z",
-      "lastSuccessAt": "2026-10-18T10:04:43.077Z"
+      "scrapedAt": "2026-10-18T11:04:44.826Z",
+      "lastSuccessAt": "2026-10-18T11:04:44.826Z"
     },
     "instagram-almoventures": {
       "platform": "instagram",
@@ -809,18 +809,18 @@
         }
       ],
       "needsLogin": false,
-      "avatar": "/avatars/instagram-almoventures.jpg?v=1792317899134",
+      "avatar": "/avatars/instagram-almoventures.jpg?v=1792321501912",
       "totalViews": 1032,
       "ok": true,
       "error": null,
-      "scrapedAt": "2026-10-18T10:04:53.036Z",
-      "lastSuccessAt": "2026-10-18T10:04:53.036Z"
+      "scrapedAt": "2026-10-18T11:04:55.614Z",
+      "lastSuccessAt": "2026-10-18T11:04:55.614Z"
     },
     "youtube-granny-mei": {
       "platform": "youtube",
       "name": "Granny-mei",
       "url": "https://www.youtube.com/channel/UC1O2Pq3z2dX9wIbODd5TLXg",
-      "followers": 81,
+      "followers": 82,
       "likes": null,
       "posts": 9,
       "videos": [
@@ -906,12 +906,12 @@
           "url": "https://www.youtube.com/shorts/AHMiVO3AGKs"
         }
       ],
-      "avatar": "/avatars/youtube-granny-mei.jpg?v=1792317900734",
+      "avatar": "/avatars/youtube-granny-mei.jpg?v=1792321502998",
       "totalViews": 7153,
       "ok": true,
       "error": null,
-      "scrapedAt": "2026-10-18T10:05:00.261Z",
-      "lastSuccessAt": "2026-10-18T10:05:00.261Z"
+      "scrapedAt": "2026-10-18T11:05:02.509Z",
+      "lastSuccessAt": "2026-10-18T11:05:02.509Z"
     },
     "tiktok-girlsteamwin": {
       "platform": "tiktok",
@@ -1012,12 +1012,12 @@
           "url": "https://www.tiktok.com/@25ontheway555/video/7692153175914106125"
         }
       ],
-      "avatar": "/avatars/tiktok-girlsteamwin.jpg?v=1792317921584",
+      "avatar": "/avatars/tiktok-girlsteamwin.jpg?v=1792321523450",
       "totalViews": 3196,
       "ok": true,
       "error": null,
-      "scrapedAt": "2026-10-18T10:05:01.220Z",
-      "lastSuccessAt": "2026-10-18T10:05:01.220Z"
+      "scrapedAt": "2026-10-18T11:05:03.552Z",
+      "lastSuccessAt": "2026-10-18T11:05:03.552Z"
     },
     "tiktok-allrizexmvm": {
       "platform": "tiktok",
@@ -1073,12 +1073,12 @@
           "url": "https://www.tiktok.com/@allrizexmvm/video/7694780357010263310"
         }
       ],
-      "avatar": "/avatars/tiktok-allrizexmvm.jpg?v=1792317939014",
+      "avatar": "/avatars/tiktok-allrizexmvm.jpg?v=1792321540405",
       "totalViews": 2553,
       "ok": true,
       "error": null,
-      "scrapedAt": "2026-10-18T10:05:22.212Z",
-      "lastSuccessAt": "2026-10-18T10:05:22.212Z"
+      "scrapedAt": "2026-10-18T11:05:23.617Z",
+      "lastSuccessAt": "2026-10-18T11:05:23.617Z"
     },
     "threads-almoventures": {
       "platform": "threads",
@@ -1125,12 +1125,12 @@
           "url": "https://www.threads.com/@almoventures/post/DeaFolgjoCK"
         }
       ],
-      "avatar": "/avatars/threads-almoventures.jpg?v=1792317943361",
+      "avatar": "/avatars/threads-almoventures.jpg?v=1792321544556",
       "totalViews": null,
       "ok": true,
       "error": null,
-      "scrapedAt": "2026-10-18T10:05:39.543Z",
-      "lastSuccessAt": "2026-10-18T10:05:39.543Z"
+      "scrapedAt": "2026-10-18T11:05:40.562Z",
+      "lastSuccessAt": "2026-10-18T11:05:40.562Z"
     },
     "x-moventures999": {
       "platform": "x",
@@ -1186,12 +1186,12 @@
           "url": "https://x.com/moventures999/status/2108822973377335460"
         }
       ],
-      "avatar": "/avatars/x-moventures999.jpg?v=1792317950838",
+      "avatar": "/avatars/x-moventures999.jpg?v=1792321555141",
       "totalViews": 8,
       "ok": true,
       "error": null,
-      "scrapedAt": "2026-10-18T10:05:43.727Z",
-      "lastSuccessAt": "2026-10-18T10:05:43.727Z"
+      "scrapedAt": "2026-10-18T11:05:44.750Z",
+      "lastSuccessAt": "2026-10-18T11:05:44.750Z"
     }
   }
 }
