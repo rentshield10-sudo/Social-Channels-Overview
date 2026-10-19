@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-19T13:06:14.425Z",
+  "updatedAt": "2026-10-19T14:06:27.701Z",
   "accounts": {
     "tiktok-insanefindz": {
       "platform": "tiktok",
@@ -604,12 +604,12 @@
           "url": "https://www.tiktok.com/@insanefindz/video/7683638288455863566"
         }
       ],
-      "avatar": "/avatars/tiktok-insanefindz.jpg?v=1792415093561",
+      "avatar": "/avatars/tiktok-insanefindz.jpg?v=1792418698183",
       "totalViews": 109772,
       "ok": true,
       "error": null,
-      "scrapedAt": "2026-10-19T13:04:25.570Z",
-      "lastSuccessAt": "2026-10-19T13:04:25.570Z"
+      "scrapedAt": "2026-10-19T14:04:26.145Z",
+      "lastSuccessAt": "2026-10-19T14:04:26.145Z"
     },
     "facebook-granny-mei": {
       "platform": "facebook",
@@ -649,7 +649,7 @@
         {
           "id": "1295837789307703",
           "title": null,
-          "views": 278,
+          "views": 279,
           "likes": null,
           "comments": null,
           "postedAt": null,
@@ -711,12 +711,12 @@
         }
       ],
       "needsLogin": false,
-      "avatar": "/avatars/facebook-granny-mei.jpg?v=1792415104730",
-      "totalViews": 4051,
+      "avatar": "/avatars/facebook-granny-mei.jpg?v=1792418712593",
+      "totalViews": 4052,
       "ok": true,
       "error": null,
-      "scrapedAt": "2026-10-19T13:04:53.944Z",
-      "lastSuccessAt": "2026-10-19T13:04:53.944Z"
+      "scrapedAt": "2026-10-19T14:04:58.687Z",
+      "lastSuccessAt": "2026-10-19T14:04:58.687Z"
     },
     "instagram-almoventures": {
       "platform": "instagram",
@@ -809,18 +809,18 @@
         }
       ],
       "needsLogin": false,
-      "avatar": "/avatars/instagram-almoventures.jpg?v=1792415112284",
+      "avatar": "/avatars/instagram-almoventures.jpg?v=1792418719518",
       "totalViews": 1033,
       "ok": true,
       "error": null,
-      "scrapedAt": "2026-10-19T13:05:05.588Z",
-      "lastSuccessAt": "2026-10-19T13:05:05.588Z"
+      "scrapedAt": "2026-10-19T14:05:13.186Z",
+      "lastSuccessAt": "2026-10-19T14:05:13.186Z"
     },
     "youtube-granny-mei": {
       "platform": "youtube",
       "name": "Granny-mei",
       "url": "https://www.youtube.com/channel/UC1O2Pq3z2dX9wIbODd5TLXg",
-      "followers": 89,
+      "followers": 90,
       "likes": null,
       "posts": 9,
       "videos": [
@@ -906,12 +906,12 @@
           "url": "https://www.youtube.com/shorts/AHMiVO3AGKs"
         }
       ],
-      "avatar": "/avatars/youtube-granny-mei.jpg?v=1792415113883",
+      "avatar": "/avatars/youtube-granny-mei.jpg?v=1792418720703",
       "totalViews": 7777,
       "ok": true,
       "error": null,
-      "scrapedAt": "2026-10-19T13:05:12.899Z",
-      "lastSuccessAt": "2026-10-19T13:05:12.899Z"
+      "scrapedAt": "2026-10-19T14:05:20.116Z",
+      "lastSuccessAt": "2026-10-19T14:05:20.116Z"
     },
     "tiktok-girlsteamwin": {
       "platform": "tiktok",
@@ -1012,26 +1012,26 @@
           "url": "https://www.tiktok.com/@25ontheway555/video/7692153175914106125"
         }
       ],
-      "avatar": "/avatars/tiktok-girlsteamwin.jpg?v=1792415135291",
+      "avatar": "/avatars/tiktok-girlsteamwin.jpg?v=1792418742049",
       "totalViews": 3196,
       "ok": true,
       "error": null,
-      "scrapedAt": "2026-10-19T13:05:14.291Z",
-      "lastSuccessAt": "2026-10-19T13:05:14.291Z"
+      "scrapedAt": "2026-10-19T14:05:21.367Z",
+      "lastSuccessAt": "2026-10-19T14:05:21.367Z"
     },
     "tiktok-allrizexmvm": {
       "platform": "tiktok",
       "name": "@allrizexmvm (ashley)",
       "url": "https://www.tiktok.com/@allrizexmvm",
-      "followers": 93,
-      "likes": 136,
+      "followers": 94,
+      "likes": 138,
       "posts": 5,
       "videos": [
         {
           "id": "7697802009658805517",
           "title": "Girls we are losing... so the sisters came to win it back Team Girls or Team Boys? Pick your side below #teamgirls #teamboys #girlsvsboys #dance #fyp",
-          "views": 335,
-          "likes": 21,
+          "views": 337,
+          "likes": 22,
           "comments": 5,
           "postedAt": "2026-10-18T00:43:33.000Z",
           "url": "https://www.tiktok.com/@allrizexmvm/video/7697802009658805517"
@@ -1039,8 +1039,8 @@
         {
           "id": "7697026236002012429",
           "title": "Team Girls needs backup NOW... so grandma stepped in Are you Team Girls or Team Boys? Drop it below #teamgirls #teamboys #girlsvsboys #grandma #fyp",
-          "views": 385,
-          "likes": 16,
+          "views": 386,
+          "likes": 17,
           "comments": 2,
           "postedAt": "2026-10-15T22:33:02.000Z",
           "url": "https://www.tiktok.com/@allrizexmvm/video/7697026236002012429"
@@ -1073,12 +1073,12 @@
           "url": "https://www.tiktok.com/@allrizexmvm/video/7694780357010263310"
         }
       ],
-      "avatar": "/avatars/tiktok-allrizexmvm.jpg?v=1792415155864",
-      "totalViews": 2612,
+      "avatar": "/avatars/tiktok-allrizexmvm.jpg?v=1792418768009",
+      "totalViews": 2615,
       "ok": true,
       "error": null,
-      "scrapedAt": "2026-10-19T13:05:35.865Z",
-      "lastSuccessAt": "2026-10-19T13:05:35.865Z"
+      "scrapedAt": "2026-10-19T14:05:42.668Z",
+      "lastSuccessAt": "2026-10-19T14:05:42.668Z"
     },
     "threads-almoventures": {
       "platform": "threads",
@@ -1125,12 +1125,12 @@
           "url": "https://www.threads.com/@almoventures/post/DeaFolgjoCK"
         }
       ],
-      "avatar": "/avatars/threads-almoventures.jpg?v=1792415162437",
+      "avatar": "/avatars/threads-almoventures.jpg?v=1792418772851",
       "totalViews": null,
       "ok": true,
       "error": null,
-      "scrapedAt": "2026-10-19T13:05:57.227Z",
-      "lastSuccessAt": "2026-10-19T13:05:57.227Z"
+      "scrapedAt": "2026-10-19T14:06:09.000Z",
+      "lastSuccessAt": "2026-10-19T14:06:09.000Z"
     },
     "x-moventures999": {
       "platform": "x",
@@ -1186,12 +1186,12 @@
           "url": "https://x.com/moventures999/status/2108822973377335460"
         }
       ],
-      "avatar": "/avatars/x-moventures999.jpg?v=1792415173176",
+      "avatar": "/avatars/x-moventures999.jpg?v=1792418785826",
       "totalViews": 8,
       "ok": true,
       "error": null,
-      "scrapedAt": "2026-10-19T13:06:03.405Z",
-      "lastSuccessAt": "2026-10-19T13:06:03.405Z"
+      "scrapedAt": "2026-10-19T14:06:13.496Z",
+      "lastSuccessAt": "2026-10-19T14:06:13.496Z"
     }
   }
 }
