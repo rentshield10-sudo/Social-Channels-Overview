@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-19T15:06:39.839Z",
+  "updatedAt": "2026-10-19T16:06:27.031Z",
   "accounts": {
     "tiktok-insanefindz": {
       "platform": "tiktok",
@@ -604,12 +604,12 @@
           "url": "https://www.tiktok.com/@insanefindz/video/7683638288455863566"
         }
       ],
-      "avatar": "/avatars/tiktok-insanefindz.jpg?v=1792422290218",
+      "avatar": "/avatars/tiktok-insanefindz.jpg?v=1792425901294",
       "totalViews": 109773,
       "ok": true,
       "error": null,
-      "scrapedAt": "2026-10-19T15:04:21.875Z",
-      "lastSuccessAt": "2026-10-19T15:04:21.875Z"
+      "scrapedAt": "2026-10-19T16:04:28.741Z",
+      "lastSuccessAt": "2026-10-19T16:04:28.741Z"
     },
     "facebook-granny-mei": {
       "platform": "facebook",
@@ -711,12 +711,12 @@
         }
       ],
       "needsLogin": false,
-      "avatar": "/avatars/facebook-granny-mei.jpg?v=1792422302684",
+      "avatar": "/avatars/facebook-granny-mei.jpg?v=1792425914665",
       "totalViews": 4054,
       "ok": true,
       "error": null,
-      "scrapedAt": "2026-10-19T15:04:50.784Z",
-      "lastSuccessAt": "2026-10-19T15:04:50.784Z"
+      "scrapedAt": "2026-10-19T16:05:01.759Z",
+      "lastSuccessAt": "2026-10-19T16:05:01.759Z"
     },
     "instagram-almoventures": {
       "platform": "instagram",
@@ -809,18 +809,18 @@
         }
       ],
       "needsLogin": false,
-      "avatar": "/avatars/instagram-almoventures.jpg?v=1792422309034",
+      "avatar": "/avatars/instagram-almoventures.jpg?v=1792425922025",
       "totalViews": 1033,
       "ok": true,
       "error": null,
-      "scrapedAt": "2026-10-19T15:05:03.715Z",
-      "lastSuccessAt": "2026-10-19T15:05:03.715Z"
+      "scrapedAt": "2026-10-19T16:05:15.454Z",
+      "lastSuccessAt": "2026-10-19T16:05:15.454Z"
     },
     "youtube-granny-mei": {
       "platform": "youtube",
       "name": "Granny-mei",
       "url": "https://www.youtube.com/channel/UC1O2Pq3z2dX9wIbODd5TLXg",
-      "followers": 91,
+      "followers": 92,
       "likes": null,
       "posts": 9,
       "videos": [
@@ -906,12 +906,12 @@
           "url": "https://www.youtube.com/shorts/AHMiVO3AGKs"
         }
       ],
-      "avatar": "/avatars/youtube-granny-mei.jpg?v=1792422310008",
+      "avatar": "/avatars/youtube-granny-mei.jpg?v=1792425923472",
       "totalViews": 7877,
       "ok": true,
       "error": null,
-      "scrapedAt": "2026-10-19T15:05:09.522Z",
-      "lastSuccessAt": "2026-10-19T15:05:09.522Z"
+      "scrapedAt": "2026-10-19T16:05:22.808Z",
+      "lastSuccessAt": "2026-10-19T16:05:22.808Z"
     },
     "tiktok-girlsteamwin": {
       "platform": "tiktok",
@@ -1012,12 +1012,12 @@
           "url": "https://www.tiktok.com/@25ontheway555/video/7692153175914106125"
         }
       ],
-      "avatar": "/avatars/tiktok-girlsteamwin.jpg?v=1792422335907",
+      "avatar": "/avatars/tiktok-girlsteamwin.jpg?v=1792425946071",
       "totalViews": 3196,
       "ok": true,
       "error": null,
-      "scrapedAt": "2026-10-19T15:05:10.546Z",
-      "lastSuccessAt": "2026-10-19T15:05:10.546Z"
+      "scrapedAt": "2026-10-19T16:05:24.047Z",
+      "lastSuccessAt": "2026-10-19T16:05:24.047Z"
     },
     "tiktok-allrizexmvm": {
       "platform": "tiktok",
@@ -1030,7 +1030,7 @@
         {
           "id": "7697802009658805517",
           "title": "Girls we are losing... so the sisters came to win it back Team Girls or Team Boys? Pick your side below #teamgirls #teamboys #girlsvsboys #dance #fyp",
-          "views": 337,
+          "views": 338,
           "likes": 22,
           "comments": 5,
           "postedAt": "2026-10-18T00:43:33.000Z",
@@ -1066,19 +1066,19 @@
         {
           "id": "7694780357010263310",
           "title": "They say nobody cares about handmade craftsmanship anymore… 💔🦈 I spent hours turning leather into this shark pencil holder, cutting, shaping, and stitching every detail by hand. Just a small creator chasing a dream of reaching 10K followers. ❤️ If you believe handmade art still deserves appreciation, your support means everything. 🙏 Would you put this shark on your desk? 🦈✏️ #LeatherCraft #LeatherWorking #Handmade #SatisfyingVideos #SmallCreator ",
-          "views": 716,
+          "views": 717,
           "likes": 49,
           "comments": 0,
           "postedAt": "2026-10-09T21:18:04.000Z",
           "url": "https://www.tiktok.com/@allrizexmvm/video/7694780357010263310"
         }
       ],
-      "avatar": "/avatars/tiktok-allrizexmvm.jpg?v=1792422362814",
-      "totalViews": 2615,
+      "avatar": "/avatars/tiktok-allrizexmvm.jpg?v=1792425967260",
+      "totalViews": 2617,
       "ok": true,
       "error": null,
-      "scrapedAt": "2026-10-19T15:05:36.513Z",
-      "lastSuccessAt": "2026-10-19T15:05:36.513Z"
+      "scrapedAt": "2026-10-19T16:05:46.973Z",
+      "lastSuccessAt": "2026-10-19T16:05:46.973Z"
     },
     "threads-almoventures": {
       "platform": "threads",
@@ -1125,12 +1125,12 @@
           "url": "https://www.threads.com/@almoventures/post/DeaFolgjoCK"
         }
       ],
-      "avatar": "/avatars/threads-almoventures.jpg?v=1792422367875",
+      "avatar": "/avatars/threads-almoventures.jpg?v=1792425973035",
       "totalViews": null,
       "ok": true,
       "error": null,
-      "scrapedAt": "2026-10-19T15:06:03.732Z",
-      "lastSuccessAt": "2026-10-19T15:06:03.732Z"
+      "scrapedAt": "2026-10-19T16:06:07.924Z",
+      "lastSuccessAt": "2026-10-19T16:06:07.924Z"
     },
     "x-moventures999": {
       "platform": "x",
@@ -1186,12 +1186,12 @@
           "url": "https://x.com/moventures999/status/2108822973377335460"
         }
       ],
-      "avatar": "/avatars/x-moventures999.jpg?v=1792422378049",
+      "avatar": "/avatars/x-moventures999.jpg?v=1792425984881",
       "totalViews": 8,
       "ok": true,
       "error": null,
-      "scrapedAt": "2026-10-19T15:06:08.409Z",
-      "lastSuccessAt": "2026-10-19T15:06:08.409Z"
+      "scrapedAt": "2026-10-19T16:06:13.689Z",
+      "lastSuccessAt": "2026-10-19T16:06:13.689Z"
     }
   }
 }
