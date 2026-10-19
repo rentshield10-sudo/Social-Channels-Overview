@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-19T09:06:05.220Z",
+  "updatedAt": "2026-10-19T10:06:01.260Z",
   "accounts": {
     "tiktok-insanefindz": {
       "platform": "tiktok",
@@ -336,7 +336,7 @@
         {
           "id": "7686644931343109389",
           "title": "Pappa dog meeting his pups for the first time and number 6 had him asking what are those #dogs #dogsoftiktok #puppies #dogdad #doglife",
-          "views": 453,
+          "views": 454,
           "likes": 60,
           "comments": 1,
           "postedAt": "2026-09-18T11:10:00.000Z",
@@ -604,12 +604,12 @@
           "url": "https://www.tiktok.com/@insanefindz/video/7683638288455863566"
         }
       ],
-      "avatar": "/avatars/tiktok-insanefindz.jpg?v=1792400686252",
-      "totalViews": 109762,
+      "avatar": "/avatars/tiktok-insanefindz.jpg?v=1792404290678",
+      "totalViews": 109763,
       "ok": true,
       "error": null,
-      "scrapedAt": "2026-10-19T09:04:22.716Z",
-      "lastSuccessAt": "2026-10-19T09:04:22.716Z"
+      "scrapedAt": "2026-10-19T10:04:27.373Z",
+      "lastSuccessAt": "2026-10-19T10:04:27.373Z"
     },
     "facebook-granny-mei": {
       "platform": "facebook",
@@ -711,12 +711,12 @@
         }
       ],
       "needsLogin": false,
-      "avatar": "/avatars/facebook-granny-mei.jpg?v=1792400697663",
+      "avatar": "/avatars/facebook-granny-mei.jpg?v=1792404301006",
       "totalViews": 4050,
       "ok": true,
       "error": null,
-      "scrapedAt": "2026-10-19T09:04:46.730Z",
-      "lastSuccessAt": "2026-10-19T09:04:46.730Z"
+      "scrapedAt": "2026-10-19T10:04:50.973Z",
+      "lastSuccessAt": "2026-10-19T10:04:50.973Z"
     },
     "instagram-almoventures": {
       "platform": "instagram",
@@ -809,12 +809,12 @@
         }
       ],
       "needsLogin": false,
-      "avatar": "/avatars/instagram-almoventures.jpg?v=1792400703509",
+      "avatar": "/avatars/instagram-almoventures.jpg?v=1792404307020",
       "totalViews": 1033,
       "ok": true,
       "error": null,
-      "scrapedAt": "2026-10-19T09:04:58.364Z",
-      "lastSuccessAt": "2026-10-19T09:04:58.364Z"
+      "scrapedAt": "2026-10-19T10:05:01.568Z",
+      "lastSuccessAt": "2026-10-19T10:05:01.568Z"
     },
     "youtube-granny-mei": {
       "platform": "youtube",
@@ -836,7 +836,7 @@
         {
           "id": "IpWq_zm9MDs",
           "title": "Granny Mei's 5 Simple Food Checks You Can Try at Home",
-          "views": 1500,
+          "views": 1600,
           "likes": null,
           "comments": null,
           "postedAt": null,
@@ -906,12 +906,12 @@
           "url": "https://www.youtube.com/shorts/AHMiVO3AGKs"
         }
       ],
-      "avatar": "/avatars/youtube-granny-mei.jpg?v=1792400704448",
-      "totalViews": 7677,
+      "avatar": "/avatars/youtube-granny-mei.jpg?v=1792404308417",
+      "totalViews": 7777,
       "ok": true,
       "error": null,
-      "scrapedAt": "2026-10-19T09:05:04.011Z",
-      "lastSuccessAt": "2026-10-19T09:05:04.011Z"
+      "scrapedAt": "2026-10-19T10:05:07.788Z",
+      "lastSuccessAt": "2026-10-19T10:05:07.788Z"
     },
     "tiktok-girlsteamwin": {
       "platform": "tiktok",
@@ -1012,12 +1012,12 @@
           "url": "https://www.tiktok.com/@25ontheway555/video/7692153175914106125"
         }
       ],
-      "avatar": "/avatars/tiktok-girlsteamwin.jpg?v=1792400726415",
+      "avatar": "/avatars/tiktok-girlsteamwin.jpg?v=1792404328846",
       "totalViews": 3196,
       "ok": true,
       "error": null,
-      "scrapedAt": "2026-10-19T09:05:04.948Z",
-      "lastSuccessAt": "2026-10-19T09:05:04.948Z"
+      "scrapedAt": "2026-10-19T10:05:08.949Z",
+      "lastSuccessAt": "2026-10-19T10:05:08.949Z"
     },
     "tiktok-allrizexmvm": {
       "platform": "tiktok",
@@ -1073,12 +1073,12 @@
           "url": "https://www.tiktok.com/@allrizexmvm/video/7694780357010263310"
         }
       ],
-      "avatar": "/avatars/tiktok-allrizexmvm.jpg?v=1792400748431",
+      "avatar": "/avatars/tiktok-allrizexmvm.jpg?v=1792404347324",
       "totalViews": 2611,
       "ok": true,
       "error": null,
-      "scrapedAt": "2026-10-19T09:05:26.949Z",
-      "lastSuccessAt": "2026-10-19T09:05:26.949Z"
+      "scrapedAt": "2026-10-19T10:05:29.406Z",
+      "lastSuccessAt": "2026-10-19T10:05:29.406Z"
     },
     "threads-almoventures": {
       "platform": "threads",
@@ -1125,12 +1125,12 @@
           "url": "https://www.threads.com/@almoventures/post/DeaFolgjoCK"
         }
       ],
-      "avatar": "/avatars/threads-almoventures.jpg?v=1792400752889",
+      "avatar": "/avatars/threads-almoventures.jpg?v=1792404351998",
       "totalViews": null,
       "ok": true,
       "error": null,
-      "scrapedAt": "2026-10-19T09:05:49.048Z",
-      "lastSuccessAt": "2026-10-19T09:05:49.048Z"
+      "scrapedAt": "2026-10-19T10:05:47.972Z",
+      "lastSuccessAt": "2026-10-19T10:05:47.972Z"
     },
     "x-moventures999": {
       "platform": "x",
@@ -1186,12 +1186,12 @@
           "url": "https://x.com/moventures999/status/2108822973377335460"
         }
       ],
-      "avatar": "/avatars/x-moventures999.jpg?v=1792400762735",
+      "avatar": "/avatars/x-moventures999.jpg?v=1792404360143",
       "totalViews": 8,
       "ok": true,
       "error": null,
-      "scrapedAt": "2026-10-19T09:05:53.546Z",
-      "lastSuccessAt": "2026-10-19T09:05:53.546Z"
+      "scrapedAt": "2026-10-19T10:05:52.417Z",
+      "lastSuccessAt": "2026-10-19T10:05:52.417Z"
     }
   }
 }
