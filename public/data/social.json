@@ -1,11 +1,11 @@
 {
-  "updatedAt": "2026-10-20T10:05:08.006Z",
+  "updatedAt": "2026-10-20T11:05:16.461Z",
   "accounts": {
     "tiktok-insanefindz": {
       "platform": "tiktok",
       "name": "@insanefindz",
       "url": "https://www.tiktok.com/@insanefindz",
-      "followers": 5080,
+      "followers": 5081,
       "likes": 16200,
       "posts": 158,
       "videos": [
@@ -604,12 +604,12 @@
           "url": "https://www.tiktok.com/@insanefindz/video/7683638288455863566"
         }
       ],
-      "avatar": "/avatars/tiktok-insanefindz.jpg?v=1792490665868",
+      "avatar": "/avatars/tiktok-insanefindz.jpg?v=1792494272603",
       "totalViews": 109846,
       "ok": true,
       "error": null,
-      "scrapedAt": "2026-10-20T10:04:12.950Z",
-      "lastSuccessAt": "2026-10-20T10:04:12.950Z"
+      "scrapedAt": "2026-10-20T11:04:17.794Z",
+      "lastSuccessAt": "2026-10-20T11:04:17.794Z"
     },
     "facebook-granny-mei": {
       "platform": "facebook",
@@ -711,12 +711,12 @@
         }
       ],
       "needsLogin": false,
-      "avatar": "/avatars/facebook-granny-mei.jpg?v=1792490670717",
+      "avatar": "/avatars/facebook-granny-mei.jpg?v=1792494278389",
       "totalViews": 4064,
       "ok": true,
       "error": null,
-      "scrapedAt": "2026-10-20T10:04:25.983Z",
-      "lastSuccessAt": "2026-10-20T10:04:25.983Z"
+      "scrapedAt": "2026-10-20T11:04:32.771Z",
+      "lastSuccessAt": "2026-10-20T11:04:32.771Z"
     },
     "instagram-almoventures": {
       "platform": "instagram",
@@ -809,12 +809,12 @@
         }
       ],
       "needsLogin": false,
-      "avatar": "/avatars/instagram-almoventures.jpg?v=1792490674507",
+      "avatar": "/avatars/instagram-almoventures.jpg?v=1792494282323",
       "totalViews": 1033,
       "ok": true,
       "error": null,
-      "scrapedAt": "2026-10-20T10:04:30.840Z",
-      "lastSuccessAt": "2026-10-20T10:04:30.840Z"
+      "scrapedAt": "2026-10-20T11:04:38.469Z",
+      "lastSuccessAt": "2026-10-20T11:04:38.469Z"
     },
     "youtube-granny-mei": {
       "platform": "youtube",
@@ -872,7 +872,7 @@
         {
           "id": "MgXPzyIXiLE",
           "title": "Chia, Cinnamon & Almond Milk Drink to Stay Fuller Longer",
-          "views": 233,
+          "views": 234,
           "likes": null,
           "comments": null,
           "postedAt": null,
@@ -906,12 +906,12 @@
           "url": "https://www.youtube.com/shorts/AHMiVO3AGKs"
         }
       ],
-      "avatar": "/avatars/youtube-granny-mei.jpg?v=1792490675001",
-      "totalViews": 8577,
+      "avatar": "/avatars/youtube-granny-mei.jpg?v=1792494282721",
+      "totalViews": 8578,
       "ok": true,
       "error": null,
-      "scrapedAt": "2026-10-20T10:04:34.624Z",
-      "lastSuccessAt": "2026-10-20T10:04:34.624Z"
+      "scrapedAt": "2026-10-20T11:04:42.407Z",
+      "lastSuccessAt": "2026-10-20T11:04:42.407Z"
     },
     "tiktok-girlsteamwin": {
       "platform": "tiktok",
@@ -1012,12 +1012,12 @@
           "url": "https://www.tiktok.com/@25ontheway555/video/7692153175914106125"
         }
       ],
-      "avatar": "/avatars/tiktok-girlsteamwin.jpg?v=1792490687482",
+      "avatar": "/avatars/tiktok-girlsteamwin.jpg?v=1792494295455",
       "totalViews": 3198,
       "ok": true,
       "error": null,
-      "scrapedAt": "2026-10-20T10:04:35.086Z",
-      "lastSuccessAt": "2026-10-20T10:04:35.086Z"
+      "scrapedAt": "2026-10-20T11:04:42.789Z",
+      "lastSuccessAt": "2026-10-20T11:04:42.789Z"
     },
     "tiktok-allrizexmvm": {
       "platform": "tiktok",
@@ -1073,12 +1073,12 @@
           "url": "https://www.tiktok.com/@allrizexmvm/video/7694780357010263310"
         }
       ],
-      "avatar": "/avatars/tiktok-allrizexmvm.jpg?v=1792490701183",
+      "avatar": "/avatars/tiktok-allrizexmvm.jpg?v=1792494308570",
       "totalViews": 2628,
       "ok": true,
       "error": null,
-      "scrapedAt": "2026-10-20T10:04:47.577Z",
-      "lastSuccessAt": "2026-10-20T10:04:47.577Z"
+      "scrapedAt": "2026-10-20T11:04:55.569Z",
+      "lastSuccessAt": "2026-10-20T11:04:55.569Z"
     },
     "threads-almoventures": {
       "platform": "threads",
@@ -1125,12 +1125,12 @@
           "url": "https://www.threads.com/@almoventures/post/DeaFolgjoCK"
         }
       ],
-      "avatar": "/avatars/threads-almoventures.jpg?v=1792490703721",
+      "avatar": "/avatars/threads-almoventures.jpg?v=1792494311312",
       "totalViews": null,
       "ok": true,
       "error": null,
-      "scrapedAt": "2026-10-20T10:05:01.288Z",
-      "lastSuccessAt": "2026-10-20T10:05:01.288Z"
+      "scrapedAt": "2026-10-20T11:05:08.675Z",
+      "lastSuccessAt": "2026-10-20T11:05:08.675Z"
     },
     "x-moventures999": {
       "platform": "x",
@@ -1186,12 +1186,12 @@
           "url": "https://x.com/moventures999/status/2108822973377335460"
         }
       ],
-      "avatar": "/avatars/x-moventures999.jpg?v=1792490707395",
+      "avatar": "/avatars/x-moventures999.jpg?v=1792494315895",
       "totalViews": 8,
       "ok": true,
       "error": null,
-      "scrapedAt": "2026-10-20T10:05:03.805Z",
-      "lastSuccessAt": "2026-10-20T10:05:03.805Z"
+      "scrapedAt": "2026-10-20T11:05:11.433Z",
+      "lastSuccessAt": "2026-10-20T11:05:11.433Z"
     }
   }
 }
