@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-20T21:05:19.526Z",
+  "updatedAt": "2026-10-20T22:11:43.035Z",
   "accounts": {
     "tiktok-insanefindz": {
       "platform": "tiktok",
@@ -381,7 +381,7 @@
         {
           "id": "7686273427455347982",
           "title": "Ranking vet visits gone wrong and number 5 was the wrong pin for sure #dogs #dogsoftiktok #vetvisit #funnydogs #dogsbelike",
-          "views": 2184,
+          "views": 2188,
           "likes": 30,
           "comments": 0,
           "postedAt": "2026-09-17T11:10:00.000Z",
@@ -390,7 +390,7 @@
         {
           "id": "7686272744090111246",
           "title": "Dogs who interrupt zoom meetings and number 5 brought his ball at the worst moment #dogs #dogsoftiktok #funnydogs #doglife #dogsbelike",
-          "views": 612,
+          "views": 613,
           "likes": 43,
           "comments": 1,
           "postedAt": "2026-09-17T08:10:00.000Z",
@@ -604,12 +604,12 @@
           "url": "https://www.tiktok.com/@insanefindz/video/7683638288455863566"
         }
       ],
-      "avatar": "/avatars/tiktok-insanefindz.jpg?v=1792530270652",
-      "totalViews": 109887,
+      "avatar": "/avatars/tiktok-insanefindz.jpg?v=1792533953411",
+      "totalViews": 109892,
       "ok": true,
       "error": null,
-      "scrapedAt": "2026-10-20T21:04:14.716Z",
-      "lastSuccessAt": "2026-10-20T21:04:14.716Z"
+      "scrapedAt": "2026-10-20T22:05:13.275Z",
+      "lastSuccessAt": "2026-10-20T22:05:13.275Z"
     },
     "facebook-granny-mei": {
       "platform": "facebook",
@@ -618,105 +618,14 @@
       "followers": 13,
       "likes": null,
       "posts": null,
-      "videos": [
-        {
-          "id": "28787922367559626",
-          "title": null,
-          "views": 486,
-          "likes": null,
-          "comments": null,
-          "postedAt": null,
-          "url": "https://www.facebook.com/reel/28787922367559626/"
-        },
-        {
-          "id": "1592389962622029",
-          "title": null,
-          "views": 1000,
-          "likes": null,
-          "comments": null,
-          "postedAt": null,
-          "url": "https://www.facebook.com/reel/1592389962622029/"
-        },
-        {
-          "id": "1077417621593171",
-          "title": null,
-          "views": 222,
-          "likes": null,
-          "comments": null,
-          "postedAt": null,
-          "url": "https://www.facebook.com/reel/1077417621593171/"
-        },
-        {
-          "id": "1295837789307703",
-          "title": null,
-          "views": 285,
-          "likes": null,
-          "comments": null,
-          "postedAt": null,
-          "url": "https://www.facebook.com/reel/1295837789307703/"
-        },
-        {
-          "id": "29394005366866743",
-          "title": null,
-          "views": 872,
-          "likes": null,
-          "comments": null,
-          "postedAt": null,
-          "url": "https://www.facebook.com/reel/29394005366866743/"
-        },
-        {
-          "id": "1115581677635947",
-          "title": null,
-          "views": 272,
-          "likes": null,
-          "comments": null,
-          "postedAt": null,
-          "url": "https://www.facebook.com/reel/1115581677635947/"
-        },
-        {
-          "id": "1076674435211812",
-          "title": null,
-          "views": 148,
-          "likes": null,
-          "comments": null,
-          "postedAt": null,
-          "url": "https://www.facebook.com/reel/1076674435211812/"
-        },
-        {
-          "id": "1433890571972450",
-          "title": null,
-          "views": 329,
-          "likes": null,
-          "comments": null,
-          "postedAt": null,
-          "url": "https://www.facebook.com/reel/1433890571972450/"
-        },
-        {
-          "id": "1405523777604178",
-          "title": null,
-          "views": 209,
-          "likes": null,
-          "comments": null,
-          "postedAt": null,
-          "url": "https://www.facebook.com/reel/1405523777604178/"
-        },
-        {
-          "id": "38379606531654238",
-          "title": null,
-          "views": 254,
-          "likes": null,
-          "comments": null,
-          "postedAt": null,
-          "url": "https://www.facebook.com/reel/38379606531654238/"
-        }
-      ],
+      "videos": [],
       "needsLogin": false,
-      "avatar": "/avatars/facebook-granny-mei.jpg?v=1792530277752",
-      "totalViews": 4077,
+      "avatar": "/avatars/facebook-granny-mei.jpg?v=1792534023368",
+      "totalViews": null,
       "ok": true,
       "error": null,
-      "scrapedAt": "2026-10-20T21:04:30.754Z",
-      "lastSuccessAt": "2026-10-20T21:04:30.754Z"
+      "scrapedAt": "2026-10-20T22:05:56.723Z",
+      "lastSuccessAt": "2026-10-20T22:05:56.723Z"
     },
     "instagram-almoventures": {
       "platform": "instagram",
@@ -809,12 +718,12 @@
         }
       ],
       "needsLogin": false,
-      "avatar": "/avatars/instagram-almoventures.jpg?v=1792530281915",
+      "avatar": "/avatars/instagram-almoventures.jpg?v=1792534041209",
       "totalViews": 1035,
       "ok": true,
       "error": null,
-      "scrapedAt": "2026-10-20T21:04:37.852Z",
-      "lastSuccessAt": "2026-10-20T21:04:37.852Z"
+      "scrapedAt": "2026-10-20T22:07:04.209Z",
+      "lastSuccessAt": "2026-10-20T22:07:04.209Z"
     },
     "youtube-granny-mei": {
       "platform": "youtube",
@@ -906,12 +815,12 @@
           "url": "https://www.youtube.com/shorts/AHMiVO3AGKs"
         }
       ],
-      "avatar": "/avatars/youtube-granny-mei.jpg?v=1792530282516",
+      "avatar": "/avatars/youtube-granny-mei.jpg?v=1792534044312",
       "totalViews": 8678,
       "ok": true,
       "error": null,
-      "scrapedAt": "2026-10-20T21:04:42.002Z",
-      "lastSuccessAt": "2026-10-20T21:04:42.002Z"
+      "scrapedAt": "2026-10-20T22:07:21.746Z",
+      "lastSuccessAt": "2026-10-20T22:07:21.746Z"
     },
     "tiktok-girlsteamwin": {
       "platform": "tiktok",
@@ -1012,12 +921,12 @@
           "url": "https://www.tiktok.com/@25ontheway555/video/7692153175914106125"
         }
       ],
-      "avatar": "/avatars/tiktok-girlsteamwin.jpg?v=1792530298366",
+      "avatar": "/avatars/tiktok-girlsteamwin.jpg?v=1792534123259",
       "totalViews": 3198,
       "ok": true,
       "error": null,
-      "scrapedAt": "2026-10-20T21:04:42.583Z",
-      "lastSuccessAt": "2026-10-20T21:04:42.583Z"
+      "scrapedAt": "2026-10-20T22:07:24.548Z",
+      "lastSuccessAt": "2026-10-20T22:07:24.548Z"
     },
     "tiktok-allrizexmvm": {
       "platform": "tiktok",
@@ -1075,9 +984,9 @@
       ],
       "avatar": "/avatars/tiktok-allrizexmvm.jpg?v=1792530311265",
       "totalViews": 2629,
-      "ok": true,
-      "error": null,
-      "scrapedAt": "2026-10-20T21:04:58.474Z",
+      "ok": false,
+      "error": "Navigation timeout of 90000 ms exceeded",
+      "scrapedAt": "2026-10-20T22:08:55.341Z",
       "lastSuccessAt": "2026-10-20T21:04:58.474Z"
     },
     "threads-almoventures": {
@@ -1125,12 +1034,12 @@
           "url": "https://www.threads.com/@almoventures/post/DeaFolgjoCK"
         }
       ],
-      "avatar": "/avatars/threads-almoventures.jpg?v=1792530314085",
+      "avatar": "/avatars/threads-almoventures.jpg?v=1792534255843",
       "totalViews": null,
       "ok": true,
       "error": null,
-      "scrapedAt": "2026-10-20T21:05:11.367Z",
-      "lastSuccessAt": "2026-10-20T21:05:11.367Z"
+      "scrapedAt": "2026-10-20T22:10:46.413Z",
+      "lastSuccessAt": "2026-10-20T22:10:46.413Z"
     },
     "x-moventures999": {
       "platform": "x",
@@ -1186,12 +1095,12 @@
           "url": "https://x.com/moventures999/status/2108822973377335460"
         }
       ],
-      "avatar": "/avatars/x-moventures999.jpg?v=1792530318509",
+      "avatar": "/avatars/x-moventures999.jpg?v=1792534281082",
       "totalViews": 8,
       "ok": true,
       "error": null,
-      "scrapedAt": "2026-10-20T21:05:14.174Z",
-      "lastSuccessAt": "2026-10-20T21:05:14.174Z"
+      "scrapedAt": "2026-10-20T22:10:56.741Z",
+      "lastSuccessAt": "2026-10-20T22:10:56.741Z"
     },
     "youtube-chubbypinkwhale": {
       "platform": "youtube",
@@ -1211,12 +1120,12 @@
           "url": "https://www.youtube.com/watch?v=t4XD-Ox003I"
         }
       ],
-      "avatar": "/avatars/youtube-chubbypinkwhale.jpg?v=1792530319125",
+      "avatar": "/avatars/youtube-chubbypinkwhale.jpg?v=1792534299909",
       "totalViews": 3,
       "ok": true,
       "error": null,
-      "scrapedAt": "2026-10-20T21:05:18.608Z",
-      "lastSuccessAt": "2026-10-20T21:05:18.608Z"
+      "scrapedAt": "2026-10-20T22:11:28.827Z",
+      "lastSuccessAt": "2026-10-20T22:11:28.827Z"
     }
   }
 }
