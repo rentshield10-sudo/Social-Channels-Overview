@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-20T18:04:12.606Z",
+  "generatedAt": "2026-10-20T19:04:12.846Z",
   "skills": [
     {
       "id": "tiktok",
@@ -347,8 +347,15 @@
       "id": "chubbypinkwhale",
       "installed": true,
       "description": "Use when Moe asks for a ChubbyPinkWhale video, a \"How rich is X?\" celebrity net-worth documentary (\"do Kevin Hart next\"), or wants to continue, fix or re-render The Rock or another ChubbyPinkWhale video.",
-      "accounts": [],
-      "note": "YouTube channel ChubbyPinkWhale: \"How rich is X?\" net-worth documentaries (link pending).",
+      "accounts": [
+        {
+          "id": "youtube-chubbypinkwhale",
+          "platform": "youtube",
+          "name": "ChubbyPinkWhale",
+          "url": "https://www.youtube.com/channel/UCH5lQJ7yslV4ycHfwFz2XoA"
+        }
+      ],
+      "note": "YouTube channel ChubbyPinkWhale: \"How rich is X?\" net-worth documentaries. Live since The Rock.",
       "videos": [
         {
           "file": "final-360p.mp4",

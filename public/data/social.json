@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-20T18:05:22.754Z",
+  "updatedAt": "2026-10-20T19:05:30.000Z",
   "accounts": {
     "tiktok-insanefindz": {
       "platform": "tiktok",
@@ -381,7 +381,7 @@
         {
           "id": "7686273427455347982",
           "title": "Ranking vet visits gone wrong and number 5 was the wrong pin for sure #dogs #dogsoftiktok #vetvisit #funnydogs #dogsbelike",
-          "views": 2169,
+          "views": 2173,
           "likes": 30,
           "comments": 0,
           "postedAt": "2026-09-17T11:10:00.000Z",
@@ -604,12 +604,12 @@
           "url": "https://www.tiktok.com/@insanefindz/video/7683638288455863566"
         }
       ],
-      "avatar": "/avatars/tiktok-insanefindz.jpg?v=1792519470994",
-      "totalViews": 109870,
+      "avatar": "/avatars/tiktok-insanefindz.jpg?v=1792523069555",
+      "totalViews": 109874,
       "ok": true,
       "error": null,
-      "scrapedAt": "2026-10-20T18:04:14.048Z",
-      "lastSuccessAt": "2026-10-20T18:04:14.048Z"
+      "scrapedAt": "2026-10-20T19:04:13.988Z",
+      "lastSuccessAt": "2026-10-20T19:04:13.988Z"
     },
     "facebook-granny-mei": {
       "platform": "facebook",
@@ -711,12 +711,12 @@
         }
       ],
       "needsLogin": false,
-      "avatar": "/avatars/facebook-granny-mei.jpg?v=1792519477284",
+      "avatar": "/avatars/facebook-granny-mei.jpg?v=1792523076762",
       "totalViews": 4077,
       "ok": true,
       "error": null,
-      "scrapedAt": "2026-10-20T18:04:31.107Z",
-      "lastSuccessAt": "2026-10-20T18:04:31.107Z"
+      "scrapedAt": "2026-10-20T19:04:29.657Z",
+      "lastSuccessAt": "2026-10-20T19:04:29.657Z"
     },
     "instagram-almoventures": {
       "platform": "instagram",
@@ -809,12 +809,12 @@
         }
       ],
       "needsLogin": false,
-      "avatar": "/avatars/instagram-almoventures.jpg?v=1792519481754",
+      "avatar": "/avatars/instagram-almoventures.jpg?v=1792523081659",
       "totalViews": 1035,
       "ok": true,
       "error": null,
-      "scrapedAt": "2026-10-20T18:04:37.374Z",
-      "lastSuccessAt": "2026-10-20T18:04:37.374Z"
+      "scrapedAt": "2026-10-20T19:04:36.863Z",
+      "lastSuccessAt": "2026-10-20T19:04:36.863Z"
     },
     "youtube-granny-mei": {
       "platform": "youtube",
@@ -906,12 +906,12 @@
           "url": "https://www.youtube.com/shorts/AHMiVO3AGKs"
         }
       ],
-      "avatar": "/avatars/youtube-granny-mei.jpg?v=1792519482206",
+      "avatar": "/avatars/youtube-granny-mei.jpg?v=1792523082454",
       "totalViews": 8578,
       "ok": true,
       "error": null,
-      "scrapedAt": "2026-10-20T18:04:41.844Z",
-      "lastSuccessAt": "2026-10-20T18:04:41.844Z"
+      "scrapedAt": "2026-10-20T19:04:41.759Z",
+      "lastSuccessAt": "2026-10-20T19:04:41.759Z"
     },
     "tiktok-girlsteamwin": {
       "platform": "tiktok",
@@ -1012,12 +1012,12 @@
           "url": "https://www.tiktok.com/@25ontheway555/video/7692153175914106125"
         }
       ],
-      "avatar": "/avatars/tiktok-girlsteamwin.jpg?v=1792519497584",
+      "avatar": "/avatars/tiktok-girlsteamwin.jpg?v=1792523101660",
       "totalViews": 3198,
       "ok": true,
       "error": null,
-      "scrapedAt": "2026-10-20T18:04:42.277Z",
-      "lastSuccessAt": "2026-10-20T18:04:42.277Z"
+      "scrapedAt": "2026-10-20T19:04:42.531Z",
+      "lastSuccessAt": "2026-10-20T19:04:42.531Z"
     },
     "tiktok-allrizexmvm": {
       "platform": "tiktok",
@@ -1073,12 +1073,12 @@
           "url": "https://www.tiktok.com/@allrizexmvm/video/7694780357010263310"
         }
       ],
-      "avatar": "/avatars/tiktok-allrizexmvm.jpg?v=1792519513702",
+      "avatar": "/avatars/tiktok-allrizexmvm.jpg?v=1792523118775",
       "totalViews": 2628,
       "ok": true,
       "error": null,
-      "scrapedAt": "2026-10-20T18:04:57.687Z",
-      "lastSuccessAt": "2026-10-20T18:04:57.687Z"
+      "scrapedAt": "2026-10-20T19:05:01.777Z",
+      "lastSuccessAt": "2026-10-20T19:05:01.777Z"
     },
     "threads-almoventures": {
       "platform": "threads",
@@ -1125,12 +1125,12 @@
           "url": "https://www.threads.com/@almoventures/post/DeaFolgjoCK"
         }
       ],
-      "avatar": "/avatars/threads-almoventures.jpg?v=1792519516447",
+      "avatar": "/avatars/threads-almoventures.jpg?v=1792523122607",
       "totalViews": null,
       "ok": true,
       "error": null,
-      "scrapedAt": "2026-10-20T18:05:13.821Z",
-      "lastSuccessAt": "2026-10-20T18:05:13.821Z"
+      "scrapedAt": "2026-10-20T19:05:18.879Z",
+      "lastSuccessAt": "2026-10-20T19:05:18.879Z"
     },
     "x-moventures999": {
       "platform": "x",
@@ -1186,12 +1186,37 @@
           "url": "https://x.com/moventures999/status/2108822973377335460"
         }
       ],
-      "avatar": "/avatars/x-moventures999.jpg?v=1792519522105",
+      "avatar": "/avatars/x-moventures999.jpg?v=1792523128789",
       "totalViews": 8,
       "ok": true,
       "error": null,
-      "scrapedAt": "2026-10-20T18:05:16.549Z",
-      "lastSuccessAt": "2026-10-20T18:05:16.549Z"
+      "scrapedAt": "2026-10-20T19:05:22.702Z",
+      "lastSuccessAt": "2026-10-20T19:05:22.702Z"
+    },
+    "youtube-chubbypinkwhale": {
+      "platform": "youtube",
+      "name": "ChubbyPinkWhale",
+      "url": "https://www.youtube.com/channel/UCH5lQJ7yslV4ycHfwFz2XoA",
+      "followers": null,
+      "likes": null,
+      "posts": 1,
+      "videos": [
+        {
+          "id": "t4XD-Ox003I",
+          "title": "How Rich Is The Rock?",
+          "views": 3,
+          "likes": null,
+          "comments": null,
+          "postedAt": null,
+          "url": "https://www.youtube.com/watch?v=t4XD-Ox003I"
+        }
+      ],
+      "avatar": "/avatars/youtube-chubbypinkwhale.jpg?v=1792523129532",
+      "totalViews": 3,
+      "ok": true,
+      "error": null,
+      "scrapedAt": "2026-10-20T19:05:28.920Z",
+      "lastSuccessAt": "2026-10-20T19:05:28.920Z"
     }
   }
 }
