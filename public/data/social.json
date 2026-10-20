@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-20T06:05:10.828Z",
+  "updatedAt": "2026-10-20T07:05:13.172Z",
   "accounts": {
     "tiktok-insanefindz": {
       "platform": "tiktok",
@@ -120,7 +120,7 @@
         {
           "id": "7689604866171309326",
           "title": "Mom versus dad and my dog picked his side at number 5 without hesitating #dogs #dogsoftiktok #chihuahua #funnydogs #dogsbelike",
-          "views": 689,
+          "views": 692,
           "likes": 94,
           "comments": 0,
           "postedAt": "2026-09-26T11:10:00.000Z",
@@ -381,7 +381,7 @@
         {
           "id": "7686273427455347982",
           "title": "Ranking vet visits gone wrong and number 5 was the wrong pin for sure #dogs #dogsoftiktok #vetvisit #funnydogs #dogsbelike",
-          "views": 2145,
+          "views": 2151,
           "likes": 30,
           "comments": 0,
           "postedAt": "2026-09-17T11:10:00.000Z",
@@ -604,12 +604,12 @@
           "url": "https://www.tiktok.com/@insanefindz/video/7683638288455863566"
         }
       ],
-      "avatar": "/avatars/tiktok-insanefindz.jpg?v=1792476267072",
-      "totalViews": 109832,
+      "avatar": "/avatars/tiktok-insanefindz.jpg?v=1792479869493",
+      "totalViews": 109841,
       "ok": true,
       "error": null,
-      "scrapedAt": "2026-10-20T06:04:12.495Z",
-      "lastSuccessAt": "2026-10-20T06:04:12.495Z"
+      "scrapedAt": "2026-10-20T07:04:12.889Z",
+      "lastSuccessAt": "2026-10-20T07:04:12.889Z"
     },
     "facebook-granny-mei": {
       "platform": "facebook",
@@ -711,12 +711,12 @@
         }
       ],
       "needsLogin": false,
-      "avatar": "/avatars/facebook-granny-mei.jpg?v=1792476272182",
+      "avatar": "/avatars/facebook-granny-mei.jpg?v=1792479874995",
       "totalViews": 4064,
       "ok": true,
       "error": null,
-      "scrapedAt": "2026-10-20T06:04:27.190Z",
-      "lastSuccessAt": "2026-10-20T06:04:27.190Z"
+      "scrapedAt": "2026-10-20T07:04:29.589Z",
+      "lastSuccessAt": "2026-10-20T07:04:29.589Z"
     },
     "instagram-almoventures": {
       "platform": "instagram",
@@ -809,12 +809,12 @@
         }
       ],
       "needsLogin": false,
-      "avatar": "/avatars/instagram-almoventures.jpg?v=1792476276021",
+      "avatar": "/avatars/instagram-almoventures.jpg?v=1792479878680",
       "totalViews": 1033,
       "ok": true,
       "error": null,
-      "scrapedAt": "2026-10-20T06:04:32.258Z",
-      "lastSuccessAt": "2026-10-20T06:04:32.258Z"
+      "scrapedAt": "2026-10-20T07:04:35.090Z",
+      "lastSuccessAt": "2026-10-20T07:04:35.090Z"
     },
     "youtube-granny-mei": {
       "platform": "youtube",
@@ -845,7 +845,7 @@
         {
           "id": "jmGisFn5Cv0",
           "title": "Granny Mei's Banana Lemon Cinnamon Smoothie for a Healthy Morning",
-          "views": 1600,
+          "views": 1700,
           "likes": null,
           "comments": null,
           "postedAt": null,
@@ -906,12 +906,12 @@
           "url": "https://www.youtube.com/shorts/AHMiVO3AGKs"
         }
       ],
-      "avatar": "/avatars/youtube-granny-mei.jpg?v=1792476276556",
-      "totalViews": 8377,
+      "avatar": "/avatars/youtube-granny-mei.jpg?v=1792479879158",
+      "totalViews": 8477,
       "ok": true,
       "error": null,
-      "scrapedAt": "2026-10-20T06:04:36.107Z",
-      "lastSuccessAt": "2026-10-20T06:04:36.107Z"
+      "scrapedAt": "2026-10-20T07:04:38.765Z",
+      "lastSuccessAt": "2026-10-20T07:04:38.765Z"
     },
     "tiktok-girlsteamwin": {
       "platform": "tiktok",
@@ -1012,12 +1012,12 @@
           "url": "https://www.tiktok.com/@25ontheway555/video/7692153175914106125"
         }
       ],
-      "avatar": "/avatars/tiktok-girlsteamwin.jpg?v=1792476290036",
+      "avatar": "/avatars/tiktok-girlsteamwin.jpg?v=1792479893984",
       "totalViews": 3198,
       "ok": true,
       "error": null,
-      "scrapedAt": "2026-10-20T06:04:36.608Z",
-      "lastSuccessAt": "2026-10-20T06:04:36.608Z"
+      "scrapedAt": "2026-10-20T07:04:39.234Z",
+      "lastSuccessAt": "2026-10-20T07:04:39.234Z"
     },
     "tiktok-allrizexmvm": {
       "platform": "tiktok",
@@ -1073,12 +1073,12 @@
           "url": "https://www.tiktok.com/@allrizexmvm/video/7694780357010263310"
         }
       ],
-      "avatar": "/avatars/tiktok-allrizexmvm.jpg?v=1792476304365",
+      "avatar": "/avatars/tiktok-allrizexmvm.jpg?v=1792479906541",
       "totalViews": 2627,
       "ok": true,
       "error": null,
-      "scrapedAt": "2026-10-20T06:04:50.141Z",
-      "lastSuccessAt": "2026-10-20T06:04:50.141Z"
+      "scrapedAt": "2026-10-20T07:04:54.102Z",
+      "lastSuccessAt": "2026-10-20T07:04:54.102Z"
     },
     "threads-almoventures": {
       "platform": "threads",
@@ -1125,12 +1125,12 @@
           "url": "https://www.threads.com/@almoventures/post/DeaFolgjoCK"
         }
       ],
-      "avatar": "/avatars/threads-almoventures.jpg?v=1792476306913",
+      "avatar": "/avatars/threads-almoventures.jpg?v=1792479909324",
       "totalViews": null,
       "ok": true,
       "error": null,
-      "scrapedAt": "2026-10-20T06:05:04.464Z",
-      "lastSuccessAt": "2026-10-20T06:05:04.464Z"
+      "scrapedAt": "2026-10-20T07:05:06.643Z",
+      "lastSuccessAt": "2026-10-20T07:05:06.643Z"
     },
     "x-moventures999": {
       "platform": "x",
@@ -1186,12 +1186,12 @@
           "url": "https://x.com/moventures999/status/2108822973377335460"
         }
       ],
-      "avatar": "/avatars/x-moventures999.jpg?v=1792476310299",
+      "avatar": "/avatars/x-moventures999.jpg?v=1792479912778",
       "totalViews": 8,
       "ok": true,
       "error": null,
-      "scrapedAt": "2026-10-20T06:05:06.990Z",
-      "lastSuccessAt": "2026-10-20T06:05:06.990Z"
+      "scrapedAt": "2026-10-20T07:05:09.400Z",
+      "lastSuccessAt": "2026-10-20T07:05:09.400Z"
     }
   }
 }
