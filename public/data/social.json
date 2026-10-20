@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-20T05:05:09.377Z",
+  "updatedAt": "2026-10-20T06:05:10.828Z",
   "accounts": {
     "tiktok-insanefindz": {
       "platform": "tiktok",
@@ -604,12 +604,12 @@
           "url": "https://www.tiktok.com/@insanefindz/video/7683638288455863566"
         }
       ],
-      "avatar": "/avatars/tiktok-insanefindz.jpg?v=1792472667566",
+      "avatar": "/avatars/tiktok-insanefindz.jpg?v=1792476267072",
       "totalViews": 109832,
       "ok": true,
       "error": null,
-      "scrapedAt": "2026-10-20T05:04:13.071Z",
-      "lastSuccessAt": "2026-10-20T05:04:13.071Z"
+      "scrapedAt": "2026-10-20T06:04:12.495Z",
+      "lastSuccessAt": "2026-10-20T06:04:12.495Z"
     },
     "facebook-granny-mei": {
       "platform": "facebook",
@@ -711,12 +711,12 @@
         }
       ],
       "needsLogin": false,
-      "avatar": "/avatars/facebook-granny-mei.jpg?v=1792472672761",
+      "avatar": "/avatars/facebook-granny-mei.jpg?v=1792476272182",
       "totalViews": 4064,
       "ok": true,
       "error": null,
-      "scrapedAt": "2026-10-20T05:04:27.679Z",
-      "lastSuccessAt": "2026-10-20T05:04:27.679Z"
+      "scrapedAt": "2026-10-20T06:04:27.190Z",
+      "lastSuccessAt": "2026-10-20T06:04:27.190Z"
     },
     "instagram-almoventures": {
       "platform": "instagram",
@@ -809,12 +809,12 @@
         }
       ],
       "needsLogin": false,
-      "avatar": "/avatars/instagram-almoventures.jpg?v=1792472676322",
+      "avatar": "/avatars/instagram-almoventures.jpg?v=1792476276021",
       "totalViews": 1033,
       "ok": true,
       "error": null,
-      "scrapedAt": "2026-10-20T05:04:32.845Z",
-      "lastSuccessAt": "2026-10-20T05:04:32.845Z"
+      "scrapedAt": "2026-10-20T06:04:32.258Z",
+      "lastSuccessAt": "2026-10-20T06:04:32.258Z"
     },
     "youtube-granny-mei": {
       "platform": "youtube",
@@ -906,12 +906,12 @@
           "url": "https://www.youtube.com/shorts/AHMiVO3AGKs"
         }
       ],
-      "avatar": "/avatars/youtube-granny-mei.jpg?v=1792472676781",
+      "avatar": "/avatars/youtube-granny-mei.jpg?v=1792476276556",
       "totalViews": 8377,
       "ok": true,
       "error": null,
-      "scrapedAt": "2026-10-20T05:04:36.435Z",
-      "lastSuccessAt": "2026-10-20T05:04:36.435Z"
+      "scrapedAt": "2026-10-20T06:04:36.107Z",
+      "lastSuccessAt": "2026-10-20T06:04:36.107Z"
     },
     "tiktok-girlsteamwin": {
       "platform": "tiktok",
@@ -1012,12 +1012,12 @@
           "url": "https://www.tiktok.com/@25ontheway555/video/7692153175914106125"
         }
       ],
-      "avatar": "/avatars/tiktok-girlsteamwin.jpg?v=1792472688828",
+      "avatar": "/avatars/tiktok-girlsteamwin.jpg?v=1792476290036",
       "totalViews": 3198,
       "ok": true,
       "error": null,
-      "scrapedAt": "2026-10-20T05:04:36.839Z",
-      "lastSuccessAt": "2026-10-20T05:04:36.839Z"
+      "scrapedAt": "2026-10-20T06:04:36.608Z",
+      "lastSuccessAt": "2026-10-20T06:04:36.608Z"
     },
     "tiktok-allrizexmvm": {
       "platform": "tiktok",
@@ -1073,12 +1073,12 @@
           "url": "https://www.tiktok.com/@allrizexmvm/video/7694780357010263310"
         }
       ],
-      "avatar": "/avatars/tiktok-allrizexmvm.jpg?v=1792472703288",
+      "avatar": "/avatars/tiktok-allrizexmvm.jpg?v=1792476304365",
       "totalViews": 2627,
       "ok": true,
       "error": null,
-      "scrapedAt": "2026-10-20T05:04:48.947Z",
-      "lastSuccessAt": "2026-10-20T05:04:48.947Z"
+      "scrapedAt": "2026-10-20T06:04:50.141Z",
+      "lastSuccessAt": "2026-10-20T06:04:50.141Z"
     },
     "threads-almoventures": {
       "platform": "threads",
@@ -1125,12 +1125,12 @@
           "url": "https://www.threads.com/@almoventures/post/DeaFolgjoCK"
         }
       ],
-      "avatar": "/avatars/threads-almoventures.jpg?v=1792472705917",
+      "avatar": "/avatars/threads-almoventures.jpg?v=1792476306913",
       "totalViews": null,
       "ok": true,
       "error": null,
-      "scrapedAt": "2026-10-20T05:05:03.390Z",
-      "lastSuccessAt": "2026-10-20T05:05:03.390Z"
+      "scrapedAt": "2026-10-20T06:05:04.464Z",
+      "lastSuccessAt": "2026-10-20T06:05:04.464Z"
     },
     "x-moventures999": {
       "platform": "x",
@@ -1186,12 +1186,12 @@
           "url": "https://x.com/moventures999/status/2108822973377335460"
         }
       ],
-      "avatar": "/avatars/x-moventures999.jpg?v=1792472708996",
+      "avatar": "/avatars/x-moventures999.jpg?v=1792476310299",
       "totalViews": 8,
       "ok": true,
       "error": null,
-      "scrapedAt": "2026-10-20T05:05:06.000Z",
-      "lastSuccessAt": "2026-10-20T05:05:06.000Z"
+      "scrapedAt": "2026-10-20T06:05:06.990Z",
+      "lastSuccessAt": "2026-10-20T06:05:06.990Z"
     }
   }
 }
