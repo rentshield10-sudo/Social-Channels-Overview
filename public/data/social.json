@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-20T08:05:10.880Z",
+  "updatedAt": "2026-10-20T09:05:21.502Z",
   "accounts": {
     "tiktok-insanefindz": {
       "platform": "tiktok",
@@ -147,7 +147,7 @@
         {
           "id": "7689601970675502350",
           "title": "Ranking the words my dog reacts to and number 6 park sent him over the edge #dogs #dogsoftiktok #funnydogs #dogreactions #dogsbelike",
-          "views": 439,
+          "views": 440,
           "likes": 82,
           "comments": 0,
           "postedAt": "2026-09-26T02:10:00.000Z",
@@ -156,7 +156,7 @@
         {
           "id": "7689601027732950285",
           "title": "My bulldog had something to tell me and number 6 was just a potato with legs #dogs #dogsoftiktok #bulldog #funnydogs #dogsbelike",
-          "views": 493,
+          "views": 494,
           "likes": 94,
           "comments": 0,
           "postedAt": "2026-09-25T23:10:00.000Z",
@@ -390,7 +390,7 @@
         {
           "id": "7686272744090111246",
           "title": "Dogs who interrupt zoom meetings and number 5 brought his ball at the worst moment #dogs #dogsoftiktok #funnydogs #doglife #dogsbelike",
-          "views": 606,
+          "views": 607,
           "likes": 43,
           "comments": 1,
           "postedAt": "2026-09-17T08:10:00.000Z",
@@ -604,12 +604,12 @@
           "url": "https://www.tiktok.com/@insanefindz/video/7683638288455863566"
         }
       ],
-      "avatar": "/avatars/tiktok-insanefindz.jpg?v=1792483465532",
-      "totalViews": 109842,
+      "avatar": "/avatars/tiktok-insanefindz.jpg?v=1792487075870",
+      "totalViews": 109845,
       "ok": true,
       "error": null,
-      "scrapedAt": "2026-10-20T08:04:12.587Z",
-      "lastSuccessAt": "2026-10-20T08:04:12.587Z"
+      "scrapedAt": "2026-10-20T09:04:19.807Z",
+      "lastSuccessAt": "2026-10-20T09:04:19.807Z"
     },
     "facebook-granny-mei": {
       "platform": "facebook",
@@ -711,12 +711,12 @@
         }
       ],
       "needsLogin": false,
-      "avatar": "/avatars/facebook-granny-mei.jpg?v=1792483470691",
+      "avatar": "/avatars/facebook-granny-mei.jpg?v=1792487082230",
       "totalViews": 4064,
       "ok": true,
       "error": null,
-      "scrapedAt": "2026-10-20T08:04:25.632Z",
-      "lastSuccessAt": "2026-10-20T08:04:25.632Z"
+      "scrapedAt": "2026-10-20T09:04:36.002Z",
+      "lastSuccessAt": "2026-10-20T09:04:36.002Z"
     },
     "instagram-almoventures": {
       "platform": "instagram",
@@ -809,12 +809,12 @@
         }
       ],
       "needsLogin": false,
-      "avatar": "/avatars/instagram-almoventures.jpg?v=1792483474992",
+      "avatar": "/avatars/instagram-almoventures.jpg?v=1792487085792",
       "totalViews": 1033,
       "ok": true,
       "error": null,
-      "scrapedAt": "2026-10-20T08:04:30.814Z",
-      "lastSuccessAt": "2026-10-20T08:04:30.814Z"
+      "scrapedAt": "2026-10-20T09:04:42.311Z",
+      "lastSuccessAt": "2026-10-20T09:04:42.311Z"
     },
     "youtube-granny-mei": {
       "platform": "youtube",
@@ -827,7 +827,7 @@
         {
           "id": "D-S-38QNhEk",
           "title": "Granny Mei's Blueberry Lime Cinnamon Smoothie for a Happy Gut",
-          "views": 2000,
+          "views": 2100,
           "likes": null,
           "comments": null,
           "postedAt": null,
@@ -906,12 +906,12 @@
           "url": "https://www.youtube.com/shorts/AHMiVO3AGKs"
         }
       ],
-      "avatar": "/avatars/youtube-granny-mei.jpg?v=1792483475489",
-      "totalViews": 8477,
+      "avatar": "/avatars/youtube-granny-mei.jpg?v=1792487086274",
+      "totalViews": 8577,
       "ok": true,
       "error": null,
-      "scrapedAt": "2026-10-20T08:04:35.084Z",
-      "lastSuccessAt": "2026-10-20T08:04:35.084Z"
+      "scrapedAt": "2026-10-20T09:04:45.880Z",
+      "lastSuccessAt": "2026-10-20T09:04:45.880Z"
     },
     "tiktok-girlsteamwin": {
       "platform": "tiktok",
@@ -1012,12 +1012,12 @@
           "url": "https://www.tiktok.com/@25ontheway555/video/7692153175914106125"
         }
       ],
-      "avatar": "/avatars/tiktok-girlsteamwin.jpg?v=1792483488817",
+      "avatar": "/avatars/tiktok-girlsteamwin.jpg?v=1792487099624",
       "totalViews": 3198,
       "ok": true,
       "error": null,
-      "scrapedAt": "2026-10-20T08:04:35.548Z",
-      "lastSuccessAt": "2026-10-20T08:04:35.548Z"
+      "scrapedAt": "2026-10-20T09:04:46.335Z",
+      "lastSuccessAt": "2026-10-20T09:04:46.335Z"
     },
     "tiktok-allrizexmvm": {
       "platform": "tiktok",
@@ -1073,12 +1073,12 @@
           "url": "https://www.tiktok.com/@allrizexmvm/video/7694780357010263310"
         }
       ],
-      "avatar": "/avatars/tiktok-allrizexmvm.jpg?v=1792483503349",
+      "avatar": "/avatars/tiktok-allrizexmvm.jpg?v=1792487113945",
       "totalViews": 2628,
       "ok": true,
       "error": null,
-      "scrapedAt": "2026-10-20T08:04:48.935Z",
-      "lastSuccessAt": "2026-10-20T08:04:48.935Z"
+      "scrapedAt": "2026-10-20T09:04:59.721Z",
+      "lastSuccessAt": "2026-10-20T09:04:59.721Z"
     },
     "threads-almoventures": {
       "platform": "threads",
@@ -1125,12 +1125,12 @@
           "url": "https://www.threads.com/@almoventures/post/DeaFolgjoCK"
         }
       ],
-      "avatar": "/avatars/threads-almoventures.jpg?v=1792483505880",
+      "avatar": "/avatars/threads-almoventures.jpg?v=1792487116586",
       "totalViews": null,
       "ok": true,
       "error": null,
-      "scrapedAt": "2026-10-20T08:05:03.439Z",
-      "lastSuccessAt": "2026-10-20T08:05:03.439Z"
+      "scrapedAt": "2026-10-20T09:05:14.054Z",
+      "lastSuccessAt": "2026-10-20T09:05:14.054Z"
     },
     "x-moventures999": {
       "platform": "x",
@@ -1186,12 +1186,12 @@
           "url": "https://x.com/moventures999/status/2108822973377335460"
         }
       ],
-      "avatar": "/avatars/x-moventures999.jpg?v=1792483510396",
+      "avatar": "/avatars/x-moventures999.jpg?v=1792487120949",
       "totalViews": 8,
       "ok": true,
       "error": null,
-      "scrapedAt": "2026-10-20T08:05:05.966Z",
-      "lastSuccessAt": "2026-10-20T08:05:05.966Z"
+      "scrapedAt": "2026-10-20T09:05:16.666Z",
+      "lastSuccessAt": "2026-10-20T09:05:16.666Z"
     }
   }
 }
