@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-21T12:05:57.735Z",
+  "updatedAt": "2026-10-21T13:05:23.872Z",
   "accounts": {
     "tiktok-insanefindz": {
       "platform": "tiktok",
@@ -381,7 +381,7 @@
         {
           "id": "7686273427455347982",
           "title": "Ranking vet visits gone wrong and number 5 was the wrong pin for sure #dogs #dogsoftiktok #vetvisit #funnydogs #dogsbelike",
-          "views": 2218,
+          "views": 2223,
           "likes": 30,
           "comments": 0,
           "postedAt": "2026-09-17T11:10:00.000Z",
@@ -604,12 +604,12 @@
           "url": "https://www.tiktok.com/@insanefindz/video/7683638288455863566"
         }
       ],
-      "avatar": "/avatars/tiktok-insanefindz.jpg?v=1792584284615",
-      "totalViews": 109942,
+      "avatar": "/avatars/tiktok-insanefindz.jpg?v=1792587870100",
+      "totalViews": 109947,
       "ok": true,
       "error": null,
-      "scrapedAt": "2026-10-21T12:04:21.071Z",
-      "lastSuccessAt": "2026-10-21T12:04:21.071Z"
+      "scrapedAt": "2026-10-21T13:04:14.662Z",
+      "lastSuccessAt": "2026-10-21T13:04:14.662Z"
     },
     "facebook-granny-mei": {
       "platform": "facebook",
@@ -658,7 +658,7 @@
         {
           "id": "1295837789307703",
           "title": null,
-          "views": 286,
+          "views": 287,
           "likes": null,
           "comments": null,
           "postedAt": null,
@@ -711,12 +711,12 @@
         }
       ],
       "needsLogin": false,
-      "avatar": "/avatars/facebook-granny-mei.jpg?v=1792584295517",
-      "totalViews": 4038,
+      "avatar": "/avatars/facebook-granny-mei.jpg?v=1792587877986",
+      "totalViews": 4039,
       "ok": true,
       "error": null,
-      "scrapedAt": "2026-10-21T12:04:44.975Z",
-      "lastSuccessAt": "2026-10-21T12:04:44.975Z"
+      "scrapedAt": "2026-10-21T13:04:30.222Z",
+      "lastSuccessAt": "2026-10-21T13:04:30.222Z"
     },
     "instagram-almoventures": {
       "platform": "instagram",
@@ -725,14 +725,105 @@
       "followers": 1,
       "likes": null,
       "posts": 10,
-      "videos": [],
+      "videos": [
+        {
+          "id": "Deu4RV1idIk",
+          "title": null,
+          "views": 7,
+          "likes": null,
+          "comments": null,
+          "postedAt": null,
+          "url": "https://www.instagram.com/reel/Deu4RV1idIk/"
+        },
+        {
+          "id": "Dem1iXSCtrL",
+          "title": null,
+          "views": 131,
+          "likes": null,
+          "comments": null,
+          "postedAt": null,
+          "url": "https://www.instagram.com/reel/Dem1iXSCtrL/"
+        },
+        {
+          "id": "DeiAU_Oi2sA",
+          "title": null,
+          "views": 68,
+          "likes": null,
+          "comments": null,
+          "postedAt": null,
+          "url": "https://www.instagram.com/reel/DeiAU_Oi2sA/"
+        },
+        {
+          "id": "DefXUSfCg2E",
+          "title": null,
+          "views": 119,
+          "likes": null,
+          "comments": null,
+          "postedAt": null,
+          "url": "https://www.instagram.com/reel/DefXUSfCg2E/"
+        },
+        {
+          "id": "DeaFNGGiAe_",
+          "title": null,
+          "views": 109,
+          "likes": null,
+          "comments": null,
+          "postedAt": null,
+          "url": "https://www.instagram.com/reel/DeaFNGGiAe_/"
+        },
+        {
+          "id": "DeSlpaoCM17",
+          "title": null,
+          "views": 126,
+          "likes": null,
+          "comments": null,
+          "postedAt": null,
+          "url": "https://www.instagram.com/reel/DeSlpaoCM17/"
+        },
+        {
+          "id": "DeIGOiJCqbh",
+          "title": null,
+          "views": 130,
+          "likes": null,
+          "comments": null,
+          "postedAt": null,
+          "url": "https://www.instagram.com/reel/DeIGOiJCqbh/"
+        },
+        {
+          "id": "DdpWy-aiwqQ",
+          "title": null,
+          "views": 70,
+          "likes": null,
+          "comments": null,
+          "postedAt": null,
+          "url": "https://www.instagram.com/reel/DdpWy-aiwqQ/"
+        },
+        {
+          "id": "DdcdS-TCFWr",
+          "title": null,
+          "views": 155,
+          "likes": null,
+          "comments": null,
+          "postedAt": null,
+          "url": "https://www.instagram.com/reel/DdcdS-TCFWr/"
+        },
+        {
+          "id": "DdZ6a2yC6EE",
+          "title": null,
+          "views": 127,
+          "likes": null,
+          "comments": null,
+          "postedAt": null,
+          "url": "https://www.instagram.com/reel/DdZ6a2yC6EE/"
+        }
+      ],
       "needsLogin": false,
-      "avatar": "/avatars/instagram-almoventures.jpg?v=1792584300839",
-      "totalViews": null,
+      "avatar": "/avatars/instagram-almoventures.jpg?v=1792587882838",
+      "totalViews": 1042,
       "ok": true,
       "error": null,
-      "scrapedAt": "2026-10-21T12:04:55.703Z",
-      "lastSuccessAt": "2026-10-21T12:04:55.703Z"
+      "scrapedAt": "2026-10-21T13:04:38.080Z",
+      "lastSuccessAt": "2026-10-21T13:04:38.080Z"
     },
     "youtube-granny-mei": {
       "platform": "youtube",
@@ -745,7 +836,7 @@
         {
           "id": "I_4SYHp-VUE",
           "title": "Granny Mei's Banana Chocolate Ice Cream with No Refined Sugar",
-          "views": 870,
+          "views": 904,
           "likes": null,
           "comments": null,
           "postedAt": null,
@@ -833,12 +924,12 @@
           "url": "https://www.youtube.com/shorts/AHMiVO3AGKs"
         }
       ],
-      "avatar": "/avatars/youtube-granny-mei.jpg?v=1792584302549",
-      "totalViews": 9949,
+      "avatar": "/avatars/youtube-granny-mei.jpg?v=1792587883437",
+      "totalViews": 9983,
       "ok": true,
       "error": null,
-      "scrapedAt": "2026-10-21T12:05:01.369Z",
-      "lastSuccessAt": "2026-10-21T12:05:01.369Z"
+      "scrapedAt": "2026-10-21T13:04:42.925Z",
+      "lastSuccessAt": "2026-10-21T13:04:42.925Z"
     },
     "tiktok-girlsteamwin": {
       "platform": "tiktok",
@@ -939,12 +1030,12 @@
           "url": "https://www.tiktok.com/@25ontheway555/video/7692153175914106125"
         }
       ],
-      "avatar": "/avatars/tiktok-girlsteamwin.jpg?v=1792584323297",
+      "avatar": "/avatars/tiktok-girlsteamwin.jpg?v=1792587900512",
       "totalViews": 3198,
       "ok": true,
       "error": null,
-      "scrapedAt": "2026-10-21T12:05:02.713Z",
-      "lastSuccessAt": "2026-10-21T12:05:02.713Z"
+      "scrapedAt": "2026-10-21T13:04:43.514Z",
+      "lastSuccessAt": "2026-10-21T13:04:43.514Z"
     },
     "tiktok-allrizexmvm": {
       "platform": "tiktok",
@@ -966,7 +1057,7 @@
         {
           "id": "7697026236002012429",
           "title": "Team Girls needs backup NOW... so grandma stepped in Are you Team Girls or Team Boys? Drop it below #teamgirls #teamboys #girlsvsboys #grandma #fyp",
-          "views": 386,
+          "views": 387,
           "likes": 17,
           "comments": 2,
           "postedAt": "2026-10-15T22:33:02.000Z",
@@ -1000,12 +1091,12 @@
           "url": "https://www.tiktok.com/@allrizexmvm/video/7694780357010263310"
         }
       ],
-      "avatar": "/avatars/tiktok-allrizexmvm.jpg?v=1792584342430",
-      "totalViews": 2633,
+      "avatar": "/avatars/tiktok-allrizexmvm.jpg?v=1792587914637",
+      "totalViews": 2634,
       "ok": true,
       "error": null,
-      "scrapedAt": "2026-10-21T12:05:23.570Z",
-      "lastSuccessAt": "2026-10-21T12:05:23.570Z"
+      "scrapedAt": "2026-10-21T13:05:00.616Z",
+      "lastSuccessAt": "2026-10-21T13:05:00.616Z"
     },
     "threads-almoventures": {
       "platform": "threads",
@@ -1052,12 +1143,12 @@
           "url": "https://www.threads.com/@almoventures/post/DefX6JYiV4S"
         }
       ],
-      "avatar": "/avatars/threads-almoventures.jpg?v=1792584347015",
+      "avatar": "/avatars/threads-almoventures.jpg?v=1792587917952",
       "totalViews": null,
       "ok": true,
       "error": null,
-      "scrapedAt": "2026-10-21T12:05:42.562Z",
-      "lastSuccessAt": "2026-10-21T12:05:42.562Z"
+      "scrapedAt": "2026-10-21T13:05:14.761Z",
+      "lastSuccessAt": "2026-10-21T13:05:14.761Z"
     },
     "x-moventures999": {
       "platform": "x",
@@ -1113,12 +1204,12 @@
           "url": "https://x.com/moventures999/status/2109743049593221607"
         }
       ],
-      "avatar": "/avatars/x-moventures999.jpg?v=1792584355967",
+      "avatar": "/avatars/x-moventures999.jpg?v=1792587922738",
       "totalViews": 6,
       "ok": true,
       "error": null,
-      "scrapedAt": "2026-10-21T12:05:47.299Z",
-      "lastSuccessAt": "2026-10-21T12:05:47.299Z"
+      "scrapedAt": "2026-10-21T13:05:18.047Z",
+      "lastSuccessAt": "2026-10-21T13:05:18.047Z"
     },
     "youtube-chubbypinkwhale": {
       "platform": "youtube",
@@ -1138,12 +1229,12 @@
           "url": "https://www.youtube.com/watch?v=t4XD-Ox003I"
         }
       ],
-      "avatar": "/avatars/youtube-chubbypinkwhale.jpg?v=1792584356728",
+      "avatar": "/avatars/youtube-chubbypinkwhale.jpg?v=1792587923311",
       "totalViews": 3,
       "ok": true,
       "error": null,
-      "scrapedAt": "2026-10-21T12:05:56.140Z",
-      "lastSuccessAt": "2026-10-21T12:05:56.140Z"
+      "scrapedAt": "2026-10-21T13:05:22.829Z",
+      "lastSuccessAt": "2026-10-21T13:05:22.829Z"
     }
   }
 }
