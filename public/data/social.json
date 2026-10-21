@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-20T22:11:43.035Z",
+  "updatedAt": "2026-10-21T00:05:47.284Z",
   "accounts": {
     "tiktok-insanefindz": {
       "platform": "tiktok",
@@ -381,7 +381,7 @@
         {
           "id": "7686273427455347982",
           "title": "Ranking vet visits gone wrong and number 5 was the wrong pin for sure #dogs #dogsoftiktok #vetvisit #funnydogs #dogsbelike",
-          "views": 2188,
+          "views": 2192,
           "likes": 30,
           "comments": 0,
           "postedAt": "2026-09-17T11:10:00.000Z",
@@ -390,7 +390,7 @@
         {
           "id": "7686272744090111246",
           "title": "Dogs who interrupt zoom meetings and number 5 brought his ball at the worst moment #dogs #dogsoftiktok #funnydogs #doglife #dogsbelike",
-          "views": 613,
+          "views": 615,
           "likes": 43,
           "comments": 1,
           "postedAt": "2026-09-17T08:10:00.000Z",
@@ -604,28 +604,119 @@
           "url": "https://www.tiktok.com/@insanefindz/video/7683638288455863566"
         }
       ],
-      "avatar": "/avatars/tiktok-insanefindz.jpg?v=1792533953411",
-      "totalViews": 109892,
+      "avatar": "/avatars/tiktok-insanefindz.jpg?v=1792541080111",
+      "totalViews": 109898,
       "ok": true,
       "error": null,
-      "scrapedAt": "2026-10-20T22:05:13.275Z",
-      "lastSuccessAt": "2026-10-20T22:05:13.275Z"
+      "scrapedAt": "2026-10-21T00:04:22.572Z",
+      "lastSuccessAt": "2026-10-21T00:04:22.572Z"
     },
     "facebook-granny-mei": {
       "platform": "facebook",
       "name": "Granny Mei 72yrs Old",
       "url": "https://www.facebook.com/profile.php?id=61594617621762",
-      "followers": 13,
+      "followers": 14,
       "likes": null,
       "posts": null,
-      "videos": [],
+      "videos": [
+        {
+          "id": "940153195557178",
+          "title": null,
+          "views": 64,
+          "likes": null,
+          "comments": null,
+          "postedAt": null,
+          "url": "https://www.facebook.com/reel/940153195557178/"
+        },
+        {
+          "id": "28787922367559626",
+          "title": null,
+          "views": 488,
+          "likes": null,
+          "comments": null,
+          "postedAt": null,
+          "url": "https://www.facebook.com/reel/28787922367559626/"
+        },
+        {
+          "id": "1592389962622029",
+          "title": null,
+          "views": 1000,
+          "likes": null,
+          "comments": null,
+          "postedAt": null,
+          "url": "https://www.facebook.com/reel/1592389962622029/"
+        },
+        {
+          "id": "1077417621593171",
+          "title": null,
+          "views": 222,
+          "likes": null,
+          "comments": null,
+          "postedAt": null,
+          "url": "https://www.facebook.com/reel/1077417621593171/"
+        },
+        {
+          "id": "1295837789307703",
+          "title": null,
+          "views": 286,
+          "likes": null,
+          "comments": null,
+          "postedAt": null,
+          "url": "https://www.facebook.com/reel/1295837789307703/"
+        },
+        {
+          "id": "29394005366866743",
+          "title": null,
+          "views": 873,
+          "likes": null,
+          "comments": null,
+          "postedAt": null,
+          "url": "https://www.facebook.com/reel/29394005366866743/"
+        },
+        {
+          "id": "1115581677635947",
+          "title": null,
+          "views": 272,
+          "likes": null,
+          "comments": null,
+          "postedAt": null,
+          "url": "https://www.facebook.com/reel/1115581677635947/"
+        },
+        {
+          "id": "1076674435211812",
+          "title": null,
+          "views": 148,
+          "likes": null,
+          "comments": null,
+          "postedAt": null,
+          "url": "https://www.facebook.com/reel/1076674435211812/"
+        },
+        {
+          "id": "1433890571972450",
+          "title": null,
+          "views": 329,
+          "likes": null,
+          "comments": null,
+          "postedAt": null,
+          "url": "https://www.facebook.com/reel/1433890571972450/"
+        },
+        {
+          "id": "1405523777604178",
+          "title": null,
+          "views": 209,
+          "likes": null,
+          "comments": null,
+          "postedAt": null,
+          "url": "https://www.facebook.com/reel/1405523777604178/"
+        }
+      ],
       "needsLogin": false,
-      "avatar": "/avatars/facebook-granny-mei.jpg?v=1792534023368",
-      "totalViews": null,
+      "avatar": "/avatars/facebook-granny-mei.jpg?v=1792541088433",
+      "totalViews": 3891,
       "ok": true,
       "error": null,
-      "scrapedAt": "2026-10-20T22:05:56.723Z",
-      "lastSuccessAt": "2026-10-20T22:05:56.723Z"
+      "scrapedAt": "2026-10-21T00:04:40.239Z",
+      "lastSuccessAt": "2026-10-21T00:04:40.239Z"
     },
     "instagram-almoventures": {
       "platform": "instagram",
@@ -633,8 +724,17 @@
       "url": "https://www.instagram.com/almoventures/",
       "followers": 1,
       "likes": null,
-      "posts": 9,
+      "posts": 10,
       "videos": [
+        {
+          "id": "Deu4RV1idIk",
+          "title": null,
+          "views": 7,
+          "likes": null,
+          "comments": null,
+          "postedAt": null,
+          "url": "https://www.instagram.com/reel/Deu4RV1idIk/"
+        },
         {
           "id": "Dem1iXSCtrL",
           "title": null,
@@ -718,12 +818,12 @@
         }
       ],
       "needsLogin": false,
-      "avatar": "/avatars/instagram-almoventures.jpg?v=1792534041209",
-      "totalViews": 1035,
+      "avatar": "/avatars/instagram-almoventures.jpg?v=1792541094266",
+      "totalViews": 1042,
       "ok": true,
       "error": null,
-      "scrapedAt": "2026-10-20T22:07:04.209Z",
-      "lastSuccessAt": "2026-10-20T22:07:04.209Z"
+      "scrapedAt": "2026-10-21T00:04:48.591Z",
+      "lastSuccessAt": "2026-10-21T00:04:48.591Z"
     },
     "youtube-granny-mei": {
       "platform": "youtube",
@@ -731,8 +831,17 @@
       "url": "https://www.youtube.com/channel/UC1O2Pq3z2dX9wIbODd5TLXg",
       "followers": 99,
       "likes": null,
-      "posts": 9,
+      "posts": 10,
       "videos": [
+        {
+          "id": "I_4SYHp-VUE",
+          "title": "Granny Mei's Banana Chocolate Ice Cream with No Refined Sugar",
+          "views": 398,
+          "likes": null,
+          "comments": null,
+          "postedAt": null,
+          "url": "https://www.youtube.com/shorts/I_4SYHp-VUE"
+        },
         {
           "id": "D-S-38QNhEk",
           "title": "Granny Mei's Blueberry Lime Cinnamon Smoothie for a Happy Gut",
@@ -815,12 +924,12 @@
           "url": "https://www.youtube.com/shorts/AHMiVO3AGKs"
         }
       ],
-      "avatar": "/avatars/youtube-granny-mei.jpg?v=1792534044312",
-      "totalViews": 8678,
+      "avatar": "/avatars/youtube-granny-mei.jpg?v=1792541095052",
+      "totalViews": 9076,
       "ok": true,
       "error": null,
-      "scrapedAt": "2026-10-20T22:07:21.746Z",
-      "lastSuccessAt": "2026-10-20T22:07:21.746Z"
+      "scrapedAt": "2026-10-21T00:04:54.476Z",
+      "lastSuccessAt": "2026-10-21T00:04:54.476Z"
     },
     "tiktok-girlsteamwin": {
       "platform": "tiktok",
@@ -921,12 +1030,12 @@
           "url": "https://www.tiktok.com/@25ontheway555/video/7692153175914106125"
         }
       ],
-      "avatar": "/avatars/tiktok-girlsteamwin.jpg?v=1792534123259",
+      "avatar": "/avatars/tiktok-girlsteamwin.jpg?v=1792541112334",
       "totalViews": 3198,
       "ok": true,
       "error": null,
-      "scrapedAt": "2026-10-20T22:07:24.548Z",
-      "lastSuccessAt": "2026-10-20T22:07:24.548Z"
+      "scrapedAt": "2026-10-21T00:04:55.294Z",
+      "lastSuccessAt": "2026-10-21T00:04:55.294Z"
     },
     "tiktok-allrizexmvm": {
       "platform": "tiktok",
@@ -939,7 +1048,7 @@
         {
           "id": "7697802009658805517",
           "title": "Girls we are losing... so the sisters came to win it back Team Girls or Team Boys? Pick your side below #teamgirls #teamboys #girlsvsboys #dance #fyp",
-          "views": 340,
+          "views": 341,
           "likes": 22,
           "comments": 5,
           "postedAt": "2026-10-18T00:43:33.000Z",
@@ -982,12 +1091,12 @@
           "url": "https://www.tiktok.com/@allrizexmvm/video/7694780357010263310"
         }
       ],
-      "avatar": "/avatars/tiktok-allrizexmvm.jpg?v=1792530311265",
-      "totalViews": 2629,
-      "ok": false,
-      "error": "Navigation timeout of 90000 ms exceeded",
-      "scrapedAt": "2026-10-20T22:08:55.341Z",
-      "lastSuccessAt": "2026-10-20T21:04:58.474Z"
+      "avatar": "/avatars/tiktok-allrizexmvm.jpg?v=1792541129059",
+      "totalViews": 2630,
+      "ok": true,
+      "error": null,
+      "scrapedAt": "2026-10-21T00:05:12.564Z",
+      "lastSuccessAt": "2026-10-21T00:05:12.564Z"
     },
     "threads-almoventures": {
       "platform": "threads",
@@ -995,8 +1104,17 @@
       "url": "https://www.threads.com/@almoventures",
       "followers": 0,
       "likes": null,
-      "posts": 5,
+      "posts": 6,
       "videos": [
+        {
+          "id": "Deu42NGjis2",
+          "title": "🍌🍫 Banana Chocolate Ice Cream (No Refined Sugar)",
+          "views": null,
+          "likes": null,
+          "comments": null,
+          "postedAt": null,
+          "url": "https://www.threads.com/@almoventures/post/Deu42NGjis2"
+        },
         {
           "id": "Dem2IiYjvf2",
           "title": "🫐🍋 Blueberry + Lime Smoothie",
@@ -1023,23 +1141,14 @@
           "comments": null,
           "postedAt": null,
           "url": "https://www.threads.com/@almoventures/post/DefX6JYiV4S"
-        },
-        {
-          "id": "DeaFolgjoCK",
-          "title": "Turmeric on Boiled Eggs Every Morning? Here's Why 👀🥚 Sliced boiled eggs + a sprinkle of turmeric + a squeeze of lemon ",
-          "views": null,
-          "likes": null,
-          "comments": null,
-          "postedAt": null,
-          "url": "https://www.threads.com/@almoventures/post/DeaFolgjoCK"
         }
       ],
-      "avatar": "/avatars/threads-almoventures.jpg?v=1792534255843",
+      "avatar": "/avatars/threads-almoventures.jpg?v=1792541134305",
       "totalViews": null,
       "ok": true,
       "error": null,
-      "scrapedAt": "2026-10-20T22:10:46.413Z",
-      "lastSuccessAt": "2026-10-20T22:10:46.413Z"
+      "scrapedAt": "2026-10-21T00:05:29.202Z",
+      "lastSuccessAt": "2026-10-21T00:05:29.202Z"
     },
     "x-moventures999": {
       "platform": "x",
@@ -1049,6 +1158,15 @@
       "likes": null,
       "posts": null,
       "videos": [
+        {
+          "id": "2112670886071619825",
+          "title": "🍌🍫 Banana Chocolate Ice Cream (No Refined Sugar) Frozen bananas + cocoa powder + peanut butter + a splash of milk. Ble",
+          "views": 1,
+          "likes": null,
+          "comments": null,
+          "postedAt": "2026-10-20T22:22:45.423Z",
+          "url": "https://x.com/moventures999/status/2112670886071619825"
+        },
         {
           "id": "2111538762500932012",
           "title": "🫐🍋 Blueberry + Lime Smoothie Ingredients: 1 cup fresh blueberries 1 teaspoon cinnamon Juice of ½ lime 1 glass of water",
@@ -1084,23 +1202,14 @@
           "comments": null,
           "postedAt": "2026-10-12T20:28:34.810Z",
           "url": "https://x.com/moventures999/status/2109743049593221607"
-        },
-        {
-          "id": "2108822973377335460",
-          "title": "Puffy ankles or deep sock marks? Don't ignore it. My simple morning drink: 🍎 1 tbsp raw apple cider vinegar 🍋 Fresh le",
-          "views": 3,
-          "likes": null,
-          "comments": null,
-          "postedAt": "2026-10-10T07:32:31.546Z",
-          "url": "https://x.com/moventures999/status/2108822973377335460"
         }
       ],
-      "avatar": "/avatars/x-moventures999.jpg?v=1792534281082",
-      "totalViews": 8,
+      "avatar": "/avatars/x-moventures999.jpg?v=1792541144141",
+      "totalViews": 6,
       "ok": true,
       "error": null,
-      "scrapedAt": "2026-10-20T22:10:56.741Z",
-      "lastSuccessAt": "2026-10-20T22:10:56.741Z"
+      "scrapedAt": "2026-10-21T00:05:34.449Z",
+      "lastSuccessAt": "2026-10-21T00:05:34.449Z"
     },
     "youtube-chubbypinkwhale": {
       "platform": "youtube",
@@ -1120,12 +1229,12 @@
           "url": "https://www.youtube.com/watch?v=t4XD-Ox003I"
         }
       ],
-      "avatar": "/avatars/youtube-chubbypinkwhale.jpg?v=1792534299909",
+      "avatar": "/avatars/youtube-chubbypinkwhale.jpg?v=1792541145695",
       "totalViews": 3,
       "ok": true,
       "error": null,
-      "scrapedAt": "2026-10-20T22:11:28.827Z",
-      "lastSuccessAt": "2026-10-20T22:11:28.827Z"
+      "scrapedAt": "2026-10-21T00:05:44.432Z",
+      "lastSuccessAt": "2026-10-21T00:05:44.432Z"
     }
   }
 }
