@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-21T01:05:21.984Z",
+  "updatedAt": "2026-10-21T02:05:23.046Z",
   "accounts": {
     "tiktok-insanefindz": {
       "platform": "tiktok",
@@ -381,7 +381,7 @@
         {
           "id": "7686273427455347982",
           "title": "Ranking vet visits gone wrong and number 5 was the wrong pin for sure #dogs #dogsoftiktok #vetvisit #funnydogs #dogsbelike",
-          "views": 2195,
+          "views": 2197,
           "likes": 30,
           "comments": 0,
           "postedAt": "2026-09-17T11:10:00.000Z",
@@ -390,7 +390,7 @@
         {
           "id": "7686272744090111246",
           "title": "Dogs who interrupt zoom meetings and number 5 brought his ball at the worst moment #dogs #dogsoftiktok #funnydogs #doglife #dogsbelike",
-          "views": 618,
+          "views": 619,
           "likes": 43,
           "comments": 1,
           "postedAt": "2026-09-17T08:10:00.000Z",
@@ -604,12 +604,12 @@
           "url": "https://www.tiktok.com/@insanefindz/video/7683638288455863566"
         }
       ],
-      "avatar": "/avatars/tiktok-insanefindz.jpg?v=1792544673092",
-      "totalViews": 109904,
+      "avatar": "/avatars/tiktok-insanefindz.jpg?v=1792548273332",
+      "totalViews": 109907,
       "ok": true,
       "error": null,
-      "scrapedAt": "2026-10-21T01:04:17.288Z",
-      "lastSuccessAt": "2026-10-21T01:04:17.288Z"
+      "scrapedAt": "2026-10-21T02:04:14.869Z",
+      "lastSuccessAt": "2026-10-21T02:04:14.869Z"
     },
     "facebook-granny-mei": {
       "platform": "facebook",
@@ -622,7 +622,7 @@
         {
           "id": "940153195557178",
           "title": null,
-          "views": 131,
+          "views": 163,
           "likes": null,
           "comments": null,
           "postedAt": null,
@@ -649,7 +649,7 @@
         {
           "id": "1077417621593171",
           "title": null,
-          "views": 222,
+          "views": 224,
           "likes": null,
           "comments": null,
           "postedAt": null,
@@ -711,12 +711,12 @@
         }
       ],
       "needsLogin": false,
-      "avatar": "/avatars/facebook-granny-mei.jpg?v=1792544678700",
-      "totalViews": 3959,
+      "avatar": "/avatars/facebook-granny-mei.jpg?v=1792548280227",
+      "totalViews": 3993,
       "ok": true,
       "error": null,
-      "scrapedAt": "2026-10-21T01:04:33.195Z",
-      "lastSuccessAt": "2026-10-21T01:04:33.195Z"
+      "scrapedAt": "2026-10-21T02:04:33.449Z",
+      "lastSuccessAt": "2026-10-21T02:04:33.449Z"
     },
     "instagram-almoventures": {
       "platform": "instagram",
@@ -818,25 +818,25 @@
         }
       ],
       "needsLogin": false,
-      "avatar": "/avatars/instagram-almoventures.jpg?v=1792544683474",
+      "avatar": "/avatars/instagram-almoventures.jpg?v=1792548284337",
       "totalViews": 1042,
       "ok": true,
       "error": null,
-      "scrapedAt": "2026-10-21T01:04:38.805Z",
-      "lastSuccessAt": "2026-10-21T01:04:38.805Z"
+      "scrapedAt": "2026-10-21T02:04:40.309Z",
+      "lastSuccessAt": "2026-10-21T02:04:40.309Z"
     },
     "youtube-granny-mei": {
       "platform": "youtube",
       "name": "Granny-mei",
       "url": "https://www.youtube.com/channel/UC1O2Pq3z2dX9wIbODd5TLXg",
-      "followers": 99,
+      "followers": 102,
       "likes": null,
       "posts": 10,
       "videos": [
         {
           "id": "I_4SYHp-VUE",
           "title": "Granny Mei's Banana Chocolate Ice Cream with No Refined Sugar",
-          "views": 444,
+          "views": 527,
           "likes": null,
           "comments": null,
           "postedAt": null,
@@ -845,7 +845,7 @@
         {
           "id": "D-S-38QNhEk",
           "title": "Granny Mei's Blueberry Lime Cinnamon Smoothie for a Happy Gut",
-          "views": 2200,
+          "views": 2300,
           "likes": null,
           "comments": null,
           "postedAt": null,
@@ -924,12 +924,12 @@
           "url": "https://www.youtube.com/shorts/AHMiVO3AGKs"
         }
       ],
-      "avatar": "/avatars/youtube-granny-mei.jpg?v=1792544684118",
-      "totalViews": 9122,
+      "avatar": "/avatars/youtube-granny-mei.jpg?v=1792548285057",
+      "totalViews": 9305,
       "ok": true,
       "error": null,
-      "scrapedAt": "2026-10-21T01:04:43.561Z",
-      "lastSuccessAt": "2026-10-21T01:04:43.561Z"
+      "scrapedAt": "2026-10-21T02:04:44.430Z",
+      "lastSuccessAt": "2026-10-21T02:04:44.430Z"
     },
     "tiktok-girlsteamwin": {
       "platform": "tiktok",
@@ -1030,12 +1030,12 @@
           "url": "https://www.tiktok.com/@25ontheway555/video/7692153175914106125"
         }
       ],
-      "avatar": "/avatars/tiktok-girlsteamwin.jpg?v=1792544698982",
+      "avatar": "/avatars/tiktok-girlsteamwin.jpg?v=1792548301304",
       "totalViews": 3198,
       "ok": true,
       "error": null,
-      "scrapedAt": "2026-10-21T01:04:44.182Z",
-      "lastSuccessAt": "2026-10-21T01:04:44.182Z"
+      "scrapedAt": "2026-10-21T02:04:45.127Z",
+      "lastSuccessAt": "2026-10-21T02:04:45.127Z"
     },
     "tiktok-allrizexmvm": {
       "platform": "tiktok",
@@ -1084,19 +1084,19 @@
         {
           "id": "7694780357010263310",
           "title": "They say nobody cares about handmade craftsmanship anymore… 💔🦈 I spent hours turning leather into this shark pencil holder, cutting, shaping, and stitching every detail by hand. Just a small creator chasing a dream of reaching 10K followers. ❤️ If you believe handmade art still deserves appreciation, your support means everything. 🙏 Would you put this shark on your desk? 🦈✏️ #LeatherCraft #LeatherWorking #Handmade #SatisfyingVideos #SmallCreator ",
-          "views": 725,
+          "views": 726,
           "likes": 49,
           "comments": 0,
           "postedAt": "2026-10-09T21:18:04.000Z",
           "url": "https://www.tiktok.com/@allrizexmvm/video/7694780357010263310"
         }
       ],
-      "avatar": "/avatars/tiktok-allrizexmvm.jpg?v=1792544711699",
-      "totalViews": 2630,
+      "avatar": "/avatars/tiktok-allrizexmvm.jpg?v=1792548314787",
+      "totalViews": 2631,
       "ok": true,
       "error": null,
-      "scrapedAt": "2026-10-21T01:04:59.089Z",
-      "lastSuccessAt": "2026-10-21T01:04:59.089Z"
+      "scrapedAt": "2026-10-21T02:05:01.395Z",
+      "lastSuccessAt": "2026-10-21T02:05:01.395Z"
     },
     "threads-almoventures": {
       "platform": "threads",
@@ -1143,12 +1143,12 @@
           "url": "https://www.threads.com/@almoventures/post/DefX6JYiV4S"
         }
       ],
-      "avatar": "/avatars/threads-almoventures.jpg?v=1792544715794",
+      "avatar": "/avatars/threads-almoventures.jpg?v=1792548317684",
       "totalViews": null,
       "ok": true,
       "error": null,
-      "scrapedAt": "2026-10-21T01:05:11.809Z",
-      "lastSuccessAt": "2026-10-21T01:05:11.809Z"
+      "scrapedAt": "2026-10-21T02:05:14.889Z",
+      "lastSuccessAt": "2026-10-21T02:05:14.889Z"
     },
     "x-moventures999": {
       "platform": "x",
@@ -1204,12 +1204,12 @@
           "url": "https://x.com/moventures999/status/2109743049593221607"
         }
       ],
-      "avatar": "/avatars/x-moventures999.jpg?v=1792544720776",
+      "avatar": "/avatars/x-moventures999.jpg?v=1792548321723",
       "totalViews": 6,
       "ok": true,
       "error": null,
-      "scrapedAt": "2026-10-21T01:05:15.891Z",
-      "lastSuccessAt": "2026-10-21T01:05:15.891Z"
+      "scrapedAt": "2026-10-21T02:05:17.767Z",
+      "lastSuccessAt": "2026-10-21T02:05:17.767Z"
     },
     "youtube-chubbypinkwhale": {
       "platform": "youtube",
@@ -1229,12 +1229,12 @@
           "url": "https://www.youtube.com/watch?v=t4XD-Ox003I"
         }
       ],
-      "avatar": "/avatars/youtube-chubbypinkwhale.jpg?v=1792544721557",
+      "avatar": "/avatars/youtube-chubbypinkwhale.jpg?v=1792548322469",
       "totalViews": 3,
       "ok": true,
       "error": null,
-      "scrapedAt": "2026-10-21T01:05:20.870Z",
-      "lastSuccessAt": "2026-10-21T01:05:20.870Z"
+      "scrapedAt": "2026-10-21T02:05:21.815Z",
+      "lastSuccessAt": "2026-10-21T02:05:21.815Z"
     }
   }
 }
