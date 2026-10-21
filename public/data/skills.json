@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-21T11:04:13.027Z",
+  "generatedAt": "2026-10-21T12:04:17.815Z",
   "skills": [
     {
       "id": "tiktok",
@@ -293,6 +293,14 @@
       "accounts": [],
       "note": "YouTube channel blackpepperstory: 2D cut-out horror, 3 short stories per full video. Channel warming up, posting from ~next week (link pending).",
       "videos": [
+        {
+          "file": "final.mp4",
+          "folder": "C:\\Users\\mocha\\Documents\\LONGFORM\\MARTA\\video-01",
+          "path": "C:/Users/mocha/Documents/LONGFORM/MARTA/video-01/final.mp4",
+          "sizeMB": 2663.1,
+          "modified": "2026-10-21T11:18:13.359Z",
+          "driveId": null
+        },
         {
           "file": "final.mp4",
           "folder": "C:\\Users\\mocha\\Documents\\LONGFORM\\MARTA\\pump-four",
