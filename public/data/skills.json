@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-21T16:05:10.788Z",
+  "generatedAt": "2026-10-21T19:04:11.989Z",
   "skills": [
     {
       "id": "tiktok",
@@ -290,8 +290,15 @@
       "id": "marta",
       "installed": true,
       "description": "Use when making flat 2D cut-out (\"paper puppet\") animation by code for any channel — character/background asset sets from Nano Banana Pro, rigging parts (arm swings, darting pupils, mouth swaps, bob-walk), building scenes, or the dashboard's 2D Animation page.",
-      "accounts": [],
-      "note": "YouTube channel blackpepperstory: 2D cut-out horror, 3 short stories per full video. Channel warming up, posting from ~next week (link pending).",
+      "accounts": [
+        {
+          "id": "youtube-blackpepperstory",
+          "platform": "youtube",
+          "name": "blackpepperstory",
+          "url": "https://www.youtube.com/channel/UCwSCQu5gRdofFsA-HM3XpdQ"
+        }
+      ],
+      "note": "YouTube channel blackpepperstory: 2D cut-out horror, 3 short stories per full video. Live since 2026-10-21.",
       "videos": [
         {
           "file": "final.mp4",
@@ -389,6 +396,22 @@
       ],
       "note": "YouTube channel ChubbyPinkWhale: \"How rich is X?\" net-worth documentaries. Live since The Rock.",
       "videos": [
+        {
+          "file": "final-360p.mp4",
+          "folder": "C:\\Users\\mocha\\Documents\\LONGFORM\\ChubbyPinkWhale\\kevin-hart",
+          "path": "C:/Users/mocha/Documents/LONGFORM/ChubbyPinkWhale/kevin-hart/final-360p.mp4",
+          "sizeMB": 17.6,
+          "modified": "2026-10-21T16:31:29.593Z",
+          "driveId": null
+        },
+        {
+          "file": "final-1080p.mp4",
+          "folder": "C:\\Users\\mocha\\Documents\\LONGFORM\\ChubbyPinkWhale\\kevin-hart",
+          "path": "C:/Users/mocha/Documents/LONGFORM/ChubbyPinkWhale/kevin-hart/final-1080p.mp4",
+          "sizeMB": 502.6,
+          "modified": "2026-10-21T16:29:48.388Z",
+          "driveId": null
+        },
         {
           "file": "final-360p.mp4",
           "folder": "C:\\Users\\mocha\\Documents\\LONGFORM\\ChubbyPinkWhale\\the-rock-v2",
