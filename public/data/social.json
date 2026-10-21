@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-21T08:05:10.842Z",
+  "updatedAt": "2026-10-21T09:05:14.593Z",
   "accounts": {
     "tiktok-insanefindz": {
       "platform": "tiktok",
@@ -291,7 +291,7 @@
         {
           "id": "7687007728241364237",
           "title": "Ranking how my dog greets the baby and number 7 went straight for the face #dogs #dogsoftiktok #dogsandbabies #funnydogs #doglife",
-          "views": 562,
+          "views": 563,
           "likes": 69,
           "comments": 0,
           "postedAt": "2026-09-19T11:10:00.000Z",
@@ -604,12 +604,12 @@
           "url": "https://www.tiktok.com/@insanefindz/video/7683638288455863566"
         }
       ],
-      "avatar": "/avatars/tiktok-insanefindz.jpg?v=1792569866587",
-      "totalViews": 109929,
+      "avatar": "/avatars/tiktok-insanefindz.jpg?v=1792573468165",
+      "totalViews": 109930,
       "ok": true,
       "error": null,
-      "scrapedAt": "2026-10-21T08:04:13.289Z",
-      "lastSuccessAt": "2026-10-21T08:04:13.289Z"
+      "scrapedAt": "2026-10-21T09:04:13.457Z",
+      "lastSuccessAt": "2026-10-21T09:04:13.457Z"
     },
     "facebook-granny-mei": {
       "platform": "facebook",
@@ -711,12 +711,12 @@
         }
       ],
       "needsLogin": false,
-      "avatar": "/avatars/facebook-granny-mei.jpg?v=1792569871624",
+      "avatar": "/avatars/facebook-granny-mei.jpg?v=1792573473943",
       "totalViews": 4034,
       "ok": true,
       "error": null,
-      "scrapedAt": "2026-10-21T08:04:26.703Z",
-      "lastSuccessAt": "2026-10-21T08:04:26.703Z"
+      "scrapedAt": "2026-10-21T09:04:28.280Z",
+      "lastSuccessAt": "2026-10-21T09:04:28.280Z"
     },
     "instagram-almoventures": {
       "platform": "instagram",
@@ -792,7 +792,7 @@
         {
           "id": "DdpWy-aiwqQ",
           "title": null,
-          "views": 70,
+          "views": null,
           "likes": null,
           "comments": null,
           "postedAt": null,
@@ -818,12 +818,12 @@
         }
       ],
       "needsLogin": false,
-      "avatar": "/avatars/instagram-almoventures.jpg?v=1792569874930",
-      "totalViews": 1042,
+      "avatar": "/avatars/instagram-almoventures.jpg?v=1792573477795",
+      "totalViews": 972,
       "ok": true,
       "error": null,
-      "scrapedAt": "2026-10-21T08:04:31.706Z",
-      "lastSuccessAt": "2026-10-21T08:04:31.706Z"
+      "scrapedAt": "2026-10-21T09:04:34.052Z",
+      "lastSuccessAt": "2026-10-21T09:04:34.052Z"
     },
     "youtube-granny-mei": {
       "platform": "youtube",
@@ -836,7 +836,7 @@
         {
           "id": "I_4SYHp-VUE",
           "title": "Granny Mei's Banana Chocolate Ice Cream with No Refined Sugar",
-          "views": 795,
+          "views": 870,
           "likes": null,
           "comments": null,
           "postedAt": null,
@@ -924,12 +924,12 @@
           "url": "https://www.youtube.com/shorts/AHMiVO3AGKs"
         }
       ],
-      "avatar": "/avatars/youtube-granny-mei.jpg?v=1792569875573",
-      "totalViews": 9674,
+      "avatar": "/avatars/youtube-granny-mei.jpg?v=1792573478494",
+      "totalViews": 9749,
       "ok": true,
       "error": null,
-      "scrapedAt": "2026-10-21T08:04:35.036Z",
-      "lastSuccessAt": "2026-10-21T08:04:35.036Z"
+      "scrapedAt": "2026-10-21T09:04:37.929Z",
+      "lastSuccessAt": "2026-10-21T09:04:37.929Z"
     },
     "tiktok-girlsteamwin": {
       "platform": "tiktok",
@@ -1030,12 +1030,12 @@
           "url": "https://www.tiktok.com/@25ontheway555/video/7692153175914106125"
         }
       ],
-      "avatar": "/avatars/tiktok-girlsteamwin.jpg?v=1792569888894",
+      "avatar": "/avatars/tiktok-girlsteamwin.jpg?v=1792573493487",
       "totalViews": 3198,
       "ok": true,
       "error": null,
-      "scrapedAt": "2026-10-21T08:04:35.660Z",
-      "lastSuccessAt": "2026-10-21T08:04:35.660Z"
+      "scrapedAt": "2026-10-21T09:04:38.632Z",
+      "lastSuccessAt": "2026-10-21T09:04:38.632Z"
     },
     "tiktok-allrizexmvm": {
       "platform": "tiktok",
@@ -1091,12 +1091,12 @@
           "url": "https://www.tiktok.com/@allrizexmvm/video/7694780357010263310"
         }
       ],
-      "avatar": "/avatars/tiktok-allrizexmvm.jpg?v=1792569903238",
+      "avatar": "/avatars/tiktok-allrizexmvm.jpg?v=1792573506751",
       "totalViews": 2633,
       "ok": true,
       "error": null,
-      "scrapedAt": "2026-10-21T08:04:49.022Z",
-      "lastSuccessAt": "2026-10-21T08:04:49.022Z"
+      "scrapedAt": "2026-10-21T09:04:53.612Z",
+      "lastSuccessAt": "2026-10-21T09:04:53.612Z"
     },
     "threads-almoventures": {
       "platform": "threads",
@@ -1143,12 +1143,12 @@
           "url": "https://www.threads.com/@almoventures/post/DefX6JYiV4S"
         }
       ],
-      "avatar": "/avatars/threads-almoventures.jpg?v=1792569906073",
+      "avatar": "/avatars/threads-almoventures.jpg?v=1792573509580",
       "totalViews": null,
       "ok": true,
       "error": null,
-      "scrapedAt": "2026-10-21T08:05:03.367Z",
-      "lastSuccessAt": "2026-10-21T08:05:03.367Z"
+      "scrapedAt": "2026-10-21T09:05:06.893Z",
+      "lastSuccessAt": "2026-10-21T09:05:06.893Z"
     },
     "x-moventures999": {
       "platform": "x",
@@ -1204,12 +1204,12 @@
           "url": "https://x.com/moventures999/status/2109743049593221607"
         }
       ],
-      "avatar": "/avatars/x-moventures999.jpg?v=1792569909753",
+      "avatar": "/avatars/x-moventures999.jpg?v=1792573513454",
       "totalViews": 6,
       "ok": true,
       "error": null,
-      "scrapedAt": "2026-10-21T08:05:06.177Z",
-      "lastSuccessAt": "2026-10-21T08:05:06.177Z"
+      "scrapedAt": "2026-10-21T09:05:09.710Z",
+      "lastSuccessAt": "2026-10-21T09:05:09.710Z"
     },
     "youtube-chubbypinkwhale": {
       "platform": "youtube",
@@ -1229,12 +1229,12 @@
           "url": "https://www.youtube.com/watch?v=t4XD-Ox003I"
         }
       ],
-      "avatar": "/avatars/youtube-chubbypinkwhale.jpg?v=1792569910368",
+      "avatar": "/avatars/youtube-chubbypinkwhale.jpg?v=1792573514122",
       "totalViews": 3,
       "ok": true,
       "error": null,
-      "scrapedAt": "2026-10-21T08:05:09.891Z",
-      "lastSuccessAt": "2026-10-21T08:05:09.891Z"
+      "scrapedAt": "2026-10-21T09:05:13.578Z",
+      "lastSuccessAt": "2026-10-21T09:05:13.578Z"
     }
   }
 }
