@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-23T20:12:17.704Z",
+  "updatedAt": "2026-10-23T21:06:50.744Z",
   "accounts": {
     "tiktok-insanefindz": {
       "platform": "tiktok",
@@ -751,7 +751,7 @@
       "totalViews": 110129,
       "ok": false,
       "error": "Navigation timeout of 90000 ms exceeded",
-      "scrapedAt": "2026-10-23T20:04:32.217Z",
+      "scrapedAt": "2026-10-23T21:04:48.687Z",
       "lastSuccessAt": "2026-10-23T17:04:14.481Z"
     },
     "facebook-granny-mei": {
@@ -878,7 +878,7 @@
       "totalViews": 4312,
       "ok": false,
       "error": "net::ERR_NAME_NOT_RESOLVED at https://www.facebook.com/profile.php?id=61594617621762",
-      "scrapedAt": "2026-10-23T20:06:02.753Z",
+      "scrapedAt": "2026-10-23T21:06:19.877Z",
       "lastSuccessAt": "2026-10-23T18:05:57.535Z"
     },
     "instagram-almoventures": {
@@ -904,7 +904,7 @@
       "totalViews": null,
       "ok": false,
       "error": "net::ERR_NAME_NOT_RESOLVED at https://www.instagram.com/almoventures/",
-      "scrapedAt": "2026-10-23T20:06:27.120Z",
+      "scrapedAt": "2026-10-23T21:06:20.631Z",
       "lastSuccessAt": "2026-10-23T18:06:34.858Z"
     },
     "youtube-granny-mei": {
@@ -1040,7 +1040,7 @@
       "totalViews": 12606,
       "ok": false,
       "error": "fetch failed",
-      "scrapedAt": "2026-10-23T20:06:39.322Z",
+      "scrapedAt": "2026-10-23T21:06:21.243Z",
       "lastSuccessAt": "2026-10-23T18:06:40.736Z"
     },
     "tiktok-girlsteamwin": {
@@ -1176,8 +1176,8 @@
       },
       "totalViews": 3198,
       "ok": false,
-      "error": "Navigation timeout of 90000 ms exceeded",
-      "scrapedAt": "2026-10-23T20:06:39.656Z",
+      "error": "net::ERR_NAME_NOT_RESOLVED at https://www.tiktok.com/@25ontheway555",
+      "scrapedAt": "2026-10-23T21:06:22.857Z",
       "lastSuccessAt": "2026-10-23T18:06:43.891Z"
     },
     "tiktok-allrizexmvm": {
@@ -1269,8 +1269,8 @@
       },
       "totalViews": 2696,
       "ok": false,
-      "error": "Navigation timeout of 90000 ms exceeded",
-      "scrapedAt": "2026-10-23T20:08:09.845Z",
+      "error": "net::ERR_NAME_NOT_RESOLVED at https://www.tiktok.com/@allrizexmvm",
+      "scrapedAt": "2026-10-23T21:06:40.984Z",
       "lastSuccessAt": "2026-10-23T18:07:06.880Z"
     },
     "threads-almoventures": {
@@ -1315,8 +1315,8 @@
       },
       "totalViews": null,
       "ok": false,
-      "error": "Navigation timeout of 90000 ms exceeded",
-      "scrapedAt": "2026-10-23T20:09:40.150Z",
+      "error": "net::ERR_NAME_NOT_RESOLVED at https://www.threads.com/@almoventures",
+      "scrapedAt": "2026-10-23T21:06:42.092Z",
       "lastSuccessAt": "2026-10-23T19:16:02.169Z"
     },
     "x-moventures999": {
@@ -1391,8 +1391,8 @@
       },
       "totalViews": 5,
       "ok": false,
-      "error": "net::ERR_CONNECTION_RESET at https://x.com/moventures999",
-      "scrapedAt": "2026-10-23T20:11:10.316Z",
+      "error": "net::ERR_NAME_NOT_RESOLVED at https://x.com/moventures999",
+      "scrapedAt": "2026-10-23T21:06:43.873Z",
       "lastSuccessAt": "2026-10-23T19:16:46.203Z"
     },
     "youtube-chubbypinkwhale": {
@@ -1448,7 +1448,7 @@
       "totalViews": 60,
       "ok": false,
       "error": "fetch failed",
-      "scrapedAt": "2026-10-23T20:12:04.935Z",
+      "scrapedAt": "2026-10-23T21:06:45.676Z",
       "lastSuccessAt": "2026-10-23T18:07:47.253Z"
     },
     "youtube-blackpepperstory": {
@@ -1484,7 +1484,7 @@
       "totalViews": 1,
       "ok": false,
       "error": "fetch failed",
-      "scrapedAt": "2026-10-23T20:12:15.783Z",
+      "scrapedAt": "2026-10-23T21:06:46.492Z",
       "lastSuccessAt": "2026-10-23T18:07:49.313Z"
     }
   }
