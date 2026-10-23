@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-23T18:07:52.913Z",
+  "updatedAt": "2026-10-23T19:18:49.271Z",
   "accounts": {
     "tiktok-insanefindz": {
       "platform": "tiktok",
@@ -751,7 +751,7 @@
       "totalViews": 110129,
       "ok": false,
       "error": "Navigation timeout of 90000 ms exceeded",
-      "scrapedAt": "2026-10-23T18:04:27.264Z",
+      "scrapedAt": "2026-10-23T19:04:59.068Z",
       "lastSuccessAt": "2026-10-23T17:04:14.481Z"
     },
     "facebook-granny-mei": {
@@ -876,9 +876,9 @@
         "thumb": "/thumbs/facebook-granny-mei.jpg?v=1792778794251"
       },
       "totalViews": 4312,
-      "ok": true,
-      "error": null,
-      "scrapedAt": "2026-10-23T18:05:57.535Z",
+      "ok": false,
+      "error": "Navigation timeout of 90000 ms exceeded",
+      "scrapedAt": "2026-10-23T19:09:26.828Z",
       "lastSuccessAt": "2026-10-23T18:05:57.535Z"
     },
     "instagram-almoventures": {
@@ -902,9 +902,9 @@
         "thumb": "/thumbs/instagram-almoventures.jpg?v=1792775085783"
       },
       "totalViews": null,
-      "ok": true,
-      "error": null,
-      "scrapedAt": "2026-10-23T18:06:34.858Z",
+      "ok": false,
+      "error": "Navigation timeout of 90000 ms exceeded",
+      "scrapedAt": "2026-10-23T19:11:11.373Z",
       "lastSuccessAt": "2026-10-23T18:06:34.858Z"
     },
     "youtube-granny-mei": {
@@ -1038,9 +1038,9 @@
         "thumb": "/thumbs/youtube-granny-mei.jpg?v=1792778803495"
       },
       "totalViews": 12606,
-      "ok": true,
-      "error": null,
-      "scrapedAt": "2026-10-23T18:06:40.736Z",
+      "ok": false,
+      "error": "fetch failed",
+      "scrapedAt": "2026-10-23T19:12:45.155Z",
       "lastSuccessAt": "2026-10-23T18:06:40.736Z"
     },
     "tiktok-girlsteamwin": {
@@ -1175,9 +1175,9 @@
         "pinned": false
       },
       "totalViews": 3198,
-      "ok": true,
-      "error": null,
-      "scrapedAt": "2026-10-23T18:06:43.891Z",
+      "ok": false,
+      "error": "Navigation timeout of 90000 ms exceeded",
+      "scrapedAt": "2026-10-23T19:13:00.904Z",
       "lastSuccessAt": "2026-10-23T18:06:43.891Z"
     },
     "tiktok-allrizexmvm": {
@@ -1268,9 +1268,9 @@
         "pinned": false
       },
       "totalViews": 2696,
-      "ok": true,
-      "error": null,
-      "scrapedAt": "2026-10-23T18:07:06.880Z",
+      "ok": false,
+      "error": "Navigation timeout of 90000 ms exceeded",
+      "scrapedAt": "2026-10-23T19:14:31.529Z",
       "lastSuccessAt": "2026-10-23T18:07:06.880Z"
     },
     "threads-almoventures": {
@@ -1289,7 +1289,7 @@
           "comments": null,
           "postedAt": null,
           "url": "https://www.threads.com/@almoventures/post/Dexn9X9jpmL",
-          "thumb": "https://scontent-phl2-1.cdninstagram.com/v/t51.71878-15/858380870_1112687071731999_7223621489670201769_n.jpg?stp=dst-jpg_e15_tt6&_nc_cat=102&ig_cache_key=NDAxMzE2NDQ4NDM5NDY1NDA5MQ%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkZFRUQueHBpZHMuNjQwLnNkci52aWRlb19kZWZhdWx0X2NvdmVyX2ZyYW1lLkMzIn0%3D&_nc_ohc=NMCZ3da_zp8Q7kNvwEDQoRp&_nc_oc=AdqclbEGhgstt8Gx43mgouJA5K5HRqXiyHzegQKAQSaAmicgbFSQWFdRl4v0GbNQ9edPIQpfdQI6kqmt5ulP-V9l&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=scontent-phl2-1.cdninstagram.com&_nc_gid=cETtdjPLVZ7tEjuWzQ_UJQ&_nc_ss=7a20f&oh=00_AQPHzmNyR-iulRGO3aYMjJAkap78DKAMYn4MOiTA6Ylitw&oe=6AE15A1D"
+          "thumb": "https://scontent-phl2-1.cdninstagram.com/v/t51.71878-15/858380870_1112687071731999_7223621489670201769_n.jpg?stp=dst-jpg_e15_tt6&_nc_cat=102&ig_cache_key=NDAxMzE2NDQ4NDM5NDY1NDA5MQ%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkZFRUQueHBpZHMuNjQwLnNkci52aWRlb19kZWZhdWx0X2NvdmVyX2ZyYW1lLkMzIn0%3D&_nc_ohc=NMCZ3da_zp8Q7kNvwGgvIHH&_nc_oc=AdrdOQfGiixX7nNIjoYfxRcyaYwPoMX7xBr_ShK5pBCxOuBSNuYbzL1aygQxIaBLad2i3DZJSizcDWz8Yb_ANedV&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=scontent-phl2-1.cdninstagram.com&_nc_gid=P8pueoIlWkId3NQq2QF6qg&_nc_ss=7a20f&oh=00_AQODTf1jBjv_-5KggCd3RLu7VWk-WABIxc_gz5RagYZqng&oe=6AE1925D"
         },
         {
           "id": "Deu42NGjis2",
@@ -1299,30 +1299,10 @@
           "comments": null,
           "postedAt": null,
           "url": "https://www.threads.com/@almoventures/post/Deu42NGjis2",
-          "thumb": "https://scontent-phl2-1.cdninstagram.com/v/t51.71878-15/858985234_1372409684727962_1488275750558533966_n.jpg?stp=dst-jpg_e15_tt6&_nc_cat=109&ig_cache_key=NDAxMjM5NDMzMzU1ODY4MDM3NA%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkZFRUQueHBpZHMuNjQwLnNkci52aWRlb19kZWZhdWx0X2NvdmVyX2ZyYW1lLkMzIn0%3D&_nc_ohc=Jf6cDRSl51EQ7kNvwHD6nZM&_nc_oc=AdpsjxZigc0rK_BZ-csz6FWEzyX-7nm5CcfcVP3i8bz8XhBgwbfQAPRW-fSwcukttTtNBNCqaxjkBtzdUF_0b_53&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=scontent-phl2-1.cdninstagram.com&_nc_gid=cETtdjPLVZ7tEjuWzQ_UJQ&_nc_ss=7a20f&oh=00_AQNUPkBbw8nlqlrj7JHuJ0bud-KmrLFHHl1NfYOoLdBixA&oe=6AE167E5"
-        },
-        {
-          "id": "Dem2IiYjvf2",
-          "title": "🫐🍋 Blueberry + Lime Smoothie",
-          "views": null,
-          "likes": null,
-          "comments": null,
-          "postedAt": null,
-          "url": "https://www.threads.com/@almoventures/post/Dem2IiYjvf2",
-          "thumb": "https://scontent-phl2-1.cdninstagram.com/v/t51.71878-15/856840629_1605429877624258_3057962407316092428_n.jpg?stp=dst-jpg_e15_tt6&_nc_cat=100&ig_cache_key=NDAxMDEzMDU5OTQwNjY2MzY3MA%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkZFRUQueHBpZHMuNjQwLnNkci52aWRlb19kZWZhdWx0X2NvdmVyX2ZyYW1lLkMzIn0%3D&_nc_ohc=Udm5Qvq3G_UQ7kNvwG91GxA&_nc_oc=Adq-ShcVwmshDv2NTZ687ynytf37wFiNTwPenFpfJ2QNVhc97SzfztRxPUFhecv-nzDq8LGK5JSXCIq34vSkmPop&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=scontent-phl2-1.cdninstagram.com&_nc_gid=cETtdjPLVZ7tEjuWzQ_UJQ&_nc_ss=7a20f&oh=00_AQO8vXL0bLjUKT0gtZYatrdeZ3GLWbCTddkxWxte2YUSRw&oe=6AE166F8"
-        },
-        {
-          "id": "DeiBDW0ju3o",
-          "title": "🧂🥔☕ 5 simple food checks you can try at home",
-          "views": null,
-          "likes": null,
-          "comments": null,
-          "postedAt": null,
-          "url": "https://www.threads.com/@almoventures/post/DeiBDW0ju3o",
-          "thumb": "https://scontent-phl2-1.cdninstagram.com/v/t51.71878-15/846221408_1649685723530676_7907576327096082072_n.jpg?stp=dst-jpg_e15_tt6&_nc_cat=103&ig_cache_key=NDAwODc3MTI0NzAyMjIwNjQ0MA%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkZFRUQueHBpZHMuNjQwLnNkci52aWRlb19kZWZhdWx0X2NvdmVyX2ZyYW1lLkMzIn0%3D&_nc_ohc=P-LMRhUWydYQ7kNvwGn49Lt&_nc_oc=Ado47jci81BbQLOBIWLrLP82gqAbyTbCsTQCigC4f-kIFCx15CiXhUEU1QuGHoWqiL1X4Rne5ZAMPVFfkTZzFFll&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=scontent-phl2-1.cdninstagram.com&_nc_gid=cETtdjPLVZ7tEjuWzQ_UJQ&_nc_ss=7a20f&oh=00_AQM2SdUxBBw_Ijl94RMASmEO4GtwhiFbzPTCec0xQRqqwg&oe=6AE18F94"
+          "thumb": "https://scontent-phl2-1.cdninstagram.com/v/t51.71878-15/858985234_1372409684727962_1488275750558533966_n.jpg?stp=dst-jpg_e15_tt6&_nc_cat=109&ig_cache_key=NDAxMjM5NDMzMzU1ODY4MDM3NA%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkZFRUQueHBpZHMuNjQwLnNkci52aWRlb19kZWZhdWx0X2NvdmVyX2ZyYW1lLkMzIn0%3D&_nc_ohc=Jf6cDRSl51EQ7kNvwEVxMVb&_nc_oc=Adq6YqSU0vgqlYd44TN4m2YZuDU6yRY4SVnla_oIfZAxKRBtbWa3WhX2-yMiaw-SRtMqdMvc3psUlOP8iZjbd1Yg&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=scontent-phl2-1.cdninstagram.com&_nc_gid=P8pueoIlWkId3NQq2QF6qg&_nc_ss=7a20f&oh=00_AQMwyBwt2bGQv40UJz5LXbS3awfloNjFdesPaAzI7FsYXQ&oe=6AE1A025"
         }
       ],
-      "avatar": "/avatars/threads-almoventures.jpg?v=1792778857943",
+      "avatar": "/avatars/threads-almoventures.jpg?v=1792782998995",
       "latest": {
         "id": "Dexn9X9jpmL",
         "title": "🦷✨ Coconut Oil Teeth Brightening Paste",
@@ -1331,13 +1311,13 @@
         "comments": null,
         "postedAt": null,
         "url": "https://www.threads.com/@almoventures/post/Dexn9X9jpmL",
-        "thumb": "/thumbs/threads-almoventures.jpg?v=1792778858022"
+        "thumb": "/thumbs/threads-almoventures.jpg?v=1792782999105"
       },
       "totalViews": null,
       "ok": true,
       "error": null,
-      "scrapedAt": "2026-10-23T18:07:33.011Z",
-      "lastSuccessAt": "2026-10-23T18:07:33.011Z"
+      "scrapedAt": "2026-10-23T19:16:02.169Z",
+      "lastSuccessAt": "2026-10-23T19:16:02.169Z"
     },
     "x-moventures999": {
       "platform": "x",
@@ -1407,13 +1387,13 @@
         "comments": null,
         "postedAt": "2026-10-21T23:50:46.793Z",
         "url": "https://x.com/moventures999/status/2113055425608491119",
-        "thumb": "/thumbs/x-moventures999.jpg?v=1792778866983"
+        "thumb": "https://pbs.twimg.com/amplify_video_thumb/2113055208834023424/img/qzD_ApVqEdaS2o4O?format=webp&name=medium"
       },
       "totalViews": 5,
       "ok": true,
       "error": null,
-      "scrapedAt": "2026-10-23T18:07:38.345Z",
-      "lastSuccessAt": "2026-10-23T18:07:38.345Z"
+      "scrapedAt": "2026-10-23T19:16:46.203Z",
+      "lastSuccessAt": "2026-10-23T19:16:46.203Z"
     },
     "youtube-chubbypinkwhale": {
       "platform": "youtube",
@@ -1466,9 +1446,9 @@
         "thumb": "/thumbs/youtube-chubbypinkwhale.jpg?v=1792778869177"
       },
       "totalViews": 60,
-      "ok": true,
-      "error": null,
-      "scrapedAt": "2026-10-23T18:07:47.253Z",
+      "ok": false,
+      "error": "fetch failed",
+      "scrapedAt": "2026-10-23T19:18:20.654Z",
       "lastSuccessAt": "2026-10-23T18:07:47.253Z"
     },
     "youtube-blackpepperstory": {
@@ -1502,9 +1482,9 @@
         "thumb": "/thumbs/youtube-blackpepperstory.jpg?v=1792778870861"
       },
       "totalViews": 1,
-      "ok": true,
-      "error": null,
-      "scrapedAt": "2026-10-23T18:07:49.313Z",
+      "ok": false,
+      "error": "fetch failed",
+      "scrapedAt": "2026-10-23T19:18:31.652Z",
       "lastSuccessAt": "2026-10-23T18:07:49.313Z"
     }
   }
