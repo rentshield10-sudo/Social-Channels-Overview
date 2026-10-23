@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-23T13:09:24.734Z",
+  "generatedAt": "2026-10-23T14:04:12.780Z",
   "skills": [
     {
       "id": "tiktok",
@@ -428,6 +428,22 @@
       ],
       "note": "YouTube channel ChubbyPinkWhale: \"How rich is X?\" net-worth documentaries. Live since The Rock.",
       "videos": [
+        {
+          "file": "final-360p.mp4",
+          "folder": "C:\\Users\\mocha\\Documents\\LONGFORM\\ChubbyPinkWhale\\most-expensive-thing",
+          "path": "C:/Users/mocha/Documents/LONGFORM/ChubbyPinkWhale/most-expensive-thing/final-360p.mp4",
+          "sizeMB": 29.1,
+          "modified": "2026-10-23T13:55:19.640Z",
+          "driveId": null
+        },
+        {
+          "file": "final-1080p.mp4",
+          "folder": "C:\\Users\\mocha\\Documents\\LONGFORM\\ChubbyPinkWhale\\most-expensive-thing",
+          "path": "C:/Users/mocha/Documents/LONGFORM/ChubbyPinkWhale/most-expensive-thing/final-1080p.mp4",
+          "sizeMB": 1041.7,
+          "modified": "2026-10-23T13:53:12.947Z",
+          "driveId": null
+        },
         {
           "file": "final-360p.mp4",
           "folder": "C:\\Users\\mocha\\Documents\\LONGFORM\\ChubbyPinkWhale\\kevin-hart",
