@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-24T04:06:35.930Z",
+  "updatedAt": "2026-10-24T05:12:01.472Z",
   "accounts": {
     "tiktok-insanefindz": {
       "platform": "tiktok",
@@ -749,9 +749,9 @@
         "pinned": false
       },
       "totalViews": 110162,
-      "ok": true,
-      "error": null,
-      "scrapedAt": "2026-10-24T04:04:26.302Z",
+      "ok": false,
+      "error": "Navigation timeout of 90000 ms exceeded",
+      "scrapedAt": "2026-10-24T05:04:25.013Z",
       "lastSuccessAt": "2026-10-24T04:04:26.302Z"
     },
     "facebook-granny-mei": {
@@ -876,9 +876,9 @@
         "thumb": "/thumbs/facebook-granny-mei.jpg?v=1792814711246"
       },
       "totalViews": 4313,
-      "ok": true,
-      "error": null,
-      "scrapedAt": "2026-10-24T04:04:56.554Z",
+      "ok": false,
+      "error": "Navigation timeout of 90000 ms exceeded",
+      "scrapedAt": "2026-10-24T05:05:55.175Z",
       "lastSuccessAt": "2026-10-24T04:04:56.554Z"
     },
     "instagram-almoventures": {
@@ -1013,9 +1013,9 @@
         "thumb": "/thumbs/instagram-almoventures.jpg?v=1792814719717"
       },
       "totalViews": 1042,
-      "ok": true,
-      "error": null,
-      "scrapedAt": "2026-10-24T04:05:11.862Z",
+      "ok": false,
+      "error": "Navigation timeout of 90000 ms exceeded",
+      "scrapedAt": "2026-10-24T05:07:25.330Z",
       "lastSuccessAt": "2026-10-24T04:05:11.862Z"
     },
     "youtube-granny-mei": {
@@ -1149,9 +1149,9 @@
         "thumb": "/thumbs/youtube-granny-mei.jpg?v=1792814722199"
       },
       "totalViews": 12906,
-      "ok": true,
-      "error": null,
-      "scrapedAt": "2026-10-24T04:05:20.078Z",
+      "ok": false,
+      "error": "fetch failed",
+      "scrapedAt": "2026-10-24T05:08:55.461Z",
       "lastSuccessAt": "2026-10-24T04:05:20.078Z"
     },
     "tiktok-girlsteamwin": {
@@ -1170,7 +1170,7 @@
           "comments": 0,
           "postedAt": "2026-10-06T06:23:23.000Z",
           "url": "https://www.tiktok.com/@25ontheway555/video/7693436308819135758",
-          "thumb": "https://p16-common-sign.tiktokcdn-us.com/tos-useast5-p-0068-tx/oAkLx9Eri4wsBgqcv4LTiAnyUE9SAIsEgaB29~tplv-tiktokx-origin.image?dr=9636&x-expires=1792987200&x-signature=srxcpb3mNiTmMKE4zc6p5tS2Dng%3D&t=4d5b0474&ps=13740610&shp=81f88b70&shcp=43f4a2f9&idc=useast5",
+          "thumb": "https://p19-common-sign.tiktokcdn-us.com/tos-useast5-p-0068-tx/oAkLx9Eri4wsBgqcv4LTiAnyUE9SAIsEgaB29~tplv-tiktokx-origin.image?dr=9636&x-expires=1792990800&x-signature=z15xztsaoWS9D5CBSMdJAToHjgA%3D&t=4d5b0474&ps=13740610&shp=81f88b70&shcp=43f4a2f9&idc=useast5",
           "pinned": false
         },
         {
@@ -1181,7 +1181,7 @@
           "comments": 0,
           "postedAt": "2026-10-06T02:22:30.000Z",
           "url": "https://www.tiktok.com/@25ontheway555/video/7693374486300609805",
-          "thumb": "https://p19-common-sign.tiktokcdn-us.com/tos-useast5-p-0068-tx/o0DVoeZacAikDj52AQLUitkGxe6ndsLIHICeIg~tplv-tiktokx-origin.image?dr=9636&x-expires=1792987200&x-signature=YUrvjVW8ak%2BR88DlwO1%2BN9zG1EE%3D&t=4d5b0474&ps=13740610&shp=81f88b70&shcp=43f4a2f9&idc=useast5",
+          "thumb": "https://p16-common-sign.tiktokcdn-us.com/tos-useast5-p-0068-tx/o0DVoeZacAikDj52AQLUitkGxe6ndsLIHICeIg~tplv-tiktokx-origin.image?dr=9636&x-expires=1792990800&x-signature=aTK8QRyngZx0uVKkVrd6xdywaLc%3D&t=4d5b0474&ps=13740610&shp=81f88b70&shcp=43f4a2f9&idc=useast5",
           "pinned": false
         },
         {
@@ -1192,7 +1192,7 @@
           "comments": 0,
           "postedAt": "2026-10-05T22:20:13.000Z",
           "url": "https://www.tiktok.com/@25ontheway555/video/7693311995298303246",
-          "thumb": "https://p16-common-sign.tiktokcdn-us.com/tos-useast5-p-0068-tx/oAEJ9FIgSpAFEECIfzRNxxfCCID1DB2QjBpqbE~tplv-tiktokx-origin.image?dr=9636&x-expires=1792987200&x-signature=40ixK1w%2Bkfc3Q%2FcgNGvS%2FHBGoAw%3D&t=4d5b0474&ps=13740610&shp=81f88b70&shcp=43f4a2f9&idc=useast5",
+          "thumb": "https://p16-common-sign.tiktokcdn-us.com/tos-useast5-p-0068-tx/oAEJ9FIgSpAFEECIfzRNxxfCCID1DB2QjBpqbE~tplv-tiktokx-origin.image?dr=9636&x-expires=1792990800&x-signature=gDuSzyXRdKS0nrlQTGLCdsEjWfU%3D&t=4d5b0474&ps=13740610&shp=81f88b70&shcp=43f4a2f9&idc=useast5",
           "pinned": false
         },
         {
@@ -1203,7 +1203,7 @@
           "comments": 0,
           "postedAt": "2026-10-05T17:59:52.000Z",
           "url": "https://www.tiktok.com/@25ontheway555/video/7693244861058747662",
-          "thumb": "https://p19-common-sign.tiktokcdn-us.com/tos-useast5-p-0068-tx/og0CwHeIFAhyVlckUQCsjmANoeIfLAIkGVG8yH~tplv-tiktokx-origin.image?dr=9636&x-expires=1792987200&x-signature=YVWoX2gCTtyGfXrtjPS%2BQxIfvxQ%3D&t=4d5b0474&ps=13740610&shp=81f88b70&shcp=43f4a2f9&idc=useast5",
+          "thumb": "https://p19-common-sign.tiktokcdn-us.com/tos-useast5-p-0068-tx/og0CwHeIFAhyVlckUQCsjmANoeIfLAIkGVG8yH~tplv-tiktokx-origin.image?dr=9636&x-expires=1792990800&x-signature=HehnwuBtgHM0uCJ6zxjoXGIlvds%3D&t=4d5b0474&ps=13740610&shp=81f88b70&shcp=43f4a2f9&idc=useast5",
           "pinned": false
         },
         {
@@ -1214,7 +1214,7 @@
           "comments": 0,
           "postedAt": "2026-10-05T05:21:30.000Z",
           "url": "https://www.tiktok.com/@25ontheway555/video/7693049464742759694",
-          "thumb": "https://p16-common-sign.tiktokcdn-us.com/tos-useast5-p-0068-tx/o8f7GKTADBBEuygMueDJSqQ7wIMOOZRdzFsEWw~tplv-tiktokx-origin.image?dr=9636&x-expires=1792987200&x-signature=0Q8NmQKry%2FRzAA3BymWHCh7Ix1s%3D&t=4d5b0474&ps=13740610&shp=81f88b70&shcp=43f4a2f9&idc=useast5",
+          "thumb": "https://p16-common-sign.tiktokcdn-us.com/tos-useast5-p-0068-tx/o8f7GKTADBBEuygMueDJSqQ7wIMOOZRdzFsEWw~tplv-tiktokx-origin.image?dr=9636&x-expires=1792990800&x-signature=8Ps%2Bb3DweaQsvTwL1%2FqateYH5HU%3D&t=4d5b0474&ps=13740610&shp=81f88b70&shcp=43f4a2f9&idc=useast5",
           "pinned": false
         },
         {
@@ -1225,7 +1225,7 @@
           "comments": 0,
           "postedAt": "2026-10-05T01:20:49.000Z",
           "url": "https://www.tiktok.com/@25ontheway555/video/7692987491061730574",
-          "thumb": "https://p16-common-sign.tiktokcdn-us.com/tos-useast5-p-0068-tx/o4wzZCQYWK91fwcvgTpeWAQeichF4FfA7NgteL~tplv-tiktokx-origin.image?dr=9636&x-expires=1792987200&x-signature=2s3V%2B6t5BZ9zlmUBMDFfBaOAi%2BE%3D&t=4d5b0474&ps=13740610&shp=81f88b70&shcp=43f4a2f9&idc=useast5",
+          "thumb": "https://p16-common-sign.tiktokcdn-us.com/tos-useast5-p-0068-tx/o4wzZCQYWK91fwcvgTpeWAQeichF4FfA7NgteL~tplv-tiktokx-origin.image?dr=9636&x-expires=1792990800&x-signature=Bxtm3cU1lJ2PxJnXasduw%2BiU07k%3D&t=4d5b0474&ps=13740610&shp=81f88b70&shcp=43f4a2f9&idc=useast5",
           "pinned": false
         },
         {
@@ -1236,7 +1236,7 @@
           "comments": 0,
           "postedAt": "2026-10-04T21:20:24.000Z",
           "url": "https://www.tiktok.com/@25ontheway555/video/7692925577367407886",
-          "thumb": "https://p19-common-sign.tiktokcdn-us.com/tos-useast5-p-0068-tx/oUogSciIEBw1cxYfswipCVHyIxF4cCAZBAWIA9~tplv-tiktokx-origin.image?dr=9636&x-expires=1792987200&x-signature=umtfISSgGHZCiDdQ5enuDhkoGTU%3D&t=4d5b0474&ps=13740610&shp=81f88b70&shcp=43f4a2f9&idc=useast5",
+          "thumb": "https://p19-common-sign.tiktokcdn-us.com/tos-useast5-p-0068-tx/oUogSciIEBw1cxYfswipCVHyIxF4cCAZBAWIA9~tplv-tiktokx-origin.image?dr=9636&x-expires=1792990800&x-signature=iabOVDmgX%2F%2BHs6qDpX1ToSYhKts%3D&t=4d5b0474&ps=13740610&shp=81f88b70&shcp=43f4a2f9&idc=useast5",
           "pinned": false
         },
         {
@@ -1247,7 +1247,7 @@
           "comments": 1,
           "postedAt": "2026-10-04T16:44:42.000Z",
           "url": "https://www.tiktok.com/@25ontheway555/video/7692854460309179662",
-          "thumb": "https://p16-common-sign.tiktokcdn-us.com/tos-useast5-p-0068-tx/ooXAU47gIgsiCkEB335iEmGPlBNAtSKQnaCKo~tplv-tiktokx-origin.image?dr=9636&x-expires=1792987200&x-signature=s4L1sMN6pukM8UQunIGvmK6IDJ0%3D&t=4d5b0474&ps=13740610&shp=81f88b70&shcp=43f4a2f9&idc=useast5",
+          "thumb": "https://p19-common-sign.tiktokcdn-us.com/tos-useast5-p-0068-tx/ooXAU47gIgsiCkEB335iEmGPlBNAtSKQnaCKo~tplv-tiktokx-origin.image?dr=9636&x-expires=1792990800&x-signature=3Zi3IKoN9GvW2CTb8Xzi%2Bj63gqM%3D&t=4d5b0474&ps=13740610&shp=81f88b70&shcp=43f4a2f9&idc=useast5",
           "pinned": false
         },
         {
@@ -1258,7 +1258,7 @@
           "comments": 1,
           "postedAt": "2026-10-03T17:40:54.000Z",
           "url": "https://www.tiktok.com/@25ontheway555/video/7692497851909246222",
-          "thumb": "https://p19-common-sign.tiktokcdn-us.com/tos-useast5-p-0068-tx/o4EnaMgegAk1TuCIxHfQUousuQcjAsXgVECeo8~tplv-tiktokx-origin.image?dr=9636&x-expires=1792987200&x-signature=q4zN2ZiOZBP6rdhnkgl%2F9Ft0bns%3D&t=4d5b0474&ps=13740610&shp=81f88b70&shcp=43f4a2f9&idc=useast5",
+          "thumb": "https://p19-common-sign.tiktokcdn-us.com/tos-useast5-p-0068-tx/o4EnaMgegAk1TuCIxHfQUousuQcjAsXgVECeo8~tplv-tiktokx-origin.image?dr=9636&x-expires=1792990800&x-signature=8rpD3yBiByNdvY2adadRG1GsPAM%3D&t=4d5b0474&ps=13740610&shp=81f88b70&shcp=43f4a2f9&idc=useast5",
           "pinned": false
         },
         {
@@ -1269,11 +1269,11 @@
           "comments": 0,
           "postedAt": "2026-10-02T19:23:22.000Z",
           "url": "https://www.tiktok.com/@25ontheway555/video/7692153175914106125",
-          "thumb": "https://p16-common-sign.tiktokcdn-us.com/tos-useast5-p-0068-tx/okLBAEPaQDUnGI4sIAEviAB7vAKsa93BgBE7i~tplv-tiktokx-origin.image?dr=9636&x-expires=1792987200&x-signature=gb9XsHMDFV3dAuQblDwX1j9ym4s%3D&t=4d5b0474&ps=13740610&shp=81f88b70&shcp=43f4a2f9&idc=useast5",
+          "thumb": "https://p16-common-sign.tiktokcdn-us.com/tos-useast5-p-0068-tx/okLBAEPaQDUnGI4sIAEviAB7vAKsa93BgBE7i~tplv-tiktokx-origin.image?dr=9636&x-expires=1792990800&x-signature=STK38JHO45Jwid3AjbxPvbeLyP0%3D&t=4d5b0474&ps=13740610&shp=81f88b70&shcp=43f4a2f9&idc=useast5",
           "pinned": false
         }
       ],
-      "avatar": "/avatars/tiktok-girlsteamwin.jpg?v=1792814747182",
+      "avatar": "/avatars/tiktok-girlsteamwin.jpg?v=1792818642986",
       "latest": {
         "id": "7693436308819135758",
         "title": "Which US city has the BEST breakfast? Comment your number 1 breakfast city and defend it #breakfast #thisorthat #foodbattle #brunch #foodtiktok ",
@@ -1282,14 +1282,14 @@
         "comments": 0,
         "postedAt": "2026-10-06T06:23:23.000Z",
         "url": "https://www.tiktok.com/@25ontheway555/video/7693436308819135758",
-        "thumb": "/thumbs/tiktok-girlsteamwin.jpg?v=1792814747295",
+        "thumb": "/thumbs/tiktok-girlsteamwin.jpg?v=1792818646947",
         "pinned": false
       },
       "totalViews": 3201,
       "ok": true,
       "error": null,
-      "scrapedAt": "2026-10-24T04:05:22.432Z",
-      "lastSuccessAt": "2026-10-24T04:05:22.432Z"
+      "scrapedAt": "2026-10-24T05:09:06.438Z",
+      "lastSuccessAt": "2026-10-24T05:09:06.438Z"
     },
     "tiktok-allrizexmvm": {
       "platform": "tiktok",
@@ -1307,7 +1307,7 @@
           "comments": 0,
           "postedAt": "2026-10-21T23:32:41.000Z",
           "url": "https://www.tiktok.com/@allrizexmvm/video/7699268118224375054",
-          "thumb": "https://p19-common-sign.tiktokcdn-us.com/tos-useast5-p-0068-tx/oseaQkIGcmeHpGBGlVpyI2sgzpLvSjAsjbCftA~tplv-tiktokx-origin.image?dr=9636&x-expires=1792987200&x-signature=A7pbfOEwefvEkvKIynm5mrSpAc8%3D&t=4d5b0474&ps=13740610&shp=81f88b70&shcp=43f4a2f9&idc=useast5",
+          "thumb": "https://p16-common-sign.tiktokcdn-us.com/tos-useast5-p-0068-tx/oseaQkIGcmeHpGBGlVpyI2sgzpLvSjAsjbCftA~tplv-tiktokx-origin.image?dr=9636&x-expires=1792990800&x-signature=Wga5%2FfqdWyE4kPvLC0Ss6xyDfEE%3D&t=4d5b0474&ps=13740610&shp=81f88b70&shcp=43f4a2f9&idc=useast5",
           "pinned": false
         },
         {
@@ -1318,7 +1318,7 @@
           "comments": 5,
           "postedAt": "2026-10-18T00:43:33.000Z",
           "url": "https://www.tiktok.com/@allrizexmvm/video/7697802009658805517",
-          "thumb": "https://p16-common-sign.tiktokcdn-us.com/tos-useast5-p-0068-tx/oc01Q9sAcAF8BIp6wEiVaFpBJfwFbjgiBCAnUI~tplv-tiktokx-origin.image?dr=9636&x-expires=1792987200&x-signature=niOLi9wCVOSsBe7I9zlahX%2FE33M%3D&t=4d5b0474&ps=13740610&shp=81f88b70&shcp=43f4a2f9&idc=useast5",
+          "thumb": "https://p16-common-sign.tiktokcdn-us.com/tos-useast5-p-0068-tx/oc01Q9sAcAF8BIp6wEiVaFpBJfwFbjgiBCAnUI~tplv-tiktokx-origin.image?dr=9636&x-expires=1792990800&x-signature=7g47hrxTUNA2QYdVK253asmLan0%3D&t=4d5b0474&ps=13740610&shp=81f88b70&shcp=43f4a2f9&idc=useast5",
           "pinned": false
         },
         {
@@ -1329,7 +1329,7 @@
           "comments": 2,
           "postedAt": "2026-10-15T22:33:02.000Z",
           "url": "https://www.tiktok.com/@allrizexmvm/video/7697026236002012429",
-          "thumb": "https://p19-common-sign.tiktokcdn-us.com/tos-useast5-p-0068-tx/o0E2WgREEDAfJIrRBqjgUneCSBFRjV0DVw2vGp~tplv-tiktokx-origin.image?dr=9636&x-expires=1792987200&x-signature=Jdojxv9%2FVRZlUtiOYiSi621E4yg%3D&t=4d5b0474&ps=13740610&shp=81f88b70&shcp=43f4a2f9&idc=useast5",
+          "thumb": "https://p19-common-sign.tiktokcdn-us.com/tos-useast5-p-0068-tx/o0E2WgREEDAfJIrRBqjgUneCSBFRjV0DVw2vGp~tplv-tiktokx-origin.image?dr=9636&x-expires=1792990800&x-signature=d8YgHoelQ%2B3F6CSj1M%2BTeQaf5iA%3D&t=4d5b0474&ps=13740610&shp=81f88b70&shcp=43f4a2f9&idc=useast5",
           "pinned": false
         },
         {
@@ -1340,7 +1340,7 @@
           "comments": 5,
           "postedAt": "2026-10-13T21:18:35.000Z",
           "url": "https://www.tiktok.com/@allrizexmvm/video/7696264878431980814",
-          "thumb": "https://p16-common-sign.tiktokcdn-us.com/tos-useast5-p-0068-tx/ocuII0eqEFAQXnCAQjtDksMsTBQufkVdpHIfCF~tplv-tiktokx-origin.image?dr=9636&x-expires=1792987200&x-signature=TuUWiOJUr6Sf1T4NcdHhzPgZFWg%3D&t=4d5b0474&ps=13740610&shp=81f88b70&shcp=43f4a2f9&idc=useast5",
+          "thumb": "https://p16-common-sign.tiktokcdn-us.com/tos-useast5-p-0068-tx/ocuII0eqEFAQXnCAQjtDksMsTBQufkVdpHIfCF~tplv-tiktokx-origin.image?dr=9636&x-expires=1792990800&x-signature=aVUOQQF94NPwogugXzKtC3QPNto%3D&t=4d5b0474&ps=13740610&shp=81f88b70&shcp=43f4a2f9&idc=useast5",
           "pinned": false
         },
         {
@@ -1351,7 +1351,7 @@
           "comments": 1,
           "postedAt": "2026-10-11T19:45:19.000Z",
           "url": "https://www.tiktok.com/@allrizexmvm/video/7695498603405626637",
-          "thumb": "https://p16-common-sign.tiktokcdn-us.com/tos-useast5-p-0068-tx/ognRBigrE3qBFyE0IBLOUSijmyFD5DPfyqA4Nf~tplv-tiktokx-origin.image?dr=9636&x-expires=1792987200&x-signature=08f%2FowCjBZEoPyQreMc7BDSs6Mc%3D&t=4d5b0474&ps=13740610&shp=81f88b70&shcp=43f4a2f9&idc=useast5",
+          "thumb": "https://p16-common-sign.tiktokcdn-us.com/tos-useast5-p-0068-tx/ognRBigrE3qBFyE0IBLOUSijmyFD5DPfyqA4Nf~tplv-tiktokx-origin.image?dr=9636&x-expires=1792990800&x-signature=3A3dkZMmg4bn8cJv6nRiwStsZbQ%3D&t=4d5b0474&ps=13740610&shp=81f88b70&shcp=43f4a2f9&idc=useast5",
           "pinned": false
         },
         {
@@ -1362,11 +1362,11 @@
           "comments": 0,
           "postedAt": "2026-10-09T21:18:04.000Z",
           "url": "https://www.tiktok.com/@allrizexmvm/video/7694780357010263310",
-          "thumb": "https://p19-common-sign.tiktokcdn-us.com/tos-useast5-p-0068-tx/o4BzR9DWy3Vfm4RfJlHpStdEBEmFEEqqDIgAgH~tplv-tiktokx-origin.image?dr=9636&x-expires=1792987200&x-signature=pM%2B1o3oxUYAzKjyj%2F34FuxOIowU%3D&t=4d5b0474&ps=13740610&shp=81f88b70&shcp=43f4a2f9&idc=useast5",
+          "thumb": "https://p19-common-sign.tiktokcdn-us.com/tos-useast5-p-0068-tx/o4BzR9DWy3Vfm4RfJlHpStdEBEmFEEqqDIgAgH~tplv-tiktokx-origin.image?dr=9636&x-expires=1792990800&x-signature=NWV57hw17KcUoumN1itO56R1DW0%3D&t=4d5b0474&ps=13740610&shp=81f88b70&shcp=43f4a2f9&idc=useast5",
           "pinned": false
         }
       ],
-      "avatar": "/avatars/tiktok-allrizexmvm.jpg?v=1792814771048",
+      "avatar": "/avatars/tiktok-allrizexmvm.jpg?v=1792818671148",
       "latest": {
         "id": "7699268118224375054",
         "title": "Girls we are losing... so the squad brought the heat Team Girls or Team Boys? Vote below #teamgirls #teamboys #girlsvsboys #dance #fyp",
@@ -1375,14 +1375,14 @@
         "comments": 0,
         "postedAt": "2026-10-21T23:32:41.000Z",
         "url": "https://www.tiktok.com/@allrizexmvm/video/7699268118224375054",
-        "thumb": "/thumbs/tiktok-allrizexmvm.jpg?v=1792814771157",
+        "thumb": "/thumbs/tiktok-allrizexmvm.jpg?v=1792818671224",
         "pinned": false
       },
       "totalViews": 2697,
       "ok": true,
       "error": null,
-      "scrapedAt": "2026-10-24T04:05:47.709Z",
-      "lastSuccessAt": "2026-10-24T04:05:47.709Z"
+      "scrapedAt": "2026-10-24T05:10:47.119Z",
+      "lastSuccessAt": "2026-10-24T05:10:47.119Z"
     },
     "threads-almoventures": {
       "platform": "threads",
@@ -1400,7 +1400,7 @@
           "comments": null,
           "postedAt": null,
           "url": "https://www.threads.com/@almoventures/post/Dexn9X9jpmL",
-          "thumb": "https://scontent-phl2-1.cdninstagram.com/v/t51.71878-15/858380870_1112687071731999_7223621489670201769_n.jpg?stp=dst-jpg_e15_tt6&_nc_cat=102&ig_cache_key=NDAxMzE2NDQ4NDM5NDY1NDA5MQ%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkZFRUQueHBpZHMuNjQwLnNkci52aWRlb19kZWZhdWx0X2NvdmVyX2ZyYW1lLkMzIn0%3D&_nc_ohc=NMCZ3da_zp8Q7kNvwGgvIHH&_nc_oc=AdrdOQfGiixX7nNIjoYfxRcyaYwPoMX7xBr_ShK5pBCxOuBSNuYbzL1aygQxIaBLad2i3DZJSizcDWz8Yb_ANedV&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=scontent-phl2-1.cdninstagram.com&_nc_gid=IT9eV_qUhiRs3laQZIjneQ&_nc_ss=7a20f&oh=00_AQNswOhNsTsqf--jmx-WFmLYYscoOtOT40QpafMs0rZSCg&oe=6AE202DD"
+          "thumb": "https://scontent-phl2-1.cdninstagram.com/v/t51.71878-15/858380870_1112687071731999_7223621489670201769_n.jpg?stp=dst-jpg_e15_tt6&_nc_cat=102&ig_cache_key=NDAxMzE2NDQ4NDM5NDY1NDA5MQ%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkZFRUQueHBpZHMuNjQwLnNkci52aWRlb19kZWZhdWx0X2NvdmVyX2ZyYW1lLkMzIn0%3D&_nc_ohc=NMCZ3da_zp8Q7kNvwGgvIHH&_nc_oc=AdrdOQfGiixX7nNIjoYfxRcyaYwPoMX7xBr_ShK5pBCxOuBSNuYbzL1aygQxIaBLad2i3DZJSizcDWz8Yb_ANedV&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=scontent-phl2-1.cdninstagram.com&_nc_gid=TInQIqdW5q_ijqVAb0IXlQ&_nc_ss=7a20f&oh=00_AQN0DxeUloim0ow7KGZ-X6n5BZS9N0CIAW0nkf1ooRXCxQ&oe=6AE202DD"
         },
         {
           "id": "Deu42NGjis2",
@@ -1410,7 +1410,7 @@
           "comments": null,
           "postedAt": null,
           "url": "https://www.threads.com/@almoventures/post/Deu42NGjis2",
-          "thumb": "https://scontent-phl2-1.cdninstagram.com/v/t51.71878-15/858985234_1372409684727962_1488275750558533966_n.jpg?stp=dst-jpg_e15_tt6&_nc_cat=109&ig_cache_key=NDAxMjM5NDMzMzU1ODY4MDM3NA%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkZFRUQueHBpZHMuNjQwLnNkci52aWRlb19kZWZhdWx0X2NvdmVyX2ZyYW1lLkMzIn0%3D&_nc_ohc=Jf6cDRSl51EQ7kNvwEVxMVb&_nc_oc=Adq6YqSU0vgqlYd44TN4m2YZuDU6yRY4SVnla_oIfZAxKRBtbWa3WhX2-yMiaw-SRtMqdMvc3psUlOP8iZjbd1Yg&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=scontent-phl2-1.cdninstagram.com&_nc_gid=IT9eV_qUhiRs3laQZIjneQ&_nc_ss=7a20f&oh=00_AQPqS18fmXLje5mEvyHMYMMAqoPsLs2mUoKj5hTBoxnPjw&oe=6AE210A5"
+          "thumb": "https://scontent-phl2-1.cdninstagram.com/v/t51.71878-15/858985234_1372409684727962_1488275750558533966_n.jpg?stp=dst-jpg_e15_tt6&_nc_cat=109&ig_cache_key=NDAxMjM5NDMzMzU1ODY4MDM3NA%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkZFRUQueHBpZHMuNjQwLnNkci52aWRlb19kZWZhdWx0X2NvdmVyX2ZyYW1lLkMzIn0%3D&_nc_ohc=Jf6cDRSl51EQ7kNvwEVxMVb&_nc_oc=Adq6YqSU0vgqlYd44TN4m2YZuDU6yRY4SVnla_oIfZAxKRBtbWa3WhX2-yMiaw-SRtMqdMvc3psUlOP8iZjbd1Yg&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=scontent-phl2-1.cdninstagram.com&_nc_gid=TInQIqdW5q_ijqVAb0IXlQ&_nc_ss=7a20f&oh=00_AQMyNNOEKQtX8FZz-nDgEsDiKPtuHiUc71AoaGECAU-I1w&oe=6AE210A5"
         },
         {
           "id": "Dem2IiYjvf2",
@@ -1420,7 +1420,7 @@
           "comments": null,
           "postedAt": null,
           "url": "https://www.threads.com/@almoventures/post/Dem2IiYjvf2",
-          "thumb": "https://scontent-phl2-1.cdninstagram.com/v/t51.71878-15/856840629_1605429877624258_3057962407316092428_n.jpg?stp=dst-jpg_e15_tt6&_nc_cat=100&ig_cache_key=NDAxMDEzMDU5OTQwNjY2MzY3MA%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkZFRUQueHBpZHMuNjQwLnNkci52aWRlb19kZWZhdWx0X2NvdmVyX2ZyYW1lLkMzIn0%3D&_nc_ohc=Udm5Qvq3G_UQ7kNvwEgxGTK&_nc_oc=Adqlq-9yaouq7-CzctraRtLP8vhjckPvZ12dAPRCwO9tUEab8YzQ9sdDHYqgff-e6lrIW-wz2Hc4wqVgRRRWdHnY&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=scontent-phl2-1.cdninstagram.com&_nc_gid=IT9eV_qUhiRs3laQZIjneQ&_nc_ss=7a20f&oh=00_AQMdhGPRJs7BDRpjpzhZaRbOJEhlqvSj5ycWlhJtFPqtbg&oe=6AE20FB8"
+          "thumb": "https://scontent-phl2-1.cdninstagram.com/v/t51.71878-15/856840629_1605429877624258_3057962407316092428_n.jpg?stp=dst-jpg_e15_tt6&_nc_cat=100&ig_cache_key=NDAxMDEzMDU5OTQwNjY2MzY3MA%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkZFRUQueHBpZHMuNjQwLnNkci52aWRlb19kZWZhdWx0X2NvdmVyX2ZyYW1lLkMzIn0%3D&_nc_ohc=Udm5Qvq3G_UQ7kNvwEgxGTK&_nc_oc=Adqlq-9yaouq7-CzctraRtLP8vhjckPvZ12dAPRCwO9tUEab8YzQ9sdDHYqgff-e6lrIW-wz2Hc4wqVgRRRWdHnY&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=scontent-phl2-1.cdninstagram.com&_nc_gid=TInQIqdW5q_ijqVAb0IXlQ&_nc_ss=7a20f&oh=00_AQPvRW3JUnPfLACH80PZgSn3OwdY1wv9ok9K_7-xwUmKKg&oe=6AE20FB8"
         },
         {
           "id": "DeiBDW0ju3o",
@@ -1430,10 +1430,10 @@
           "comments": null,
           "postedAt": null,
           "url": "https://www.threads.com/@almoventures/post/DeiBDW0ju3o",
-          "thumb": "https://scontent-phl2-1.cdninstagram.com/v/t51.71878-15/846221408_1649685723530676_7907576327096082072_n.jpg?stp=dst-jpg_e15_tt6&_nc_cat=103&ig_cache_key=NDAwODc3MTI0NzAyMjIwNjQ0MA%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkZFRUQueHBpZHMuNjQwLnNkci52aWRlb19kZWZhdWx0X2NvdmVyX2ZyYW1lLkMzIn0%3D&_nc_ohc=P-LMRhUWydYQ7kNvwEZQD-G&_nc_oc=Ado6p740HOrLHi3x0A1mvsAnsCIWRmqhx1UhOdc0-klEvXSzYQdkBdLrmEp20MD1KNnFd8r_eT4T_C69Czu2ISHC&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=scontent-phl2-1.cdninstagram.com&_nc_gid=IT9eV_qUhiRs3laQZIjneQ&_nc_ss=7a20f&oh=00_AQOqo52uDJ4w5G3rNKSp1XH71lfIugHe8cfWvANPTL3OEg&oe=6AE20014"
+          "thumb": "https://scontent-phl2-1.cdninstagram.com/v/t51.71878-15/846221408_1649685723530676_7907576327096082072_n.jpg?stp=dst-jpg_e15_tt6&_nc_cat=103&ig_cache_key=NDAwODc3MTI0NzAyMjIwNjQ0MA%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkZFRUQueHBpZHMuNjQwLnNkci52aWRlb19kZWZhdWx0X2NvdmVyX2ZyYW1lLkMzIn0%3D&_nc_ohc=P-LMRhUWydYQ7kNvwEZQD-G&_nc_oc=Ado6p740HOrLHi3x0A1mvsAnsCIWRmqhx1UhOdc0-klEvXSzYQdkBdLrmEp20MD1KNnFd8r_eT4T_C69Czu2ISHC&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=scontent-phl2-1.cdninstagram.com&_nc_gid=TInQIqdW5q_ijqVAb0IXlQ&_nc_ss=7a20f&oh=00_AQMD17C8FTLi_vM6z7fW7xNrADYVym7pyt4K3u6xa4p46w&oe=6AE20014"
         }
       ],
-      "avatar": "/avatars/threads-almoventures.jpg?v=1792814778266",
+      "avatar": "/avatars/threads-almoventures.jpg?v=1792818693965",
       "latest": {
         "id": "Dexn9X9jpmL",
         "title": "🦷✨ Coconut Oil Teeth Brightening Paste",
@@ -1442,13 +1442,13 @@
         "comments": null,
         "postedAt": null,
         "url": "https://www.threads.com/@almoventures/post/Dexn9X9jpmL",
-        "thumb": "/thumbs/threads-almoventures.jpg?v=1792814778343"
+        "thumb": "/thumbs/threads-almoventures.jpg?v=1792818694292"
       },
       "totalViews": null,
       "ok": true,
       "error": null,
-      "scrapedAt": "2026-10-24T04:06:11.599Z",
-      "lastSuccessAt": "2026-10-24T04:06:11.599Z"
+      "scrapedAt": "2026-10-24T05:11:11.413Z",
+      "lastSuccessAt": "2026-10-24T05:11:11.413Z"
     },
     "x-moventures999": {
       "platform": "x",
@@ -1509,7 +1509,7 @@
           "thumb": "https://pbs.twimg.com/amplify_video_thumb/2110487032367661056/img/Q2zxD_4iNLwUa9Fi?format=webp&name=medium"
         }
       ],
-      "avatar": "/avatars/x-moventures999.jpg?v=1792814789083",
+      "avatar": "/avatars/x-moventures999.jpg?v=1792818714142",
       "latest": {
         "id": "2113055425608491119",
         "title": "🦷✨ Coconut Oil Teeth Brightening Paste Coconut oil + 1/2 tsp baking soda + 3 drops of lemon. Brush 2 min, spit, rinse. ",
@@ -1518,13 +1518,13 @@
         "comments": null,
         "postedAt": "2026-10-21T23:50:46.793Z",
         "url": "https://x.com/moventures999/status/2113055425608491119",
-        "thumb": "/thumbs/x-moventures999.jpg?v=1792814789164"
+        "thumb": "/thumbs/x-moventures999.jpg?v=1792818715692"
       },
       "totalViews": 5,
       "ok": true,
       "error": null,
-      "scrapedAt": "2026-10-24T04:06:18.726Z",
-      "lastSuccessAt": "2026-10-24T04:06:18.726Z"
+      "scrapedAt": "2026-10-24T05:11:34.581Z",
+      "lastSuccessAt": "2026-10-24T05:11:34.581Z"
     },
     "youtube-chubbypinkwhale": {
       "platform": "youtube",
@@ -1577,9 +1577,9 @@
         "thumb": "/thumbs/youtube-chubbypinkwhale.jpg?v=1792814791700"
       },
       "totalViews": 78,
-      "ok": true,
-      "error": null,
-      "scrapedAt": "2026-10-24T04:06:29.465Z",
+      "ok": false,
+      "error": "no ytInitialData (HTTP 500)",
+      "scrapedAt": "2026-10-24T05:11:55.872Z",
       "lastSuccessAt": "2026-10-24T04:06:29.465Z"
     },
     "youtube-blackpepperstory": {
@@ -1611,7 +1611,7 @@
           "thumb": "https://i.ytimg.com/vi/0IwY_wjOjJU/hqdefault.jpg"
         }
       ],
-      "avatar": "/avatars/youtube-blackpepperstory.jpg?v=1792814792777",
+      "avatar": "/avatars/youtube-blackpepperstory.jpg?v=1792818719744",
       "latest": {
         "id": "81usKC1SgIA",
         "title": "3 Creepy Horror Stories Animated",
@@ -1620,13 +1620,13 @@
         "comments": 0,
         "postedAt": "2026-10-24T01:59:52.000Z",
         "url": "https://www.youtube.com/watch?v=81usKC1SgIA",
-        "thumb": "/thumbs/youtube-blackpepperstory.jpg?v=1792814793793"
+        "thumb": "/thumbs/youtube-blackpepperstory.jpg?v=1792818720662"
       },
       "totalViews": 1,
       "ok": true,
       "error": null,
-      "scrapedAt": "2026-10-24T04:06:31.996Z",
-      "lastSuccessAt": "2026-10-24T04:06:31.996Z"
+      "scrapedAt": "2026-10-24T05:11:58.761Z",
+      "lastSuccessAt": "2026-10-24T05:11:58.761Z"
     }
   }
 }
