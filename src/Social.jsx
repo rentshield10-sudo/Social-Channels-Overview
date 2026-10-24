@@ -7,6 +7,8 @@ const growth = (history, id) => {
   return points.length > 1 ? points.at(-1) - points[0] : null;
 };
 
+const Icon = ({platform}) => <span className="picon" style={{'--icon': `url(/icons/${platform}.svg)`, color: PLATFORMS[platform].color}} />;
+
 function AccountCard({id, a, history}) {
   const p = PLATFORMS[a.platform];
   const g = growth(history, id);
@@ -45,6 +47,18 @@ function AccountCard({id, a, history}) {
           </div>
         )}
       </div>
+      {a.latest && (
+        <a className="latest" href={a.latest.url} target="_blank" rel="noreferrer" title="Open the latest upload">
+          <div className="latest-thumb">{a.latest.thumb ? <img src={a.latest.thumb} alt="" loading="lazy" /> : <span>no thumbnail</span>}</div>
+          <div className="latest-info">
+            <span className="lbl">Latest upload · {date(a.latest.postedAt)}</span>
+            <span className="latest-title">{a.latest.title || a.latest.id}</span>
+            <span className="latest-stats">
+              <b>{n(a.latest.views)}</b> views · <b>{n(a.latest.likes)}</b> likes · <b>{n(a.latest.comments)}</b> comments
+            </span>
+          </div>
+        </a>
+      )}
       <div className="card-foot">
         {a.ok ? <span className="ok">● live</span> : <span className="err">● last run failed: {a.error}</span>}
         {a.needsLogin && <span className="warn">video views need login (npm run login)</span>}
@@ -56,20 +70,43 @@ function AccountCard({id, a, history}) {
 
 export default function Social({social, history}) {
   const accounts = Object.entries(social?.accounts ?? {});
-  const [pick, setPick] = useState(null);
+  const [platform, setPlatform] = useState('all');
+  const [pick, setPick] = useState('all');
   const [sort, setSort] = useState('views');
   if (!social) return <p className="empty">No stats yet. Run <code>npm run update</code>.</p>;
 
-  const current = pick ?? accounts[0]?.[0];
-  const a = social.accounts[current];
-  const videos = [...(a?.videos ?? [])].sort((x, y) =>
+  const platforms = [...new Set(accounts.map(([, acc]) => acc.platform))];
+  const shown = accounts.filter(([, acc]) => platform === 'all' || acc.platform === platform);
+  const current = shown.some(([id]) => id === pick) ? pick : 'all';
+  const a = current === 'all' ? null : social.accounts[current];
+  const pool = current === 'all' ? shown : shown.filter(([id]) => id === current);
+  const videos = pool.flatMap(([id, acc]) => (acc.videos ?? []).map((v) => ({...v, acct: id}))).sort((x, y) =>
     sort === 'views' ? (y.views ?? -1) - (x.views ?? -1) : (y.postedAt ?? '').localeCompare(x.postedAt ?? ''),
   );
 
   return (
     <>
+      <div className="filters">
+        <div className="tabs">
+          <button className={platform === 'all' ? 'on' : ''} onClick={() => setPlatform('all')}>All</button>
+          {platforms.map((pl) => (
+            <button key={pl} className={platform === pl ? 'on' : ''} onClick={() => setPlatform(pl)} style={{'--accent': PLATFORMS[pl].color}}>
+              <Icon platform={pl} /> {PLATFORMS[pl].label}
+            </button>
+          ))}
+        </div>
+        <div className="tabs channel-tabs">
+          <button className={current === 'all' ? 'on' : ''} onClick={() => setPick('all')}>All channels</button>
+          {shown.map(([id, acc]) => (
+            <button key={id} className={id === current ? 'on' : ''} onClick={() => setPick(id)} style={{'--accent': PLATFORMS[acc.platform].color}}>
+              <Icon platform={acc.platform} /> {acc.name}
+            </button>
+          ))}
+        </div>
+      </div>
+
       <section className="grid accounts">
-        {accounts.map(([id, acc]) => (
+        {pool.map(([id, acc]) => (
           <AccountCard key={id} id={id} a={acc} history={history} />
         ))}
       </section>
@@ -77,13 +114,6 @@ export default function Social({social, history}) {
       <section className="card">
         <div className="section-head">
           <h2>Posted videos</h2>
-          <div className="pills">
-            {accounts.map(([id, acc]) => (
-              <button key={id} className={id === current ? 'on' : ''} onClick={() => setPick(id)} style={{'--accent': PLATFORMS[acc.platform].color}}>
-                {PLATFORMS[acc.platform].label} · {acc.name}
-              </button>
-            ))}
-          </div>
           <select value={sort} onChange={(e) => setSort(e.target.value)}>
             <option value="views">Most views</option>
             <option value="date">Newest</option>
@@ -95,6 +125,7 @@ export default function Social({social, history}) {
               <thead>
                 <tr>
                   <th>Video</th>
+                  {current === 'all' && <th>Channel</th>}
                   <th className="num">Views</th>
                   <th className="num">Likes</th>
                   <th className="num">Comments</th>
@@ -103,12 +134,17 @@ export default function Social({social, history}) {
               </thead>
               <tbody>
                 {videos.map((v) => (
-                  <tr key={v.id}>
+                  <tr key={`${v.acct}-${v.id}`}>
                     <td className="caption">
                       <a href={v.url} target="_blank" rel="noreferrer">
                         {v.title || v.id}
                       </a>
                     </td>
+                    {current === 'all' && (
+                      <td className="chan">
+                        <Icon platform={social.accounts[v.acct].platform} /> {social.accounts[v.acct].name}
+                      </td>
+                    )}
                     <td className="num strong">{n(v.views)}</td>
                     <td className="num">{n(v.likes)}</td>
                     <td className="num">{n(v.comments)}</td>

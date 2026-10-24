@@ -10,7 +10,6 @@ const root = path.resolve(import.meta.dirname, '..');
 const config = JSON.parse(readFileSync(path.join(root, 'config/accounts.json'), 'utf8'));
 const socialFile = path.join(root, 'public/data/social.json');
 const historyFile = path.join(root, 'public/data/history.json');
-const avatarDir = path.join(root, 'public/avatars');
 const UA = 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36';
 
 const num = (s) => {
@@ -57,6 +56,8 @@ async function tiktok(page, acct) {
       comments: item.stats?.commentCount ?? null,
       postedAt: item.createTime ? new Date(item.createTime * 1000).toISOString() : null,
       url: `https://www.tiktok.com/@${handle}/video/${item.id}`,
+      thumb: item.video?.cover ?? item.video?.originCover ?? null,
+      pinned: !!item.isPinnedItem,
     });
   }
   return {followers: info.stats.followerCount, likes: info.stats.heartCount, posts: info.stats.videoCount, videos: [...seen.values()], avatarUrl: info.user.avatarLarger ?? info.user.avatarMedium};
@@ -83,6 +84,26 @@ async function youtube(_page, acct) {
       comments: null,
       postedAt: null,
       url: `https://www.youtube.com/shorts/${id}`,
+      thumb: `https://i.ytimg.com/vi/${id}/hqdefault.jpg`,
+    });
+  }
+  // long-form uploads live on /videos as lockupViewModel cards (Shorts-only channels just have none)
+  const vres = await fetch(acct.url + '/videos', {headers: {'user-agent': UA, 'accept-language': 'en-US,en;q=0.9'}});
+  const vjson = (await vres.text()).match(/var ytInitialData = (\{[\s\S]*?\});<\/script>/)?.[1];
+  for (const o of vjson ? walk(JSON.parse(vjson)) : []) {
+    const l = o.lockupViewModel;
+    if (!l?.contentId || videos.some((v) => v.id === l.contentId)) continue;
+    const parts = (l.metadata?.lockupMetadataViewModel?.metadata?.contentMetadataViewModel?.metadataRows ?? []).flatMap((r) => r.metadataParts ?? []);
+    const views = parts.find((p) => /views?$/i.test(p.accessibilityLabel ?? p.text?.content ?? ''));
+    videos.push({
+      id: l.contentId,
+      title: l.metadata?.lockupMetadataViewModel?.title?.content ?? '',
+      views: num(views?.text?.content?.replace(/ views?$/i, '')),
+      likes: null,
+      comments: null,
+      postedAt: null,
+      url: `https://www.youtube.com/watch?v=${l.contentId}`,
+      thumb: `https://i.ytimg.com/vi/${l.contentId}/hqdefault.jpg`,
     });
   }
   const avatarUrl = html.match(/<meta property="og:image" content="([^"]+)"/)?.[1] ?? null;
@@ -105,6 +126,7 @@ async function instagram(page, acct) {
           comments: o.comment_count ?? null,
           postedAt: o.taken_at ? new Date(o.taken_at * 1000).toISOString() : null,
           url: `https://www.instagram.com/reel/${o.code}/`,
+          thumb: o.image_versions2?.candidates?.[0]?.url ?? o.display_uri ?? o.thumbnail_src ?? `https://www.instagram.com/p/${o.code}/media/?size=l`,
         });
       }
     }
@@ -117,12 +139,12 @@ async function instagram(page, acct) {
   await page.goto(acct.url.replace(/\/?$/, '/reels/'), {waitUntil: 'networkidle2', timeout: 90000}).catch(() => {});
   // The public Reels tab prints each reel's view count on its tile, no login needed.
   const tiles = await page.evaluate(() =>
-    [...document.querySelectorAll('a[href*="/reel/"]')].map((a) => ({href: a.getAttribute('href'), text: a.innerText, alt: a.querySelector('img')?.alt ?? ''})),
+    [...document.querySelectorAll('a[href*="/reel/"]')].map((a) => ({href: a.getAttribute('href'), text: a.innerText, alt: a.querySelector('img')?.alt ?? '', img: a.querySelector('img')?.src ?? null})),
   );
   for (const t of tiles) {
     const code = t.href.match(/\/reel\/([\w-]+)/)?.[1];
     if (!code || found.has(code)) continue;
-    found.set(code, {id: code, title: t.alt.slice(0, 120) || null, views: num(t.text.trim().split('\n')[0] || null), likes: null, comments: null, postedAt: null, url: `https://www.instagram.com/reel/${code}/`});
+    found.set(code, {id: code, title: t.alt.slice(0, 120) || null, views: num(t.text.trim().split('\n')[0] || null), likes: null, comments: null, postedAt: null, url: `https://www.instagram.com/reel/${code}/`, thumb: t.img || `https://www.instagram.com/p/${code}/media/?size=l`});
   }
   return {followers: num(m[1]), likes: null, posts: num(m[3]), videos: [...found.values()], needsLogin: false, avatarUrl};
 }
@@ -138,9 +160,9 @@ async function facebook(page, acct) {
   const reels = await page.evaluate(() =>
     [...new Map([...document.querySelectorAll('a[href*="/reel/"]')].map((a) => [a.href.match(/\/reel\/(\d+)/)?.[1], a])).entries()]
       .filter(([id]) => id)
-      .map(([id, a]) => ({id, text: a.innerText, url: `https://www.facebook.com/reel/${id}/`})),
+      .map(([id, a]) => ({id, text: a.innerText, url: `https://www.facebook.com/reel/${id}/`, img: a.querySelector('img')?.src ?? null})),
   );
-  const videos = reels.map((r) => ({id: r.id, title: null, views: num(r.text.match(/[\d.,]+[KMB]?/)?.[0]), likes: null, comments: null, postedAt: null, url: r.url}));
+  const videos = reels.map((r) => ({id: r.id, title: null, views: num(r.text.match(/[\d.,]+[KMB]?/)?.[0]), likes: null, comments: null, postedAt: null, url: r.url, thumb: r.img}));
   const loggedIn = await page.evaluate(() => !document.querySelector('form[action*="login"], a[href*="/login"]'));
   if (followers == null && !videos.length) throw new Error('page numbers not found');
   return {followers: num(followers), likes: num(likes), posts: null, videos, needsLogin: !loggedIn && !videos.length, avatarUrl};
@@ -155,9 +177,13 @@ async function threads(page, acct) {
   const posts = await page.evaluate(() =>
     [...new Map([...document.querySelectorAll('a[href*="/post/"]')].map((a) => [a.href.match(/\/post\/([\w-]+)/)?.[1], a])).entries()]
       .filter(([id]) => id)
-      .map(([id, a]) => ({id, url: a.href.split('?')[0], text: a.closest('[data-pressable-container]')?.innerText ?? ''})),
+      .map(([id, a]) => {
+        const c = a.closest('[data-pressable-container]');
+        const img = [...(c?.querySelectorAll('img') ?? [])].find((i) => !/profile picture/i.test(i.alt) && i.naturalWidth > 100);
+        return {id, url: a.href.split('?')[0], text: c?.innerText ?? '', img: c?.querySelector('video')?.poster || img?.src || null};
+      }),
   );
-  const videos = posts.map((p) => ({id: p.id, title: p.text.split('\n').find((l) => l.length > 20)?.slice(0, 120) ?? null, views: null, likes: null, comments: null, postedAt: null, url: p.url}));
+  const videos = posts.map((p) => ({id: p.id, title: p.text.split('\n').find((l) => l.length > 20)?.slice(0, 120) ?? null, views: null, likes: null, comments: null, postedAt: null, url: p.url, thumb: p.img}));
   return {followers: num(m[1]), likes: null, posts: num(m[2]), videos, avatarUrl: await ogImage(page)};
 }
 
@@ -178,6 +204,7 @@ async function x(page, acct) {
         views: btn('View count'),
         likes: btn('Like'),
         replies: btn('Reply'),
+        img: a.querySelector('video')?.poster || [...a.querySelectorAll('img')].find((i) => /pbs\.twimg\.com\/(?!profile_images)/.test(i.src))?.src || null,
       };
     }),
   );
@@ -195,23 +222,69 @@ async function x(page, acct) {
         // Post IDs are snowflakes: the top bits are milliseconds since X's epoch.
         postedAt: new Date(Number((BigInt(id) >> 22n) + 1288834974657n)).toISOString(),
         url: `https://x.com${p.path}`,
+        thumb: p.img,
       };
     });
   return {followers: num(followers), likes: null, posts: null, videos, avatarUrl: await ogImage(page)};
 }
 
-// Saves the profile picture locally; CDN links from TikTok/Instagram expire within days.
-async function saveAvatar(id, url) {
+// Saves an image (profile picture, latest-video thumbnail) locally; CDN links from TikTok/Instagram expire within days.
+async function saveImage(dir, id, url) {
   if (!url) return null;
   try {
     const res = await fetch(url, {headers: {'user-agent': UA}});
     if (!res.ok) return null;
-    mkdirSync(avatarDir, {recursive: true});
-    writeFileSync(path.join(avatarDir, `${id}.jpg`), Buffer.from(await res.arrayBuffer()));
-    return `/avatars/${id}.jpg?v=${Date.now()}`;
+    mkdirSync(path.join(root, 'public', dir), {recursive: true});
+    writeFileSync(path.join(root, 'public', dir, `${id}.jpg`), Buffer.from(await res.arrayBuffer()));
+    return `/${dir}/${id}.jpg?v=${Date.now()}`;
   } catch {
     return null;
   }
+}
+const saveAvatar = (id, url) => saveImage('avatars', id, url);
+
+// Date, likes and comments of one YouTube video from its public watch page (the channel tabs don't list them).
+async function youtubeDetails(v) {
+  try {
+    const html = await (await fetch(`https://www.youtube.com/watch?v=${v.id}`, {headers: {'user-agent': UA, 'accept-language': 'en-US,en;q=0.9'}})).text();
+    const likes = html.match(/"likeCount":"(\d+)"/)?.[1];
+    const posted = html.match(/"(?:publishDate|uploadDate)":"([^"]+)"/)?.[1];
+    // The comment count only arrives with the comments section: ask for it with the page's continuation token.
+    const at = html.indexOf('comment-item-section');
+    const token = at > 0 ? [...html.slice(Math.max(0, at - 2000), at).matchAll(/"token":"([^"]+)"/g)].at(-1)?.[1] : null;
+    const clientVersion = html.match(/"INNERTUBE_CLIENT_VERSION":"([^"]+)"/)?.[1];
+    let comments = null;
+    if (token && clientVersion) {
+      const res = await fetch('https://www.youtube.com/youtubei/v1/next', {
+        method: 'POST',
+        headers: {'content-type': 'application/json', 'user-agent': UA},
+        body: JSON.stringify({context: {client: {clientName: 'WEB', clientVersion, hl: 'en'}}, continuation: token}),
+      });
+      for (const o of walk(await res.json().catch(() => null))) {
+        if (o.commentsHeaderRenderer) {
+          comments = num(o.commentsHeaderRenderer.countText?.runs?.[0]?.text);
+          break;
+        }
+      }
+    }
+    return {...v, postedAt: posted ? new Date(posted).toISOString() : v.postedAt, likes: likes != null ? Number(likes) : v.likes, comments: comments ?? v.comments};
+  } catch {
+    return v;
+  }
+}
+
+// The newest upload: by date where the platform gives one, else the first non-pinned item in profile order (newest first).
+async function latestVideo(id, acct, videos) {
+  let pool = videos.filter((v) => !v.pinned);
+  if (acct.platform === 'youtube') {
+    // Shorts and long-form are separate lists: date the newest of each and keep the newer.
+    const firsts = [pool.find((v) => v.url.includes('/shorts/')), pool.find((v) => v.url.includes('watch?v='))].filter(Boolean);
+    pool = await Promise.all(firsts.map(youtubeDetails));
+  }
+  const dated = pool.filter((v) => v.postedAt);
+  const v = dated.length ? dated.reduce((a, b) => (b.postedAt > a.postedAt ? b : a)) : pool[0];
+  if (!v) return null;
+  return {...v, thumb: (await saveImage('thumbs', id, v.thumb)) ?? v.thumb ?? null};
 }
 
 const scrapers = {tiktok, youtube, instagram, facebook, threads, x};
@@ -231,6 +304,7 @@ for (const [id, acct] of Object.entries(config.accounts)) {
   try {
     const {avatarUrl, ...r} = await scrapers[acct.platform](page, acct);
     r.avatar = (await saveAvatar(id, avatarUrl)) ?? previous.accounts[id]?.avatar ?? null;
+    r.latest = (await latestVideo(id, acct, r.videos)) ?? previous.accounts[id]?.latest ?? null;
     const totalViews = r.videos.some((v) => v.views != null) ? r.videos.reduce((n, v) => n + (v.views ?? 0), 0) : null;
     accounts[id] = {...acct, ...r, totalViews, ok: true, error: null, scrapedAt: at, lastSuccessAt: at};
     console.log(`${id}: followers ${r.followers}, ${r.videos.length} videos, views ${totalViews}`);

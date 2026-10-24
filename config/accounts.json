@@ -47,6 +47,16 @@
       "platform": "x",
       "name": "@moventures999",
       "url": "https://x.com/moventures999"
+    },
+    "youtube-chubbypinkwhale": {
+      "platform": "youtube",
+      "name": "ChubbyPinkWhale",
+      "url": "https://www.youtube.com/channel/UCH5lQJ7yslV4ycHfwFz2XoA"
+    },
+    "youtube-blackpepperstory": {
+      "platform": "youtube",
+      "name": "blackpepperstory",
+      "url": "https://www.youtube.com/channel/UCwSCQu5gRdofFsA-HM3XpdQ"
     }
   },
   "skills": {
@@ -84,20 +94,24 @@
     },
     "marta": {
       "social": true,
-      "accounts": [],
+      "accounts": [
+        "youtube-blackpepperstory"
+      ],
       "videoGlobs": [
         "C:/Users/mocha/Documents/LONGFORM/MARTA/*/final.mp4",
         "C:/Users/mocha/Documents/LONGFORM/MARTA/*/preview.mp4"
       ],
-      "note": "YouTube channel blackpepperstory: 2D cut-out horror, 3 short stories per full video. Channel warming up, posting from ~next week (link pending)."
+      "note": "YouTube channel blackpepperstory: 2D cut-out horror, 3 short stories per full video. Live since 2026-10-21."
     },
     "chubbypinkwhale": {
       "social": true,
-      "accounts": [],
+      "accounts": [
+        "youtube-chubbypinkwhale"
+      ],
       "videoGlobs": [
         "C:/Users/mocha/Documents/LONGFORM/ChubbyPinkWhale/*/final*.mp4"
       ],
-      "note": "YouTube channel ChubbyPinkWhale: \"How rich is X?\" net-worth documentaries (link pending)."
+      "note": "YouTube channel ChubbyPinkWhale: \"How rich is X?\" net-worth documentaries. Live since The Rock."
     },
     "ronald": {
       "social": false,

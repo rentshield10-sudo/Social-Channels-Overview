@@ -41,13 +41,18 @@ code, .mono { font-family: 'JetBrains Mono', ui-monospace, monospace; font-size:
   font: inherit; font-weight: 500; cursor: pointer;
 }
 .tabs button.on { background: var(--panel-2); color: var(--text); box-shadow: inset 0 0 0 1px var(--line); }
+.picon { display: inline-block; width: 14px; height: 14px; vertical-align: -2px; background: currentColor; -webkit-mask: var(--icon) center / contain no-repeat; mask: var(--icon) center / contain no-repeat; }
+.filters { display: flex; flex-direction: column; gap: 8px; margin-bottom: 16px; }
+.filters .tabs { flex-wrap: wrap; width: fit-content; max-width: 100%; }
+.tabs button.on .picon, .tabs button .picon { margin-right: 2px; }
+td.chan { white-space: nowrap; color: var(--muted); }
 .updated { margin-left: auto; color: var(--muted); }
 
 .card { background: var(--panel); border: 1px solid var(--line); border-radius: 14px; padding: 20px; margin-bottom: 20px; }
 .card h2 { margin: 0; font-size: 16px; }
 .card h3 { font-size: 12px; text-transform: uppercase; letter-spacing: 0.08em; color: var(--muted); margin: 18px 0 8px; }
 .card-head { display: flex; align-items: center; gap: 10px; }
-.grid.accounts { display: grid; grid-template-columns: repeat(auto-fit, minmax(290px, 1fr)); gap: 16px; margin-bottom: 20px; }
+.grid.accounts { display: grid; grid-template-columns: repeat(auto-fill, minmax(290px, 1fr)); gap: 16px; margin-bottom: 20px; }
 .account { margin: 0; border-top: 3px solid var(--accent); }
 .account .card-head a { font-weight: 600; color: var(--text); }
 .avatar { flex: none; width: 48px; height: 48px; border-radius: 50%; overflow: hidden; display: grid; place-items: center; background: var(--panel-2); box-shadow: 0 0 0 2px var(--accent); }
@@ -65,6 +70,15 @@ code, .mono { font-family: 'JetBrains Mono', ui-monospace, monospace; font-size:
 .delta { font-size: 12px; font-weight: 600; }
 .delta.up { color: var(--ok); }
 .delta.down { color: var(--err); }
+.latest { display: flex; gap: 12px; align-items: center; margin: 0 0 14px; padding: 10px; border-radius: 10px; background: var(--panel-2); color: var(--text); }
+.latest:hover { box-shadow: 0 0 0 1px var(--accent); }
+.latest-thumb { flex: none; width: 112px; aspect-ratio: 16 / 9; border-radius: 6px; overflow: hidden; background: #000; display: grid; place-items: center; }
+.latest-thumb img { width: 100%; height: 100%; object-fit: cover; }
+.latest-thumb span { font-size: 11px; color: var(--muted); }
+.latest-info { display: flex; flex-direction: column; gap: 3px; min-width: 0; }
+.latest-title { font-size: 13px; font-weight: 600; overflow: hidden; text-overflow: ellipsis; white-space: nowrap; }
+.latest-stats { font-size: 12px; color: var(--muted); }
+.latest-stats b { color: var(--text); }
 .card-foot { display: flex; gap: 12px; flex-wrap: wrap; font-size: 12px; }
 .ok { color: var(--ok); }
 .err { color: var(--err); }

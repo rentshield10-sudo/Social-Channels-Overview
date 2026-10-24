@@ -18,7 +18,7 @@ for (const script of ['collect.mjs', 'scrape.mjs']) {
 // Push the fresh data so Vercel redeploys the hosted copy.
 try {
   const git = (...args) => execFileSync('git', args, {cwd: root, encoding: 'utf8', windowsHide: true});
-  git('add', 'public/data', 'public/avatars');
+  git('add', 'public/data', 'public/avatars', 'public/thumbs');
   if (git('status', '--porcelain', 'public').trim()) {
     git('commit', '-m', 'Update stats');
     git('push');
