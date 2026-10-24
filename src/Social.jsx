@@ -69,7 +69,7 @@ function AccountCard({id, a, history}) {
 }
 
 export default function Social({social, history}) {
-  const accounts = Object.entries(social?.accounts ?? {});
+  const accounts = Object.entries(social?.accounts ?? {}).sort(([, x], [, y]) => (y.platform === 'youtube') - (x.platform === 'youtube'));
   const [platform, setPlatform] = useState('all');
   const [pick, setPick] = useState('all');
   const [sort, setSort] = useState('views');
