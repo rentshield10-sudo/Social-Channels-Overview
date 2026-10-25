@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-25T00:14:32.523Z",
+  "updatedAt": "2026-10-25T01:17:18.753Z",
   "accounts": {
     "tiktok-insanefindz": {
       "platform": "tiktok",
@@ -751,7 +751,7 @@
       "totalViews": 110192,
       "ok": false,
       "error": "Navigation timeout of 90000 ms exceeded",
-      "scrapedAt": "2026-10-25T00:04:22.750Z",
+      "scrapedAt": "2026-10-25T01:04:26.680Z",
       "lastSuccessAt": "2026-10-24T23:04:43.469Z"
     },
     "facebook-granny-mei": {
@@ -876,9 +876,9 @@
         "thumb": "/thumbs/facebook-granny-mei.jpg?v=1792886868920"
       },
       "totalViews": 4335,
-      "ok": true,
-      "error": null,
-      "scrapedAt": "2026-10-25T00:05:52.928Z",
+      "ok": false,
+      "error": "Navigation timeout of 90000 ms exceeded",
+      "scrapedAt": "2026-10-25T01:05:56.880Z",
       "lastSuccessAt": "2026-10-25T00:05:52.928Z"
     },
     "instagram-almoventures": {
@@ -902,9 +902,9 @@
         "thumb": "/thumbs/instagram-almoventures.jpg?v=1792883190944"
       },
       "totalViews": null,
-      "ok": true,
-      "error": null,
-      "scrapedAt": "2026-10-25T00:07:49.058Z",
+      "ok": false,
+      "error": "Navigation timeout of 90000 ms exceeded",
+      "scrapedAt": "2026-10-25T01:07:27.102Z",
       "lastSuccessAt": "2026-10-25T00:07:49.058Z"
     },
     "youtube-granny-mei": {
@@ -1040,7 +1040,7 @@
       "totalViews": 13108,
       "ok": false,
       "error": "fetch failed",
-      "scrapedAt": "2026-10-25T00:08:29.156Z",
+      "scrapedAt": "2026-10-25T01:08:57.625Z",
       "lastSuccessAt": "2026-10-24T23:06:31.233Z"
     },
     "tiktok-girlsteamwin": {
@@ -1177,7 +1177,7 @@
       "totalViews": 3202,
       "ok": false,
       "error": "Navigation timeout of 90000 ms exceeded",
-      "scrapedAt": "2026-10-25T00:08:39.786Z",
+      "scrapedAt": "2026-10-25T01:09:09.217Z",
       "lastSuccessAt": "2026-10-24T23:07:30.787Z"
     },
     "tiktok-allrizexmvm": {
@@ -1270,7 +1270,7 @@
       "totalViews": 2697,
       "ok": false,
       "error": "Navigation timeout of 90000 ms exceeded",
-      "scrapedAt": "2026-10-25T00:10:10.008Z",
+      "scrapedAt": "2026-10-25T01:10:39.329Z",
       "lastSuccessAt": "2026-10-24T23:08:33.817Z"
     },
     "threads-almoventures": {
@@ -1336,7 +1336,7 @@
       "totalViews": null,
       "ok": false,
       "error": "Navigation timeout of 90000 ms exceeded",
-      "scrapedAt": "2026-10-25T00:11:40.131Z",
+      "scrapedAt": "2026-10-25T01:12:09.439Z",
       "lastSuccessAt": "2026-10-24T23:09:02.595Z"
     },
     "x-moventures999": {
@@ -1407,13 +1407,13 @@
         "comments": null,
         "postedAt": "2026-10-21T23:50:46.793Z",
         "url": "https://x.com/moventures999/status/2113055425608491119",
-        "thumb": "/thumbs/x-moventures999.jpg?v=1792883373806"
+        "thumb": "https://pbs.twimg.com/amplify_video_thumb/2113055208834023424/img/qzD_ApVqEdaS2o4O?format=webp&name=medium"
       },
       "totalViews": 5,
-      "ok": false,
-      "error": "net::ERR_CONNECTION_RESET at https://x.com/moventures999",
-      "scrapedAt": "2026-10-25T00:13:10.270Z",
-      "lastSuccessAt": "2026-10-24T23:09:12.321Z"
+      "ok": true,
+      "error": null,
+      "scrapedAt": "2026-10-25T01:13:39.552Z",
+      "lastSuccessAt": "2026-10-25T01:13:39.552Z"
     },
     "youtube-chubbypinkwhale": {
       "platform": "youtube",
@@ -1468,7 +1468,7 @@
       "totalViews": 114,
       "ok": false,
       "error": "fetch failed",
-      "scrapedAt": "2026-10-25T00:13:58.730Z",
+      "scrapedAt": "2026-10-25T01:15:04.480Z",
       "lastSuccessAt": "2026-10-24T23:09:34.082Z"
     },
     "youtube-blackpepperstory": {
@@ -1505,17 +1505,17 @@
         "id": "81usKC1SgIA",
         "title": "3 Creepy Horror Stories Animated",
         "views": 3,
-        "likes": 0,
-        "comments": 0,
-        "postedAt": "2026-10-24T01:59:52.000Z",
+        "likes": null,
+        "comments": null,
+        "postedAt": null,
         "url": "https://www.youtube.com/watch?v=81usKC1SgIA",
-        "thumb": "/thumbs/youtube-blackpepperstory.jpg?v=1792883393786"
+        "thumb": "https://i.ytimg.com/vi/81usKC1SgIA/hqdefault.jpg"
       },
       "totalViews": 6,
-      "ok": false,
-      "error": "fetch failed",
-      "scrapedAt": "2026-10-25T00:14:09.339Z",
-      "lastSuccessAt": "2026-10-24T23:09:47.041Z"
+      "ok": true,
+      "error": null,
+      "scrapedAt": "2026-10-25T01:15:15.100Z",
+      "lastSuccessAt": "2026-10-25T01:15:15.100Z"
     },
     "youtube-lost1out": {
       "platform": "youtube",
@@ -1550,7 +1550,7 @@
       "totalViews": 4,
       "ok": false,
       "error": "fetch failed",
-      "scrapedAt": "2026-10-25T00:14:20.218Z",
+      "scrapedAt": "2026-10-25T01:17:07.026Z",
       "lastSuccessAt": "2026-10-24T23:09:53.939Z"
     }
   }
