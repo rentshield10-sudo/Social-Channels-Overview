@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-26T08:05:02.088Z",
+  "generatedAt": "2026-10-26T09:04:12.663Z",
   "skills": [
     {
       "id": "tiktok",
@@ -500,6 +500,22 @@
       ],
       "note": "YouTube channel ChubbyPinkWhale: \"How rich is X?\" net-worth documentaries. Live since The Rock.",
       "videos": [
+        {
+          "file": "final-360p.mp4",
+          "folder": "C:\\Users\\mocha\\Documents\\LONGFORM\\ChubbyPinkWhale\\richest-right-now",
+          "path": "C:/Users/mocha/Documents/LONGFORM/ChubbyPinkWhale/richest-right-now/final-360p.mp4",
+          "sizeMB": 45.7,
+          "modified": "2026-10-26T08:25:18.241Z",
+          "driveId": null
+        },
+        {
+          "file": "final-1080p.mp4",
+          "folder": "C:\\Users\\mocha\\Documents\\LONGFORM\\ChubbyPinkWhale\\richest-right-now",
+          "path": "C:/Users/mocha/Documents/LONGFORM/ChubbyPinkWhale/richest-right-now/final-1080p.mp4",
+          "sizeMB": 1506.4,
+          "modified": "2026-10-26T08:21:55.452Z",
+          "driveId": null
+        },
         {
           "file": "final-360p.mp4",
           "folder": "C:\\Users\\mocha\\Documents\\LONGFORM\\ChubbyPinkWhale\\most-expensive-thing",
