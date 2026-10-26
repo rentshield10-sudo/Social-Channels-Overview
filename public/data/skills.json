@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-25T22:06:34.552Z",
+  "generatedAt": "2026-10-26T00:04:24.170Z",
   "skills": [
     {
       "id": "tiktok",
@@ -309,6 +309,22 @@
       "note": "YouTube channel blackpepperstory: 2D cut-out horror, 3 short stories per full video. Live since 2026-10-21.",
       "videos": [
         {
+          "file": "preview.mp4",
+          "folder": "C:\\Users\\mocha\\Documents\\LONGFORM\\MARTA\\order-66",
+          "path": "C:/Users/mocha/Documents/LONGFORM/MARTA/order-66/preview.mp4",
+          "sizeMB": 5.2,
+          "modified": "2026-10-25T23:47:18.568Z",
+          "driveId": null
+        },
+        {
+          "file": "final.mp4",
+          "folder": "C:\\Users\\mocha\\Documents\\LONGFORM\\MARTA\\play-place",
+          "path": "C:/Users/mocha/Documents/LONGFORM/MARTA/play-place/final.mp4",
+          "sizeMB": 817.7,
+          "modified": "2026-10-25T23:05:20.235Z",
+          "driveId": null
+        },
+        {
           "file": "final.mp4",
           "folder": "C:\\Users\\mocha\\Documents\\LONGFORM\\MARTA\\order-66",
           "path": "C:/Users/mocha/Documents/LONGFORM/MARTA/order-66/final.mp4",
@@ -330,14 +346,6 @@
           "path": "C:/Users/mocha/Documents/LONGFORM/MARTA/play-place/preview.mp4",
           "sizeMB": 4.5,
           "modified": "2026-10-25T21:19:53.099Z",
-          "driveId": null
-        },
-        {
-          "file": "preview.mp4",
-          "folder": "C:\\Users\\mocha\\Documents\\LONGFORM\\MARTA\\order-66",
-          "path": "C:/Users/mocha/Documents/LONGFORM/MARTA/order-66/preview.mp4",
-          "sizeMB": 4.2,
-          "modified": "2026-10-25T20:43:32.834Z",
           "driveId": null
         },
         {
