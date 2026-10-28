@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-27T19:06:57.027Z",
+  "updatedAt": "2026-10-28T12:14:45.333Z",
   "accounts": {
     "tiktok-insanefindz": {
       "platform": "tiktok",
@@ -749,9 +749,9 @@
         "pinned": false
       },
       "totalViews": 110280,
-      "ok": true,
-      "error": null,
-      "scrapedAt": "2026-10-27T19:04:37.794Z",
+      "ok": false,
+      "error": "Navigation timeout of 90000 ms exceeded",
+      "scrapedAt": "2026-10-28T12:04:21.499Z",
       "lastSuccessAt": "2026-10-27T19:04:37.794Z"
     },
     "facebook-granny-mei": {
@@ -876,9 +876,9 @@
         "thumb": "/thumbs/facebook-granny-mei.jpg?v=1793127925627"
       },
       "totalViews": 4383,
-      "ok": true,
-      "error": null,
-      "scrapedAt": "2026-10-27T19:05:12.409Z",
+      "ok": false,
+      "error": "Navigation timeout of 90000 ms exceeded",
+      "scrapedAt": "2026-10-28T12:05:51.740Z",
       "lastSuccessAt": "2026-10-27T19:05:12.409Z"
     },
     "instagram-almoventures": {
@@ -1013,9 +1013,9 @@
         "thumb": "/thumbs/instagram-almoventures.jpg?v=1793127934319"
       },
       "totalViews": 1042,
-      "ok": true,
-      "error": null,
-      "scrapedAt": "2026-10-27T19:05:26.192Z",
+      "ok": false,
+      "error": "Navigation timeout of 90000 ms exceeded",
+      "scrapedAt": "2026-10-28T12:07:21.884Z",
       "lastSuccessAt": "2026-10-27T19:05:26.192Z"
     },
     "youtube-granny-mei": {
@@ -1149,9 +1149,9 @@
         "thumb": "/thumbs/youtube-granny-mei.jpg?v=1793127937935"
       },
       "totalViews": 13314,
-      "ok": true,
-      "error": null,
-      "scrapedAt": "2026-10-27T19:05:34.850Z",
+      "ok": false,
+      "error": "fetch failed",
+      "scrapedAt": "2026-10-28T12:08:52.274Z",
       "lastSuccessAt": "2026-10-27T19:05:34.850Z"
     },
     "tiktok-girlsteamwin": {
@@ -1286,9 +1286,9 @@
         "pinned": false
       },
       "totalViews": 3202,
-      "ok": true,
-      "error": null,
-      "scrapedAt": "2026-10-27T19:05:38.875Z",
+      "ok": false,
+      "error": "Navigation timeout of 90000 ms exceeded",
+      "scrapedAt": "2026-10-28T12:09:04.054Z",
       "lastSuccessAt": "2026-10-27T19:05:38.875Z"
     },
     "tiktok-allrizexmvm": {
@@ -1379,9 +1379,9 @@
         "pinned": false
       },
       "totalViews": 2698,
-      "ok": true,
-      "error": null,
-      "scrapedAt": "2026-10-27T19:06:07.623Z",
+      "ok": false,
+      "error": "Navigation timeout of 90000 ms exceeded",
+      "scrapedAt": "2026-10-28T12:10:34.267Z",
       "lastSuccessAt": "2026-10-27T19:06:07.623Z"
     },
     "threads-almoventures": {
@@ -1445,9 +1445,9 @@
         "thumb": "/thumbs/threads-almoventures.jpg?v=1793127995277"
       },
       "totalViews": null,
-      "ok": true,
-      "error": null,
-      "scrapedAt": "2026-10-27T19:06:30.232Z",
+      "ok": false,
+      "error": "Navigation timeout of 90000 ms exceeded",
+      "scrapedAt": "2026-10-28T12:12:04.398Z",
       "lastSuccessAt": "2026-10-27T19:06:30.232Z"
     },
     "x-moventures999": {
@@ -1521,9 +1521,9 @@
         "thumb": "/thumbs/x-moventures999.jpg?v=1793128007199"
       },
       "totalViews": 5,
-      "ok": true,
-      "error": null,
-      "scrapedAt": "2026-10-27T19:06:35.614Z",
+      "ok": false,
+      "error": "net::ERR_CONNECTION_RESET at https://x.com/moventures999",
+      "scrapedAt": "2026-10-28T12:13:34.505Z",
       "lastSuccessAt": "2026-10-27T19:06:35.614Z"
     },
     "youtube-chubbypinkwhale": {
@@ -1587,9 +1587,9 @@
         "thumb": "/thumbs/youtube-chubbypinkwhale.jpg?v=1793128009448"
       },
       "totalViews": 147,
-      "ok": true,
-      "error": null,
-      "scrapedAt": "2026-10-27T19:06:47.635Z",
+      "ok": false,
+      "error": "fetch failed",
+      "scrapedAt": "2026-10-28T12:14:12.522Z",
       "lastSuccessAt": "2026-10-27T19:06:47.635Z"
     },
     "youtube-blackpepperstory": {
@@ -1633,9 +1633,9 @@
         "thumb": "/thumbs/youtube-blackpepperstory.jpg?v=1793128011827"
       },
       "totalViews": 11,
-      "ok": true,
-      "error": null,
-      "scrapedAt": "2026-10-27T19:06:49.787Z",
+      "ok": false,
+      "error": "fetch failed",
+      "scrapedAt": "2026-10-28T12:14:23.135Z",
       "lastSuccessAt": "2026-10-27T19:06:49.787Z"
     },
     "youtube-lost1out": {
@@ -1679,9 +1679,9 @@
         "thumb": "/thumbs/youtube-lost1out.jpg?v=1793128014796"
       },
       "totalViews": 28,
-      "ok": true,
-      "error": null,
-      "scrapedAt": "2026-10-27T19:06:52.271Z",
+      "ok": false,
+      "error": "fetch failed",
+      "scrapedAt": "2026-10-28T12:14:34.168Z",
       "lastSuccessAt": "2026-10-27T19:06:52.271Z"
     }
   }
