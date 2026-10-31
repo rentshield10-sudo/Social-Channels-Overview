@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-30T23:04:30.876Z",
+  "generatedAt": "2026-10-31T00:04:26.225Z",
   "skills": [
     {
       "id": "tiktok",
@@ -516,6 +516,14 @@
       ],
       "note": "YouTube channel ChubbyPinkWhale: \"How rich is X?\" net-worth documentaries. Live since The Rock.",
       "videos": [
+        {
+          "file": "final_visuals.mp4",
+          "folder": "C:\\Users\\mocha\\Documents\\LONGFORM\\ChubbyPinkWhale\\billionaire-house-tier-list",
+          "path": "C:/Users/mocha/Documents/LONGFORM/ChubbyPinkWhale/billionaire-house-tier-list/final_visuals.mp4",
+          "sizeMB": 100.9,
+          "modified": "2026-10-30T23:49:04.644Z",
+          "driveId": null
+        },
         {
           "file": "final-360p.mp4",
           "folder": "C:\\Users\\mocha\\Documents\\LONGFORM\\ChubbyPinkWhale\\richest-right-now",
