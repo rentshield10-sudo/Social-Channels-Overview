@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-01T21:07:21.460Z",
+  "updatedAt": "2026-11-02T18:23:18.712Z",
   "accounts": {
     "tiktok-insanefindz": {
       "platform": "tiktok",
@@ -749,9 +749,9 @@
         "pinned": false
       },
       "totalViews": 110768,
-      "ok": true,
-      "error": null,
-      "scrapedAt": "2026-11-01T21:04:36.800Z",
+      "ok": false,
+      "error": "Navigation timeout of 90000 ms exceeded",
+      "scrapedAt": "2026-11-02T18:18:36.284Z",
       "lastSuccessAt": "2026-11-01T21:04:36.800Z"
     },
     "facebook-granny-mei": {
@@ -876,9 +876,9 @@
         "thumb": "/thumbs/facebook-granny-mei.jpg?v=1793567127122"
       },
       "totalViews": 4433,
-      "ok": true,
-      "error": null,
-      "scrapedAt": "2026-11-01T21:05:12.611Z",
+      "ok": false,
+      "error": "net::ERR_NAME_NOT_RESOLVED at https://www.facebook.com/profile.php?id=61594617621762",
+      "scrapedAt": "2026-11-02T18:20:09.920Z",
       "lastSuccessAt": "2026-11-01T21:05:12.611Z"
     },
     "instagram-almoventures": {
@@ -1013,9 +1013,9 @@
         "thumb": "/thumbs/instagram-almoventures.jpg?v=1793567138852"
       },
       "totalViews": 1042,
-      "ok": true,
-      "error": null,
-      "scrapedAt": "2026-11-01T21:05:28.588Z",
+      "ok": false,
+      "error": "net::ERR_NAME_NOT_RESOLVED at https://www.instagram.com/almoventures/",
+      "scrapedAt": "2026-11-02T18:20:15.209Z",
       "lastSuccessAt": "2026-11-01T21:05:28.588Z"
     },
     "youtube-granny-mei": {
@@ -1149,9 +1149,9 @@
         "thumb": "/thumbs/youtube-granny-mei.jpg?v=1793567142385"
       },
       "totalViews": 13421,
-      "ok": true,
-      "error": null,
-      "scrapedAt": "2026-11-01T21:05:39.382Z",
+      "ok": false,
+      "error": "fetch failed",
+      "scrapedAt": "2026-11-02T18:20:15.520Z",
       "lastSuccessAt": "2026-11-01T21:05:39.382Z"
     },
     "tiktok-girlsteamwin": {
@@ -1286,9 +1286,9 @@
         "pinned": false
       },
       "totalViews": 3202,
-      "ok": true,
-      "error": null,
-      "scrapedAt": "2026-11-01T21:05:42.700Z",
+      "ok": false,
+      "error": "Navigation timeout of 90000 ms exceeded",
+      "scrapedAt": "2026-11-02T18:20:16.329Z",
       "lastSuccessAt": "2026-11-01T21:05:42.700Z"
     },
     "tiktok-allrizexmvm": {
@@ -1379,9 +1379,9 @@
         "pinned": false
       },
       "totalViews": 2705,
-      "ok": true,
-      "error": null,
-      "scrapedAt": "2026-11-01T21:06:21.787Z",
+      "ok": false,
+      "error": "Navigation timeout of 90000 ms exceeded",
+      "scrapedAt": "2026-11-02T18:21:47.413Z",
       "lastSuccessAt": "2026-11-01T21:06:21.787Z"
     },
     "threads-almoventures": {
@@ -1445,9 +1445,9 @@
         "thumb": "/thumbs/threads-almoventures.jpg?v=1793567217282"
       },
       "totalViews": null,
-      "ok": true,
-      "error": null,
-      "scrapedAt": "2026-11-01T21:06:51.127Z",
+      "ok": false,
+      "error": "net::ERR_NAME_NOT_RESOLVED at https://www.threads.com/@almoventures",
+      "scrapedAt": "2026-11-02T18:23:17.526Z",
       "lastSuccessAt": "2026-11-01T21:06:51.127Z"
     },
     "x-moventures999": {
@@ -1521,9 +1521,9 @@
         "thumb": "/thumbs/x-moventures999.jpg?v=1793567232979"
       },
       "totalViews": 5,
-      "ok": true,
-      "error": null,
-      "scrapedAt": "2026-11-01T21:06:57.934Z",
+      "ok": false,
+      "error": "net::ERR_NAME_NOT_RESOLVED at https://x.com/moventures999",
+      "scrapedAt": "2026-11-02T18:23:17.679Z",
       "lastSuccessAt": "2026-11-01T21:06:57.934Z"
     },
     "youtube-chubbypinkwhale": {
@@ -1597,9 +1597,9 @@
         "thumb": "/thumbs/youtube-chubbypinkwhale.jpg?v=1793567236292"
       },
       "totalViews": 255,
-      "ok": true,
-      "error": null,
-      "scrapedAt": "2026-11-01T21:07:13.470Z",
+      "ok": false,
+      "error": "fetch failed",
+      "scrapedAt": "2026-11-02T18:23:17.861Z",
       "lastSuccessAt": "2026-11-01T21:07:13.470Z"
     },
     "youtube-blackpepperstory": {
@@ -1653,9 +1653,9 @@
         "thumb": "/thumbs/youtube-blackpepperstory.jpg?v=1793567238445"
       },
       "totalViews": 20,
-      "ok": true,
-      "error": null,
-      "scrapedAt": "2026-11-01T21:07:16.622Z",
+      "ok": false,
+      "error": "fetch failed",
+      "scrapedAt": "2026-11-02T18:23:17.980Z",
       "lastSuccessAt": "2026-11-01T21:07:16.622Z"
     },
     "youtube-lost1out": {
@@ -1719,9 +1719,9 @@
         "thumb": "/thumbs/youtube-lost1out.jpg?v=1793567240080"
       },
       "totalViews": 140,
-      "ok": true,
-      "error": null,
-      "scrapedAt": "2026-11-01T21:07:18.663Z",
+      "ok": false,
+      "error": "fetch failed",
+      "scrapedAt": "2026-11-02T18:23:18.096Z",
       "lastSuccessAt": "2026-11-01T21:07:18.663Z"
     }
   }
