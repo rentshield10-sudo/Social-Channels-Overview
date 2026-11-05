@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-05T00:15:47.523Z",
+  "updatedAt": "2026-11-05T01:11:30.731Z",
   "accounts": {
     "tiktok-insanefindz": {
       "platform": "tiktok",
@@ -751,7 +751,7 @@
       "totalViews": 110768,
       "ok": false,
       "error": "Navigation timeout of 90000 ms exceeded",
-      "scrapedAt": "2026-11-05T00:04:12.529Z",
+      "scrapedAt": "2026-11-05T01:04:13.116Z",
       "lastSuccessAt": "2026-11-01T21:04:36.800Z"
     },
     "facebook-granny-mei": {
@@ -878,7 +878,7 @@
       "totalViews": 4433,
       "ok": false,
       "error": "Navigation timeout of 90000 ms exceeded",
-      "scrapedAt": "2026-11-05T00:05:42.640Z",
+      "scrapedAt": "2026-11-05T01:05:43.218Z",
       "lastSuccessAt": "2026-11-01T21:05:12.611Z"
     },
     "instagram-almoventures": {
@@ -902,9 +902,9 @@
         "thumb": "/thumbs/instagram-almoventures.jpg?v=1793567138852"
       },
       "totalViews": null,
-      "ok": true,
-      "error": null,
-      "scrapedAt": "2026-11-05T00:07:12.703Z",
+      "ok": false,
+      "error": "Navigation timeout of 90000 ms exceeded",
+      "scrapedAt": "2026-11-05T01:07:13.289Z",
       "lastSuccessAt": "2026-11-05T00:07:12.703Z"
     },
     "youtube-granny-mei": {
@@ -988,7 +988,7 @@
         {
           "id": "MgXPzyIXiLE",
           "title": "Chia, Cinnamon & Almond Milk Drink to Stay Fuller Longer",
-          "views": 250,
+          "views": 252,
           "likes": null,
           "comments": null,
           "postedAt": null,
@@ -998,7 +998,7 @@
         {
           "id": "X-QK6ECw8rg",
           "title": "Granny Mei's Fennel, Coriander, Cumin & Ginger Tea for Bloating",
-          "views": 168,
+          "views": 171,
           "likes": null,
           "comments": null,
           "postedAt": null,
@@ -1018,7 +1018,7 @@
         {
           "id": "AHMiVO3AGKs",
           "title": "Granny Mei's After-Meal Fennel & Ginger Tea for a Heavy Stomach",
-          "views": 148,
+          "views": 149,
           "likes": null,
           "comments": null,
           "postedAt": null,
@@ -1026,7 +1026,7 @@
           "thumb": "https://i.ytimg.com/vi/AHMiVO3AGKs/hqdefault.jpg"
         }
       ],
-      "avatar": "/avatars/youtube-granny-mei.jpg?v=1793567140942",
+      "avatar": "/avatars/youtube-granny-mei.jpg?v=1793840928523",
       "latest": {
         "id": "SjL9M2fwslI",
         "title": "Granny Mei's Coconut Oil Paste for Brighter-Looking Teeth",
@@ -1035,19 +1035,19 @@
         "comments": 0,
         "postedAt": "2026-10-21T23:47:43.000Z",
         "url": "https://www.youtube.com/shorts/SjL9M2fwslI",
-        "thumb": "/thumbs/youtube-granny-mei.jpg?v=1793567142385"
+        "thumb": "/thumbs/youtube-granny-mei.jpg?v=1793840932436"
       },
-      "totalViews": 13421,
-      "ok": false,
-      "error": "fetch failed",
-      "scrapedAt": "2026-11-05T00:08:36.243Z",
-      "lastSuccessAt": "2026-11-01T21:05:39.382Z"
+      "totalViews": 13427,
+      "ok": true,
+      "error": null,
+      "scrapedAt": "2026-11-05T01:08:43.358Z",
+      "lastSuccessAt": "2026-11-05T01:08:43.358Z"
     },
     "tiktok-girlsteamwin": {
       "platform": "tiktok",
       "name": "@25ontheway555 (GirlsTeamWin)",
       "url": "https://www.tiktok.com/@25ontheway555",
-      "followers": 59,
+      "followers": 58,
       "likes": 201,
       "posts": 10,
       "videos": [
@@ -1059,7 +1059,7 @@
           "comments": 0,
           "postedAt": "2026-10-06T06:23:23.000Z",
           "url": "https://www.tiktok.com/@25ontheway555/video/7693436308819135758",
-          "thumb": "https://p16-common-sign.tiktokcdn-us.com/tos-useast5-p-0068-tx/oAkLx9Eri4wsBgqcv4LTiAnyUE9SAIsEgaB29~tplv-tiktokx-origin.image?dr=9636&x-expires=1793739600&x-signature=Ddqjmr4D%2B%2B4fWQlygDz9i6WFwuY%3D&t=4d5b0474&ps=13740610&shp=81f88b70&shcp=43f4a2f9&idc=useast5",
+          "thumb": "https://p19-common-sign.tiktokcdn-us.com/tos-useast5-p-0068-tx/oAkLx9Eri4wsBgqcv4LTiAnyUE9SAIsEgaB29~tplv-tiktokx-origin.image?dr=9636&x-expires=1794013200&x-signature=I511HS2dx3dYBRyP59rF0ib2rmE%3D&t=4d5b0474&ps=13740610&shp=81f88b70&shcp=43f4a2f9&idc=useast8",
           "pinned": false
         },
         {
@@ -1070,7 +1070,7 @@
           "comments": 0,
           "postedAt": "2026-10-06T02:22:30.000Z",
           "url": "https://www.tiktok.com/@25ontheway555/video/7693374486300609805",
-          "thumb": "https://p19-common-sign.tiktokcdn-us.com/tos-useast5-p-0068-tx/o0DVoeZacAikDj52AQLUitkGxe6ndsLIHICeIg~tplv-tiktokx-origin.image?dr=9636&x-expires=1793739600&x-signature=8vt%2F0Sy79vkhvm%2FA24f3uQfq8ec%3D&t=4d5b0474&ps=13740610&shp=81f88b70&shcp=43f4a2f9&idc=useast5",
+          "thumb": "https://p19-common-sign.tiktokcdn-us.com/tos-useast5-p-0068-tx/o0DVoeZacAikDj52AQLUitkGxe6ndsLIHICeIg~tplv-tiktokx-origin.image?dr=9636&x-expires=1794013200&x-signature=f1IfgZaZ8dNcMygH20Kf%2FqtDB6k%3D&t=4d5b0474&ps=13740610&shp=81f88b70&shcp=43f4a2f9&idc=useast8",
           "pinned": false
         },
         {
@@ -1081,7 +1081,7 @@
           "comments": 0,
           "postedAt": "2026-10-05T22:20:13.000Z",
           "url": "https://www.tiktok.com/@25ontheway555/video/7693311995298303246",
-          "thumb": "https://p16-common-sign.tiktokcdn-us.com/tos-useast5-p-0068-tx/oAEJ9FIgSpAFEECIfzRNxxfCCID1DB2QjBpqbE~tplv-tiktokx-origin.image?dr=9636&x-expires=1793739600&x-signature=rTycDe9sU6o0MXm5Jl9sB4yDxNw%3D&t=4d5b0474&ps=13740610&shp=81f88b70&shcp=43f4a2f9&idc=useast5",
+          "thumb": "https://p16-common-sign.tiktokcdn-us.com/tos-useast5-p-0068-tx/oAEJ9FIgSpAFEECIfzRNxxfCCID1DB2QjBpqbE~tplv-tiktokx-origin.image?dr=9636&x-expires=1794013200&x-signature=2ZU0cHGn%2FceKBuufWbrE%2FfhlfDg%3D&t=4d5b0474&ps=13740610&shp=81f88b70&shcp=43f4a2f9&idc=useast8",
           "pinned": false
         },
         {
@@ -1092,7 +1092,7 @@
           "comments": 0,
           "postedAt": "2026-10-05T17:59:52.000Z",
           "url": "https://www.tiktok.com/@25ontheway555/video/7693244861058747662",
-          "thumb": "https://p19-common-sign.tiktokcdn-us.com/tos-useast5-p-0068-tx/og0CwHeIFAhyVlckUQCsjmANoeIfLAIkGVG8yH~tplv-tiktokx-origin.image?dr=9636&x-expires=1793739600&x-signature=LVWjGHoKZ2BWHYncC4vSavlEkkw%3D&t=4d5b0474&ps=13740610&shp=81f88b70&shcp=43f4a2f9&idc=useast5",
+          "thumb": "https://p19-common-sign.tiktokcdn-us.com/tos-useast5-p-0068-tx/og0CwHeIFAhyVlckUQCsjmANoeIfLAIkGVG8yH~tplv-tiktokx-origin.image?dr=9636&x-expires=1794013200&x-signature=IoKsQ65fkq9ya%2B%2B2RmO%2BYHlYpsk%3D&t=4d5b0474&ps=13740610&shp=81f88b70&shcp=43f4a2f9&idc=useast8",
           "pinned": false
         },
         {
@@ -1103,18 +1103,18 @@
           "comments": 0,
           "postedAt": "2026-10-05T05:21:30.000Z",
           "url": "https://www.tiktok.com/@25ontheway555/video/7693049464742759694",
-          "thumb": "https://p16-common-sign.tiktokcdn-us.com/tos-useast5-p-0068-tx/o8f7GKTADBBEuygMueDJSqQ7wIMOOZRdzFsEWw~tplv-tiktokx-origin.image?dr=9636&x-expires=1793739600&x-signature=KOX2pl%2Ft3J0ykK6AqrD6zgYPs2M%3D&t=4d5b0474&ps=13740610&shp=81f88b70&shcp=43f4a2f9&idc=useast5",
+          "thumb": "https://p19-common-sign.tiktokcdn-us.com/tos-useast5-p-0068-tx/o8f7GKTADBBEuygMueDJSqQ7wIMOOZRdzFsEWw~tplv-tiktokx-origin.image?dr=9636&x-expires=1794013200&x-signature=mNJNpSKRHDhymXPgru1%2FLFyZV54%3D&t=4d5b0474&ps=13740610&shp=81f88b70&shcp=43f4a2f9&idc=useast8",
           "pinned": false
         },
         {
           "id": "7692987491061730574",
           "title": "Which US city has the BEST hot dog? You can only keep ONE from each round. Chicago vs NYC, Detroit vs Cincinnati, Seattle vs LA, Atlanta vs Charleston, Kansas City vs Austin, Honolulu vs Phoenix, New Orleans vs San Francisco. Comment your winner and tell us which city should be in Part 2 #thisorthat #hotdog #pickone #foodtiktok #wouldyourather ",
-          "views": 207,
+          "views": 208,
           "likes": 7,
           "comments": 0,
           "postedAt": "2026-10-05T01:20:49.000Z",
           "url": "https://www.tiktok.com/@25ontheway555/video/7692987491061730574",
-          "thumb": "https://p19-common-sign.tiktokcdn-us.com/tos-useast5-p-0068-tx/o4wzZCQYWK91fwcvgTpeWAQeichF4FfA7NgteL~tplv-tiktokx-origin.image?dr=9636&x-expires=1793739600&x-signature=WW2zjvVIUJR6HZjn9nChyqhVu98%3D&t=4d5b0474&ps=13740610&shp=81f88b70&shcp=43f4a2f9&idc=useast5",
+          "thumb": "https://p19-common-sign.tiktokcdn-us.com/tos-useast5-p-0068-tx/o4wzZCQYWK91fwcvgTpeWAQeichF4FfA7NgteL~tplv-tiktokx-origin.image?dr=9636&x-expires=1794013200&x-signature=Ol71tBj6JYhtdL4Pl%2FkbXCn11iw%3D&t=4d5b0474&ps=13740610&shp=81f88b70&shcp=43f4a2f9&idc=useast8",
           "pinned": false
         },
         {
@@ -1125,7 +1125,7 @@
           "comments": 0,
           "postedAt": "2026-10-04T21:20:24.000Z",
           "url": "https://www.tiktok.com/@25ontheway555/video/7692925577367407886",
-          "thumb": "https://p16-common-sign.tiktokcdn-us.com/tos-useast5-p-0068-tx/oUogSciIEBw1cxYfswipCVHyIxF4cCAZBAWIA9~tplv-tiktokx-origin.image?dr=9636&x-expires=1793739600&x-signature=38H3ullkEnytvODT96MIHlkIEBg%3D&t=4d5b0474&ps=13740610&shp=81f88b70&shcp=43f4a2f9&idc=useast5",
+          "thumb": "https://p19-common-sign.tiktokcdn-us.com/tos-useast5-p-0068-tx/oUogSciIEBw1cxYfswipCVHyIxF4cCAZBAWIA9~tplv-tiktokx-origin.image?dr=9636&x-expires=1794013200&x-signature=p3%2BwM9FgkvpCcpsxYoN5BGJJGYQ%3D&t=4d5b0474&ps=13740610&shp=81f88b70&shcp=43f4a2f9&idc=useast8",
           "pinned": false
         },
         {
@@ -1136,7 +1136,7 @@
           "comments": 1,
           "postedAt": "2026-10-04T16:44:42.000Z",
           "url": "https://www.tiktok.com/@25ontheway555/video/7692854460309179662",
-          "thumb": "https://p19-common-sign.tiktokcdn-us.com/tos-useast5-p-0068-tx/ooXAU47gIgsiCkEB335iEmGPlBNAtSKQnaCKo~tplv-tiktokx-origin.image?dr=9636&x-expires=1793739600&x-signature=5ni98CiBFaIM2YZdLsXpSBI9s04%3D&t=4d5b0474&ps=13740610&shp=81f88b70&shcp=43f4a2f9&idc=useast5",
+          "thumb": "https://p16-common-sign.tiktokcdn-us.com/tos-useast5-p-0068-tx/ooXAU47gIgsiCkEB335iEmGPlBNAtSKQnaCKo~tplv-tiktokx-origin.image?dr=9636&x-expires=1794013200&x-signature=S5EhiCBC8jxDCuIFs%2BbtyocA7QU%3D&t=4d5b0474&ps=13740610&shp=81f88b70&shcp=43f4a2f9&idc=useast8",
           "pinned": false
         },
         {
@@ -1147,7 +1147,7 @@
           "comments": 1,
           "postedAt": "2026-10-03T17:40:54.000Z",
           "url": "https://www.tiktok.com/@25ontheway555/video/7692497851909246222",
-          "thumb": "https://p19-common-sign.tiktokcdn-us.com/tos-useast5-p-0068-tx/o4EnaMgegAk1TuCIxHfQUousuQcjAsXgVECeo8~tplv-tiktokx-origin.image?dr=9636&x-expires=1793739600&x-signature=vdYgr6kr73kx9HA7hYtX64TQCAU%3D&t=4d5b0474&ps=13740610&shp=81f88b70&shcp=43f4a2f9&idc=useast5",
+          "thumb": "https://p16-common-sign.tiktokcdn-us.com/tos-useast5-p-0068-tx/o4EnaMgegAk1TuCIxHfQUousuQcjAsXgVECeo8~tplv-tiktokx-origin.image?dr=9636&x-expires=1794013200&x-signature=6jsrCKPK2k5P4HvaJAKEqLDtwqQ%3D&t=4d5b0474&ps=13740610&shp=81f88b70&shcp=43f4a2f9&idc=useast8",
           "pinned": false
         },
         {
@@ -1158,11 +1158,11 @@
           "comments": 0,
           "postedAt": "2026-10-02T19:23:22.000Z",
           "url": "https://www.tiktok.com/@25ontheway555/video/7692153175914106125",
-          "thumb": "https://p16-common-sign.tiktokcdn-us.com/tos-useast5-p-0068-tx/okLBAEPaQDUnGI4sIAEviAB7vAKsa93BgBE7i~tplv-tiktokx-origin.image?dr=9636&x-expires=1793739600&x-signature=kh3QWP1qMAe9si%2BHA3kCOd%2Fjm3M%3D&t=4d5b0474&ps=13740610&shp=81f88b70&shcp=43f4a2f9&idc=useast5",
+          "thumb": "https://p19-common-sign.tiktokcdn-us.com/tos-useast5-p-0068-tx/okLBAEPaQDUnGI4sIAEviAB7vAKsa93BgBE7i~tplv-tiktokx-origin.image?dr=9636&x-expires=1794013200&x-signature=HGN%2BNa%2BXf9IuIf2I73mKb0cYI5k%3D&t=4d5b0474&ps=13740610&shp=81f88b70&shcp=43f4a2f9&idc=useast8",
           "pinned": false
         }
       ],
-      "avatar": "/avatars/tiktok-girlsteamwin.jpg?v=1793567180369",
+      "avatar": "/avatars/tiktok-girlsteamwin.jpg?v=1793841006965",
       "latest": {
         "id": "7693436308819135758",
         "title": "Which US city has the BEST breakfast? Comment your number 1 breakfast city and defend it #breakfast #thisorthat #foodbattle #brunch #foodtiktok ",
@@ -1171,14 +1171,14 @@
         "comments": 0,
         "postedAt": "2026-10-06T06:23:23.000Z",
         "url": "https://www.tiktok.com/@25ontheway555/video/7693436308819135758",
-        "thumb": "/thumbs/tiktok-girlsteamwin.jpg?v=1793567180554",
+        "thumb": "/thumbs/tiktok-girlsteamwin.jpg?v=1793841007914",
         "pinned": false
       },
-      "totalViews": 3202,
-      "ok": false,
-      "error": "Navigation timeout of 90000 ms exceeded",
-      "scrapedAt": "2026-11-05T00:08:46.990Z",
-      "lastSuccessAt": "2026-11-01T21:05:42.700Z"
+      "totalViews": 3203,
+      "ok": true,
+      "error": null,
+      "scrapedAt": "2026-11-05T01:08:52.492Z",
+      "lastSuccessAt": "2026-11-05T01:08:52.492Z"
     },
     "tiktok-allrizexmvm": {
       "platform": "tiktok",
@@ -1196,7 +1196,7 @@
           "comments": 0,
           "postedAt": "2026-10-21T23:32:41.000Z",
           "url": "https://www.tiktok.com/@allrizexmvm/video/7699268118224375054",
-          "thumb": "https://p16-common-sign.tiktokcdn-us.com/tos-useast5-p-0068-tx/oseaQkIGcmeHpGBGlVpyI2sgzpLvSjAsjbCftA~tplv-tiktokx-origin.image?dr=9636&x-expires=1793739600&x-signature=idarSot4lh1gjuNwe1WVrjhdm2Q%3D&t=4d5b0474&ps=13740610&shp=81f88b70&shcp=43f4a2f9&idc=useast5",
+          "thumb": "https://p16-common-sign.tiktokcdn-us.com/tos-useast5-p-0068-tx/oseaQkIGcmeHpGBGlVpyI2sgzpLvSjAsjbCftA~tplv-tiktokx-origin.image?dr=9636&x-expires=1794013200&x-signature=cJLGlTNT9i%2B0AT7LmV3dL4g5hXg%3D&t=4d5b0474&ps=13740610&shp=81f88b70&shcp=43f4a2f9&idc=useast8",
           "pinned": false
         },
         {
@@ -1207,7 +1207,7 @@
           "comments": 5,
           "postedAt": "2026-10-18T00:43:33.000Z",
           "url": "https://www.tiktok.com/@allrizexmvm/video/7697802009658805517",
-          "thumb": "https://p19-common-sign.tiktokcdn-us.com/tos-useast5-p-0068-tx/oc01Q9sAcAF8BIp6wEiVaFpBJfwFbjgiBCAnUI~tplv-tiktokx-origin.image?dr=9636&x-expires=1793739600&x-signature=u8TvlB4U9XKAoC6JgAIryuRK2IA%3D&t=4d5b0474&ps=13740610&shp=81f88b70&shcp=43f4a2f9&idc=useast5",
+          "thumb": "https://p16-common-sign.tiktokcdn-us.com/tos-useast5-p-0068-tx/oc01Q9sAcAF8BIp6wEiVaFpBJfwFbjgiBCAnUI~tplv-tiktokx-origin.image?dr=9636&x-expires=1794013200&x-signature=wXdpmFwlNFxXZS93nem%2FP8bp1x4%3D&t=4d5b0474&ps=13740610&shp=81f88b70&shcp=43f4a2f9&idc=useast8",
           "pinned": false
         },
         {
@@ -1218,7 +1218,7 @@
           "comments": 2,
           "postedAt": "2026-10-15T22:33:02.000Z",
           "url": "https://www.tiktok.com/@allrizexmvm/video/7697026236002012429",
-          "thumb": "https://p19-common-sign.tiktokcdn-us.com/tos-useast5-p-0068-tx/o0E2WgREEDAfJIrRBqjgUneCSBFRjV0DVw2vGp~tplv-tiktokx-origin.image?dr=9636&x-expires=1793739600&x-signature=2IRV3wXPy2dkryBLBLalFye%2Fma4%3D&t=4d5b0474&ps=13740610&shp=81f88b70&shcp=43f4a2f9&idc=useast5",
+          "thumb": "https://p19-common-sign.tiktokcdn-us.com/tos-useast5-p-0068-tx/o0E2WgREEDAfJIrRBqjgUneCSBFRjV0DVw2vGp~tplv-tiktokx-origin.image?dr=9636&x-expires=1794013200&x-signature=F2ZMQW978TtOBYZgjX6pAUa7fHM%3D&t=4d5b0474&ps=13740610&shp=81f88b70&shcp=43f4a2f9&idc=useast8",
           "pinned": false
         },
         {
@@ -1229,7 +1229,7 @@
           "comments": 3,
           "postedAt": "2026-10-13T21:18:35.000Z",
           "url": "https://www.tiktok.com/@allrizexmvm/video/7696264878431980814",
-          "thumb": "https://p19-common-sign.tiktokcdn-us.com/tos-useast5-p-0068-tx/ocuII0eqEFAQXnCAQjtDksMsTBQufkVdpHIfCF~tplv-tiktokx-origin.image?dr=9636&x-expires=1793739600&x-signature=9w9tNZPf3BgRJGLOweYWP6VcSDM%3D&t=4d5b0474&ps=13740610&shp=81f88b70&shcp=43f4a2f9&idc=useast5",
+          "thumb": "https://p19-common-sign.tiktokcdn-us.com/tos-useast5-p-0068-tx/ocuII0eqEFAQXnCAQjtDksMsTBQufkVdpHIfCF~tplv-tiktokx-origin.image?dr=9636&x-expires=1794013200&x-signature=ECS9B2CchvW8ZMnvH3eNm50C1ko%3D&t=4d5b0474&ps=13740610&shp=81f88b70&shcp=43f4a2f9&idc=useast8",
           "pinned": false
         },
         {
@@ -1240,7 +1240,7 @@
           "comments": 1,
           "postedAt": "2026-10-11T19:45:19.000Z",
           "url": "https://www.tiktok.com/@allrizexmvm/video/7695498603405626637",
-          "thumb": "https://p19-common-sign.tiktokcdn-us.com/tos-useast5-p-0068-tx/ognRBigrE3qBFyE0IBLOUSijmyFD5DPfyqA4Nf~tplv-tiktokx-origin.image?dr=9636&x-expires=1793739600&x-signature=xfXSgVdZAcG0zE%2Bl4Y6SW5pX5vA%3D&t=4d5b0474&ps=13740610&shp=81f88b70&shcp=43f4a2f9&idc=useast5",
+          "thumb": "https://p19-common-sign.tiktokcdn-us.com/tos-useast5-p-0068-tx/ognRBigrE3qBFyE0IBLOUSijmyFD5DPfyqA4Nf~tplv-tiktokx-origin.image?dr=9636&x-expires=1794013200&x-signature=CiqSeG1t4muYvtRkT6LHQenPm7U%3D&t=4d5b0474&ps=13740610&shp=81f88b70&shcp=43f4a2f9&idc=useast8",
           "pinned": false
         },
         {
@@ -1251,11 +1251,11 @@
           "comments": 0,
           "postedAt": "2026-10-09T21:18:04.000Z",
           "url": "https://www.tiktok.com/@allrizexmvm/video/7694780357010263310",
-          "thumb": "https://p19-common-sign.tiktokcdn-us.com/tos-useast5-p-0068-tx/o4BzR9DWy3Vfm4RfJlHpStdEBEmFEEqqDIgAgH~tplv-tiktokx-origin.image?dr=9636&x-expires=1793739600&x-signature=2C1HkL0BYKBELl29qnP9k11S8W4%3D&t=4d5b0474&ps=13740610&shp=81f88b70&shcp=43f4a2f9&idc=useast5",
+          "thumb": "https://p16-common-sign.tiktokcdn-us.com/tos-useast5-p-0068-tx/o4BzR9DWy3Vfm4RfJlHpStdEBEmFEEqqDIgAgH~tplv-tiktokx-origin.image?dr=9636&x-expires=1794013200&x-signature=ayToBrzThwnFZ3jF8AxeEIIo3GQ%3D&t=4d5b0474&ps=13740610&shp=81f88b70&shcp=43f4a2f9&idc=useast8",
           "pinned": false
         }
       ],
-      "avatar": "/avatars/tiktok-allrizexmvm.jpg?v=1793567210562",
+      "avatar": "/avatars/tiktok-allrizexmvm.jpg?v=1793841036944",
       "latest": {
         "id": "7699268118224375054",
         "title": "Girls we are losing... so the squad brought the heat Team Girls or Team Boys? Vote below #teamgirls #teamboys #girlsvsboys #dance #fyp",
@@ -1264,14 +1264,14 @@
         "comments": 0,
         "postedAt": "2026-10-21T23:32:41.000Z",
         "url": "https://www.tiktok.com/@allrizexmvm/video/7699268118224375054",
-        "thumb": "/thumbs/tiktok-allrizexmvm.jpg?v=1793567210663",
+        "thumb": "/thumbs/tiktok-allrizexmvm.jpg?v=1793841037850",
         "pinned": false
       },
       "totalViews": 2705,
-      "ok": false,
-      "error": "Navigation timeout of 90000 ms exceeded",
-      "scrapedAt": "2026-11-05T00:10:17.112Z",
-      "lastSuccessAt": "2026-11-01T21:06:21.787Z"
+      "ok": true,
+      "error": null,
+      "scrapedAt": "2026-11-05T01:10:07.968Z",
+      "lastSuccessAt": "2026-11-05T01:10:07.968Z"
     },
     "threads-almoventures": {
       "platform": "threads",
@@ -1280,49 +1280,8 @@
       "followers": 0,
       "likes": null,
       "posts": 7,
-      "videos": [
-        {
-          "id": "Dexn9X9jpmL",
-          "title": "🦷✨ Coconut Oil Teeth Brightening Paste",
-          "views": null,
-          "likes": null,
-          "comments": null,
-          "postedAt": null,
-          "url": "https://www.threads.com/@almoventures/post/Dexn9X9jpmL",
-          "thumb": "https://scontent-phl2-1.cdninstagram.com/v/t51.71878-15/858380870_1112687071731999_7223621489670201769_n.jpg?stp=dst-jpg_e15_tt6&_nc_cat=102&ig_cache_key=NDAxMzE2NDQ4NDM5NDY1NDA5MQ%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkZFRUQueHBpZHMuNjQwLnNkci52aWRlb19maXJzdF9mcmFtZV90aHVtYm5haWwuQzMifQ%3D%3D&_nc_ohc=lFh8DeGupMAQ7kNvwG36Psa&_nc_oc=AdpA9UQiHbdm9tjyNP6XCWFhbKS9jQ_BWGNT5Q_AIUn7ecDjiBGuehp30RWEU0C-o6zBb9LSFO5gx6EONK5AaQKh&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=scontent-phl2-1.cdninstagram.com&_nc_gid=k9u6pfXEfrtWJtCpKFX_YA&_nc_ss=7320f&oh=00_AQSz0ClipglHHng9g7IQrjrkJ_zgbmmjDrrBLR0jzgfphA&oe=6AED6FDD"
-        },
-        {
-          "id": "Deu42NGjis2",
-          "title": "🍌🍫 Banana Chocolate Ice Cream (No Refined Sugar)",
-          "views": null,
-          "likes": null,
-          "comments": null,
-          "postedAt": null,
-          "url": "https://www.threads.com/@almoventures/post/Deu42NGjis2",
-          "thumb": "https://scontent-phl2-1.cdninstagram.com/v/t51.71878-15/858985234_1372409684727962_1488275750558533966_n.jpg?stp=dst-jpg_e15_tt6&_nc_cat=109&ig_cache_key=NDAxMjM5NDMzMzU1ODY4MDM3NA%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkZFRUQueHBpZHMuNjQwLnNkci52aWRlb19maXJzdF9mcmFtZV90aHVtYm5haWwuQzMifQ%3D%3D&_nc_ohc=4TUPaukAI4AQ7kNvwG1yhXT&_nc_oc=Adrz22oC-8aerEgbAYfuU1tgnyT3VELh_UwL0ODzFcQHUJmBkak5g7ZKSqTYzpMaN1q9pm3uEP4_qwcQPaw4W6L8&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=scontent-phl2-1.cdninstagram.com&_nc_gid=k9u6pfXEfrtWJtCpKFX_YA&_nc_ss=7320f&oh=00_AQSElzsis8Bv29aMXXBRgWIESEfRuv9ameuOtzNUMKK43g&oe=6AED7DA5"
-        },
-        {
-          "id": "Dem2IiYjvf2",
-          "title": "🫐🍋 Blueberry + Lime Smoothie",
-          "views": null,
-          "likes": null,
-          "comments": null,
-          "postedAt": null,
-          "url": "https://www.threads.com/@almoventures/post/Dem2IiYjvf2",
-          "thumb": "https://scontent-phl2-1.cdninstagram.com/v/t51.71878-15/856840629_1605429877624258_3057962407316092428_n.jpg?stp=dst-jpg_e15_tt6&_nc_cat=100&ig_cache_key=NDAxMDEzMDU5OTQwNjY2MzY3MA%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkZFRUQueHBpZHMuNjQwLnNkci52aWRlb19maXJzdF9mcmFtZV90aHVtYm5haWwuQzMifQ%3D%3D&_nc_ohc=Il5lXuPDrJUQ7kNvwGCIug3&_nc_oc=AdqT2SrXUUSg2U0TnvAVcHID7G13VWlY7wJEw-Ed7ZsJeX3gvOGyZbLrTUTBn7c6og0MbWkSEqEOURjAk_8cP_Px&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=scontent-phl2-1.cdninstagram.com&_nc_gid=k9u6pfXEfrtWJtCpKFX_YA&_nc_ss=7320f&oh=00_AQQ6nPnBxqFyNtBbdJT6W2qLghPmBZLh_N12fcs-hU7knw&oe=6AED7CB8"
-        },
-        {
-          "id": "DeiBDW0ju3o",
-          "title": "🧂🥔☕ 5 simple food checks you can try at home",
-          "views": null,
-          "likes": null,
-          "comments": null,
-          "postedAt": null,
-          "url": "https://www.threads.com/@almoventures/post/DeiBDW0ju3o",
-          "thumb": "https://scontent-phl2-1.cdninstagram.com/v/t51.71878-15/846221408_1649685723530676_7907576327096082072_n.jpg?stp=dst-jpg_e15_tt6&_nc_cat=103&ig_cache_key=NDAwODc3MTI0NzAyMjIwNjQ0MA%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkZFRUQueHBpZHMuNjQwLnNkci52aWRlb19maXJzdF9mcmFtZV90aHVtYm5haWwuQzMifQ%3D%3D&_nc_ohc=As7R-G1KgxEQ7kNvwFftv_N&_nc_oc=Adobi1eoBa3MBB_gom2EVzNAySzDxIC38-AV7-NsAoesOArkWqDTNFnZ1o1OPmeSurKU8jFbnxW1FQ_f8EkzS9aE&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=scontent-phl2-1.cdninstagram.com&_nc_gid=k9u6pfXEfrtWJtCpKFX_YA&_nc_ss=7320f&oh=00_AQTVhl8HAtU5Dlvwu3MhLzXEJ3zZg5o-AqgXse0FUG6nOg&oe=6AED6D14"
-        }
-      ],
-      "avatar": "/avatars/threads-almoventures.jpg?v=1793567215833",
+      "videos": [],
+      "avatar": "/avatars/threads-almoventures.jpg?v=1793841044024",
       "latest": {
         "id": "Dexn9X9jpmL",
         "title": "🦷✨ Coconut Oil Teeth Brightening Paste",
@@ -1334,10 +1293,10 @@
         "thumb": "/thumbs/threads-almoventures.jpg?v=1793567217282"
       },
       "totalViews": null,
-      "ok": false,
-      "error": "Navigation timeout of 90000 ms exceeded",
-      "scrapedAt": "2026-11-05T00:11:47.205Z",
-      "lastSuccessAt": "2026-11-01T21:06:51.127Z"
+      "ok": true,
+      "error": null,
+      "scrapedAt": "2026-11-05T01:10:37.920Z",
+      "lastSuccessAt": "2026-11-05T01:10:37.920Z"
     },
     "x-moventures999": {
       "platform": "x",
@@ -1398,7 +1357,7 @@
           "thumb": "https://pbs.twimg.com/amplify_video_thumb/2110487032367661056/img/Q2zxD_4iNLwUa9Fi?format=webp&name=medium"
         }
       ],
-      "avatar": "/avatars/x-moventures999.jpg?v=1793567232874",
+      "avatar": "/avatars/x-moventures999.jpg?v=1793841082106",
       "latest": {
         "id": "2113055425608491119",
         "title": "🦷✨ Coconut Oil Teeth Brightening Paste Coconut oil + 1/2 tsp baking soda + 3 drops of lemon. Brush 2 min, spit, rinse. ",
@@ -1407,13 +1366,13 @@
         "comments": null,
         "postedAt": "2026-10-21T23:50:46.793Z",
         "url": "https://x.com/moventures999/status/2113055425608491119",
-        "thumb": "/thumbs/x-moventures999.jpg?v=1793567232979"
+        "thumb": "/thumbs/x-moventures999.jpg?v=1793841082522"
       },
       "totalViews": 5,
-      "ok": false,
-      "error": "net::ERR_TIMED_OUT at https://x.com/moventures999",
-      "scrapedAt": "2026-11-05T00:13:17.299Z",
-      "lastSuccessAt": "2026-11-01T21:06:57.934Z"
+      "ok": true,
+      "error": null,
+      "scrapedAt": "2026-11-05T01:10:44.085Z",
+      "lastSuccessAt": "2026-11-05T01:10:44.085Z"
     },
     "youtube-chubbypinkwhale": {
       "platform": "youtube",
@@ -1421,60 +1380,9 @@
       "url": "https://www.youtube.com/channel/UCH5lQJ7yslV4ycHfwFz2XoA",
       "followers": 1,
       "likes": null,
-      "posts": 5,
-      "videos": [
-        {
-          "id": "U59QgyvGrgg",
-          "title": "Ranking Billionaire Houses (Some Are Terrible)",
-          "views": 33,
-          "likes": null,
-          "comments": null,
-          "postedAt": null,
-          "url": "https://www.youtube.com/watch?v=U59QgyvGrgg",
-          "thumb": "https://i.ytimg.com/vi/U59QgyvGrgg/hqdefault.jpg"
-        },
-        {
-          "id": "sx0kezOPQ7c",
-          "title": "The 10 Richest People In The World Right Now",
-          "views": 150,
-          "likes": null,
-          "comments": null,
-          "postedAt": null,
-          "url": "https://www.youtube.com/watch?v=sx0kezOPQ7c",
-          "thumb": "https://i.ytimg.com/vi/sx0kezOPQ7c/hqdefault.jpg"
-        },
-        {
-          "id": "PX6TKpWF1Ac",
-          "title": "What's the Most Expensive Thing Ever?",
-          "views": 9,
-          "likes": null,
-          "comments": null,
-          "postedAt": null,
-          "url": "https://www.youtube.com/watch?v=PX6TKpWF1Ac",
-          "thumb": "https://i.ytimg.com/vi/PX6TKpWF1Ac/hqdefault.jpg"
-        },
-        {
-          "id": "JnXBBeuqPd8",
-          "title": "How Rich Is Kevin Hart?",
-          "views": 131,
-          "likes": null,
-          "comments": null,
-          "postedAt": null,
-          "url": "https://www.youtube.com/watch?v=JnXBBeuqPd8",
-          "thumb": "https://i.ytimg.com/vi/JnXBBeuqPd8/hqdefault.jpg"
-        },
-        {
-          "id": "t4XD-Ox003I",
-          "title": "How Rich Is The Rock?",
-          "views": 25,
-          "likes": null,
-          "comments": null,
-          "postedAt": null,
-          "url": "https://www.youtube.com/watch?v=t4XD-Ox003I",
-          "thumb": "https://i.ytimg.com/vi/t4XD-Ox003I/hqdefault.jpg"
-        }
-      ],
-      "avatar": "/avatars/youtube-chubbypinkwhale.jpg?v=1793567234977",
+      "posts": 0,
+      "videos": [],
+      "avatar": "/avatars/youtube-chubbypinkwhale.jpg?v=1793841085586",
       "latest": {
         "id": "U59QgyvGrgg",
         "title": "Ranking Billionaire Houses (Some Are Terrible)",
@@ -1485,11 +1393,11 @@
         "url": "https://www.youtube.com/watch?v=U59QgyvGrgg",
         "thumb": "https://i.ytimg.com/vi/U59QgyvGrgg/hqdefault.jpg"
       },
-      "totalViews": 348,
+      "totalViews": null,
       "ok": true,
       "error": null,
-      "scrapedAt": "2026-11-05T00:14:11.850Z",
-      "lastSuccessAt": "2026-11-05T00:14:11.850Z"
+      "scrapedAt": "2026-11-05T01:11:22.584Z",
+      "lastSuccessAt": "2026-11-05T01:11:22.584Z"
     },
     "youtube-blackpepperstory": {
       "platform": "youtube",
@@ -1502,7 +1410,7 @@
         {
           "id": "6HOgrDA1sc0",
           "title": "3 Fast Food Horror Stories Animated",
-          "views": 5,
+          "views": 6,
           "likes": null,
           "comments": null,
           "postedAt": null,
@@ -1512,7 +1420,7 @@
         {
           "id": "81usKC1SgIA",
           "title": "3 Creepy Horror Stories Animated",
-          "views": 9,
+          "views": 10,
           "likes": null,
           "comments": null,
           "postedAt": null,
@@ -1530,22 +1438,22 @@
           "thumb": "https://i.ytimg.com/vi/0IwY_wjOjJU/hqdefault.jpg"
         }
       ],
-      "avatar": "/avatars/youtube-blackpepperstory.jpg?v=1793567237374",
+      "avatar": "/avatars/youtube-blackpepperstory.jpg?v=1793841086700",
       "latest": {
         "id": "6HOgrDA1sc0",
         "title": "3 Fast Food Horror Stories Animated",
-        "views": 5,
+        "views": 6,
         "likes": 0,
         "comments": 0,
         "postedAt": "2026-10-29T19:22:08.000Z",
         "url": "https://www.youtube.com/watch?v=6HOgrDA1sc0",
-        "thumb": "/thumbs/youtube-blackpepperstory.jpg?v=1793567238445"
+        "thumb": "/thumbs/youtube-blackpepperstory.jpg?v=1793841088363"
       },
-      "totalViews": 20,
-      "ok": false,
-      "error": "fetch failed",
-      "scrapedAt": "2026-11-05T00:14:56.785Z",
-      "lastSuccessAt": "2026-11-01T21:07:16.622Z"
+      "totalViews": 22,
+      "ok": true,
+      "error": null,
+      "scrapedAt": "2026-11-05T01:11:25.645Z",
+      "lastSuccessAt": "2026-11-05T01:11:25.645Z"
     },
     "youtube-lost1out": {
       "platform": "youtube",
@@ -1596,22 +1504,22 @@
           "thumb": "https://i.ytimg.com/vi/fnnlQ8lr20Y/hqdefault.jpg"
         }
       ],
-      "avatar": "/avatars/youtube-lost1out.jpg?v=1793567239212",
+      "avatar": "/avatars/youtube-lost1out.jpg?v=1793841089299",
       "latest": {
         "id": "kLqpePfxCkk",
         "title": "(Professor X) Patrick Stewart, Walter Koenig & More: Who Died This Week",
         "views": 3,
-        "likes": null,
-        "comments": null,
-        "postedAt": null,
+        "likes": 0,
+        "comments": 0,
+        "postedAt": "2026-11-01T18:59:16.000Z",
         "url": "https://www.youtube.com/watch?v=kLqpePfxCkk",
-        "thumb": "https://i.ytimg.com/vi/kLqpePfxCkk/hqdefault.jpg"
+        "thumb": "/thumbs/youtube-lost1out.jpg?v=1793841090401"
       },
       "totalViews": 185,
       "ok": true,
       "error": null,
-      "scrapedAt": "2026-11-05T00:15:07.515Z",
-      "lastSuccessAt": "2026-11-05T00:15:07.515Z"
+      "scrapedAt": "2026-11-05T01:11:28.406Z",
+      "lastSuccessAt": "2026-11-05T01:11:28.406Z"
     }
   }
 }
