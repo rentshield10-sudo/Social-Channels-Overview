@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-02T18:23:18.712Z",
+  "updatedAt": "2026-11-05T00:15:47.523Z",
   "accounts": {
     "tiktok-insanefindz": {
       "platform": "tiktok",
@@ -751,7 +751,7 @@
       "totalViews": 110768,
       "ok": false,
       "error": "Navigation timeout of 90000 ms exceeded",
-      "scrapedAt": "2026-11-02T18:18:36.284Z",
+      "scrapedAt": "2026-11-05T00:04:12.529Z",
       "lastSuccessAt": "2026-11-01T21:04:36.800Z"
     },
     "facebook-granny-mei": {
@@ -877,8 +877,8 @@
       },
       "totalViews": 4433,
       "ok": false,
-      "error": "net::ERR_NAME_NOT_RESOLVED at https://www.facebook.com/profile.php?id=61594617621762",
-      "scrapedAt": "2026-11-02T18:20:09.920Z",
+      "error": "Navigation timeout of 90000 ms exceeded",
+      "scrapedAt": "2026-11-05T00:05:42.640Z",
       "lastSuccessAt": "2026-11-01T21:05:12.611Z"
     },
     "instagram-almoventures": {
@@ -888,118 +888,7 @@
       "followers": 1,
       "likes": null,
       "posts": 11,
-      "videos": [
-        {
-          "id": "DexndQQiaRl",
-          "title": null,
-          "views": 0,
-          "likes": null,
-          "comments": null,
-          "postedAt": null,
-          "url": "https://www.instagram.com/reel/DexndQQiaRl/",
-          "thumb": "https://www.instagram.com/p/DexndQQiaRl/media/?size=l"
-        },
-        {
-          "id": "Deu4RV1idIk",
-          "title": null,
-          "views": 7,
-          "likes": null,
-          "comments": null,
-          "postedAt": null,
-          "url": "https://www.instagram.com/reel/Deu4RV1idIk/",
-          "thumb": "https://www.instagram.com/p/Deu4RV1idIk/media/?size=l"
-        },
-        {
-          "id": "Dem1iXSCtrL",
-          "title": null,
-          "views": 131,
-          "likes": null,
-          "comments": null,
-          "postedAt": null,
-          "url": "https://www.instagram.com/reel/Dem1iXSCtrL/",
-          "thumb": "https://www.instagram.com/p/Dem1iXSCtrL/media/?size=l"
-        },
-        {
-          "id": "DeiAU_Oi2sA",
-          "title": null,
-          "views": 68,
-          "likes": null,
-          "comments": null,
-          "postedAt": null,
-          "url": "https://www.instagram.com/reel/DeiAU_Oi2sA/",
-          "thumb": "https://www.instagram.com/p/DeiAU_Oi2sA/media/?size=l"
-        },
-        {
-          "id": "DefXUSfCg2E",
-          "title": null,
-          "views": 119,
-          "likes": null,
-          "comments": null,
-          "postedAt": null,
-          "url": "https://www.instagram.com/reel/DefXUSfCg2E/",
-          "thumb": "https://www.instagram.com/p/DefXUSfCg2E/media/?size=l"
-        },
-        {
-          "id": "DeaFNGGiAe_",
-          "title": null,
-          "views": 109,
-          "likes": null,
-          "comments": null,
-          "postedAt": null,
-          "url": "https://www.instagram.com/reel/DeaFNGGiAe_/",
-          "thumb": "https://www.instagram.com/p/DeaFNGGiAe_/media/?size=l"
-        },
-        {
-          "id": "DeSlpaoCM17",
-          "title": null,
-          "views": 126,
-          "likes": null,
-          "comments": null,
-          "postedAt": null,
-          "url": "https://www.instagram.com/reel/DeSlpaoCM17/",
-          "thumb": "https://www.instagram.com/p/DeSlpaoCM17/media/?size=l"
-        },
-        {
-          "id": "DeIGOiJCqbh",
-          "title": null,
-          "views": 130,
-          "likes": null,
-          "comments": null,
-          "postedAt": null,
-          "url": "https://www.instagram.com/reel/DeIGOiJCqbh/",
-          "thumb": "https://www.instagram.com/p/DeIGOiJCqbh/media/?size=l"
-        },
-        {
-          "id": "DdpWy-aiwqQ",
-          "title": null,
-          "views": 70,
-          "likes": null,
-          "comments": null,
-          "postedAt": null,
-          "url": "https://www.instagram.com/reel/DdpWy-aiwqQ/",
-          "thumb": "https://www.instagram.com/p/DdpWy-aiwqQ/media/?size=l"
-        },
-        {
-          "id": "DdcdS-TCFWr",
-          "title": null,
-          "views": 155,
-          "likes": null,
-          "comments": null,
-          "postedAt": null,
-          "url": "https://www.instagram.com/reel/DdcdS-TCFWr/",
-          "thumb": "https://www.instagram.com/p/DdcdS-TCFWr/media/?size=l"
-        },
-        {
-          "id": "DdZ6a2yC6EE",
-          "title": null,
-          "views": 127,
-          "likes": null,
-          "comments": null,
-          "postedAt": null,
-          "url": "https://www.instagram.com/reel/DdZ6a2yC6EE/",
-          "thumb": "https://www.instagram.com/p/DdZ6a2yC6EE/media/?size=l"
-        }
-      ],
+      "videos": [],
       "needsLogin": false,
       "avatar": "/avatars/instagram-almoventures.jpg?v=1793567137993",
       "latest": {
@@ -1012,11 +901,11 @@
         "url": "https://www.instagram.com/reel/DexndQQiaRl/",
         "thumb": "/thumbs/instagram-almoventures.jpg?v=1793567138852"
       },
-      "totalViews": 1042,
-      "ok": false,
-      "error": "net::ERR_NAME_NOT_RESOLVED at https://www.instagram.com/almoventures/",
-      "scrapedAt": "2026-11-02T18:20:15.209Z",
-      "lastSuccessAt": "2026-11-01T21:05:28.588Z"
+      "totalViews": null,
+      "ok": true,
+      "error": null,
+      "scrapedAt": "2026-11-05T00:07:12.703Z",
+      "lastSuccessAt": "2026-11-05T00:07:12.703Z"
     },
     "youtube-granny-mei": {
       "platform": "youtube",
@@ -1151,7 +1040,7 @@
       "totalViews": 13421,
       "ok": false,
       "error": "fetch failed",
-      "scrapedAt": "2026-11-02T18:20:15.520Z",
+      "scrapedAt": "2026-11-05T00:08:36.243Z",
       "lastSuccessAt": "2026-11-01T21:05:39.382Z"
     },
     "tiktok-girlsteamwin": {
@@ -1288,7 +1177,7 @@
       "totalViews": 3202,
       "ok": false,
       "error": "Navigation timeout of 90000 ms exceeded",
-      "scrapedAt": "2026-11-02T18:20:16.329Z",
+      "scrapedAt": "2026-11-05T00:08:46.990Z",
       "lastSuccessAt": "2026-11-01T21:05:42.700Z"
     },
     "tiktok-allrizexmvm": {
@@ -1381,7 +1270,7 @@
       "totalViews": 2705,
       "ok": false,
       "error": "Navigation timeout of 90000 ms exceeded",
-      "scrapedAt": "2026-11-02T18:21:47.413Z",
+      "scrapedAt": "2026-11-05T00:10:17.112Z",
       "lastSuccessAt": "2026-11-01T21:06:21.787Z"
     },
     "threads-almoventures": {
@@ -1446,8 +1335,8 @@
       },
       "totalViews": null,
       "ok": false,
-      "error": "net::ERR_NAME_NOT_RESOLVED at https://www.threads.com/@almoventures",
-      "scrapedAt": "2026-11-02T18:23:17.526Z",
+      "error": "Navigation timeout of 90000 ms exceeded",
+      "scrapedAt": "2026-11-05T00:11:47.205Z",
       "lastSuccessAt": "2026-11-01T21:06:51.127Z"
     },
     "x-moventures999": {
@@ -1522,8 +1411,8 @@
       },
       "totalViews": 5,
       "ok": false,
-      "error": "net::ERR_NAME_NOT_RESOLVED at https://x.com/moventures999",
-      "scrapedAt": "2026-11-02T18:23:17.679Z",
+      "error": "net::ERR_TIMED_OUT at https://x.com/moventures999",
+      "scrapedAt": "2026-11-05T00:13:17.299Z",
       "lastSuccessAt": "2026-11-01T21:06:57.934Z"
     },
     "youtube-chubbypinkwhale": {
@@ -1537,7 +1426,7 @@
         {
           "id": "U59QgyvGrgg",
           "title": "Ranking Billionaire Houses (Some Are Terrible)",
-          "views": 17,
+          "views": 33,
           "likes": null,
           "comments": null,
           "postedAt": null,
@@ -1547,7 +1436,7 @@
         {
           "id": "sx0kezOPQ7c",
           "title": "The 10 Richest People In The World Right Now",
-          "views": 100,
+          "views": 150,
           "likes": null,
           "comments": null,
           "postedAt": null,
@@ -1557,7 +1446,7 @@
         {
           "id": "PX6TKpWF1Ac",
           "title": "What's the Most Expensive Thing Ever?",
-          "views": 6,
+          "views": 9,
           "likes": null,
           "comments": null,
           "postedAt": null,
@@ -1567,7 +1456,7 @@
         {
           "id": "JnXBBeuqPd8",
           "title": "How Rich Is Kevin Hart?",
-          "views": 121,
+          "views": 131,
           "likes": null,
           "comments": null,
           "postedAt": null,
@@ -1577,7 +1466,7 @@
         {
           "id": "t4XD-Ox003I",
           "title": "How Rich Is The Rock?",
-          "views": 11,
+          "views": 25,
           "likes": null,
           "comments": null,
           "postedAt": null,
@@ -1589,18 +1478,18 @@
       "latest": {
         "id": "U59QgyvGrgg",
         "title": "Ranking Billionaire Houses (Some Are Terrible)",
-        "views": 17,
-        "likes": 0,
-        "comments": 0,
-        "postedAt": "2026-10-31T18:15:56.000Z",
+        "views": 33,
+        "likes": null,
+        "comments": null,
+        "postedAt": null,
         "url": "https://www.youtube.com/watch?v=U59QgyvGrgg",
-        "thumb": "/thumbs/youtube-chubbypinkwhale.jpg?v=1793567236292"
+        "thumb": "https://i.ytimg.com/vi/U59QgyvGrgg/hqdefault.jpg"
       },
-      "totalViews": 255,
-      "ok": false,
-      "error": "fetch failed",
-      "scrapedAt": "2026-11-02T18:23:17.861Z",
-      "lastSuccessAt": "2026-11-01T21:07:13.470Z"
+      "totalViews": 348,
+      "ok": true,
+      "error": null,
+      "scrapedAt": "2026-11-05T00:14:11.850Z",
+      "lastSuccessAt": "2026-11-05T00:14:11.850Z"
     },
     "youtube-blackpepperstory": {
       "platform": "youtube",
@@ -1655,7 +1544,7 @@
       "totalViews": 20,
       "ok": false,
       "error": "fetch failed",
-      "scrapedAt": "2026-11-02T18:23:17.980Z",
+      "scrapedAt": "2026-11-05T00:14:56.785Z",
       "lastSuccessAt": "2026-11-01T21:07:16.622Z"
     },
     "youtube-lost1out": {
@@ -1669,7 +1558,7 @@
         {
           "id": "kLqpePfxCkk",
           "title": "(Professor X) Patrick Stewart, Walter Koenig & More: Who Died This Week",
-          "views": 0,
+          "views": 3,
           "likes": null,
           "comments": null,
           "postedAt": null,
@@ -1679,7 +1568,7 @@
         {
           "id": "QPKhuV2Zpdw",
           "title": "10 Actors We Lost in 2026",
-          "views": 108,
+          "views": 147,
           "likes": null,
           "comments": null,
           "postedAt": null,
@@ -1689,7 +1578,7 @@
         {
           "id": "vw554GrQpHo",
           "title": "Celebrities Who Died This Week: Tom Skerritt, John Anderson, Ron Duguay & More",
-          "views": 27,
+          "views": 29,
           "likes": null,
           "comments": null,
           "postedAt": null,
@@ -1699,7 +1588,7 @@
         {
           "id": "fnnlQ8lr20Y",
           "title": "10 Hollywood Legends We Lost in 2025",
-          "views": 5,
+          "views": 6,
           "likes": null,
           "comments": null,
           "postedAt": null,
@@ -1711,18 +1600,18 @@
       "latest": {
         "id": "kLqpePfxCkk",
         "title": "(Professor X) Patrick Stewart, Walter Koenig & More: Who Died This Week",
-        "views": 0,
-        "likes": 0,
-        "comments": 0,
-        "postedAt": "2026-11-01T18:59:16.000Z",
+        "views": 3,
+        "likes": null,
+        "comments": null,
+        "postedAt": null,
         "url": "https://www.youtube.com/watch?v=kLqpePfxCkk",
-        "thumb": "/thumbs/youtube-lost1out.jpg?v=1793567240080"
+        "thumb": "https://i.ytimg.com/vi/kLqpePfxCkk/hqdefault.jpg"
       },
-      "totalViews": 140,
-      "ok": false,
-      "error": "fetch failed",
-      "scrapedAt": "2026-11-02T18:23:18.096Z",
-      "lastSuccessAt": "2026-11-01T21:07:18.663Z"
+      "totalViews": 185,
+      "ok": true,
+      "error": null,
+      "scrapedAt": "2026-11-05T00:15:07.515Z",
+      "lastSuccessAt": "2026-11-05T00:15:07.515Z"
     }
   }
 }
