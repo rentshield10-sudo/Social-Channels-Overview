@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-09T20:04:25.624Z",
+  "generatedAt": "2026-11-09T21:04:11.738Z",
   "skills": [
     {
       "id": "tiktok",
@@ -540,6 +540,30 @@
       ],
       "note": "YouTube channel ChubbyPinkWhale: \"How rich is X?\" net-worth documentaries. Live since The Rock.",
       "videos": [
+        {
+          "file": "final.mp4",
+          "folder": "C:\\Users\\mocha\\Documents\\LONGFORM\\ChubbyPinkWhale\\presidential-palaces",
+          "path": "C:/Users/mocha/Documents/LONGFORM/ChubbyPinkWhale/presidential-palaces/final.mp4",
+          "sizeMB": 772.5,
+          "modified": "2026-11-09T20:25:30.836Z",
+          "driveId": null
+        },
+        {
+          "file": "final-360p.mp4",
+          "folder": "C:\\Users\\mocha\\Documents\\LONGFORM\\ChubbyPinkWhale\\presidential-palaces",
+          "path": "C:/Users/mocha/Documents/LONGFORM/ChubbyPinkWhale/presidential-palaces/final-360p.mp4",
+          "sizeMB": 24.7,
+          "modified": "2026-11-09T20:24:26.971Z",
+          "driveId": null
+        },
+        {
+          "file": "final-1080p.mp4",
+          "folder": "C:\\Users\\mocha\\Documents\\LONGFORM\\ChubbyPinkWhale\\presidential-palaces",
+          "path": "C:/Users/mocha/Documents/LONGFORM/ChubbyPinkWhale/presidential-palaces/final-1080p.mp4",
+          "sizeMB": 772.5,
+          "modified": "2026-11-09T20:23:54.871Z",
+          "driveId": null
+        },
         {
           "file": "final-1080p.mp4",
           "folder": "C:\\Users\\mocha\\Documents\\LONGFORM\\ChubbyPinkWhale\\billionaire-house-tier-list",
