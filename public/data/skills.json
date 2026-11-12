@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-12T02:04:11.860Z",
+  "generatedAt": "2026-11-12T03:04:11.506Z",
   "skills": [
     {
       "id": "tiktok",
@@ -548,6 +548,22 @@
       ],
       "note": "YouTube channel ChubbyPinkWhale: \"How rich is X?\" net-worth documentaries. Live since The Rock.",
       "videos": [
+        {
+          "file": "final-360p.mp4",
+          "folder": "C:\\Users\\mocha\\Documents\\LONGFORM\\ChubbyPinkWhale\\cars-money-cant-buy",
+          "path": "C:/Users/mocha/Documents/LONGFORM/ChubbyPinkWhale/cars-money-cant-buy/final-360p.mp4",
+          "sizeMB": 31.2,
+          "modified": "2026-11-12T02:56:38.984Z",
+          "driveId": null
+        },
+        {
+          "file": "final-1080p.mp4",
+          "folder": "C:\\Users\\mocha\\Documents\\LONGFORM\\ChubbyPinkWhale\\cars-money-cant-buy",
+          "path": "C:/Users/mocha/Documents/LONGFORM/ChubbyPinkWhale/cars-money-cant-buy/final-1080p.mp4",
+          "sizeMB": 895.3,
+          "modified": "2026-11-12T02:56:00.275Z",
+          "driveId": null
+        },
         {
           "file": "final.mp4",
           "folder": "C:\\Users\\mocha\\Documents\\LONGFORM\\ChubbyPinkWhale\\presidential-palaces",
