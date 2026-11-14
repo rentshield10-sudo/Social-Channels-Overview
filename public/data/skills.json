@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-14T08:04:13.039Z",
+  "generatedAt": "2026-11-14T09:04:11.001Z",
   "skills": [
     {
       "id": "tiktok",
@@ -548,6 +548,22 @@
       ],
       "note": "YouTube channel ChubbyPinkWhale: \"How rich is X?\" net-worth documentaries. Live since The Rock.",
       "videos": [
+        {
+          "file": "final-360p.mp4",
+          "folder": "C:\\Users\\mocha\\Documents\\LONGFORM\\ChubbyPinkWhale\\chinese-cars-years-ahead",
+          "path": "C:/Users/mocha/Documents/LONGFORM/ChubbyPinkWhale/chinese-cars-years-ahead/final-360p.mp4",
+          "sizeMB": 25.7,
+          "modified": "2026-11-14T08:27:24.392Z",
+          "driveId": null
+        },
+        {
+          "file": "final-1080p.mp4",
+          "folder": "C:\\Users\\mocha\\Documents\\LONGFORM\\ChubbyPinkWhale\\chinese-cars-years-ahead",
+          "path": "C:/Users/mocha/Documents/LONGFORM/ChubbyPinkWhale/chinese-cars-years-ahead/final-1080p.mp4",
+          "sizeMB": 794.6,
+          "modified": "2026-11-14T08:26:50.629Z",
+          "driveId": null
+        },
         {
           "file": "final-360p.mp4",
           "folder": "C:\\Users\\mocha\\Documents\\LONGFORM\\ChubbyPinkWhale\\cars-money-cant-buy",
