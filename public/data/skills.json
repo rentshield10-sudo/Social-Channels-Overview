@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-14T17:04:11.258Z",
+  "generatedAt": "2026-11-14T18:13:11.444Z",
   "skills": [
     {
       "id": "tiktok",
@@ -577,7 +577,7 @@
     {
       "id": "chubbypinkwhale",
       "installed": true,
-      "description": "Use when Moe asks for a ChubbyPinkWhale video, a \"How rich is X?\" celebrity net-worth documentary (\"do Kevin Hart next\"), or wants to continue, fix or re-render The Rock or another ChubbyPinkWhale video.",
+      "description": "Use when Moe asks for a ChubbyPinkWhale video, a \"How rich is X?\" net-worth / list documentary (\"do Kevin Hart next\"), wants to continue, fix or re-render a ChubbyPinkWhale video, or says \"review this new competitor <link>\" for ChubbyPinkWhale. Router - asks which style first.",
       "accounts": [
         {
           "id": "youtube-chubbypinkwhale",
