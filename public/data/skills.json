@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-14T11:04:28.199Z",
+  "generatedAt": "2026-11-14T12:04:11.059Z",
   "skills": [
     {
       "id": "tiktok",
@@ -55,11 +55,51 @@
       "note": null,
       "videos": [
         {
+          "file": "final_es.mp4",
+          "folder": "C:\\Users\\mocha\\Documents\\UGC\\MEI\\VIDEOS\\vid28",
+          "path": "C:/Users/mocha/Documents/UGC/MEI/VIDEOS/vid28/final_es.mp4",
+          "sizeMB": 33.3,
+          "modified": "2026-11-14T11:20:32.438Z",
+          "driveId": null
+        },
+        {
           "file": "final.mp4",
           "folder": "C:\\Users\\mocha\\Documents\\UGC\\MEI\\VIDEOS\\vid28",
           "path": "C:/Users/mocha/Documents/UGC/MEI/VIDEOS/vid28/final.mp4",
+          "sizeMB": 33.6,
+          "modified": "2026-11-14T11:20:13.302Z",
+          "driveId": null
+        },
+        {
+          "file": "final_backup_test.mp4",
+          "folder": "C:\\Users\\mocha\\Documents\\UGC\\MEI\\VIDEOS\\vid28",
+          "path": "C:/Users/mocha/Documents/UGC/MEI/VIDEOS/vid28/final_backup_test.mp4",
           "sizeMB": 13.4,
-          "modified": "2026-11-14T10:57:21.123Z",
+          "modified": "2026-11-14T11:19:52.873Z",
+          "driveId": null
+        },
+        {
+          "file": "final_promo_es.mp4",
+          "folder": "C:\\Users\\mocha\\Documents\\UGC\\MEI\\VIDEOS\\vid28",
+          "path": "C:/Users/mocha/Documents/UGC/MEI/VIDEOS/vid28/final_promo_es.mp4",
+          "sizeMB": 28.7,
+          "modified": "2026-11-14T11:17:38.995Z",
+          "driveId": null
+        },
+        {
+          "file": "final_promo_en.mp4",
+          "folder": "C:\\Users\\mocha\\Documents\\UGC\\MEI\\VIDEOS\\vid28",
+          "path": "C:/Users/mocha/Documents/UGC/MEI/VIDEOS/vid28/final_promo_en.mp4",
+          "sizeMB": 29,
+          "modified": "2026-11-14T11:17:23.078Z",
+          "driveId": null
+        },
+        {
+          "file": "final_pre_promo.mp4",
+          "folder": "C:\\Users\\mocha\\Documents\\UGC\\MEI\\VIDEOS\\vid28",
+          "path": "C:/Users/mocha/Documents/UGC/MEI/VIDEOS/vid28/final_pre_promo.mp4",
+          "sizeMB": 13.4,
+          "modified": "2026-11-14T11:16:32.724Z",
           "driveId": null
         },
         {
@@ -329,7 +369,7 @@
           "folder": "C:\\Users\\mocha\\Documents\\LONGFORM\\MARTA\\the-monitor",
           "path": "C:/Users/mocha/Documents/LONGFORM/MARTA/the-monitor/preview.mp4",
           "sizeMB": 4.6,
-          "modified": "2026-11-14T05:11:50.998Z",
+          "modified": "2026-11-14T11:05:19.933Z",
           "driveId": null
         },
         {
