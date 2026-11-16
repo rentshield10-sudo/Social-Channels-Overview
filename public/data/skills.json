@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-16T03:04:11.438Z",
+  "generatedAt": "2026-11-16T04:04:11.597Z",
   "skills": [
     {
       "id": "tiktok",
@@ -588,6 +588,22 @@
       ],
       "note": "YouTube channel ChubbyPinkWhale: \"How rich is X?\" net-worth documentaries. Live since The Rock.",
       "videos": [
+        {
+          "file": "final-360p.mp4",
+          "folder": "C:\\Users\\mocha\\Documents\\LONGFORM\\ChubbyPinkWhale\\chinese-motorhome-mansion",
+          "path": "C:/Users/mocha/Documents/LONGFORM/ChubbyPinkWhale/chinese-motorhome-mansion/final-360p.mp4",
+          "sizeMB": 85.3,
+          "modified": "2026-11-16T03:20:03.680Z",
+          "driveId": null
+        },
+        {
+          "file": "final-1080p.mp4",
+          "folder": "C:\\Users\\mocha\\Documents\\LONGFORM\\ChubbyPinkWhale\\chinese-motorhome-mansion",
+          "path": "C:/Users/mocha/Documents/LONGFORM/ChubbyPinkWhale/chinese-motorhome-mansion/final-1080p.mp4",
+          "sizeMB": 2827.2,
+          "modified": "2026-11-16T03:17:56.279Z",
+          "driveId": null
+        },
         {
           "file": "final-360p.mp4",
           "folder": "C:\\Users\\mocha\\Documents\\LONGFORM\\ChubbyPinkWhale\\chinese-cars-years-ahead",
