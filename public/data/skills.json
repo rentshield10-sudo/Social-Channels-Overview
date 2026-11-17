@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-17T12:04:11.366Z",
+  "generatedAt": "2026-11-17T13:04:11.491Z",
   "skills": [
     {
       "id": "tiktok",
@@ -54,6 +54,22 @@
       ],
       "note": null,
       "videos": [
+        {
+          "file": "final_es.mp4",
+          "folder": "C:\\Users\\mocha\\Documents\\UGC\\MEI\\VIDEOS\\vid30",
+          "path": "C:/Users/mocha/Documents/UGC/MEI/VIDEOS/vid30/final_es.mp4",
+          "sizeMB": 78.3,
+          "modified": "2026-11-17T12:23:07.623Z",
+          "driveId": null
+        },
+        {
+          "file": "final.mp4",
+          "folder": "C:\\Users\\mocha\\Documents\\UGC\\MEI\\VIDEOS\\vid30",
+          "path": "C:/Users/mocha/Documents/UGC/MEI/VIDEOS/vid30/final.mp4",
+          "sizeMB": 76,
+          "modified": "2026-11-17T12:22:33.343Z",
+          "driveId": null
+        },
         {
           "file": "final.mp4",
           "folder": "C:\\Users\\mocha\\Documents\\UGC\\MEI\\VIDEOS\\vid28",
