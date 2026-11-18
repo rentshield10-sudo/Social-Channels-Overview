@@ -9,6 +9,11 @@ const growth = (history, id) => {
 
 const Icon = ({platform}) => <span className="picon" style={{'--icon': `url(/icons/${platform}.svg)`, color: PLATFORMS[platform].color}} />;
 
+const VERSION_TAG = {
+  'facebook-granny-mei': 'MEI ENGLISH VERSION',
+  'facebook-yourself999wisdom': 'MEI SPANISH VERSION',
+};
+
 function AccountCard({id, a, history}) {
   const p = PLATFORMS[a.platform];
   const g = growth(history, id);
@@ -23,6 +28,7 @@ function AccountCard({id, a, history}) {
             {a.name}
           </a>
           <span className="badge">{p.label}</span>
+          {VERSION_TAG[id] && <span className="badge">{VERSION_TAG[id]}</span>}
         </div>
         <a className="open" href={a.url} target="_blank" rel="noreferrer">
           Open profile ↗
