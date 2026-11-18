@@ -18,6 +18,11 @@
       "name": "Granny Mei 72yrs Old",
       "url": "https://www.facebook.com/profile.php?id=61594617621762"
     },
+    "facebook-yourself999wisdom": {
+      "platform": "facebook",
+      "name": "Yourself999wisdom (Mei Spanish)",
+      "url": "https://www.facebook.com/profile.php?id=61593328823275"
+    },
     "instagram-almoventures": {
       "platform": "instagram",
       "name": "@almoventures",
@@ -77,6 +82,7 @@
       "social": true,
       "accounts": [
         "facebook-granny-mei",
+        "facebook-yourself999wisdom",
         "instagram-almoventures",
         "youtube-granny-mei",
         "threads-almoventures",
