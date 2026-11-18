@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-18T20:04:14.239Z",
+  "generatedAt": "2026-11-18T21:04:10.779Z",
   "skills": [
     {
       "id": "tiktok",
@@ -642,6 +642,30 @@
       ],
       "note": "YouTube channel ChubbyPinkWhale: \"How rich is X?\" net-worth documentaries. Live since The Rock.",
       "videos": [
+        {
+          "file": "final.mp4",
+          "folder": "C:\\Users\\mocha\\Documents\\LONGFORM\\ChubbyPinkWhale\\china-next-gen-transport",
+          "path": "C:/Users/mocha/Documents/LONGFORM/ChubbyPinkWhale/china-next-gen-transport/final.mp4",
+          "sizeMB": 2049.4,
+          "modified": "2026-11-18T20:59:50.635Z",
+          "driveId": null
+        },
+        {
+          "file": "final-360p.mp4",
+          "folder": "C:\\Users\\mocha\\Documents\\LONGFORM\\ChubbyPinkWhale\\china-next-gen-transport",
+          "path": "C:/Users/mocha/Documents/LONGFORM/ChubbyPinkWhale/china-next-gen-transport/final-360p.mp4",
+          "sizeMB": 70.5,
+          "modified": "2026-11-18T20:57:28.595Z",
+          "driveId": null
+        },
+        {
+          "file": "final-1080p.mp4",
+          "folder": "C:\\Users\\mocha\\Documents\\LONGFORM\\ChubbyPinkWhale\\china-next-gen-transport",
+          "path": "C:/Users/mocha/Documents/LONGFORM/ChubbyPinkWhale/china-next-gen-transport/final-1080p.mp4",
+          "sizeMB": 2049.6,
+          "modified": "2026-11-18T20:55:52.940Z",
+          "driveId": null
+        },
         {
           "file": "final-360p.mp4",
           "folder": "C:\\Users\\mocha\\Documents\\LONGFORM\\ChubbyPinkWhale\\chinese-motorhome-mansion",
