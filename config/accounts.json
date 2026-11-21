@@ -33,6 +33,11 @@
       "name": "Granny-mei",
       "url": "https://www.youtube.com/channel/UC1O2Pq3z2dX9wIbODd5TLXg"
     },
+    "youtube-mei-spanish": {
+      "platform": "youtube",
+      "name": "Mei Spanish (warming up)",
+      "url": "https://www.youtube.com/channel/UCslsAFa-9lyZGWXLROAh2Qw"
+    },
     "tiktok-girlsteamwin": {
       "platform": "tiktok",
       "name": "@25ontheway555 (GirlsTeamWin)",
@@ -85,6 +90,7 @@
         "facebook-yourself999wisdom",
         "instagram-almoventures",
         "youtube-granny-mei",
+        "youtube-mei-spanish",
         "threads-almoventures",
         "x-moventures999"
       ],
