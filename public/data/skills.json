@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-21T11:04:13.050Z",
+  "generatedAt": "2026-11-21T12:04:11.823Z",
   "skills": [
     {
       "id": "tiktok",
@@ -65,15 +65,15 @@
           "folder": "C:\\Users\\mocha\\Documents\\UGC\\MEI\\VIDEOS\\vid32",
           "path": "C:/Users/mocha/Documents/UGC/MEI/VIDEOS/vid32/final_es.mp4",
           "sizeMB": 27.6,
-          "modified": "2026-11-21T10:57:52.798Z",
+          "modified": "2026-11-21T11:18:28.749Z",
           "driveId": null
         },
         {
           "file": "final.mp4",
           "folder": "C:\\Users\\mocha\\Documents\\UGC\\MEI\\VIDEOS\\vid32",
           "path": "C:/Users/mocha/Documents/UGC/MEI/VIDEOS/vid32/final.mp4",
-          "sizeMB": 28.3,
-          "modified": "2026-11-21T10:56:47.660Z",
+          "sizeMB": 28.4,
+          "modified": "2026-11-21T11:17:03.768Z",
           "driveId": null
         },
         {
@@ -674,6 +674,30 @@
       ],
       "note": "YouTube channel ChubbyPinkWhale: \"How rich is X?\" net-worth documentaries. Live since The Rock.",
       "videos": [
+        {
+          "file": "final-1080.mp4",
+          "folder": "C:\\Users\\mocha\\Documents\\LONGFORM\\ChubbyPinkWhale\\china-underwater-hotel",
+          "path": "C:/Users/mocha/Documents/LONGFORM/ChubbyPinkWhale/china-underwater-hotel/final-1080.mp4",
+          "sizeMB": 1602.3,
+          "modified": "2026-11-21T11:25:30.051Z",
+          "driveId": null
+        },
+        {
+          "file": "final-360p.mp4",
+          "folder": "C:\\Users\\mocha\\Documents\\LONGFORM\\ChubbyPinkWhale\\china-underwater-hotel",
+          "path": "C:/Users/mocha/Documents/LONGFORM/ChubbyPinkWhale/china-underwater-hotel/final-360p.mp4",
+          "sizeMB": 46.6,
+          "modified": "2026-11-21T11:25:10.193Z",
+          "driveId": null
+        },
+        {
+          "file": "final-1080p.mp4",
+          "folder": "C:\\Users\\mocha\\Documents\\LONGFORM\\ChubbyPinkWhale\\china-underwater-hotel",
+          "path": "C:/Users/mocha/Documents/LONGFORM/ChubbyPinkWhale/china-underwater-hotel/final-1080p.mp4",
+          "sizeMB": 1605.6,
+          "modified": "2026-11-21T11:23:49.400Z",
+          "driveId": null
+        },
         {
           "file": "final.mp4",
           "folder": "C:\\Users\\mocha\\Documents\\LONGFORM\\ChubbyPinkWhale\\china-next-gen-transport",
