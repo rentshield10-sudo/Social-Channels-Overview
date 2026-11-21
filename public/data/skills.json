@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-21T18:04:51.824Z",
+  "generatedAt": "2026-11-21T18:06:48.243Z",
   "skills": [
     {
       "id": "tiktok",
@@ -44,6 +44,12 @@
           "platform": "youtube",
           "name": "Granny-mei",
           "url": "https://www.youtube.com/channel/UC1O2Pq3z2dX9wIbODd5TLXg"
+        },
+        {
+          "id": "youtube-mei-spanish",
+          "platform": "youtube",
+          "name": "Mei Spanish (warming up)",
+          "url": "https://www.youtube.com/channel/UCslsAFa-9lyZGWXLROAh2Qw"
         },
         {
           "id": "threads-almoventures",
