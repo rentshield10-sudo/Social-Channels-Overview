@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-25T21:04:34.820Z",
+  "generatedAt": "2026-11-25T22:04:11.714Z",
   "skills": [
     {
       "id": "tiktok",
@@ -712,6 +712,30 @@
       ],
       "note": "YouTube channel ChubbyPinkWhale: \"How rich is X?\" net-worth documentaries. Live since The Rock.",
       "videos": [
+        {
+          "file": "final-1080.mp4",
+          "folder": "C:\\Users\\mocha\\Documents\\LONGFORM\\ChubbyPinkWhale\\china-humanoid-robots",
+          "path": "C:/Users/mocha/Documents/LONGFORM/ChubbyPinkWhale/china-humanoid-robots/final-1080.mp4",
+          "sizeMB": 559.5,
+          "modified": "2026-11-25T21:42:01.093Z",
+          "driveId": null
+        },
+        {
+          "file": "final-360p.mp4",
+          "folder": "C:\\Users\\mocha\\Documents\\LONGFORM\\ChubbyPinkWhale\\china-humanoid-robots",
+          "path": "C:/Users/mocha/Documents/LONGFORM/ChubbyPinkWhale/china-humanoid-robots/final-360p.mp4",
+          "sizeMB": 11.1,
+          "modified": "2026-11-25T21:42:00.695Z",
+          "driveId": null
+        },
+        {
+          "file": "final-1080p.mp4",
+          "folder": "C:\\Users\\mocha\\Documents\\LONGFORM\\ChubbyPinkWhale\\china-humanoid-robots",
+          "path": "C:/Users/mocha/Documents/LONGFORM/ChubbyPinkWhale/china-humanoid-robots/final-1080p.mp4",
+          "sizeMB": 559.5,
+          "modified": "2026-11-25T21:41:44.065Z",
+          "driveId": null
+        },
         {
           "file": "final-1080.mp4",
           "folder": "C:\\Users\\mocha\\Documents\\LONGFORM\\ChubbyPinkWhale\\china-underwater-hotel",
