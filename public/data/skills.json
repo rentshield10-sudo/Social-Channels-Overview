@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-25T22:04:11.714Z",
+  "generatedAt": "2026-11-25T23:04:11.592Z",
   "skills": [
     {
       "id": "tiktok",
@@ -716,8 +716,16 @@
           "file": "final-1080.mp4",
           "folder": "C:\\Users\\mocha\\Documents\\LONGFORM\\ChubbyPinkWhale\\china-humanoid-robots",
           "path": "C:/Users/mocha/Documents/LONGFORM/ChubbyPinkWhale/china-humanoid-robots/final-1080.mp4",
-          "sizeMB": 559.5,
-          "modified": "2026-11-25T21:42:01.093Z",
+          "sizeMB": 317.2,
+          "modified": "2026-11-25T22:48:32.958Z",
+          "driveId": null
+        },
+        {
+          "file": "final-1080p.mp4",
+          "folder": "C:\\Users\\mocha\\Documents\\LONGFORM\\ChubbyPinkWhale\\china-humanoid-robots",
+          "path": "C:/Users/mocha/Documents/LONGFORM/ChubbyPinkWhale/china-humanoid-robots/final-1080p.mp4",
+          "sizeMB": 317.2,
+          "modified": "2026-11-25T22:48:15.650Z",
           "driveId": null
         },
         {
@@ -726,14 +734,6 @@
           "path": "C:/Users/mocha/Documents/LONGFORM/ChubbyPinkWhale/china-humanoid-robots/final-360p.mp4",
           "sizeMB": 11.1,
           "modified": "2026-11-25T21:42:00.695Z",
-          "driveId": null
-        },
-        {
-          "file": "final-1080p.mp4",
-          "folder": "C:\\Users\\mocha\\Documents\\LONGFORM\\ChubbyPinkWhale\\china-humanoid-robots",
-          "path": "C:/Users/mocha/Documents/LONGFORM/ChubbyPinkWhale/china-humanoid-robots/final-1080p.mp4",
-          "sizeMB": 559.5,
-          "modified": "2026-11-25T21:41:44.065Z",
           "driveId": null
         },
         {
